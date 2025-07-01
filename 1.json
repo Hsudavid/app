@@ -153,8 +153,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     
-      }
-
+     },
       {
          "name":"斯玛特全球直播",
          "url":"https://tvbot.dpdns.org/tv.m3u"
