@@ -135,14 +135,33 @@
             }
          },
          "jar":"https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
+      },
+      {
+         "key":"老张直播频道",
+         "name":"老张直播频道",
+         "type":4,
+         "api":"http://zhangqun66.com/zh/2241-2.php",
+         "searchable":1,
+         "changeable":0,
+         "ext":"1,2,3"
       }
    ],
    "lives":[
-        {
+     {
       "name": "543",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      }
+
+      {
+         "name":"斯玛特全球直播",
+         "url":"https://tvbot.dpdns.org/tv.m3u"
+      },
+      {
+         "name":"香港直播",
+         "url":"https://tvbot.dpdns.org/nowTV.m3u"
       }
    ],
    "doh":[
