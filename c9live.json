@@ -1,0 +1,86 @@
+ "lives": [
+    {
+      "name": "Ami",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/ami.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+     {
+      "name": "543",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+  {
+      "name": "sp",
+      "url": "file://storage/emulated/0/8tv/sp.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+ {
+      "name": "sp1",
+      "url": "file://storage/emulated/0/8tv/sp1.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+
+{
+      "name": "sp2",
+      "url": "file://storage/emulated/0/8tv/sp2.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+
+{
+      "name": "sp3",
+      "url": "file://storage/emulated/0/8tv/sp3.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+{
+      "name": "sp4",
+      "url": "file://storage/emulated/0/8tv/sp4.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+{
+      "name": "sp5",
+      "url": "file://storage/emulated/0/8tv/sp5.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+{
+      "name": "sp6",
+      "url": "file://storage/emulated/0/8tv/sp6.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+      "name": "sp7",
+      "url": "file://storage/emulated/0/8tv/sp7.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+{
+      "name": "sp8",
+      "url": "file://storage/emulated/0/8tv/sp8.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      },
+{
+      "name": "sp9",
+      "url": "file://storage/emulated/0/8tv/sp9.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    
+      }
