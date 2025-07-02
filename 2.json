@@ -1,5 +1,5 @@
-{urls:
-[
+{
+  "urls": [
 {"name": "艾丝沐影视","url": "http://tv.aisimu.cn/tv/movie.json"},
 {"name": "影视频道","url": "http://tv.aisimu.cn/tv/xingchen.json"},
 {"name": "儿童教育","url": "http://tv.aisimu.cn/tv/children.json"},
