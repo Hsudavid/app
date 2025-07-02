@@ -831,6 +831,8 @@ http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 https://hls-gateway.vpstv.net/streams/476998.m3u8
 #EXTINF:-1 group-title="新聞頻道" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞
 https://hls-gateway.vpstv.net/streams/477695.m3u8
+#EXTINF:-1 group-title="新聞頻道" tvg-name="民視新聞 HD" tvg-logo="https://epg.112114.xyz/logo/民視新聞 HD.png" epg-url="https://epg.112114.xyz/pp.xml",民視新聞 HD
+https://hls-gateway.vpstv.net/streams/479210.m3u8
 #EXTINF:-1 group-title="新聞頻道" tvg-name="三立新聞 HD" tvg-logo="https://epg.112114.xyz/logo/三立新聞 HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立新聞 HD
 https://hls-gateway.vpstv.net/streams/492922.m3u8
 #EXTINF:-1 group-title="新聞頻道" tvg-name="TVBS新闻台 " tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台 .png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新闻台 
