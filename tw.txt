@@ -421,6 +421,7 @@ BBC Earth,https://hls-gateway.vpstv.net/streams/477040.m3u8
 年代新闻 HD,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 東森新聞 HD,https://hls-gateway.vpstv.net/streams/476998.m3u8
 中天新聞,https://hls-gateway.vpstv.net/streams/477695.m3u8
+民視新聞 HD,https://hls-gateway.vpstv.net/streams/479210.m3u8
 三立新聞 HD,https://hls-gateway.vpstv.net/streams/492922.m3u8
 TVBS新闻台 ,https://hls-gateway.vpstv.net/streams/708927.m3u8
 非凡新聞 ,https://hls-gateway.vpstv.net/streams/477083.m3u8
