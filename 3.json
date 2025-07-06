@@ -331,8 +331,23 @@
       "url": "http://99.iptv543.com/4gtv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    
-    }
+     },
+
+     
+      {
+       "name":"台灣酒店",
+       "url":"http://99.iptv543.com/酒店.txt",
+       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+       "logo":"https://epg.112114.xyz/logo/{name}.png"
+      },
+
+      {
+       "name":"aktv",
+       "url":"https://aktv.space/live.m3u",
+       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+       "logo":"https://epg.112114.xyz/logo/{name}.png"
+      }
+          
   ],
   "doh": [
     {
