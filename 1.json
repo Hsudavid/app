@@ -146,30 +146,34 @@
          "ext":"1,2,3"
       }
    ],
-   "lives":[
-     {
-      "name": "543",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    
-      },
-
-     
+  "lives":[
       {
-       "name":"台灣酒店",
+       "name":"543",
+       "url":"http://99.iptv543.com/4gtv.m3u",
+       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+       "logo":"https://epg.112114.xyz/logo/{name}.png"
+       },
+      
+      {
+       "name":"台灣酒店1", 
        "url":"http://99.iptv543.com/酒店.txt",
        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
        "logo":"https://epg.112114.xyz/logo/{name}.png"
       },
-
+      {
+       "name":"台灣酒店2",
+       "url":"http://99.iptv543.com/酒店2.txt",
+       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+       "logo":"https://epg.112114.xyz/logo/{name}.png"
+      },
+            
       {
        "name":"aktv",
        "url":"https://aktv.space/live.m3u",
        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
        "logo":"https://epg.112114.xyz/logo/{name}.png"
       }
-          
+
    ],
    "doh":[
       {
