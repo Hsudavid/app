@@ -34,7 +34,7 @@
 ],
 
 "sites": [
-{"key":"豆瓣2","name":"👨【波哥影视】"type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"👨【波哥影视】祝您观影愉快！<QQ群：31420272>","type":3,"api":"csp_Douban","searchable":0},
 
 {"key":"采集之王","name":"🍁采集┃搜索","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/another-d/raw/master/movie/json/CJJT.json$1$1"}, 
 
