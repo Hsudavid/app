@@ -5,21 +5,20 @@
 "spider":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;da045d7d278e9721951a9e5763be3ac6",
 "warningText":"【波哥影视】资源来自网络，无盈利纯技术分享",
 "lives":[
-  {
+     {
+       "name":"台灣酒店1", 
+       "url":"http://99.iptv543.com/酒店.txt",
+       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+       "logo":"https://epg.112114.xyz/logo/{name}.png"
+      },
+      {
        "name":"543",
        "url":"http://99.iptv543.com/4gtv.m3u",
        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
        "logo":"https://epg.112114.xyz/logo/{name}.png"
        },
       
-      {
-       "name":"台灣酒店1", 
-       "url":"http://99.iptv543.com/酒店.txt",
-       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-       "logo":"https://epg.112114.xyz/logo/{name}.png"
-      },
-
-            
+           
       {
        "name":"aktv",
        "url":"https://aktv.space/live.m3u",
