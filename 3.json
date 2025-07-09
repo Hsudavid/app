@@ -35,7 +35,7 @@
 ],
 "logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
 "lives":[
-{{
+{
        "name":"台灣酒店1", 
        "url":"http://99.iptv543.com/酒店.txt",
        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -55,5 +55,5 @@
        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
        "logo":"https://epg.112114.xyz/logo/{name}.png"
       }
-],
+]
 }
