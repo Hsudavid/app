@@ -34,13 +34,7 @@
 ],
 
 "sites": [
-{"key":"豆瓣2","name":"👨【波哥影视】祝您观影愉快！<QQ群：31420272>","type":3,"api":"csp_Douban","searchable":0},
-
-{"key":"csp_woog","name":"🤖玩偶｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og;md5;9bdec773016b12f54c065c038519055b ","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.nxog.fun","https://woog.xn--dkw.xn--6qq986b3xl","https://ogwo.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":240,"threads":16}}},
-
-{"key":"配置中心","name":"🐮配置｜中心🐮","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
-
-{"key":"巧技","name":"💿聚搜┃搜索","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
+{"key":"豆瓣2","name":"👨【波哥影视】,"type":3,"api":"csp_Douban","searchable":0},
 
 {"key":"采集之王","name":"🍁采集┃搜索","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js","ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/another-d/raw/master/movie/json/CJJT.json$1$1"}, 
 
@@ -51,16 +45,16 @@
 {"key":"天天影视","name":"🤖天天｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"}},
 {"key":"浪酷影视","name":"😎浪酷｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
 {"key":"瓜子影视","name":"🥜瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"低端","name":"🎞️低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"快看影视","name":"☀快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"来看影视","name":"🐻来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"爱看机器人","name":"💡爱看｜影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"全网影视","name":"‍👩全看｜影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com"},
+
+
 {"key":"三六零","name":"💫三六零｜视频","type":3,"api":"csp_SP360"},  
 {"key":"1905","name":"🎦1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_baibai","name":"⛅白白｜影视","type":3,"quickSearch":1,"api":"csp_SuBaiBai","ext":"https://www.subaibai.com"},
-{"key":"好感","name":"🧝好感｜影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cs.hgyx.vip/api2/api.php/app/"},
+
 {"key":"糯米影视","name":"☄️糯米┃影视","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
 {"key":"csp_nongmin","name":"🚶农民｜影视","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn/"		},
 {"key":"huomaoys","name":"🐈火猫｜影视","type":3,"api":"csp_Muou","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662","playerType":2,"ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"	},
@@ -68,7 +62,7 @@
 
 
 {"key":"行动","name":"👑行动｜弹幕","type":3,"api":"csp_AppSy","ext":{"url":"http://160.202.246.9:2356","key1":"aassddwwxxllsx1x","key2":"aassddwwxxllsx1x","key3":"aassddwwxxllsx1x"}},
-{"key":"斗量","name":"👑斗量｜弹幕","type":3,"api":"csp_AppSy","ext":{"url":"https://app.ystva.com","key1":"hsZwQK5yrnefW7OJ","key2":"hsZwQK5yrnefW7OJ","key3":"hsZwQK5yrnefW7OJ"}},
+
 {"key":"追忆","name":"👑追忆｜弹幕","type":3,"api":"csp_AppSy","ext":{"url":"http://110.42.7.130:1866","key1":"aassddwwxxllsx1x","key2":"2083c87e98b6ce08","key3":"2083c87e98b6ce08"}},
 {"key":"雄鹰","name":"👑雄鹰｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://122.228.193.2:9988","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","deviceId":"","version":"120"}},
 {"key":"橘子","name":"👑橘子｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://api1.bffree.cn","dataKey":"2015692015692015","dataIv":"2015692015692015","deviceId":"","version":"300"}},
