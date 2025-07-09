@@ -64,11 +64,11 @@
 
 {"key":"行动","name":"👑行动｜弹幕","type":3,"api":"csp_AppSy","ext":{"url":"http://160.202.246.9:2356","key1":"aassddwwxxllsx1x","key2":"aassddwwxxllsx1x","key3":"aassddwwxxllsx1x"}},
 
-{"key":"追忆","name":"👑追忆｜弹幕","type":3,"api":"csp_AppSy","ext":{"url":"http://110.42.7.130:1866","key1":"aassddwwxxllsx1x","key2":"2083c87e98b6ce08","key3":"2083c87e98b6ce08"}},
+
 {"key":"雄鹰","name":"👑雄鹰｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://122.228.193.2:9988","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","deviceId":"","version":"120"}},
 {"key":"橘子","name":"👑橘子｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://api1.bffree.cn","dataKey":"2015692015692015","dataIv":"2015692015692015","deviceId":"","version":"300"}},
 {"key":"1若惜","name":"👑若惜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://110.40.59.188:9527","dataKey":"ebad3f1a58b13933","dataIv":"ebad3f1a58b13933","deviceId":"","version":""}},
-{"key":"米兔","name":"👑米兔｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://v.tkbot.fun","dataKey":"d032c12876bc6848","dataIv":"d032c12876bc6848","deviceId":"","version":"200"}},
+
 {"key":"海豚","name":"👑海豚｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.htsp4k.top","dataKey":"7CYQQzwchRQpHCOj","dataIv":"7CYQQzwchRQpHCOj","deviceId":"","version":""}},
 {"key":"世颜","name":"👑世颜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://sykjw.xyz","dataKey":"sicnagduxbSfisnz","dataIv":"sicnagduxbSfisnz","deviceId":"2112fc5eac600314ba95c4d65da9286b3","version":"556"}},
 {"key":"可达","name":"👑可达｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://ledayy.com","dataKey":"hjjp68c2okw12345","dataIv":"hjjp68c2okw12345","deviceId":"24bba8caeff7b3a63a486806bd7130fca","version":"102"}},
@@ -81,11 +81,9 @@
 
 
 
-{"key":"csp_XYQHiker_农民影视","name":"🧿农民｜影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/nmys.json"}, 
-{"key":"八号影视","name":"🧿八号｜影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/XYQHiker/八号影视.json"},
-{"key":"雪糕影视","name":"🧿雪糕｜影视","type":3,"api":"csp_HBPQ","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/XBPQ/雪糕影视.json"},
+
 {"key":"永乐影视","name":"🧿永乐｜影视","type":3,"api":"csp_HBPQ","ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/XBPQ/永乐影视.json"},
-{"key":"可可影视","name":"🧿可可｜影视","type":3,"api":"csp_HBPQ","ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/json/KKYS.json"},
+
 {"key":"面包影视","name":"🧿面包｜影视","type":3,"api":"csp_HBPQ","ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/json/MBYS.json"},
 
 
