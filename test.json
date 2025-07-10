@@ -43,35 +43,7 @@
         "version": "120"
       }
     },
-    {
-      "key": "溜溜",
-      "name": "🎱┃球球┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.ll4k.xyz",
-        "dataKey": "NiDGaKiVnkO3QX1Q",
-        "dataIv": "NiDGaKiVnkO3QX1Q",
-        "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
-        "version": "200"
-      }
-    },
-    {
-      "key": "海豚",
-      "name": "🐬┃海豚┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://appcms.htsp4k.top",
-        "dataKey": "7CYQQzwchRQpHCOj",
-        "dataIv": "7CYQQzwchRQpHCOj",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
+        {
       "key": "雄鹰",
       "name": "🦉┃雄鹰┃影视",
       "type": 3,
@@ -115,21 +87,7 @@
         "version": "166"
       }
     },
-    {
-      "key": "晚枫",
-      "name": "🍁┃晚枫┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://111.180.202.216:999",
-        "dataKey": "fjhndgbjidfhgjsd",
-        "dataIv": "fjhndgbjidfhgjsd",
-        "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
-        "version": "120"
-      }
-    },
-    
+      
     {
       "key": "素白白",
       "name": "🐑┃白白┃影视",
@@ -137,20 +95,7 @@
       "api": "csp_SuBaiBai",
       "ext": "https://www.subaibai.com"
     },
-    {
-      "key": "趣看",
-      "name": "🏩┃趣看┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppMuou",
-      "ext": {
-        "url": "https://xjuzi.top",
-        "dataKey": "6a482a70b80eefc9",
-        "dataIv": "c995826a3e86fedd",
-        "jxurl": "https://www.ququkan.cc"
-      }
-    },
-    {
+       {
       "key": "热播影视",
       "name": "🐠┃热播┃秒播",
       "type": 3,
@@ -186,17 +131,7 @@
         "url": "http://v.lkuys.cn"
       }
     },
-    {
-      "key": "火火影视",
-      "name": "🔥┃烧火┃影视",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "playerType": 2,
-      "ext": "https://shdy5.us"
-    },
-   
-  
-    {
+       {
       "key": "若惜",
       "name": "💦┃若惜┃影视",
       "type": 3,
@@ -269,34 +204,7 @@
     
 
   
-    {
-      "key": "团长",
-      "name": "👨‍⚖┃团长┃网盘",
-      "type": 3,
-      "api": "csp_PanWebTz",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    
-    {
-      "key": "趣盘",
-      "name": "🍭┃趣盘┃资源",
-      "type": 3,
-      "api": "csp_PanWebQu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "list",
-        "ratio": 1.433
-      },
-      "ext": {
-        "url": "https://www.qupanshe.com"
-      }
-    },
-   
+       
     {
       "key": "星芽短剧",
       "name": "🌟┃星芽┃短剧",
@@ -313,16 +221,7 @@
       "type": 3,
       "api": "csp_Qiyou"
     },
-    {
-      "key": "1905",
-      "name": "🎦┃央妈┃电影",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
+       {
       "key": "索尼资源",
       "name": "🐉┃索尼┃采集",
       "type": 1,
@@ -427,95 +326,11 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
+    }
       
   
-    {
-      "key": "七味",
-      "name": "🧲┃七味┃磁力",
-      "type": 3,
-      "api": "csp_QnMp4",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   
-    {
-      "key": "80S",
-      "name": "🧲┃80S┃磁力",
-      "type": 3,
-      "api": "csp_BLSGod",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "New6v",
-      "name": "🧲┃六维┃磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
-    {
-      "key": "SeedHub",
-      "name": "🧲┃种子┃磁力",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "美剧迷",
-      "name": "🧲┃美剧┃磁力",
-      "type": 3,
-      "api": "csp_MeijuMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "迅雷吧",
-      "name": "🧲┃迅雷┃磁力",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-  
-    {
-      "key": "Mp4电影",
-      "name": "🧲┃高清┃磁力",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "美剧天堂",
-      "name": "🧲┃天堂┃磁力",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-       {
-      "key": "push_agent",
-      "name": "📲┃手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
-    }
-  ],
+      
+       ],
   "parses": [
        {
       "name": "臻享",
