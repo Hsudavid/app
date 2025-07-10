@@ -5,15 +5,7 @@
   "warningText": "接口完全免费，切勿贩卖购买",
   "sites": [
    
-    {
-      "key": "瓜子影视",
-      "name": "🌻┃瓜子┃影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
          "key":"黑木影视",
          "name":"黑木影视",
@@ -93,7 +85,15 @@
          "playerType":2,
          "filterable":1
       },
-
+  {
+      "key": "瓜子影视",
+      "name": "🌻┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
  
     {
       "key": "瓜萌",
@@ -169,13 +169,7 @@
       }
     },
       
-    {
-      "key": "素白白",
-      "name": "🐑┃白白┃影视",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "https://www.subaibai.com"
-    },
+    
        {
       "key": "热播影视",
       "name": "🐠┃热播┃秒播",
@@ -212,19 +206,7 @@
         "url": "http://v.lkuys.cn"
       }
     },
-       {
-      "key": "若惜",
-      "name": "💦┃若惜┃影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "http://110.40.59.188:9527",
-        "dataKey": "ebad3f1a58b13933",
-        "dataIv": "ebad3f1a58b13933",
-        "deviceId": "",
-        "version": ""
-      }
+     
     },
     {
       "key": "外剧",
