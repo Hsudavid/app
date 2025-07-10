@@ -14,7 +14,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {
+    {
          "key":"黑木影视",
          "name":"黑木影视",
          "type":1,
@@ -27,6 +27,73 @@
             "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
          }
       },
+      {
+         "key":"沐辰爱瓜TV",
+         "name":"沐辰爱瓜TV",
+         "type":3,
+         "api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_aigua.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+      },
+      {
+         "key":"嗷呜小苹果",
+         "name":"嗷呜小苹果",
+         "type":3,
+         "api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_pingguo.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+      },
+      {
+         "key":"嗷呜金牌影院",
+         "name":"嗷呜金牌影院",
+         "type":3,
+         "api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_jinpai.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+      },
+      {
+         "key":"嗷呜剧爸爸",
+         "name":"嗷呜剧爸爸",
+         "type":3,
+         "api":"https://github.com/4TVBox/TVBox/raw/refs/heads/main/py_jubaba.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+      },
+      {
+         "key":"独播库",
+         "name":"独播库",
+         "type":3,
+         "api":"csp_WexdubokuGuard",
+         "jar":"https://raw.githubusercontent.com/cyalias/mytvs-github/387dcc33d090319ec8ef3b70f475a8a0fe0ae070/tvboxqq/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar",
+         "searchable":1,
+         "filterable":0,
+         "changeable":1
+      },
+      {
+         "key":"沐辰欧乐影院",
+         "name":"沐辰欧乐影院",
+         "type":4,
+         "api":"https://py.doube.eu.org/spider?site=OleVod",
+         "searchable":1,
+         "quickSearch":0,
+         "filterable":0,
+         "changeable":1
+      },
+      {
+         "key":"Qile优视频",
+         "name":"Qile优视频",
+         "type":3,
+         "searchable":1,
+         "changeable":1,
+         "api":"csp_Uvod",
+         "playerType":2,
+         "filterable":1
+      },
+
  
     {
       "key": "瓜萌",
