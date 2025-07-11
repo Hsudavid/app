@@ -65,6 +65,9 @@ AMC 電影台,http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_
 momo綜合台,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+愛爾達體育 1,http://99.iptv543.com/smt.php?id=eltasport_twn
+愛爾達體育 2,http://99.iptv543.com/smt.php?id=eltasport2_twn
+愛爾達體育 3,http://99.iptv543.com/smt.php?id=eltasport3_twn
 廈門衛視,http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 CCTV4-中央衛視,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
 海峽衛視,http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
