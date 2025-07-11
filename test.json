@@ -64,7 +64,8 @@
         "海外动漫"
       ]
     },
-      {
+   
+    {
       "key": "新黑木耳",
       "name": "新黑木耳(🔥)",
       "type": 1,
@@ -137,7 +138,46 @@
       "filterable": 0,
       "changeable": 0
     },
-          "api": "csp_GM",
+    {
+      "key": "Qile优视频",
+      "name": "Qile优视频",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Uvod",
+      "playerType": 2,
+      "filterable": 1
+    },
+    {
+      "key": "沐辰界影视",
+      "name": "沐辰界影视",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_jieyingshi.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "沐辰爱瓜TV",
+      "name": "沐辰爱瓜TV",
+      "type": 3,
+      "api": "https://json.doube.eu.org/python/py_aigua.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Cori爱壹帆",
+      "name": "Cori爱壹帆",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "api": "csp_GM",
       "ext": {
         "userScript": "https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/userScripts/ysfp.user.js",
         "debug": false,
@@ -170,9 +210,28 @@
         }
       },
       "jar": "https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
-    
-
-       {
+    },
+    {
+      "key": "荐片",
+      "name": "荐片",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jianpian",
+      "playerType": 2,
+      "filterable": 1
+    },
+    {
+      "key": "独播库",
+      "name": "独播库",
+      "type": 3,
+      "api": "csp_WexdubokuGuard",
+      "jar": "https://raw.githubusercontent.com/cyalias/mytvs-github/387dcc33d090319ec8ef3b70f475a8a0fe0ae070/tvboxqq/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
       "key": "嗷呜剧爸爸",
       "name": "543",
       "type": 3,
@@ -181,10 +240,9 @@
       "filterable": 0,
       "changeable": 1
     }
-  
   ],
   "lives": [
-     {
+    {
        "name":"台灣酒店",
        "url":"https://raw.githubusercontent.com/Hsudavid/app/main/gd1.m3u",
        "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
