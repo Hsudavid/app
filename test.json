@@ -157,20 +157,7 @@
           "searchContent": {
             "loadUrl": "https://m.yfsp.tv/search"
           }
-        }
-      },
-      "jar": "https://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
-    },
-    {
-      "key": "荐片",
-      "name": "荐片",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jianpian",
-      "playerType": 2,
-      "filterable": 1
-    },
+     
    
     {
       "key": "嗷呜剧爸爸",
