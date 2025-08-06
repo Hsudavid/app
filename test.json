@@ -335,15 +335,15 @@
       {"name":"台灣酒店1","url":"http://99.iptv543.com/酒店.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
            
       {"name":"18+","url":"http://99.iptv543.com/18+.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-      
-
     {
      
       "name": "MQitv",
       "spider":"http://files.catbox.moe/chvyo2.txt",  
       "api": "csp_MQiTV",
-      "ext": "https://59.125.210.231:4433"
-
+      "ua": "okhttp",
+      "ext": "https://59.125.210.231:4433",
+      "timeout": 30,
+      "playerType": 1
       }
    ],
    "doh":[
@@ -391,5 +391,6 @@
       }
    ]
 }
+
 
 
