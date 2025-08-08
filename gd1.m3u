@@ -75,8 +75,8 @@ http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
 #EXTINF:-1 group-title="直播" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 group-title="直播" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
-http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://live.fanmingming.cn/tv/年代新聞.png" group-title="台灣 Taiwan",年代新聞
+http://99.iptv543.com/smt.php?id=niandainews_twn
 #EXTINF:-1 group-title="直播" tvg-name="東森新聞HD" tvg-logo="https://epg.112114.xyz/logo/東森新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森新聞HD
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 group-title="直播" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞
