@@ -156,36 +156,7 @@
       "url": "https://aktv.space/live.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
- {
-         "name":"斯玛特全球直播",
-         "url":"./t
-    {
-      "name": "MQ",
-      "api": "csp_MQiTV",
-      "jar": "./fm.jar",
-      "ext": [
-        {
-          "name": "MQiTV",
-          "url": "https://59.125.210.231:4433"
-        }
-      ]
-    },
-
-
-     v.m3u"
-      },
-      {
-         "name":"BeeSport直播",
-         "type":3,
-         "api":"./py/live_beesports.py",
-         "ext":{
-            
-         },
-         "header":{
-            "Referer":"https://p.m82xg4z0cdbz7.com/"
          }
-      }
    ],
    "doh":[
       {
