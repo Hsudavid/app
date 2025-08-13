@@ -1,0 +1,15 @@
+{
+    "spider": "http://files.catbox.moe/chvyo2.txt",
+
+"lives": [
+{
+      "name": "MQitv",
+      "api": "csp_MQiTV",
+      "ua": "okhttp",
+      "ext": "https://59.125.210.231:4433",
+      "timeout": 30,
+      "playerType": 1
+      
+    }
+    ]
+     } 
