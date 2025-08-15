@@ -650,204 +650,305 @@ http://106.107.177.201:50007/nnews-en/index.m3u8
 #EXTINF:-1 tvg-id="倪珍越語新聞" tvg-name="倪珍越語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍越語新聞
 http://106.107.177.201:50007/nnews-vn/index.m3u8
 
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="amc電影" tvg-logo="https://live.fanmingming.cn/tv/amc電影.png" group-title="台灣 Taiwan",amc電影
-http://99.iptv543.com/smt.php?id=starmoviesgold_twn
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.cn/tv/AXN.png" group-title="台灣 Taiwan",AXN
-http://99.iptv543.com/smt.php?id=axn_twn
-#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png" group-title="台灣 Taiwan",BBC World News
-http://99.iptv543.com/smt.php?id=bbcnews_twn
-#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg News.png" group-title="台灣 Taiwan",Bloomberg News
-http://99.iptv543.com/smt.php?id=bloomberg_twn
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png" group-title="台灣 Taiwan",CINEMAX
-http://99.iptv543.com/smt.php?id=cinemax_twn
-#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.cn/tv/CN卡通.png" group-title="台灣 Taiwan",CN卡通
-http://99.iptv543.com/smt.php?id=momo1_twn
-#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/Discovery Asia.png" group-title="台灣 Taiwan",Discovery Asia
-http://99.iptv543.com/smt.php?id=discoverytwn_twn
-#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://live.fanmingming.cn/tv/Discovery HD.png" group-title="台灣 Taiwan",Discovery HD
-http://99.iptv543.com/smt.php?id=discoveryhd_twn
-#EXTINF:-1 tvg-name="ELEVEN 1" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN 1.png" group-title="台灣 Taiwan",ELEVEN 1
-http://99.iptv543.com/smt.php?id=golfchannel_twn
-#EXTINF:-1 tvg-name="EYE戲劇" tvg-logo="https://live.fanmingming.cn/tv/EYE戲劇.png" group-title="台灣 Taiwan",EYE戲劇
-http://99.iptv543.com/smt.php?id=eyetvxiju_twn
-#EXTINF:-1 tvg-name="EYE旅遊" tvg-logo="https://live.fanmingming.cn/tv/EYE旅遊.png" group-title="台灣 Taiwan",EYE旅遊
-http://99.iptv543.com/smt.php?id=eyetvtravel_twn
-#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://live.fanmingming.cn/tv/Fox News.png" group-title="台灣 Taiwan",Fox News
-http://99.iptv543.com/smt.php?id=foxnews_twn
-#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png" group-title="台灣 Taiwan",HBO Family
-http://99.iptv543.com/smt.php?id=fyi_twn
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png" group-title="台灣 Taiwan",HBO
-http://99.iptv543.com/smt.php?id=hbohd_twn
-#EXTINF:-1 tvg-name="JET綜合" tvg-logo="https://live.fanmingming.cn/tv/JET綜合.png" group-title="台灣 Taiwan",JET綜合
-http://99.iptv543.com/smt.php?id=jet
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png" group-title="台灣 Taiwan",MTV Live
-http://99.iptv543.com/smt.php?id=mtvhd_twn
-#EXTINF:-1 tvg-name="TLC旅遊生活" tvg-logo="https://live.fanmingming.cn/tv/TLC旅遊生活.png" group-title="台灣 Taiwan",TLC旅遊生活
-http://99.iptv543.com/smt.php?id=tlc_twn
-#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/TVBS HD.png" group-title="台灣 Taiwan",TVBS HD
-http://99.iptv543.com/smt.php?id=tvbs
-#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/TVBS新聞.png" group-title="台灣 Taiwan",TVBS新聞
-http://99.iptv543.com/smt.php?id=tvbs_n
-#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://live.fanmingming.cn/tv/TVBS歡樂台.png" group-title="台灣 Taiwan",TVBS歡樂台
-http://99.iptv543.com/smt.php?id=tvbshuanle_twn
-#EXTINF:-1 tvg-name="三立台灣台" tvg-logo="https://live.fanmingming.cn/tv/三立台灣台.png" group-title="台灣 Taiwan",三立台灣台
-http://99.iptv543.com/smt.php?id=sanlitaiwan
-#EXTINF:-1 tvg-name="三立戲劇台" tvg-logo="https://live.fanmingming.cn/tv/三立戲劇台.png" group-title="台灣 Taiwan",三立戲劇台
-http://99.iptv543.com/smt.php?id=sanlixiju_twn
-#EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://live.fanmingming.cn/tv/三立綜合台.png" group-title="台灣 Taiwan",三立綜合台
-http://99.iptv543.com/smt.php?id=sanlizhonghe
-#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://live.fanmingming.cn/tv/三立都會台.png" group-title="台灣 Taiwan",三立都會台
-http://99.iptv543.com/smt.php?id=sanlidouhui
-#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.cn/tv/中天亞洲台.png" group-title="台灣 Taiwan",中天亞洲台
-http://99.iptv543.com/smt.php?id=ctiasia_twn
-#EXTINF:-1 tvg-name="中天娛樂" tvg-logo="https://live.fanmingming.cn/tv/中天娛樂.png" group-title="台灣 Taiwan",中天娛樂
-http://99.iptv543.com/smt.php?id=ctient
-#EXTINF:-1 tvg-name="中天新聞HD" tvg-logo="https://live.fanmingming.cn/tv/中天新聞HD.png" group-title="台灣 Taiwan",中天新聞HD
-http://99.iptv543.com/smt.php?id=ctinews
-#EXTINF:-1 tvg-name="中天綜合" tvg-logo="https://live.fanmingming.cn/tv/中天綜合.png" group-title="台灣 Taiwan",中天綜合
-http://99.iptv543.com/smt.php?id=ctizhonghe
-#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.cn/tv/中視.png" group-title="台灣 Taiwan",中視
-http://99.iptv543.com/smt.php?id=zhongshihd_twn
-#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.cn/tv/中視新聞.png" group-title="台灣 Taiwan",中視新聞
-http://99.iptv543.com/smt.php?id=zhongshinews_twn
-#EXTINF:-1 tvg-name="中視經典" tvg-logo="https://live.fanmingming.cn/tv/中視經典.png" group-title="台灣 Taiwan",中視經典
-http://99.iptv543.com/smt.php?id=zhongshi_twn
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://live.fanmingming.cn/tv/亞洲旅遊台.png" group-title="台灣 Taiwan",亞洲旅遊台
-http://99.iptv543.com/smt.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://live.fanmingming.cn/tv/亞洲美食.png" group-title="台灣 Taiwan",亞洲美食
-http://99.iptv543.com/smt.php?id=afc_twn
-#EXTINF:-1 tvg-name="八大娛樂" tvg-logo="https://live.fanmingming.cn/tv/八大娛樂.png" group-title="台灣 Taiwan",八大娛樂
-http://99.iptv543.com/smt.php?id=badaentertain
-#EXTINF:-1 tvg-name="八大戲劇" tvg-logo="https://live.fanmingming.cn/tv/八大戲劇.png" group-title="台灣 Taiwan",八大戲劇
-http://99.iptv543.com/smt.php?id=badadrama
-#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://live.fanmingming.cn/tv/八大第一.png" group-title="台灣 Taiwan",八大第一
-http://99.iptv543.com/smt.php?id=badafirst
-#EXTINF:-1 tvg-name="八大綜合" tvg-logo="https://live.fanmingming.cn/tv/八大綜合.png" group-title="台灣 Taiwan",八大綜合
-http://99.iptv543.com/smt.php?id=badazhonghe
-#EXTINF:-1 tvg-name="公視" tvg-logo="https://live.fanmingming.cn/tv/公視.png" group-title="台灣 Taiwan",公視
-http://99.iptv543.com/smt.php?id=ctv_taiwan
-#EXTINF:-1 tvg-name="公視2" tvg-logo="https://live.fanmingming.cn/tv/公視2.png" group-title="台灣 Taiwan",公視2
-http://99.iptv543.com/smt.php?id=ctv2_twn
-#EXTINF:-1 tvg-name="動物星球" tvg-logo="https://live.fanmingming.cn/tv/動物星球.png" group-title="台灣 Taiwan",動物星球
-http://99.iptv543.com/smt.php?id=animalplanet_twn
-#EXTINF:-1 tvg-name="博斯網球" tvg-logo="https://live.fanmingming.cn/tv/博斯網球.png" group-title="台灣 Taiwan",博斯網球
-http://99.iptv543.com/smt.php?id=bositennis_twn
-#EXTINF:-1 tvg-name="博斯運動1" tvg-logo="https://live.fanmingming.cn/tv/博斯運動1.png" group-title="台灣 Taiwan",博斯運動1
-http://99.iptv543.com/smt.php?id=bosisport1_twn
-#EXTINF:-1 tvg-name="博斯運動2" tvg-logo="https://live.fanmingming.cn/tv/博斯運動2.png" group-title="台灣 Taiwan",博斯運動2
-http://99.iptv543.com/smt.php?id=bosisport2_twn
-#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.cn/tv/博斯高球1.png" group-title="台灣 Taiwan",博斯高球1
-http://99.iptv543.com/smt.php?id=bosigolf1_twn
-#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.cn/tv/博斯高球2.png" group-title="台灣 Taiwan",博斯高球2
-http://99.iptv543.com/smt.php?id=bosigolf2_twn
-#EXTINF:-1 tvg-name="台視" tvg-logo="https://live.fanmingming.cn/tv/台視.png" group-title="台灣 Taiwan",台視
-http://99.iptv543.com/smt.php?id=ttv_taiwan
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://live.fanmingming.cn/tv/台視新聞.png" group-title="台灣 Taiwan",台視新聞
-http://99.iptv543.com/smt.php?id=ttvnews_twn
-#EXTINF:-1 tvg-name="台視綜合台" tvg-logo="https://live.fanmingming.cn/tv/台視綜合台.png" group-title="台灣 Taiwan",台視綜合台
-http://99.iptv543.com/smt.php?id=ttvzhonghe
-#EXTINF:-1 tvg-name="國家地理" tvg-logo="https://live.fanmingming.cn/tv/國家地理.png" group-title="台灣 Taiwan",國家地理
-http://99.iptv543.com/smt.php?id=natgeohd_twn
-#EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://live.fanmingming.cn/tv/壹新聞.png" group-title="台灣 Taiwan",壹新聞
-http://99.iptv543.com/smt.php?id=yinews
-#EXTINF:-1 tvg-name="大愛一台" tvg-logo="https://live.fanmingming.cn/tv/大愛一台.png" group-title="台灣 Taiwan",大愛一台
-http://99.iptv543.com/smt.php?id=daai_twn
-#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://live.fanmingming.cn/tv/好萊塢電影台.png" group-title="台灣 Taiwan",好萊塢電影台
-http://99.iptv543.com/smt.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-name="寰宇新聞" tvg-logo="https://live.fanmingming.cn/tv/寰宇新聞.png" group-title="台灣 Taiwan",寰宇新聞
-http://99.iptv543.com/smt.php?id=huanyuxinwen_twn
-#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://live.fanmingming.cn/tv/寰宇財經台.png" group-title="台灣 Taiwan",寰宇財經台
-http://99.iptv543.com/smt.php?id=huanyutaiwan_twn
-#EXTINF:-1 tvg-name="年代MUCH" tvg-logo="https://live.fanmingming.cn/tv/年代MUCH.png" group-title="台灣 Taiwan",年代MUCH
-http://99.iptv543.com/smt.php?id=niandaitv_twn
-#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://live.fanmingming.cn/tv/年代新聞.png" group-title="台灣 Taiwan",年代新聞
-http://99.iptv543.com/smt.php?id=niandainews_twn
-#EXTINF:-1 tvg-name="愛爾達影劇" tvg-logo="https://live.fanmingming.cn/tv/愛爾達影劇.png" group-title="台灣 Taiwan",愛爾達影劇
-http://99.iptv543.com/smt.php?id=eltayingju_twn
-#EXTINF:-1 tvg-name="愛爾達體育 1" tvg-logo="https://live.fanmingming.cn/tv/愛爾達體育 1.png" group-title="台灣 Taiwan",愛爾達體育 1
-http://99.iptv543.com/smt.php?id=eltasport_twn
-#EXTINF:-1 tvg-name="愛爾達體育 2" tvg-logo="https://live.fanmingming.cn/tv/愛爾達體育 2.png" group-title="台灣 Taiwan",愛爾達體育 2
-http://99.iptv543.com/smt.php?id=eltasport2_twn
-#EXTINF:-1 tvg-name="愛爾達體育 3" tvg-logo="https://live.fanmingming.cn/tv/愛爾達體育 3.png" group-title="台灣 Taiwan",愛爾達體育 3
-http://99.iptv543.com/smt.php?id=eltasport3_twn
-#EXTINF:-1 tvg-name="探索亞洲" tvg-logo="https://live.fanmingming.cn/tv/探索亞洲.png" group-title="台灣 Taiwan",探索亞洲
-http://99.iptv543.com/smt.php?id=discoverytwn_twn
-#EXTINF:-1 tvg-name="探索動力" tvg-logo="https://live.fanmingming.cn/tv/探索動力.png" group-title="台灣 Taiwan",探索動力
-http://99.iptv543.com/smt.php?id=discoveryturbo_twn
-#EXTINF:-1 tvg-name="時尚" tvg-logo="https://live.fanmingming.cn/tv/時尚.png" group-title="台灣 Taiwan",時尚
-http://99.iptv543.com/smt.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://live.fanmingming.cn/tv/東森戲劇.png" group-title="台灣 Taiwan",東森戲劇
-http://99.iptv543.com/smt.php?id=ettvdrama
-#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.cn/tv/東森新聞.png" group-title="台灣 Taiwan",東森新聞
-http://99.iptv543.com/smt.php?id=ettvnews
-#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://live.fanmingming.cn/tv/東森洋片.png" group-title="台灣 Taiwan",東森洋片
-http://99.iptv543.com/smt.php?id=ettvwestern
-#EXTINF:-1 tvg-name="東森綜合" tvg-logo="https://live.fanmingming.cn/tv/東森綜合.png" group-title="台灣 Taiwan",東森綜合
-http://99.iptv543.com/smt.php?id=ettvzhonghe
-#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://live.fanmingming.cn/tv/東森財經新聞.png" group-title="台灣 Taiwan",東森財經新聞
-http://99.iptv543.com/smt.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://live.fanmingming.cn/tv/東森超視.png" group-title="台灣 Taiwan",東森超視
-http://99.iptv543.com/smt.php?id=ettvsuper
-#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://live.fanmingming.cn/tv/東森電影.png" group-title="台灣 Taiwan",東森電影
-http://99.iptv543.com/smt.php?id=ettvmovie
-#EXTINF:-1 tvg-name="東風衛視" tvg-logo="https://live.fanmingming.cn/tv/東風衛視.png" group-title="台灣 Taiwan",東風衛視
-http://99.iptv543.com/smt.php?id=aziotv_twn
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://live.fanmingming.cn/tv/民視.png" group-title="台灣 Taiwan",民視
-http://99.iptv543.com/smt.php?id=ftvhd_taiwan
-#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://live.fanmingming.cn/tv/民視台灣台.png" group-title="台灣 Taiwan",民視台灣台
-http://99.iptv543.com/smt.php?id=ftvtaiwan_twn
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.cn/tv/民視新聞.png" group-title="台灣 Taiwan",民視新聞
-http://99.iptv543.com/smt.php?id=ftvnew_taiwan
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://live.fanmingming.cn/tv/民視第一台.png" group-title="台灣 Taiwan",民視第一台
-http://99.iptv543.com/smt.php?id=lunghuajingdian_twn
-#EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="https://live.fanmingming.cn/tv/緯來戲劇.png" group-title="台灣 Taiwan",緯來戲劇
-http://99.iptv543.com/smt.php?id=videolandtv
-#EXTINF:-1 tvg-name="緯來日本台" tvg-logo="https://live.fanmingming.cn/tv/緯來日本台.png" group-title="台灣 Taiwan",緯來日本台
-http://99.iptv543.com/smt.php?id=videolandjapan
-#EXTINF:-1 tvg-name="緯來電影台" tvg-logo="https://live.fanmingming.cn/tv/緯來電影台.png" group-title="台灣 Taiwan",緯來電影台
-http://99.iptv543.com/smt.php?id=videolandmovie
-#EXTINF:-1 tvg-name="緯來精彩" tvg-logo="https://live.fanmingming.cn/tv/緯來精彩.png" group-title="台灣 Taiwan",緯來精彩
-http://99.iptv543.com/smt.php?id=videolandspecial_twn
-#EXTINF:-1 tvg-name="緯來綜合" tvg-logo="https://live.fanmingming.cn/tv/緯來綜合.png" group-title="台灣 Taiwan",緯來綜合
-http://99.iptv543.com/smt.php?id=videolandzong
-#EXTINF:-1 tvg-name="緯來綜合台" tvg-logo="https://live.fanmingming.cn/tv/緯來綜合台.png" group-title="台灣 Taiwan",緯來綜合台
-http://99.iptv543.com/smt.php?id=videolandzonghe
-#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://live.fanmingming.cn/tv/緯來育樂.png" group-title="台灣 Taiwan",緯來育樂
-http://99.iptv543.com/smt.php?id=videolandyule
-#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://live.fanmingming.cn/tv/緯來育樂.png" group-title="台灣 Taiwan",緯來育樂
-http://99.iptv543.com/smt.php?id=videolandmax
-#EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://live.fanmingming.cn/tv/緯來體育台.png" group-title="台灣 Taiwan",緯來體育台
-http://99.iptv543.com/smt.php?id=videolandsport
-#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://live.fanmingming.cn/tv/美亞電影.png" group-title="台灣 Taiwan",美亞電影
-http://99.iptv543.com/smt.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.cn/tv/華視.png" group-title="台灣 Taiwan",華視
-http://99.iptv543.com/smt.php?id=ctshd_twn
-#EXTINF:-1 tvg-name="華藝綜合" tvg-logo="https://live.fanmingming.cn/tv/華藝綜合.png" group-title="台灣 Taiwan",華藝綜合
-http://99.iptv543.com/smt.php?id=weishichinese_twn
-#EXTINF:-1 tvg-name="野生動物" tvg-logo="https://live.fanmingming.cn/tv/野生動物.png" group-title="台灣 Taiwan",野生動物
-http://99.iptv543.com/smt.php?id=natgeowild_twn
-#EXTINF:-1 tvg-name="阿里郎" tvg-logo="https://live.fanmingming.cn/tv/阿里郎.png" group-title="台灣 Taiwan",阿里郎
-http://99.iptv543.com/smt.php?id=arirang_twn
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.cn/tv/靖天卡通台.png" group-title="台灣 Taiwan",靖天卡通台
-http://99.iptv543.com/smt.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="靖天國際台" tvg-logo="https://live.fanmingming.cn/tv/靖天國際台.png" group-title="台灣 Taiwan",靖天國際台
-http://99.iptv543.com/smt.php?id=jingtianintl_twn
-#EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://live.fanmingming.cn/tv/非凡新聞.png" group-title="台灣 Taiwan",非凡新聞
-http://99.iptv543.com/smt.php?id=feifannews_twn
-#EXTINF:-1 tvg-name="韓國娛樂" tvg-logo="https://live.fanmingming.cn/tv/韓國娛樂.png" group-title="台灣 Taiwan",韓國娛樂
-http://99.iptv543.com/smt.php?id=xingweiyule_twn
-#EXTINF:-1 tvg-name="高點綜合" tvg-logo="https://live.fanmingming.cn/tv/高點綜合.png" group-title="台灣 Taiwan",高點綜合
-http://99.iptv543.com/smt.php?id=toptv_twn
-#EXTINF:-1 tvg-name="龍祥時代" tvg-logo="https://live.fanmingming.cn/tv/龍祥時代.png" group-title="台灣 Taiwan",龍祥時代
-http://99.iptv543.com/smt.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="龍華偶像" tvg-logo="https://live.fanmingming.cn/tv/龍華偶像.png" group-title="台灣 Taiwan",龍華偶像
-http://99.iptv543.com/smt.php?id=lunghuaidol_twn
-#EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://live.fanmingming.cn/tv/龍華戲劇.png" group-title="台灣 Taiwan",龍華戲劇
-http://99.iptv543.com/smt.php?id=lunghuaxiju_twn
-#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://live.fanmingming.cn/tv/龍華洋片.png" group-title="台灣 Taiwan",龍華洋片
-http://99.iptv543.com/smt.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-name="龍華經典" tvg-logo="https://live.fanmingming.cn/tv/龍華經典.png" group-title="台灣 Taiwan",龍華經典
-http://99.iptv543.com/smt.php?id=lunghuajingdian_twn
-#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.cn/tv/龍華電影.png" group-title="台灣 Taiwan",龍華電影
-http://99.iptv543.com/smt.php?id=xingwei_movie
+
+#EXTINF:-1 tvg-name="Supersports 1" tvg-logo="https://logo.catvod.com/Supersports 1.png" group-title="體育 Sports",Supersports 1
+http://66.90.99.154:8278/Assp1/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c4eed9bd110fba1006a59b77d1fd7b5a
+#EXTINF:-1 tvg-name="Supersports 1(備用)" tvg-logo="https://logo.catvod.com/Supersports 1(備用).png" group-title="體育 Sports",Supersports 1(備用)
+http://66.90.99.154:8278/go_assp1/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e77f981ee241b2c2324baeec50a4ae10
+#EXTINF:-1 tvg-name="Supersportq 1(備用2)" tvg-logo="https://logo.catvod.com/Supersportq 1(備用2).png" group-title="體育 Sports",Supersportq 1(備用2)
+http://66.90.99.154:8278/Assp1_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e9b930b6339490318673a63361be1816
+#EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://logo.catvod.com/Supersports 2.png" group-title="體育 Sports",Supersports 2
+http://66.90.99.154:8278/Assp2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9276ec21b984bfae6483b16d5ecaf940
+#EXTINF:-1 tvg-name="Supersports 2(備用)" tvg-logo="https://logo.catvod.com/Supersports 2(備用).png" group-title="體育 Sports",Supersports 2(備用)
+http://66.90.99.154:8278/go_assp2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9c9c39ed91bf3e5de6f4a6bfdf276bb8
+#EXTINF:-1 tvg-name="Supersports 3" tvg-logo="https://logo.catvod.com/Supersports 3.png" group-title="體育 Sports",Supersports 3
+http://66.90.99.154:8278/Assp3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=de86cd7e5dbe3d4345b6058ada2aa2f2
+#EXTINF:-1 tvg-name="Supersports 3(備用)" tvg-logo="https://logo.catvod.com/Supersports 3(備用).png" group-title="體育 Sports",Supersports 3(備用)
+http://66.90.99.154:8278/go_assp3/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9884c973e847b74407759679e1343e17
+#EXTINF:-1 tvg-name="Supersports 3(備用2)" tvg-logo="https://logo.catvod.com/Supersports 3(備用2).png" group-title="體育 Sports",Supersports 3(備用2)
+http://66.90.99.154:8278/Assp3_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=73c2000fbd2152d204ac973648a62c90
+#EXTINF:-1 tvg-name="Supersports 4" tvg-logo="https://logo.catvod.com/Supersports 4.png" group-title="體育 Sports",Supersports 4
+http://66.90.99.154:8278/Assp4_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=632aa72f1a86580091617e1db60ecf8d
+#EXTINF:-1 tvg-name="Supersports 4(備用)" tvg-logo="https://logo.catvod.com/Supersports 4(備用).png" group-title="體育 Sports",Supersports 4(備用)
+http://66.90.99.154:8278/go_assp4/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7e9cc75c8626b166cba326dbb4d8c82b
+#EXTINF:-1 tvg-name="Supersports 5" tvg-logo="https://logo.catvod.com/Supersports 5.png" group-title="體育 Sports",Supersports 5
+http://66.90.99.154:8278/go_assp5/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6bc97f353c2bf8fc2ee076f1c243e7ad
+#EXTINF:-1 tvg-name="Bein 2HD" tvg-logo="https://logo.catvod.com/Bein 2HD.png" group-title="體育 Sports",Bein 2HD
+http://66.90.99.154:8278/Beinhd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e131e9b910ca6498acf0357c9872470e
+#EXTINF:-1 tvg-name="Beinsports HD" tvg-logo="https://logo.catvod.com/Beinsports HD.png" group-title="體育 Sports",Beinsports HD
+http://66.90.99.154:8278/Besports/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9bdb71527a41cef9813f5115acce4a87
+#EXTINF:-1 tvg-name="Champion 5 EPL" tvg-logo="https://logo.catvod.com/Champion 5 EPL.png" group-title="體育 Sports",Champion 5 EPL
+http://66.90.99.154:8278/Champion5epl/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5456b6dce0e476821e56cc9b02e43e76
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://logo.catvod.com/WWE.png" group-title="體育 Sports",WWE
+http://66.90.99.154:8278/Wwe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5f12cbe09bca3788cf041616bff437ac
+#EXTINF:-1 tvg-name="Champion 6 EPL" tvg-logo="https://logo.catvod.com/Champion 6 EPL.png" group-title="體育 Sports",Champion 6 EPL
+http://66.90.99.154:8278/Champion6epl/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3a0983072e29f66773d0b4c729729f60
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://logo.catvod.com/Fight Sports.png" group-title="體育 Sports",Fight Sports
+http://66.90.99.154:8278/Fs/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b40f8a955e371a1f74b4c4e836b59f1a
+#EXTINF:-1 tvg-name="UFC Network" tvg-logo="https://logo.catvod.com/UFC Network.png" group-title="體育 Sports",UFC Network
+http://66.90.99.154:8278/ufc_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=52778703be36db46986598c7e90f99e5
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://logo.catvod.com/NBA TV.png" group-title="體育 Sports",NBA TV
+http://66.90.99.154:8278/nbatv_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=feeac995a180b8b576b360d37524186e
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://logo.catvod.com/Astro Cricket.png" group-title="體育 Sports",Astro Cricket
+http://66.90.99.154:8278/Acricket_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=979c9df44edac1ddbad2e7778bee044b
+#EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://logo.catvod.com/Astro Golf.png" group-title="體育 Sports",Astro Golf
+http://66.90.99.154:8278/Agolf/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c801b7ebe40b1ea0130540c91cf2b5dd
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://logo.catvod.com/TNT Sports 1.png" group-title="體育 Sports",TNT Sports 1
+http://66.90.99.154:8278/beeone/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=425b5e4a8aef9440ec03df227bbe17c6
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://logo.catvod.com/TNT Sports 2.png" group-title="體育 Sports",TNT Sports 2
+http://66.90.99.154:8278/beetwo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=00689f427c335a4b3fd9ce7432d00288
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://logo.catvod.com/TNT Sports 3.png" group-title="體育 Sports",TNT Sports 3
+http://66.90.99.154:8278/beethree/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0d33cfffcd88549350d633032ceeac8d
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://logo.catvod.com/TNT Sports 4.png" group-title="體育 Sports",TNT Sports 4
+http://66.90.99.154:8278/beefour/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=dc67eacb75477c3d9174a1afcd67d6f6
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://logo.catvod.com/Sony Ten 1.png" group-title="體育 Sports",Sony Ten 1
+http://66.90.99.154:8278/ten1_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2113f482f916183728d5b87575b9f1e5
+#EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://logo.catvod.com/Sony Ten 2.png" group-title="體育 Sports",Sony Ten 2
+http://66.90.99.154:8278/ten2_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=45628e5e62ff75ba2d28fc18cb860d8a
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://logo.catvod.com/Sony Ten 3.png" group-title="體育 Sports",Sony Ten 3
+http://66.90.99.154:8278/ten3_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4f2ac250715bbdedc052fb13c1b3a9e3
+#EXTINF:-1 tvg-name="SPOTV 1 HD" tvg-logo="https://logo.catvod.com/SPOTV 1 HD.png" group-title="體育 Sports",SPOTV 1 HD
+http://66.90.99.154:8278/go_spotv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=43299c27380e462a538b4a7f0fcf2fc5
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://logo.catvod.com/SPO TV 2.png" group-title="體育 Sports",SPO TV 2
+http://66.90.99.154:8278/go_spotv2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=45894a71c6abf628edb91a081fb07d25
+#EXTINF:-1 tvg-name="Beinsports 2 HD" tvg-logo="https://logo.catvod.com/Beinsports 2 HD.png" group-title="體育 Sports",Beinsports 2 HD
+http://66.90.99.154:8278/Bein2hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=db01e8827bb36a5b1c8dac2ed4538fcc
+#EXTINF:-1 tvg-name="Skysports Arena" tvg-logo="https://logo.catvod.com/Skysports Arena.png" group-title="體育 Sports",Skysports Arena
+http://66.90.99.154:8278/tiankongarena/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0893c874881b4579f023c62b53a1e8b3
+#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://logo.catvod.com/Skysports F1.png" group-title="體育 Sports",Skysports F1
+http://66.90.99.154:8278/tiankongf1/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=288c43cdc92c04a9fcf69c16f2886982
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://logo.catvod.com/Skysports Cricket.png" group-title="體育 Sports",Skysports Cricket
+http://66.90.99.154:8278/tiankongcricket/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f67c20bc2101ecd16ac171eaaa799269
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://logo.catvod.com/Skysports EPL.png" group-title="體育 Sports",Skysports EPL
+http://66.90.99.154:8278/tiankongepl/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=aaede1197f8b1439a21aea545a0ca0a7
+#EXTINF:-1 tvg-name="Skysports Football" tvg-logo="https://logo.catvod.com/Skysports Football.png" group-title="體育 Sports",Skysports Football
+http://66.90.99.154:8278/tiankongfootball/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d8ce1e01a1a8d782e68c715c84d22b4d
+#EXTINF:-1 tvg-name="Skysports Golf" tvg-logo="https://logo.catvod.com/Skysports Golf.png" group-title="體育 Sports",Skysports Golf
+http://66.90.99.154:8278/tiankonggolf/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=fafce60801da3614dc3ae753c9d57283
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://logo.catvod.com/Skysports Main Event.png" group-title="體育 Sports",Skysports Main Event
+http://66.90.99.154:8278/tiankongmain/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=76b5525f10f5309a5e4285ca4ad8c3bd
+#EXTINF:-1 tvg-name="Skysports News" tvg-logo="https://logo.catvod.com/Skysports News.png" group-title="體育 Sports",Skysports News
+http://66.90.99.154:8278/tiankongnews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=772b2d08359a2e621cbab6cec75d0456
+#EXTINF:-1 tvg-name="Skysports NFL" tvg-logo="https://logo.catvod.com/Skysports NFL.png" group-title="體育 Sports",Skysports NFL
+http://66.90.99.154:8278/tiankongnfl/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=afb46c7f09e22c8a08d4c51ff11e65d8
+#EXTINF:-1 tvg-name="Skysports Racing" tvg-logo="https://logo.catvod.com/Skysports Racing.png" group-title="體育 Sports",Skysports Racing
+http://66.90.99.154:8278/tiankongracing/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=edd6a89d1c162ad9793d40a6fc32a3a3
+#EXTINF:-1 tvg-name="Skysports Mix" tvg-logo="https://logo.catvod.com/Skysports Mix.png" group-title="體育 Sports",Skysports Mix
+http://66.90.99.154:8278/tiankongmix/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8084b839dfeafca486e4a1094a5e1d5f
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="體育 Sports",CCTV-5
+http://66.90.99.154:8278/cctv5/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cafe0387584f5baee0a014e85a028960
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="體育 Sports",CCTV-5+
+http://66.90.99.154:8278/cctv5plus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=34ded99800e7d73d06e6be3ac5c2bb02
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="體育 Sports",愛爾達體育2台
+http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="體育 Sports",愛爾達體育3台
+http://66.90.99.154:8278/eltasport3_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cf5a326a448ec57a9d50a8996aa8a6ad
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://logo.catvod.com/RTM Sports HD.png" group-title="體育 Sports",RTM Sports HD
+http://66.90.99.154:8278/Rtmsport/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8191e23ed53b9c316ba8400fea1ec19e
+#EXTINF:-1 tvg-name="Arena" tvg-logo="https://logo.catvod.com/Arena.png" group-title="體育 Sports",Arena
+http://66.90.99.154:8278/Arena/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e4d6f344f0796c267600152324ce14cd
+#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://logo.catvod.com/Arena 2.png" group-title="體育 Sports",Arena 2
+http://66.90.99.154:8278/Arena2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=99efac263e54ebcf55c71a22b3c092f9
+#EXTINF:-1 tvg-name="BolaArena 1" tvg-logo="https://logo.catvod.com/BolaArena 1.png" group-title="體育 Sports",BolaArena 1
+http://66.90.99.154:8278/Bolaarena1/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2ab76222c0b09f3d5560c4204a44dc8d
+#EXTINF:-1 tvg-name="Bein 1 Sports" tvg-logo="https://logo.catvod.com/Bein 1 Sports.png" group-title="體育 Sports",Bein 1 Sports
+http://66.90.99.154:8278/bein1_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=79464d0a2f3f9e0e6e32b74b1b59d97b
+#EXTINF:-1 tvg-name="Bein 2 Sports" tvg-logo="https://logo.catvod.com/Bein 2 Sports.png" group-title="體育 Sports",Bein 2 Sports
+http://66.90.99.154:8278/bein2_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d7dfcf699eb076978d1e861a5636aa22
+#EXTINF:-1 tvg-name="Bein 3 Sports" tvg-logo="https://logo.catvod.com/Bein 3 Sports.png" group-title="體育 Sports",Bein 3 Sports
+http://66.90.99.154:8278/bein3_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ed66514ca8a1a27da7aec6cd710ef26b
+#EXTINF:-1 tvg-name="Bein 4 Sports" tvg-logo="https://logo.catvod.com/Bein 4 Sports.png" group-title="體育 Sports",Bein 4 Sports
+http://66.90.99.154:8278/bein4_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4f4746c0a21ebbff75f6c8677d7fade9
+#EXTINF:-1 tvg-name="Bein 5 Sports" tvg-logo="https://logo.catvod.com/Bein 5 Sports.png" group-title="體育 Sports",Bein 5 Sports
+http://66.90.99.154:8278/bein5_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bf5c7a39f90f781a2c4ae8ed11cad649
+#EXTINF:-1 tvg-name="Bein 6 Sports" tvg-logo="https://logo.catvod.com/Bein 6 Sports.png" group-title="體育 Sports",Bein 6 Sports
+http://66.90.99.154:8278/bein6_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c687f1b5f3fe3e2eb0384b0f94c8580f
+#EXTINF:-1 tvg-name="Bein 7 Sports" tvg-logo="https://logo.catvod.com/Bein 7 Sports.png" group-title="體育 Sports",Bein 7 Sports
+http://66.90.99.154:8278/bein7_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e8531bec8ac3c1fc6ff0e9b56da2e0ac
+#EXTINF:-1 tvg-name="Rugby Pass TV" tvg-logo="https://logo.catvod.com/Rugby Pass TV.png" group-title="體育 Sports",Rugby Pass TV
+http://66.90.99.154:8278/Rugbypasstv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9619d005f7fe429ba09fb8bd97bfad9f
+#EXTINF:-1 tvg-name="BolaArena 2" tvg-logo="https://logo.catvod.com/BolaArena 2.png" group-title="體育 Sports",BolaArena 2
+http://66.90.99.154:8278/Bolaarena2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5d035f37a9e38122b390dcd792e3e0a6
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://logo.catvod.com/AXN.png" group-title="電影 Movie",AXN
+http://66.90.99.154:8278/axn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=eb2e561779222434cac30788692a0ec5
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="電影 Movie",Animax
+http://66.90.99.154:8278/Animax/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8040109662eda684ec7648c719e790ce
+#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://logo.catvod.com/Astrol Kplus.png" group-title="電影 Movie",Astrol Kplus
+http://66.90.99.154:8278/Kplus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ed9cfad2af3afeca5ceb3c03b24fa9fd
+#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="電影 Movie",Axn HD
+http://66.90.99.154:8278/Axn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=18a5fbdf0a8cf0dd65bc1ae8e4aae028
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="電影 Movie",CCTV-6
+http://66.90.99.154:8278/cctv6/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f9eb87292a7430821acddf2eb38ee089
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://logo.catvod.com/CINEMAX.png" group-title="電影 Movie",CINEMAX
+http://66.90.99.154:8278/cinemax_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5c379210cdedef89ff64b4a180d7230e
+#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://logo.catvod.com/Celestial Classic.png" group-title="電影 Movie",Celestial Classic
+http://66.90.99.154:8278/Celestial2/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c84a2f6ad8468dee90a7684b99c4dbf3
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://logo.catvod.com/Celestial Movies HD.png" group-title="電影 Movie",Celestial Movies HD
+http://66.90.99.154:8278/Celestialindo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0bba166e49d3abeb80d99bcd7262581a
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.catvod.com/Cinemax.png" group-title="電影 Movie",Cinemax
+http://66.90.99.154:8278/Cinemax/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ada626ce959c35b381623fb20ed93b6
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="電影 Movie",HBO Family
+http://66.90.99.154:8278/Hbofamily/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4b38e6d57242e62a2043799c3cb4178a
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="電影 Movie",HBO HD
+http://66.90.99.154:8278/Hbo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d45ccf70554fc40a5e4679209f61fbe9
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://logo.catvod.com/HBO Hits.png" group-title="電影 Movie",HBO Hits
+http://66.90.99.154:8278/Hbohits/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1a52603278e2a79c735f52d768972aad
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://logo.catvod.com/HBO Signature.png" group-title="電影 Movie",HBO Signature
+http://66.90.99.154:8278/Hbosignature/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2b61e05d2329b64c818b88008e1aa5d0
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="電影 Movie",HBO_HD
+http://66.90.99.154:8278/hbohd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d606b35ded0b862645ba71eb72173b39
+#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://logo.catvod.com/HBO_HITS.png" group-title="電影 Movie",HBO_HITS
+http://66.90.99.154:8278/hbohits_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d36d7dfd12fb19c8238dbaad583da975
+#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="電影 Movie",Hits Movie
+http://66.90.99.154:8278/Hitsmovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=dd2fa04996a13cbcfcd2d9d6d1c64c97
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://logo.catvod.com/Hits.png" group-title="電影 Movie",Hits
+http://66.90.99.154:8278/Hits/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c56dcaa3ae69f035d3aac2b1ee5fb353
+#EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://logo.catvod.com/Hollywood Movies.png" group-title="電影 Movie",Hollywood Movies
+http://66.90.99.154:8278/hollywoodmovies_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4a6d1876ce8e327ae3b4e63ca6829252
+#EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://logo.catvod.com/Movies Now HD.png" group-title="電影 Movie",Movies Now HD
+http://66.90.99.154:8278/moviesnow_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=08cf3c2cdf4ba59e2565eb6c5fc71fae
+#EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="電影 Movie",One
+http://66.90.99.154:8278/One_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a30a9169cdd283b41b4781277898b890
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://logo.catvod.com/Paramount Network.png" group-title="電影 Movie",Paramount Network
+http://66.90.99.154:8278/Paramountnetwork/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c6022913491fbb2f27f19fda53725d3a
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="電影 Movie",Rock Actions
+http://66.90.99.154:8278/Rockaction/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=11ebb3a4d6e46ecca65d1465c265b05a
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="電影 Movie",Rock Entertainment
+http://66.90.99.154:8278/Rockentertain/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a2156efe2a3c88720a0d629f0b7466d7
+#EXTINF:-1 tvg-name="SCM" tvg-logo="https://logo.catvod.com/SCM.png" group-title="電影 Movie",SCM
+http://66.90.99.154:8278/Weishimovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=54f46905442bacc96c07e8e1c7372317
+#EXTINF:-1 tvg-name="Sony Pix HD" tvg-logo="https://logo.catvod.com/Sony Pix HD.png" group-title="電影 Movie",Sony Pix HD
+http://66.90.99.154:8278/sonypix_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2400c47878967957999b5c142336d58b
+#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="電影 Movie",Star Movies HD
+http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="電影 Movie",Thrill
+http://66.90.99.154:8278/Thrill/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0f3fa14946255db4971340542fe754d5
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="電影 Movie",Warner TV
+http://66.90.99.154:8278/WarnerTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9a6977885e3b656963da17bd8654ea51
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="電影 Movie",tvN Movie
+http://66.90.99.154:8278/Tvnmovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=92c6ea0d65c04bfdadcbafc5260d1fe9
+#EXTINF:-1 tvg-name="大愛2台" tvg-logo="https://logo.catvod.com/大愛2台.png" group-title="電影 Movie",大愛2台
+http://66.90.99.154:8278/catchplay_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=31804f6110d740f8d0d1c96d197747fe
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://logo.catvod.com/龍華電影.png" group-title="電影 Movie",龍華電影
+http://66.90.99.154:8278/xingwei_movie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b380c8ef3016f04d9ed8ee1a811c1bf4
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://logo.catvod.com/東森洋片.png" group-title="電影 Movie",東森洋片
+http://66.90.99.154:8278/ettvwestern/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c03f602775dbe8075949100987b2b1be
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://logo.catvod.com/東森電影.png" group-title="電影 Movie",東森電影
+http://66.90.99.154:8278/ettvmovie/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8521db60d49af33060b2d4b3262a1097
+#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://logo.catvod.com/美亞電影.png" group-title="電影 Movie",美亞電影
+http://66.90.99.154:8278/meiyamovie_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5d5f2284a5f896d6519e0aa61fe765c9
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://logo.catvod.com/龍華洋片.png" group-title="電影 Movie",龍華洋片
+http://66.90.99.154:8278/lunghuawestern_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e5e2eedc57d2e953ae49eed346075ebe
+#EXTINF:-1 tvg-name="龍祥时代" tvg-logo="https://logo.catvod.com/龍祥时代.png" group-title="電影 Movie",龍祥时代
+http://66.90.99.154:8278/lungxiangtime_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=525f1c9e0b438304ca9f31eb061c4710
+#EXTINF:-1 tvg-name="AFC 亞洲旅遊台" tvg-logo="https://logo.catvod.com/AFC 亞洲旅遊台.png" group-title="紀錄 Documentary",AFC 亞洲旅遊台
+http://66.90.99.154:8278/asiatravel_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=324cce82b353e4911692ea3326e9a626
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="紀錄 Documentary",Animal Planet (Eng)
+http://66.90.99.154:8278/AnimalPlanet/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c5323c0571ef472d6b94ba38ac083d8a
+#EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://logo.catvod.com/Animal_Planet.png" group-title="紀錄 Documentary",Animal_Planet
+http://66.90.99.154:8278/animalplanet_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=560a12f543c1dff989d923fc9caf1f78
+#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/Asia Travel.png" group-title="紀錄 Documentary",Asia Travel
+http://66.90.99.154:8278/asiatravel_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=324cce82b353e4911692ea3326e9a626
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://logo.catvod.com/BBC Earth HD.png" group-title="紀錄 Documentary",BBC Earth HD
+http://66.90.99.154:8278/bbcearth_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b88a660401fabf8c17dd337579f44f83
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/BBC Earth Lifestyle.png" group-title="紀錄 Documentary",BBC Earth Lifestyle
+http://66.90.99.154:8278/bbclifestyle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5c920cee3f8a836a5f2336714a4853c0
+#EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="紀錄 Documentary",CI
+http://66.90.99.154:8278/ci_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c40fe22fb57125742e68432f6aa0ca03
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://logo.catvod.com/Discovery Asia.png" group-title="紀錄 Documentary",Discovery Asia
+http://66.90.99.154:8278/discoverytwn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9e88df7781c3c6e5ee2971dcda0c1821
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://logo.catvod.com/Discovery HD.png" group-title="紀錄 Documentary",Discovery HD
+http://66.90.99.154:8278/discoveryhd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a9acc2c6431324173781929f0e2e78ee
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="紀錄 Documentary",Fashion TV
+http://66.90.99.154:8278/fashiontv_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=23370665eca04beca705a72093c4f0da
+#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://logo.catvod.com/Foodnetwork Hd.png" group-title="紀錄 Documentary",Foodnetwork Hd
+http://66.90.99.154:8278/Foodnetwork_mega/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7b0086d6e388f9505b1f0a96f9b5218d
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="紀錄 Documentary",HGTV
+http://66.90.99.154:8278/HGTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2005f2c91a73d99a93d54b73b61d2638
+#EXTINF:-1 tvg-name="History" tvg-logo="https://logo.catvod.com/History.png" group-title="紀錄 Documentary",History
+http://66.90.99.154:8278/History/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=135f941dfe3e45d1b03e131678c34886
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="紀錄 Documentary",MTV Live
+http://66.90.99.154:8278/mtvhd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b2cc2b287f244ecf2567892c6e60c503
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://logo.catvod.com/NatGeo HD.png" group-title="紀錄 Documentary",NatGeo HD
+http://66.90.99.154:8278/Natgeo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=356e03805f95df783f6e49883793d906
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="紀錄 Documentary",NatGeo Wild HD
+http://66.90.99.154:8278/Natgeowild/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5d5e30e360e2fe1f947887478c442c93
+#EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/NatGeo_Wild HD.png" group-title="紀錄 Documentary",NatGeo_Wild HD
+http://66.90.99.154:8278/natgeowild_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=049b18630d8486e7f7d60e17201e48e2
+#EXTINF:-1 tvg-name="Natgeo_HD" tvg-logo="https://logo.catvod.com/Natgeo_HD.png" group-title="紀錄 Documentary",Natgeo_HD
+http://66.90.99.154:8278/natgeohd_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2eb14f9bd15628f5cecf465452eef155
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="紀錄 Documentary",TLC
+http://66.90.99.154:8278/Tlc/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=c2741bfe4f3058bd02736b0a948eedbb
+#EXTINF:-1 tvg-name="TLC Asia" tvg-logo="https://logo.catvod.com/TLC Asia.png" group-title="紀錄 Documentary",TLC Asia
+http://66.90.99.154:8278/tlc_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=7cc122087a3b601a918f223da022480b
+#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://logo.catvod.com/亞洲美食.png" group-title="紀錄 Documentary",亞洲美食
+http://66.90.99.154:8278/afc_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=77537568e4108393571163268f1780df
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://logo.catvod.com/美食星球.png" group-title="紀錄 Documentary",美食星球
+http://66.90.99.154:8278/foodplanet_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=083fc83243dc9d4fedf6d1ad63cddf25
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://logo.catvod.com/ABC News.png" group-title="新聞 News",ABC News
+http://66.90.99.154:8278/abcnews_glo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=9a48298cfcbd1a4a245c1a2b74bbed89
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="新聞 News",Al-Jazeera
+http://66.90.99.154:8278/aljazeera_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e994dd1301be28c6bb4eec267126951e
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="新聞 News",BBC World News
+http://66.90.99.154:8278/Bbcnews/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cd3aab7ad09d95e840159ebb0f299396
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="新聞 News",BBC World News
+http://66.90.99.154:8278/bbcnews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ab74ea8f6b3ceac3990eb7170546b41
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="新聞 News",Bloomberg News
+http://66.90.99.154:8278/bloomberg_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d3695be2fd4965380c4130949335694a
+#EXTINF:-1 tvg-name="CBS HD" tvg-logo="https://logo.catvod.com/CBS HD.png" group-title="新聞 News",CBS HD
+http://66.90.99.154:8278/cbshd_glo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=e36cabf8f24b2274ff219ad119a0303a
+#EXTINF:-1 tvg-name="CBSN HD" tvg-logo="https://logo.catvod.com/CBSN HD.png" group-title="新聞 News",CBSN HD
+http://66.90.99.154:8278/cbsn_glo/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=b955318701d4e6deebb98c38a7a18b50
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="新聞 News",CGTN
+http://66.90.99.154:8278/CGTN/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=48fb488f5954f2b8a9e7d58860fac066
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="新聞 News",CNA
+http://66.90.99.154:8278/cna/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d8c80c4e3f13ae16c3136866a7acdd4d
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="新聞 News",CNBC
+http://66.90.99.154:8278/cnbc_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=987d427cd0f33632913219a84c0a6789
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="新聞 News",CNN International
+http://66.90.99.154:8278/Cnn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bbd9380c2a84ce0d195296cd56c9c683
+#EXTINF:-1 tvg-name="CNN(備用)" tvg-logo="https://logo.catvod.com/CNN(備用).png" group-title="新聞 News",CNN(備用)
+http://66.90.99.154:8278/cnn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bd89e41cfc9c4466a5756978a8c726e5
+#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="新聞 News",DW (Deutsch)
+http://66.90.99.154:8278/dw_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bf300a70647fcdb35f2a6c8d10b1749b
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="新聞 News",Fox News
+http://66.90.99.154:8278/foxnews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0a121c402150191cc1eb3e8135bbb56c
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="新聞 News",France 24
+http://66.90.99.154:8278/france24_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=2098db8e3bfae4734ba6e13e8b012b2e
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="新聞 News",NHK World
+http://66.90.99.154:8278/nhkworld_japan/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=34acef049a43ec7e58ae631e5a545230
+#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="新聞 News",Skynews
+http://66.90.99.154:8278/skynews_antik/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=97c5baa23bd857aaa67514f30dfe4342
+#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://logo.catvod.com/東森財經新聞.png" group-title="新聞 News",東森財經新聞
+http://66.90.99.154:8278/ettvcaijing_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=31baa4e2ca87271b454e5acc0e7d0e6c
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="兒童 Kids",Animax
+http://66.90.99.154:8278/Animax/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8040109662eda684ec7648c719e790ce
+#EXTINF:-1 tvg-name="Baby TV Eng" tvg-logo="https://logo.catvod.com/Baby TV Eng.png" group-title="兒童 Kids",Baby TV Eng
+http://66.90.99.154:8278/Babytv/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=aefde4cdb1b093b7edfc4fea47e07195
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://logo.catvod.com/Baby TV.png" group-title="兒童 Kids",Baby TV
+http://66.90.99.154:8278/babytv_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=ee150967ba3b571c7d71d96abd0e88e0
+#EXTINF:-1 tvg-name="Boomerang Taiwan" tvg-logo="https://logo.catvod.com/Boomerang Taiwan.png" group-title="兒童 Kids",Boomerang Taiwan
+http://66.90.99.154:8278/boomerang_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1645a0dc80db5ca3ad3b86ba8d948e5e
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://logo.catvod.com/Boomerang.png" group-title="兒童 Kids",Boomerang
+http://66.90.99.154:8278/Boomerang/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3dc0c227a0cc780cecb8226de53623ce
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title="兒童 Kids",CBeebies
+http://66.90.99.154:8278/Cbeebies/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=abd741460920d228d04e8a09eaa108fa
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title="兒童 Kids",Cartoon Network
+http://66.90.99.154:8278/Cn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8871adbd7ff0b3f3d94bae95f08a6c74
+#EXTINF:-1 tvg-name="Disney Taiwan" tvg-logo="https://logo.catvod.com/Disney Taiwan.png" group-title="兒童 Kids",Disney Taiwan
+http://66.90.99.154:8278/disneytwn_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6e23a0e8dc70a6f0c21642869c0ce95a
+#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title="兒童 Kids",Kids TV
+http://66.90.99.154:8278/KidsTV/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=859c9ad971cd2cc3b745e2cb116f2f32
+#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://logo.catvod.com/MiaoMi.png" group-title="兒童 Kids",MiaoMi
+http://66.90.99.154:8278/MiaoMi/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=888169204f01a75c9b6ec24ca8320e10
+#EXTINF:-1 tvg-name="Momo TV" tvg-logo="https://logo.catvod.com/Momo TV.png" group-title="兒童 Kids",Momo TV
+http://66.90.99.154:8278/momo1_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=288d40af8cbc7d9608d17edacee0de09
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="兒童 Kids",Nick Jr
+http://66.90.99.154:8278/Nickjr/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=24eb14544b65d87a1919154ca241a425
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="兒童 Kids",Nickelodeon
+http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=0b023b6e02dfb6a1931e49e8d6833fad
+#EXTINF:-1 tvg-name="東森幼幼 Yoyo TV" tvg-logo="https://logo.catvod.com/東森幼幼 Yoyo TV.png" group-title="兒童 Kids",東森幼幼 Yoyo TV
+http://66.90.99.154:8278/yoyo_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ef68750fb4c330909e7e893f9be5acd
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="兒童 Kids",靖天卡通台
+http://66.90.99.154:8278/jingtiancartoon_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=388ac680c557bb97ab578a0716d7174a
+
