@@ -449,15 +449,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "MQ",
-      "api": "csp_MQiTV",
-      "jar": "./fm.jar",
-      "ext": [
-        {
-          "name": "MQiTV",
-          "url": "https://59.125.210.231:4433"
-        }
-      ]
+      "name": "SMT",
+      "url": "http://tv543.cc/smt.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
+
