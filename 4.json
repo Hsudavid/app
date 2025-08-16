@@ -138,17 +138,37 @@
       "ext": "1,2,3"
     }
   ],
-  "lives": [
-    
-   {
-      "name": "MQitv",
+ "lives": [
+    {
+      "name": "543",
+      "url": "http://tv543.cc/4gtv1.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "台灣酒店",
+      "url": "http://tv543.cc/酒店.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "aktv",
+      "url": "https://aktv.space/live.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "MQ",
       "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "jar": "http://files.catbox.moe/chvyo2.txt",
-      "ext": "https://59.125.210.231:4433",
-      "timeout": 30,
-      "playerType": 1 
+      "jar": "./fm.jar",
+      "ext": [
+        {
+          "name": "MQiTV",
+          "url": "https://59.125.210.231:4433"
+        }
+  ]
     }
+
  
   ],
   "doh": [
@@ -196,6 +216,7 @@
     }
   ]
 }
+
 
 
 
