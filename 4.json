@@ -144,7 +144,7 @@
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
-      "spider": "http://files.catbox.moe/chvyo2.txt",
+      "jar": "http://files.catbox.moe/chvyo2.txt",
       "ext": "https://59.125.210.231:4433",
       "timeout": 30,
       "playerType": 1 
@@ -196,6 +196,7 @@
     }
   ]
 }
+
 
 
 
