@@ -1,4 +1,4 @@
-{
+{{
   "spider": "https://github.com/4TVBox/TVBox/raw/refs/heads/main/custom_spider.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
@@ -138,21 +138,31 @@
       "ext": "1,2,3"
     }
   ],
-  
- {
-    "spider": "http://files.catbox.moe/chvyo2.txt" },
-"lives": [
-{
+  "lives": [
+    {
+      "name": "斯玛特全球直播",
+      "url": "./tv.m3u"
+    },
+    {
+      "name": "BeeSport直播",
+      "type": 3,
+      "api": "./py/live_beesports.py",
+      "ext": {},
+      "header": {
+        "Referer": "https://p.m82xg4z0cdbz7.com/"
+      }
+    },
+   {
       "name": "MQitv",
       "api": "csp_MQiTV",
       "ua": "okhttp",
+      "spider": "http://files.catbox.moe/chvyo2.txt",
       "ext": "https://59.125.210.231:4433",
       "timeout": 30,
-      "playerType": 1
-      
+      "playerType": 1 
     }
-    ]
-     } ,
+ 
+  ],
   "doh": [
     {
       "name": "Google",
@@ -197,6 +207,8 @@
       ]
     }
   ]
+}
+
 
 
 
