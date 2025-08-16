@@ -138,7 +138,7 @@
       "ext": "1,2,3"
     }
   ],
- "lives": [
+"lives": [
     {
       "name": "543",
       "url": "http://tv543.cc/4gtv1.m3u",
@@ -158,6 +158,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "SMT",
+      "url": "http://tv543.cc/smt.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "MQ",
       "api": "csp_MQiTV",
       "jar": "./fm.jar",
@@ -166,7 +172,8 @@
           "name": "MQiTV",
           "url": "https://59.125.210.231:4433"
         }
-  ]
+      ]
+
     }
 
  
@@ -216,6 +223,7 @@
     }
   ]
 }
+
 
 
 
