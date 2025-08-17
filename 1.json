@@ -430,12 +430,6 @@
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
   "lives": [
-    {
-      "name": "543",
-      "url": "http://tv543.cc/4gtv1.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
      {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/gd1.m3u",
@@ -456,5 +450,6 @@
     }
   ]
 }
+
 
 
