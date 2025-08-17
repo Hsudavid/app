@@ -136,6 +136,7 @@ http://tv543.cc/Smart.php?id=eltasport_twn
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="直播",愛爾達體育2台
 http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="直播",愛爾達體育3台
+http://66.90.99.154:8278/eltasport3_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cf5a326a448ec57a9d50a8996aa8a6ad
 #EXTINF:-1 group-title="直播" tvg-name="廈門衛視" tvg-logo="https://epg.112114.xyz/logo/廈門衛視.png" epg-url="https://epg.112114.xyz/pp.xml",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 group-title="直播" tvg-name="CCTV4-中央衛視" tvg-logo="https://epg.112114.xyz/logo/CCTV4-中央衛視.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4-中央衛視
