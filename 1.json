@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
+  "spider": "http://tv543.cc/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
   "wallpaper": "https://imgs.catvod.com",
   "logo": "http://tv543.cc/logo2.gif",
   "sites": [
@@ -78,7 +78,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "./tx.js"
+      "ext": "https://tvbox.catvod.com/js/tx.js"
     },
     {
       "key": "搜狗",
@@ -432,13 +432,13 @@
   "lives": [
     {
       "name": "543",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "url": "http://tv543.cc/4gtv1.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "台灣酒店",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/gd1.m3u",
+      "url": "http://tv543.cc/酒店.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -453,10 +453,10 @@
       "url": "http://tv543.cc/smt.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-  
     }
   ]
 }
+
 
 
 
