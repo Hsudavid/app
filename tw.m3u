@@ -1,4 +1,160 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://logo.doube.eu.org/台视.png" group-title="台灣酒店",台视
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv066
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中視HD" tvg-logo="https://epg.112114.xyz/logo/中視HD.png" epg-url="https://epg.112114.xyz/pp.xml",中視HD
+http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="華視HD" tvg-logo="https://epg.112114.xyz/logo/華視HD.png" epg-url="https://epg.112114.xyz/pp.xml",華視HD
+http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視HD.png" epg-url="https://epg.112114.xyz/pp.xml",民視HD
+http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" epg-url="https://epg.112114.xyz/pp.xml",公視
+http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="大愛電視" tvg-logo="https://epg.112114.xyz/logo/大愛電視.png" epg-url="https://epg.112114.xyz/pp.xml",大愛電視
+http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="好消息GOOD TV" tvg-logo="https://epg.112114.xyz/logo/好消息GOOD TV.png" epg-url="https://epg.112114.xyz/pp.xml",好消息GOOD TV
+http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="Trace Sport Stars" tvg-logo="https://epg.112114.xyz/logo/Trace Sport Stars.png" epg-url="https://epg.112114.xyz/pp.xml",Trace Sport Stars
+http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" epg-url="https://epg.112114.xyz/pp.xml",DISCOVERY
+http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="旅遊生活" tvg-logo="https://epg.112114.xyz/logo/旅遊生活.png" epg-url="https://epg.112114.xyz/pp.xml",旅遊生活
+http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="MOMO親子台" tvg-logo="https://epg.112114.xyz/logo/MOMO親子台.png" epg-url="https://epg.112114.xyz/pp.xml",MOMO親子台
+http://220.134.196.147:8517/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森幼幼HD" tvg-logo="https://epg.112114.xyz/logo/東森幼幼HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森幼幼HD
+http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華卡通台" tvg-logo="https://epg.112114.xyz/logo/龍華卡通台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華卡通台
+http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來綜合HD" tvg-logo="https://epg.112114.xyz/logo/緯來綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來綜合HD
+http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="八大第一HD" tvg-logo="https://epg.112114.xyz/logo/八大第一HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一HD
+http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="八大綜合HD" tvg-logo="https://epg.112114.xyz/logo/八大綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜合HD
+http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="三立台灣HD" tvg-logo="https://epg.112114.xyz/logo/三立台灣HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立台灣HD
+http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="三立都會HD" tvg-logo="https://epg.112114.xyz/logo/三立都會HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立都會HD
+http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="韓國娛樂台" tvg-logo="https://epg.112114.xyz/logo/韓國娛樂台.png" epg-url="https://epg.112114.xyz/pp.xml",韓國娛樂台
+http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森綜合HD" tvg-logo="https://epg.112114.xyz/logo/東森綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森綜合HD
+http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="超視HD" tvg-logo="https://epg.112114.xyz/logo/超視HD.png" epg-url="https://epg.112114.xyz/pp.xml",超視HD
+http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中天綜合HD" tvg-logo="https://epg.112114.xyz/logo/中天綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",中天綜合HD
+http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中天娛樂HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂HD
+http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東風衛視" tvg-logo="https://epg.112114.xyz/logo/東風衛視.png" epg-url="https://epg.112114.xyz/pp.xml",東風衛視
+http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="MUCH TV" tvg-logo="https://epg.112114.xyz/logo/MUCH TV.png" epg-url="https://epg.112114.xyz/pp.xml",MUCH TV
+http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森戲劇HD" tvg-logo="https://epg.112114.xyz/logo/東森戲劇HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森戲劇HD
+http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="八大戲劇HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇HD
+http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS歡樂HD" tvg-logo="https://epg.112114.xyz/logo/TVBS歡樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS歡樂HD
+http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來戲劇" tvg-logo="https://epg.112114.xyz/logo/緯來戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",緯來戲劇
+http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華戲劇台" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華戲劇台
+http://220.134.196.147:8555/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華日韓劇" tvg-logo="https://epg.112114.xyz/logo/龍華日韓劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華日韓劇
+http://220.134.196.147:8531/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華偶像劇" tvg-logo="https://epg.112114.xyz/logo/龍華偶像劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華偶像劇
+http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來日本HD" tvg-logo="https://epg.112114.xyz/logo/緯來日本HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本HD
+http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="Taiwan Plus" tvg-logo="https://epg.112114.xyz/logo/Taiwan Plus.png" epg-url="https://epg.112114.xyz/pp.xml",Taiwan Plus
+http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
+http://tv543.cc/Smart.php?id=niandainews_twn
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森新聞HD" tvg-logo="https://epg.112114.xyz/logo/東森新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森新聞HD
+http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞
+http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",民視新聞
+http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="三立新聞HD" tvg-logo="https://epg.112114.xyz/logo/三立新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立新聞HD
+http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS新聞HD" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新聞HD
+http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS HD" tvg-logo="https://epg.112114.xyz/logo/TVBS HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS HD
+http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="台灣酒店",非凡新聞
+http://106.107.177.201:50007/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="非凡商業HD" tvg-logo="https://epg.112114.xyz/logo/非凡商業HD.png" epg-url="https://epg.112114.xyz/pp.xml",非凡商業HD
+http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森財經HD" tvg-logo="https://epg.112114.xyz/logo/東森財經HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森財經HD
+http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞
+http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://epg.112114.xyz/pp.xml",Bloomberg News
+http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="NHK HD" tvg-logo="https://epg.112114.xyz/logo/NHK HD.png" epg-url="https://epg.112114.xyz/pp.xml",NHK HD
+http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
+#EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜新闻" tvg-logo="https://logo.doube.eu.org/镜电视新闻台.png" group-title="台灣酒店",镜新闻
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 group-title="台灣酒店" tvg-name="好萊塢電影HD" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影HD.png" epg-url="https://epg.112114.xyz/pp.xml",好萊塢電影HD
+http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來電影HD" tvg-logo="https://epg.112114.xyz/logo/緯來電影HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來電影HD
+http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華電影台" tvg-logo="https://epg.112114.xyz/logo/龍華電影台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影台
+http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" epg-url="https://epg.112114.xyz/pp.xml",HBO
+http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" epg-url="https://epg.112114.xyz/pp.xml",AXN
+http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="CINEMAX HD" tvg-logo="https://epg.112114.xyz/logo/CINEMAX HD.png" epg-url="https://epg.112114.xyz/pp.xml",CINEMAX HD
+http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="AMC 電影台" tvg-logo="https://epg.112114.xyz/logo/AMC 電影台.png" epg-url="https://epg.112114.xyz/pp.xml",AMC 電影台
+http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="寵物頻道" tvg-logo="https://epg.112114.xyz/logo/寵物頻道.png" epg-url="https://epg.112114.xyz/pp.xml",寵物頻道
+http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來育樂HD" tvg-logo="https://epg.112114.xyz/logo/緯來育樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂HD
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來體育HD" tvg-logo="https://epg.112114.xyz/logo/緯來體育HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育HD
+http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="博斯運動一" tvg-logo="https://epg.112114.xyz/logo/博斯運動一.png" epg-url="https://epg.112114.xyz/pp.xml",博斯運動一
+http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="momo綜合台" tvg-logo="https://epg.112114.xyz/logo/momo綜合台.png" epg-url="https://epg.112114.xyz/pp.xml",momo綜合台
+http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 1" tvg-logo="https://epg.112114.xyz/logo/DAZN 1.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN 1
+http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 2" tvg-logo="https://epg.112114.xyz/logo/DAZN 2.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN 2
+http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="爱尔达体育1台" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1台.png" epg-url="https://epg.112114.xyz/pp.xml",爱尔达体育1台
+http://tv543.cc/Smart.php?id=eltasport_twn
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
+http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
+http://66.90.99.154:8278/eltasport3_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cf5a326a448ec57a9d50a8996aa8a6ad
+#EXTINF:-1 group-title="台灣酒店" tvg-name="廈門衛視" tvg-logo="https://epg.112114.xyz/logo/廈門衛視.png" epg-url="https://epg.112114.xyz/pp.xml",廈門衛視
+http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="CCTV4-中央衛視" tvg-logo="https://epg.112114.xyz/logo/CCTV4-中央衛視.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4-中央衛視
+http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="海峽衛視" tvg-logo="https://epg.112114.xyz/logo/海峽衛視.png" epg-url="https://epg.112114.xyz/pp.xml",海峽衛視
+http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="浙江衛視" tvg-logo="https://epg.112114.xyz/logo/浙江衛視.png" epg-url="https://epg.112114.xyz/pp.xml",浙江衛視
+http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東方衛視" tvg-logo="https://epg.112114.xyz/logo/東方衛視.png" epg-url="https://epg.112114.xyz/pp.xml",東方衛視
+http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="湖南衛視" tvg-logo="https://epg.112114.xyz/logo/湖南衛視.png" epg-url="https://epg.112114.xyz/pp.xml",湖南衛視
+http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="鳯凰衛視資訊" tvg-logo="https://epg.112114.xyz/logo/鳯凰衛視資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳯凰衛視資訊
+http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="鳯凰衛視中文" tvg-logo="https://epg.112114.xyz/logo/鳯凰衛視中文.png" epg-url="https://epg.112114.xyz/pp.xml",鳯凰衛視中文
+http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
+
+
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://logo.doube.eu.org/中天新闻.png" group-title="台湾频道",中天新闻
 http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻台" tvg-logo="https://logo.doube.eu.org/TVBS新闻.png" group-title="台湾频道",TVBS新闻台
@@ -951,4 +1107,293 @@ http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=mc42afe745533&ct=11448811
 http://66.90.99.154:8278/yoyo_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ef68750fb4c330909e7e893f9be5acd
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="兒童 Kids",靖天卡通台
 http://66.90.99.154:8278/jingtiancartoon_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=388ac680c557bb97ab578a0716d7174a
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="潘多拉完美" tvg-logo="https://logo.catvod.com/潘多拉完美.png" group-title="私人频道_543",潘多拉完美
+p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
+#EXTINF:-1 tvg-name="香蕉" tvg-logo="https://logo.catvod.com/香蕉.png" group-title="私人频道_543",香蕉
+p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
+#EXTINF:-1 tvg-name="松视1" tvg-logo="https://logo.catvod.com/松视1.png" group-title="私人频道_543",松视1
+p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
+#EXTINF:-1 tvg-name="松视2" tvg-logo="https://logo.catvod.com/松视2.png" group-title="私人频道_543",松视2
+p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
+#EXTINF:-1 tvg-name="松视3" tvg-logo="https://logo.catvod.com/松视3.png" group-title="私人频道_543",松视3
+p3p://167.114.175.6:55331/6109e9590001f40bfd9b661109395f3b
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://logo.catvod.com/惊艳.png" group-title="私人频道_543",惊艳
+p3p://167.114.175.6:55331/60626a1b00010e3e6f5a5a4f018e5ebe
+#EXTINF:-1 tvg-name="LOOK" tvg-logo="https://logo.catvod.com/LOOK.png" group-title="私人频道_543",LOOK
+p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
+#EXTINF:-1 tvg-name="HAPPY" tvg-logo="https://logo.catvod.com/HAPPY.png" group-title="私人频道_543",HAPPY
+p3p://167.114.175.6:55331/616b79be000a35b17ab2f7b84c325eeb
+#EXTINF:-1 tvg-name="彩虹e" tvg-logo="https://logo.catvod.com/彩虹e.png" group-title="私人频道_543",彩虹e
+p3p://167.114.175.6:55331/6062716c0008efc86f76f0c44d55329f
+#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://logo.catvod.com/彩虹K.png" group-title="私人频道_543",彩虹K
+p3p://167.114.175.6:55331/63fd56ec000b5f0d26d4fe1b07963493
+#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://logo.catvod.com/彩虹电影.png" group-title="私人频道_543",彩虹电影
+p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
+#EXTINF:-1 tvg-name="彩虹频道" tvg-logo="https://logo.catvod.com/彩虹频道.png" group-title="私人频道_543",彩虹频道
+p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
+#EXTINF:-1 tvg-name="极限电影" tvg-logo="https://logo.catvod.com/极限电影.png" group-title="私人频道_543",极限电影
+p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
+#EXTINF:-1 tvg-name="西方OFFICE场景" tvg-logo="https://logo.catvod.com/西方OFFICE场景.png" group-title="私人频道_543",西方OFFICE场景
+p3p://167.114.175.6:55331/6403cb9f0003a839400cad904b301253
+#EXTINF:-1 tvg-name="西方黑白大战" tvg-logo="https://logo.catvod.com/西方黑白大战.png" group-title="私人频道_543",西方黑白大战
+p3p://167.114.175.6:55331/6403cc0d0000f97a400e5a9115f012f3
+#EXTINF:-1 tvg-name="中字有码1" tvg-logo="https://logo.catvod.com/中字有码1.png" group-title="私人频道_543",中字有码1
+p3p://167.114.175.6:55331/5fe790790005783d8f7e6a1d2f8774e6
+#EXTINF:-1 tvg-name="中字有码2" tvg-logo="https://logo.catvod.com/中字有码2.png" group-title="私人频道_543",中字有码2
+p3p://167.114.175.6:55331/5fea645500007b7e9a898b3d6ea244cf
+#EXTINF:-1 tvg-name="日本j-girl" tvg-logo="https://logo.catvod.com/日本j-girl.png" group-title="私人频道_543",日本j-girl
+p3p://167.114.175.6:55331/5fe6d5ab000d6dc38ca4b77276be2f75
+#EXTINF:-1 tvg-name="上原亚衣" tvg-logo="https://logo.catvod.com/上原亚衣.png" group-title="私人频道_543",上原亚衣
+p3p://167.114.175.6:55331/5fed670a00074c56a64c200b26e62c10
+#EXTINF:-1 tvg-name="日本PPV-1" tvg-logo="https://logo.catvod.com/日本PPV-1.png" group-title="私人频道_543",日本PPV-1
+p3p://167.114.175.6:55331/5fed5578000e28fba6077f774fba6950
+#EXTINF:-1 tvg-name="奥体金丝雀" tvg-logo="https://logo.catvod.com/奥体金丝雀.png" group-title="私人频道_543",奥体金丝雀
+p3p://167.114.175.6:55331/5febb68d000c74979fb2b90c461f0bfb
+#EXTINF:-1 tvg-name="日本VR精品" tvg-logo="https://logo.catvod.com/日本VR精品.png" group-title="私人频道_543",日本VR精品
+p3p://167.114.175.6:55331/5fea649900057d369a8a9626665058f0
+#EXTINF:-1 tvg-name="日本加勒比无码" tvg-logo="https://logo.catvod.com/日本加勒比无码.png" group-title="私人频道_543",日本加勒比无码
+p3p://167.114.175.6:55331/5fe6d4c0000ea3178ca121c83d4b0a39
+#EXTINF:-1 tvg-name="日本东京热无码" tvg-logo="https://logo.catvod.com/日本东京热无码.png" group-title="私人频道_543",日本东京热无码
+p3p://167.114.175.6:55331/5fe6d4f10006c6ec8ca1df2d4bd07a2d
+#EXTINF:-1 tvg-name="韩国演艺圈潜规则" tvg-logo="https://logo.catvod.com/韩国演艺圈潜规则.png" group-title="私人频道_543",韩国演艺圈潜规则
+p3p://167.114.175.6:55331/5fe6d643000a32ae8ca7085f68304b38
+#EXTINF:-1 tvg-name="日本一本道无码" tvg-logo="https://logo.catvod.com/日本一本道无码.png" group-title="私人频道_543",日本一本道无码
+p3p://167.114.175.6:55331/5fe6d4d8000a01508ca17e596611121f
+#EXTINF:-1 tvg-name="日本CATWALK POISON" tvg-logo="https://logo.catvod.com/日本CATWALK POISON.png" group-title="私人频道_543",日本CATWALK POISON
+p3p://167.114.175.6:55331/5fe7fe14000bbbb1912a91354e4b5706
+#EXTINF:-1 tvg-name="日本J-Girl" tvg-logo="https://logo.catvod.com/日本J-Girl.png" group-title="私人频道_543",日本J-Girl
+p3p://167.114.175.6:55331/5fe6d5ab000d6dc38ca4b77276be2f75
+#EXTINF:-1 tvg-name="Miami TV" tvg-logo="https://logo.catvod.com/Miami TV.png" group-title="私人频道_543",Miami TV
+p3p://167.114.175.6:55331/64eefc5700067df3d6beb4ce0b4d4a5d
+#EXTINF:-1 tvg-name="MiamiTV Replay" tvg-logo="https://logo.catvod.com/MiamiTV Replay.png" group-title="私人频道_543",MiamiTV Replay
+p3p://167.114.175.6:55331/6741be80000386ff2760429d742944e0
+#EXTINF:-1 tvg-name="大神猫先生" tvg-logo="https://logo.catvod.com/大神猫先生.png" group-title="私人频道_543",大神猫先生
+p3p://167.114.175.6:55331/5fed7efe000093e8a6a9af6f691c7583
+#EXTINF:-1 tvg-name="麻豆天美传媒" tvg-logo="https://logo.catvod.com/麻豆天美传媒.png" group-title="私人频道_543",麻豆天美传媒
+p3p://167.114.175.6:55331/61bff85e00029535c4bd1c4f47fb5400
+#EXTINF:-1 tvg-name="七天极品探花" tvg-logo="https://logo.catvod.com/七天极品探花.png" group-title="私人频道_543",七天极品探花
+p3p://167.114.175.6:55331/62ca5692000275f2c95644b27e04396b
+#EXTINF:-1 tvg-name="苍井空" tvg-logo="https://logo.catvod.com/苍井空.png" group-title="私人频道_543",苍井空
+p3p://167.114.175.6:55331/5fea6483000512cf9a8a401a24db1f4e
+#EXTINF:-1 tvg-name="波多野结衣" tvg-logo="https://logo.catvod.com/波多野结衣.png" group-title="私人频道_543",波多野结衣
+p3p://167.114.175.6:55331/5fe6d96b000d95298cb35d8161902e91
+#EXTINF:-1 tvg-name="Heyzo无码" tvg-logo="https://logo.catvod.com/Heyzo无码.png" group-title="私人频道_543",Heyzo无码
+p3p://167.114.175.6:55331/5fe8014b0007228691371ed44a517e44
+#EXTINF:-1 tvg-name="人妻斩" tvg-logo="https://logo.catvod.com/人妻斩.png" group-title="私人频道_543",人妻斩
+p3p://167.114.175.6:55331/5fe7fd63000e253a9127de6a777d49b4
+#EXTINF:-1 tvg-name="猫步毒药" tvg-logo="https://logo.catvod.com/猫步毒药.png" group-title="私人频道_543",猫步毒药
+p3p://167.114.175.6:55331/5fe7fe14000bbbb1912a91354e4b5706
+#EXTINF:-1 tvg-name="人妻熟女" tvg-logo="https://logo.catvod.com/人妻熟女.png" group-title="私人频道_543",人妻熟女
+p3p://167.114.175.6:55331/5fe8019000071e4f91382c5b7fef4506
+#EXTINF:-1 tvg-name="素人动画" tvg-logo="https://logo.catvod.com/素人动画.png" group-title="私人频道_543",素人动画
+p3p://167.114.175.6:55331/5fe7ff6e0001271f912fd60179236471
+#EXTINF:-1 tvg-name="XXXAV" tvg-logo="https://logo.catvod.com/XXXAV.png" group-title="私人频道_543",XXXAV
+p3p://167.114.175.6:55331/5fe80214000d2ec8913a3189085b6434
+#EXTINF:-1 tvg-name="黑珍珠" tvg-logo="https://logo.catvod.com/黑珍珠.png" group-title="私人频道_543",黑珍珠
+p3p://fccsen.dyndns.tv:29706/5e17adad000be87d05e8384a1be757b6
+#EXTINF:-1 tvg-name="色情世界" tvg-logo="https://logo.catvod.com/色情世界.png" group-title="私人频道_543",色情世界
+p3p://fccsen.dyndns.tv:29706/641668210006c654685657293a3f03ba
+#EXTINF:-1 tvg-name="人妻出轨" tvg-logo="https://logo.catvod.com/人妻出轨.png" group-title="私人频道_543",人妻出轨
+p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
+#EXTINF:-1 tvg-name="日本天热素人" tvg-logo="https://logo.catvod.com/日本天热素人.png" group-title="私人频道_543",日本天热素人
+p3p://167.114.175.6:55331/5fe6d51e0009f6db8ca28fc66a750553
+#EXTINF:-1 tvg-name="FC2PPV-1" tvg-logo="https://logo.catvod.com/FC2PPV-1.png" group-title="私人频道_543",FC2PPV-1
+p3p://167.114.175.6:55331/5fed5578000e28fba6077f774fba6950
+#EXTINF:-1 tvg-name="Play boy" tvg-logo="https://logo.catvod.com/Play boy.png" group-title="私人频道_543",Play boy
+p3p://fccsen.dyndns.tv:29706/6277188600044b271208d22208f54f69
+#EXTINF:-1 tvg-name="古川伊织" tvg-logo="https://logo.catvod.com/古川伊织.png" group-title="私人频道_543",古川伊织
+p3p://167.114.175.6:55331/5ff7430900000f8fcccf091c30805ccb
+#EXTINF:-1 tvg-name="日本无码破解" tvg-logo="https://logo.catvod.com/日本无码破解.png" group-title="私人频道_543",日本无码破解
+p3p://167.114.175.6:55331/5fef580000022fb6ade15fa160a61ae1
+#EXTINF:-1 tvg-name="迷奸无码" tvg-logo="https://logo.catvod.com/迷奸无码.png" group-title="私人频道_543",迷奸无码
+p3p://167.114.175.6:55331/5ff201c40003b7e3b8481485121959a6
+#EXTINF:-1 tvg-name="经典三级片1" tvg-logo="https://logo.catvod.com/经典三级片1.png" group-title="私人频道_543",经典三级片1
+p3p://167.114.175.6:55331/62dac52e00087a70098570f12b7962e5
+#EXTINF:-1 tvg-name="日本情色动漫1" tvg-logo="https://logo.catvod.com/日本情色动漫1.png" group-title="私人频道_543",日本情色动漫1
+p3p://167.114.175.6:55331/5ff742d8000bbabbccce4cb0100a31ff
+#EXTINF:-1 tvg-name="麻豆大番" tvg-logo="https://logo.catvod.com/麻豆大番.png" group-title="私人频道_543",麻豆大番
+p3p://167.114.175.6:55331/5fee099a000e4a8da8c7244c6ff632e3
+#EXTINF:-1 tvg-name="麻豆导演" tvg-logo="https://logo.catvod.com/麻豆导演.png" group-title="私人频道_543",麻豆导演
+p3p://167.114.175.6:55331/5fee723900074e31aa5fcfa0561f1b95
+#EXTINF:-1 tvg-name="麻豆外番" tvg-logo="https://logo.catvod.com/麻豆外番.png" group-title="私人频道_543",麻豆外番
+p3p://167.114.175.6:55331/5fee86ee0006ce80aab0b2811d842258
+#EXTINF:-1 tvg-name="麻豆台湾" tvg-logo="https://logo.catvod.com/麻豆台湾.png" group-title="私人频道_543",麻豆台湾
+p3p://167.114.175.6:55331/5fef5ed40002a464adfc0be76180670f
+#EXTINF:-1 tvg-name="91沈先生" tvg-logo="https://logo.catvod.com/91沈先生.png" group-title="私人频道_543",91沈先生
+p3p://167.114.175.6:55331/5fee5d4500060214aa0df631581d3164
+#EXTINF:-1 tvg-name="鸭总探花" tvg-logo="https://logo.catvod.com/鸭总探花.png" group-title="私人频道_543",鸭总探花
+p3p://167.114.175.6:55331/5fee5d6300022e98aa0e6a660e9f6d9f
+#EXTINF:-1 tvg-name="金三角猎艳" tvg-logo="https://logo.catvod.com/金三角猎艳.png" group-title="私人频道_543",金三角猎艳
+p3p://167.114.175.6:55331/5fedf9d60007fb5ca8898d0b546620cc
+#EXTINF:-1 tvg-name="黑人干翻天" tvg-logo="https://logo.catvod.com/黑人干翻天.png" group-title="私人频道_543",黑人干翻天
+p3p://167.114.175.6:55331/5fedfa1c00068347a88a9e1b1b517e42
+#EXTINF:-1 tvg-name="千人斩" tvg-logo="https://logo.catvod.com/千人斩.png" group-title="私人频道_543",千人斩
+p3p://167.114.175.6:55331/5fee93e80000c61aaae361853fd36c1f
+#EXTINF:-1 tvg-name="小宝寻花" tvg-logo="https://logo.catvod.com/小宝寻花.png" group-title="私人频道_543",小宝寻花
+p3p://167.114.175.6:55331/5fee940f000cad40aae3fce963f95891
+#EXTINF:-1 tvg-name="午夜寻花" tvg-logo="https://logo.catvod.com/午夜寻花.png" group-title="私人频道_543",午夜寻花
+p3p://167.114.175.6:55331/5ff22f59000ea2d6b8fa255a1d4c635c
+#EXTINF:-1 tvg-name="男爵探花" tvg-logo="https://logo.catvod.com/男爵探花.png" group-title="私人频道_543",男爵探花
+p3p://167.114.175.6:55331/62bf9f8c000c9a4c9f7bcb53499c786f
+#EXTINF:-1 tvg-name="大陆迷奸" tvg-logo="https://logo.catvod.com/大陆迷奸.png" group-title="私人频道_543",大陆迷奸
+p3p://167.114.175.6:55331/5ff395d60009ac7fbe727c5c77ee33a8
+#EXTINF:-1 tvg-name="SM西贡女" tvg-logo="https://logo.catvod.com/SM西贡女.png" group-title="私人频道_543",SM西贡女
+p3p://167.114.175.6:55331/5ff92d000005f07cd448f7774faa47bd
+#EXTINF:-1 tvg-name="PsychopornTW" tvg-logo="https://logo.catvod.com/PsychopornTW.png" group-title="私人频道_543",PsychopornTW
+p3p://167.114.175.6:55331/5ff399460003af78be7fe8571735593d
+#EXTINF:-1 tvg-name="俄罗斯毛子" tvg-logo="https://logo.catvod.com/俄罗斯毛子.png" group-title="私人频道_543",俄罗斯毛子
+p3p://167.114.175.6:55331/5fef89a7000537fcaea354cc0cff353a
+#EXTINF:-1 tvg-name="美国家庭" tvg-logo="https://logo.catvod.com/美国家庭.png" group-title="私人频道_543",美国家庭
+p3p://167.114.175.6:55331/5ff7341b000bdc38cc94ba7e6b763297
+#EXTINF:-1 tvg-name="欧美艺术" tvg-logo="https://logo.catvod.com/欧美艺术.png" group-title="私人频道_543",欧美艺术
+p3p://167.114.175.6:55331/607e1f9f0004af8edb961118303e4935
+#EXTINF:-1 tvg-name="果冻传媒" tvg-logo="https://logo.catvod.com/果冻传媒.png" group-title="私人频道_543",果冻传媒
+p3p://167.114.175.6:55331/5ff5420900039286c4fb220f4b133915
+#EXTINF:-1 tvg-name="利哥探花 1" tvg-logo="https://logo.catvod.com/利哥探花 1.png" group-title="私人频道_543",利哥探花 1
+p3p://167.114.175.6:55331/61b4e9970009588e998c4b9532e01f5f
+#EXTINF:-1 tvg-name="利哥探花 2" tvg-logo="https://logo.catvod.com/利哥探花 2.png" group-title="私人频道_543",利哥探花 2
+p3p://167.114.175.6:55331/64ebf4ae0000f1c2cae8c73738a337d4
+#EXTINF:-1 tvg-name="精东影业" tvg-logo="https://logo.catvod.com/精东影业.png" group-title="私人频道_543",精东影业
+p3p://167.114.175.6:55331/6135966100022f18a83512374f864fd8
+#EXTINF:-1 tvg-name="香港三级2" tvg-logo="https://logo.catvod.com/香港三级2.png" group-title="私人频道_543",香港三级2
+p3p://167.114.175.6:55331/607e0dca0005cd6ddb506963435f6f5a
+#EXTINF:-1 tvg-name="中文有码3" tvg-logo="https://logo.catvod.com/中文有码3.png" group-title="私人频道_543",中文有码3
+p3p://167.114.175.6:55331/5ff70064000178a1cbcab4ef4f5f0bd9
+#EXTINF:-1 tvg-name="天台素人约啪" tvg-logo="https://logo.catvod.com/天台素人约啪.png" group-title="私人频道_543",天台素人约啪
+p3p://167.114.175.6:55331/5fea646c000b95d79a89e7ed2c483b7a
+#EXTINF:-1 tvg-name="日本强奸迷奸无码" tvg-logo="https://logo.catvod.com/日本强奸迷奸无码.png" group-title="私人频道_543",日本强奸迷奸无码
+p3p://167.114.175.6:55331/5ff201c40003b7e3b8481485121959a6
+#EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://logo.catvod.com/Brazzers.png" group-title="私人频道_543",Brazzers
+p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
+#EXTINF:-1 tvg-name="sky angel blue" tvg-logo="https://logo.catvod.com/sky angel blue.png" group-title="私人频道_543",sky angel blue
+p3p://167.114.175.6:55331/6135967b0008b0e7a83579725d7b7ab3
+#EXTINF:-1 tvg-name="IBIZA 巨乳控" tvg-logo="https://logo.catvod.com/IBIZA 巨乳控.png" group-title="私人频道_543",IBIZA 巨乳控
+p3p://167.114.175.6:55331/644ecb5f000ca4ee650265db655d0248
+#EXTINF:-1 tvg-name="Dorcel XXX" tvg-logo="https://logo.catvod.com/Dorcel XXX.png" group-title="私人频道_543",Dorcel XXX
+p3p://fccsen.dyndns.tv:29706/5e5f0e09000182301cb87c94194b43d6
+#EXTINF:-1 tvg-name="Vivid red" tvg-logo="https://logo.catvod.com/Vivid red.png" group-title="私人频道_543",Vivid red
+p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
+#EXTINF:-1 tvg-name="She Will Cheat" tvg-logo="https://logo.catvod.com/She Will Cheat.png" group-title="私人频道_543",She Will Cheat
+p3p://fccsen.dyndns.tv:29706/5e17adf800008ec005e95a5b2fd52e46
+#EXTINF:-1 tvg-name="西方21Member" tvg-logo="https://logo.catvod.com/西方21Member.png" group-title="私人频道_543",西方21Member
+p3p://fccsen.dyndns.tv:29706/5e17abd00009bc1705e0f07217340dd2
+#EXTINF:-1 tvg-name="Hustler" tvg-logo="https://logo.catvod.com/Hustler.png" group-title="私人频道_543",Hustler
+p3p://fccsen.dyndns.tv:29706/5f4730e9000077ee9eea293625b72a20
+#EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://logo.catvod.com/Dorcel.png" group-title="私人频道_543",Dorcel
+p3p://167.114.175.6:55331/658c2fcf0002ef0b3ccce8c504890f86
+#EXTINF:-1 tvg-name="Dorcel" tvg-logo="https://logo.catvod.com/Dorcel.png" group-title="私人频道_543",Dorcel
+p3p://fccsen.dyndns.tv:29706/5e1790de0003b7030577ad962f2a2e23
+#EXTINF:-1 tvg-name="Private" tvg-logo="https://logo.catvod.com/Private.png" group-title="私人频道_543",Private
+p3p://fccsen.dyndns.tv:29706/5f501ac6000cc310c1bbaa8c347a116c
+#EXTINF:-1 tvg-name="Red Light" tvg-logo="https://logo.catvod.com/Red Light.png" group-title="私人频道_543",Red Light
+p3p://fccsen.dyndns.tv:29706/5a067bf9000f1b7e64fcd49f5f2824a3
+#EXTINF:-1 tvg-name="Red Light" tvg-logo="https://logo.catvod.com/Red Light.png" group-title="私人频道_543",Red Light
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Blue hustler" tvg-logo="https://logo.catvod.com/Blue hustler.png" group-title="私人频道_543",Blue hustler
+p3p://fccsen.dyndns.tv:29706/5dafb71b0009445d6fcd34bb78fe5d75
+#EXTINF:-1 tvg-name="西方1ON1" tvg-logo="https://logo.catvod.com/西方1ON1.png" group-title="私人频道_543",西方1ON1
+p3p://fccsen.dyndns.tv:29706/5e17918f0007f7ba057a621643ef715d
+#EXTINF:-1 tvg-name="西方21Sextuary" tvg-logo="https://logo.catvod.com/西方21Sextuary.png" group-title="私人频道_543",西方21Sextuary
+p3p://fccsen.dyndns.tv:29706/5e17ab7b0001558105dfa24354ee4f39
+#EXTINF:-1 tvg-name="Babes TV" tvg-logo="https://logo.catvod.com/Babes TV.png" group-title="私人频道_543",Babes TV
+p3p://fccsen.dyndns.tv:29706/5b2c5589000853b7e0d48153016e5aa6
+#EXTINF:-1 tvg-name="Penthouse TV" tvg-logo="https://logo.catvod.com/Penthouse TV.png" group-title="私人频道_543",Penthouse TV
+p3p://fccsen.dyndns.tv:29706/59d2eaea00060e7baff23f1e7daf63ee
+#EXTINF:-1 tvg-name="GayVN Awards" tvg-logo="https://logo.catvod.com/GayVN Awards.png" group-title="私人频道_543",GayVN Awards
+p3p://fccsen.dyndns.tv:29706/62d721b700012a9e892c441a509d4099
+#EXTINF:-1 tvg-name="Penthouse Gold" tvg-logo="https://logo.catvod.com/Penthouse Gold.png" group-title="私人频道_543",Penthouse Gold
+p3p://fccsen.dyndns.tv:29706/5e5efc5b0006e9331c736e50578b1f56
+#EXTINF:-1 tvg-name="Naughty Office" tvg-logo="https://logo.catvod.com/Naughty Office.png" group-title="私人频道_543",Naughty Office
+p3p://fccsen.dyndns.tv:29706/5e17ad26000eb97105e629aa71325eb8
+#EXTINF:-1 tvg-name="BLACKED" tvg-logo="https://logo.catvod.com/BLACKED.png" group-title="私人频道_543",BLACKED
+p3p://fccsen.dyndns.tv:29706/5e17913c000316b805791c9d6fa304e5
+#EXTINF:-1 tvg-name="PRESTIGE JP" tvg-logo="https://logo.catvod.com/PRESTIGE JP.png" group-title="私人频道_543",PRESTIGE JP
+p3p://fccsen.dyndns.tv:29706/615a63c4000004ecb9e75b391b680a9f
+#EXTINF:-1 tvg-name="Naughty America" tvg-logo="https://logo.catvod.com/Naughty America.png" group-title="私人频道_543",Naughty America
+p3p://167.114.175.6:55331/64046ff400057a05428e9a0e08ec2d0f
+#EXTINF:-1 tvg-name="Low Cost Sex" tvg-logo="https://logo.catvod.com/Low Cost Sex.png" group-title="私人频道_543",Low Cost Sex
+p3p://fccsen.dyndns.tv:29706/5e17ac63000f31fa05e330101478092e
+#EXTINF:-1 tvg-name="BlackedRAW" tvg-logo="https://logo.catvod.com/BlackedRAW.png" group-title="私人频道_543",BlackedRAW
+p3p://fccsen.dyndns.tv:29706/5bbe9eff00053e961c4221d148f46d1e
+#EXTINF:-1 tvg-name="Black Girl" tvg-logo="https://logo.catvod.com/Black Girl.png" group-title="私人频道_543",Black Girl
+p3p://fccsen.dyndns.tv:29706/5e17adad000be87d05e8384a1be757b6
+#EXTINF:-1 tvg-name="Legal Porno" tvg-logo="https://logo.catvod.com/Legal Porno.png" group-title="私人频道_543",Legal Porno
+p3p://fccsen.dyndns.tv:29706/5a653bda000ae55cd7199e7c4d9e7d0c
+#EXTINF:-1 tvg-name="Grandpas Fuck" tvg-logo="https://logo.catvod.com/Grandpas Fuck.png" group-title="私人频道_543",Grandpas Fuck
+p3p://fccsen.dyndns.tv:29706/5e1f498c0000045623a10a063c6274bb
+#EXTINF:-1 tvg-name="Little Caprice" tvg-logo="https://logo.catvod.com/Little Caprice.png" group-title="私人频道_543",Little Caprice
+p3p://fccsen.dyndns.tv:29706/5e1f4c5b0005cf6623ac041d7dd42992
+#EXTINF:-1 tvg-name="BitchStop" tvg-logo="https://logo.catvod.com/BitchStop.png" group-title="私人频道_543",BitchStop
+p3p://fccsen.dyndns.tv:29706/629b785c0009cbd1a01f084a617a5f80
+#EXTINF:-1 tvg-name="Vivid Touch" tvg-logo="https://logo.catvod.com/Vivid Touch.png" group-title="私人频道_543",Vivid Touch
+p3p://fccsen.dyndns.tv:29706/61a45c950006d818dadb146836f778c5
+#EXTINF:-1 tvg-name="Marc Dorcel" tvg-logo="https://logo.catvod.com/Marc Dorcel.png" group-title="私人频道_543",Marc Dorcel
+p3p://fccsen.dyndns.tv:29706/5e17ac190000d03605e20b517994427b
+#EXTINF:-1 tvg-name="Arab SexPose" tvg-logo="https://logo.catvod.com/Arab SexPose.png" group-title="私人频道_543",Arab SexPose
+p3p://fccsen.dyndns.tv:29706/5ebed08f000e1ea292c8367e1f295ce2
+#EXTINF:-1 tvg-name="Blue Pill Man" tvg-logo="https://logo.catvod.com/Blue Pill Man.png" group-title="私人频道_543",Blue Pill Man
+p3p://fccsen.dyndns.tv:29706/5e178ff4000690a805741c40783a7cf5
+#EXTINF:-1 tvg-name="DDF Thailand" tvg-logo="https://logo.catvod.com/DDF Thailand.png" group-title="私人频道_543",DDF Thailand
+p3p://fccsen.dyndns.tv:29706/5e17ae40000b2dff05ea76532e9f639a
+#EXTINF:-1 tvg-name="Anikkas" tvg-logo="https://logo.catvod.com/Anikkas.png" group-title="私人频道_543",Anikkas
+p3p://fccsen.dyndns.tv:29706/5f47309200047e959ee8d66569de0d94
+#EXTINF:-1 tvg-name="X-ART" tvg-logo="https://logo.catvod.com/X-ART.png" group-title="私人频道_543",X-ART
+p3p://fccsen.dyndns.tv:29706/5bf5804b000c1f94f2a1bb68696a6fef
+#EXTINF:-1 tvg-name="Mofos" tvg-logo="https://logo.catvod.com/Mofos.png" group-title="私人频道_543",Mofos
+p3p://fccsen.dyndns.tv:29706/5bff56d9000b3e2a190fc1f71a56397f
+#EXTINF:-1 tvg-name="Kinpatu JP" tvg-logo="https://logo.catvod.com/Kinpatu JP.png" group-title="私人频道_543",Kinpatu JP
+p3p://fccsen.dyndns.tv:29706/5bff5847000dfb1d1915585c0ec87b11
+#EXTINF:-1 tvg-name="Fucked and Bound" tvg-logo="https://logo.catvod.com/Fucked and Bound.png" group-title="私人频道_543",Fucked and Bound
+p3p://fccsen.dyndns.tv:29706/5ca77a06000ba882679f7004005f3200
+#EXTINF:-1 tvg-name="MiamiTVMéxico" tvg-logo="https://logo.catvod.com/MiamiTVMéxico.png" group-title="私人频道_543",MiamiTVMéxico
+p3p://167.114.175.6:55331/64ef00bf000eb051d6cfed1d17c05ca9
+#EXTINF:-1 tvg-name="Cumshots" tvg-logo="https://logo.catvod.com/Cumshots.png" group-title="私人频道_543",Cumshots
+p3p://fccsen.dyndns.tv:29706/5d430bf20009746dc750faef0d6557a7
+#EXTINF:-1 tvg-name="Foot Factory" tvg-logo="https://logo.catvod.com/Foot Factory.png" group-title="私人频道_543",Foot Factory
+p3p://fccsen.dyndns.tv:29706/5d430c85000d7cb0c7533a302af02f25
+#EXTINF:-1 tvg-name="FreakMob Media" tvg-logo="https://logo.catvod.com/FreakMob Media.png" group-title="私人频道_543",FreakMob Media
+p3p://fccsen.dyndns.tv:29706/629ad314000794749d9966725dd6305a
+#EXTINF:-1 tvg-name="BANG" tvg-logo="https://logo.catvod.com/BANG.png" group-title="私人频道_543",BANG
+p3p://fccsen.dyndns.tv:29706/5ddffb1f000999e52c56d1b42ead282a
+#EXTINF:-1 tvg-name="Red Hot TV" tvg-logo="https://logo.catvod.com/Red Hot TV.png" group-title="私人频道_543",Red Hot TV
+p3p://fccsen.dyndns.tv:29706/6143b50500078445614cdfe0784e56f3
+#EXTINF:-1 tvg-name="Exxxtasy" tvg-logo="https://logo.catvod.com/Exxxtasy.png" group-title="私人频道_543",Exxxtasy
+p3p://fccsen.dyndns.tv:29706/6143b4e50005f679614c627730ee5ea3
+#EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://logo.catvod.com/Erox HD.png" group-title="私人频道_543",Erox HD
+p3p://fccsen.dyndns.tv:29706/61aac7b10005db8af3ed798454290d19
+#EXTINF:-1 tvg-name="Banana Fever" tvg-logo="https://logo.catvod.com/Banana Fever.png" group-title="私人频道_543",Banana Fever
+p3p://fccsen.dyndns.tv:29706/5e38baaf00012b038702f2f809ef76e7
+#EXTINF:-1 tvg-name="Perv City" tvg-logo="https://logo.catvod.com/Perv City.png" group-title="私人频道_543",Perv City
+p3p://fccsen.dyndns.tv:29706/615a52130005994ab9a24142316f72ab
+#EXTINF:-1 tvg-name="BRATTY SIS" tvg-logo="https://logo.catvod.com/BRATTY SIS.png" group-title="私人频道_543",BRATTY SIS
+p3p://fccsen.dyndns.tv:29706/615a557e00052830b9af9b247d492c75
+#EXTINF:-1 tvg-name="CUM 4K" tvg-logo="https://logo.catvod.com/CUM 4K.png" group-title="私人频道_543",CUM 4K
+p3p://fccsen.dyndns.tv:29706/615a56f9000a62d9b9b564e80644722c
+#EXTINF:-1 tvg-name="BUSTY LOVER" tvg-logo="https://logo.catvod.com/BUSTY LOVER.png" group-title="私人频道_543",BUSTY LOVER
+p3p://fccsen.dyndns.tv:29706/633f867200075b1f20f5416b0d4f4bc9
+#EXTINF:-1 tvg-name="DAUGHTER SWAP" tvg-logo="https://logo.catvod.com/DAUGHTER SWAP.png" group-title="私人频道_543",DAUGHTER SWAP
+p3p://fccsen.dyndns.tv:29706/615a575900054fe9b9b6daa46a662a30
+#EXTINF:-1 tvg-name="DEEPER" tvg-logo="https://logo.catvod.com/DEEPER.png" group-title="私人频道_543",DEEPER
+p3p://fccsen.dyndns.tv:29706/615a577d000b95b3b9b768de22ec7909
+#EXTINF:-1 tvg-name="DIGITAL PLAYGROUND" tvg-logo="https://logo.catvod.com/DIGITAL PLAYGROUND.png" group-title="私人频道_543",DIGITAL PLAYGROUND
+p3p://fccsen.dyndns.tv:29706/615a57a600008eabb9b806365d1c029b
+#EXTINF:-1 tvg-name="Pure Mature" tvg-logo="https://logo.catvod.com/Pure Mature.png" group-title="私人频道_543",Pure Mature
+p3p://fccsen.dyndns.tv:29706/615a51d8000c96d1b9a15c8e427a0fea
+#EXTINF:-1 tvg-name="EROTIC SPICE" tvg-logo="https://logo.catvod.com/EROTIC SPICE.png" group-title="私人频道_543",EROTIC SPICE
+p3p://fccsen.dyndns.tv:29706/615a58860004b097b9bb72410c9a7ad3
+#EXTINF:-1 tvg-name="EXXXTRA SMALL" tvg-logo="https://logo.catvod.com/EXXXTRA SMALL.png" group-title="私人频道_543",EXXXTRA SMALL
+p3p://fccsen.dyndns.tv:29706/615a58ab0008c02ab9bc03d564c7327a
+#EXTINF:-1 tvg-name="FAKE AGENT" tvg-logo="https://logo.catvod.com/FAKE AGENT.png" group-title="私人频道_543",FAKE AGENT
+p3p://fccsen.dyndns.tv:29706/615a58fd0007a1c8b9bd43d151270d9b
+#EXTINF:-1 tvg-name="FAKE HOSPITAL" tvg-logo="https://logo.catvod.com/FAKE HOSPITAL.png" group-title="私人频道_543",FAKE HOSPITAL
+p3p://fccsen.dyndns.tv:29706/615a5bb90005f820b9c7f1cc2cfe5f8e
+#EXTINF:-1 tvg-name="FAKE TAXI" tvg-logo="https://logo.catvod.com/FAKE TAXI.png" group-title="私人频道_543",FAKE TAXI
+p3p://fccsen.dyndns.tv:29706/615a5c0e000a608eb9c93ef2199b14e4
+#EXTINF:-1 tvg-name="FORGIVE ME FATHER" tvg-logo="https://logo.catvod.com/FORGIVE ME FATHER.png" group-title="私人频道_543",FORGIVE ME FATHER
+p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
+#EXTINF:-1 tvg-name="FEMALE AGENT" tvg-logo="https://logo.catvod.com/FEMALE AGENT.png" group-title="私人频道_543",FEMALE AGENT
+p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
+#EXTINF:-1 tvg-name="MOM TEACH SEX" tvg-logo="https://logo.catvod.com/MOM TEACH SEX.png" group-title="私人频道_543",MOM TEACH SEX
+p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
 
