@@ -131,12 +131,12 @@ http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 2" tvg-logo="https://epg.112114.xyz/logo/DAZN 2.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN 2
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="爱尔达体育1台" tvg-logo="https://epg.112114.xyz/logo/爱尔达体育1台.png" epg-url="https://epg.112114.xyz/pp.xml",爱尔达体育1台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="愛爾達體育1台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育1台.png" epg-url="https://epg.112114.xyz/pp.xml",愛爾達體育1台
 http://tv543.cc/Smart.php?id=eltasport_twn
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
-http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
-http://66.90.99.154:8278/eltasport3_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cf5a326a448ec57a9d50a8996aa8a6ad
+#EXTINF:-1 group-title="台灣酒店" tvg-name="愛爾達體育2台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2台.png" epg-url="https://epg.112114.xyz/pp.xml",愛爾達體育2台
+http://tv543.cc/Smart.php?id=eltasport2_twn
+#EXTINF:-1 group-title="台灣酒店" tvg-name="愛爾達體育3台" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育3台.png" epg-url="https://epg.112114.xyz/pp.xml",愛爾達體育3台
+http://tv543.cc/Smart.php?id=eltasport3_twn
 #EXTINF:-1 group-title="台灣酒店" tvg-name="廈門衛視" tvg-logo="https://epg.112114.xyz/logo/廈門衛視.png" epg-url="https://epg.112114.xyz/pp.xml",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="CCTV4-中央衛視" tvg-logo="https://epg.112114.xyz/logo/CCTV4-中央衛視.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4-中央衛視
@@ -1107,6 +1107,8 @@ http://66.90.99.154:8278/Nickelodeon/playlist.m3u8?tid=mc42afe745533&ct=11448811
 http://66.90.99.154:8278/yoyo_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=3ef68750fb4c330909e7e893f9be5acd
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="兒童 Kids",靖天卡通台
 http://66.90.99.154:8278/jingtiancartoon_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=388ac680c557bb97ab578a0716d7174a
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+
 
 
 
