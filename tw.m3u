@@ -1,135 +1,135 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://logo.doube.eu.org/台视.png" group-title="台灣酒店",台视
 http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv066
-#EXTINF:-1 group-title="台灣酒店" tvg-name="中視HD" tvg-logo="https://epg.112114.xyz/logo/中視HD.png" epg-url="https://epg.112114.xyz/pp.xml",中視HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中視HD" tvg-logo="https://logo.doube.eu.org/中視HD.png" epg-url="https://epg.112114.xyz/pp.xml",中視HD
 http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="華視HD" tvg-logo="https://epg.112114.xyz/logo/華視HD.png" epg-url="https://epg.112114.xyz/pp.xml",華視HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="華視HD" tvg-logo="https://logo.doube.eu.org/華視HD.png" epg-url="https://epg.112114.xyz/pp.xml",華視HD
 http://220.134.196.147:8539/http/61.219.99.20:8081/hls/89/80/Cts4max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視HD.png" epg-url="https://epg.112114.xyz/pp.xml",民視HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="民視HD" tvg-logo="https://logo.doube.eu.org/民視HD.png" epg-url="https://epg.112114.xyz/pp.xml",民視HD
 http://220.134.196.147:9574/http/61.219.99.20:8081/hls/85/80/Ftv4max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="公視" tvg-logo="https://epg.112114.xyz/logo/公視.png" epg-url="https://epg.112114.xyz/pp.xml",公視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="公視" tvg-logo="https://logo.doube.eu.org/公視.png" epg-url="https://epg.112114.xyz/pp.xml",公視
 http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="人間衛視" tvg-logo="https://logo.doube.eu.org/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
 http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="大愛電視" tvg-logo="https://epg.112114.xyz/logo/大愛電視.png" epg-url="https://epg.112114.xyz/pp.xml",大愛電視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="大愛電視" tvg-logo="https://logo.doube.eu.org/大愛電視.png" epg-url="https://epg.112114.xyz/pp.xml",大愛電視
 http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="好消息GOOD TV" tvg-logo="https://epg.112114.xyz/logo/好消息GOOD TV.png" epg-url="https://epg.112114.xyz/pp.xml",好消息GOOD TV
+#EXTINF:-1 group-title="台灣酒店" tvg-name="好消息GOOD TV" tvg-logo="https://logo.doube.eu.org/好消息GOOD TV.png" epg-url="https://epg.112114.xyz/pp.xml",好消息GOOD TV
 http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="Trace Sport Stars" tvg-logo="https://epg.112114.xyz/logo/Trace Sport Stars.png" epg-url="https://epg.112114.xyz/pp.xml",Trace Sport Stars
+#EXTINF:-1 group-title="台灣酒店" tvg-name="Trace Sport Stars" tvg-logo="https://logo.doube.eu.org/Trace Sport Stars.png" epg-url="https://epg.112114.xyz/pp.xml",Trace Sport Stars
 http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="DISCOVERY" tvg-logo="https://epg.112114.xyz/logo/DISCOVERY.png" epg-url="https://epg.112114.xyz/pp.xml",DISCOVERY
+#EXTINF:-1 group-title="台灣酒店" tvg-name="DISCOVERY" tvg-logo="https://logo.doube.eu.org/DISCOVERY.png" epg-url="https://epg.112114.xyz/pp.xml",DISCOVERY
 http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="旅遊生活" tvg-logo="https://epg.112114.xyz/logo/旅遊生活.png" epg-url="https://epg.112114.xyz/pp.xml",旅遊生活
+#EXTINF:-1 group-title="台灣酒店" tvg-name="旅遊生活" tvg-logo="https://logo.doube.eu.org/旅遊生活.png" epg-url="https://epg.112114.xyz/pp.xml",旅遊生活
 http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+#EXTINF:-1 group-title="台灣酒店" tvg-name="動物星球" tvg-logo="https://logo.doube.eu.org/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
 http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+#EXTINF:-1 group-title="台灣酒店" tvg-name="亞洲旅遊" tvg-logo="https://logo.doube.eu.org/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
 http://220.134.196.147:8579/http/61.219.99.20:8081/hls/76/818/ch61.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="MOMO親子台" tvg-logo="https://epg.112114.xyz/logo/MOMO親子台.png" epg-url="https://epg.112114.xyz/pp.xml",MOMO親子台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="MOMO親子台" tvg-logo="https://logo.doube.eu.org/MOMO親子台.png" epg-url="https://epg.112114.xyz/pp.xml",MOMO親子台
 http://220.134.196.147:8517/http/61.219.99.20:8081/hls/90/80/momo4max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東森幼幼HD" tvg-logo="https://epg.112114.xyz/logo/東森幼幼HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森幼幼HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森幼幼HD" tvg-logo="https://logo.doube.eu.org/東森幼幼HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森幼幼HD
 http://220.134.196.147:9588/http/61.219.99.20:8081/hls/63/805/ch09.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華卡通台" tvg-logo="https://epg.112114.xyz/logo/龍華卡通台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華卡通台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華卡通台" tvg-logo="https://logo.doube.eu.org/龍華卡通台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華卡通台
 http://220.134.196.147:8568/http/61.219.99.20:8068/hls/14/80/cstv14.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來綜合HD" tvg-logo="https://epg.112114.xyz/logo/緯來綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來綜合HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來綜合HD" tvg-logo="https://logo.doube.eu.org/緯來綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來綜合HD
 http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="八大第一HD" tvg-logo="https://epg.112114.xyz/logo/八大第一HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="八大第一HD" tvg-logo="https://logo.doube.eu.org/八大第一HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一HD
 http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="八大綜合HD" tvg-logo="https://epg.112114.xyz/logo/八大綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜合HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="八大綜合HD" tvg-logo="https://logo.doube.eu.org/八大綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜合HD
 http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="三立台灣HD" tvg-logo="https://epg.112114.xyz/logo/三立台灣HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立台灣HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="三立台灣HD" tvg-logo="https://logo.doube.eu.org/三立台灣HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立台灣HD
 http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="三立都會HD" tvg-logo="https://epg.112114.xyz/logo/三立都會HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立都會HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="三立都會HD" tvg-logo="https://logo.doube.eu.org/三立都會HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立都會HD
 http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="韓國娛樂台" tvg-logo="https://epg.112114.xyz/logo/韓國娛樂台.png" epg-url="https://epg.112114.xyz/pp.xml",韓國娛樂台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="韓國娛樂台" tvg-logo="https://logo.doube.eu.org/韓國娛樂台.png" epg-url="https://epg.112114.xyz/pp.xml",韓國娛樂台
 http://220.134.196.147:8506/http/61.219.99.20:8092/upload/116/KMTV_TS-1111_1.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東森綜合HD" tvg-logo="https://epg.112114.xyz/logo/東森綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森綜合HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森綜合HD" tvg-logo="https://logo.doube.eu.org/東森綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森綜合HD
 http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="超視HD" tvg-logo="https://epg.112114.xyz/logo/超視HD.png" epg-url="https://epg.112114.xyz/pp.xml",超視HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="超視HD" tvg-logo="https://logo.doube.eu.org/超視HD.png" epg-url="https://epg.112114.xyz/pp.xml",超視HD
 http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="中天綜合HD" tvg-logo="https://epg.112114.xyz/logo/中天綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",中天綜合HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中天綜合HD" tvg-logo="https://logo.doube.eu.org/中天綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",中天綜合HD
 http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="中天娛樂HD" tvg-logo="https://epg.112114.xyz/logo/中天娛樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中天娛樂HD" tvg-logo="https://logo.doube.eu.org/中天娛樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂HD
 http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東風衛視" tvg-logo="https://epg.112114.xyz/logo/東風衛視.png" epg-url="https://epg.112114.xyz/pp.xml",東風衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東風衛視" tvg-logo="https://logo.doube.eu.org/東風衛視.png" epg-url="https://epg.112114.xyz/pp.xml",東風衛視
 http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="MUCH TV" tvg-logo="https://epg.112114.xyz/logo/MUCH TV.png" epg-url="https://epg.112114.xyz/pp.xml",MUCH TV
+#EXTINF:-1 group-title="台灣酒店" tvg-name="MUCH TV" tvg-logo="https://logo.doube.eu.org/MUCH TV.png" epg-url="https://epg.112114.xyz/pp.xml",MUCH TV
 http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東森戲劇HD" tvg-logo="https://epg.112114.xyz/logo/東森戲劇HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森戲劇HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森戲劇HD" tvg-logo="https://logo.doube.eu.org/東森戲劇HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森戲劇HD
 http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="八大戲劇HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="八大戲劇HD" tvg-logo="https://logo.doube.eu.org/八大戲劇HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇HD
 http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS歡樂HD" tvg-logo="https://epg.112114.xyz/logo/TVBS歡樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS歡樂HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS歡樂HD" tvg-logo="https://logo.doube.eu.org/TVBS歡樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS歡樂HD
 http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來戲劇" tvg-logo="https://epg.112114.xyz/logo/緯來戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",緯來戲劇
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來戲劇" tvg-logo="https://logo.doube.eu.org/緯來戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",緯來戲劇
 http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華戲劇台" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華戲劇台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華戲劇台" tvg-logo="https://logo.doube.eu.org/龍華戲劇台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華戲劇台
 http://220.134.196.147:8555/http/61.219.99.20:8068/hls/13/80/cstv13.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華日韓劇" tvg-logo="https://epg.112114.xyz/logo/龍華日韓劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華日韓劇
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華日韓劇" tvg-logo="https://logo.doube.eu.org/龍華日韓劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華日韓劇
 http://220.134.196.147:8531/http/61.219.99.20:8068/hls/12/80/cstv12.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華偶像劇" tvg-logo="https://epg.112114.xyz/logo/龍華偶像劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華偶像劇
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華偶像劇" tvg-logo="https://logo.doube.eu.org/龍華偶像劇.png" epg-url="https://epg.112114.xyz/pp.xml",龍華偶像劇
 http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來日本HD" tvg-logo="https://epg.112114.xyz/logo/緯來日本HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來日本HD" tvg-logo="https://logo.doube.eu.org/緯來日本HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本HD
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="Taiwan Plus" tvg-logo="https://epg.112114.xyz/logo/Taiwan Plus.png" epg-url="https://epg.112114.xyz/pp.xml",Taiwan Plus
+#EXTINF:-1 group-title="台灣酒店" tvg-name="Taiwan Plus" tvg-logo="https://logo.doube.eu.org/Taiwan Plus.png" epg-url="https://epg.112114.xyz/pp.xml",Taiwan Plus
 http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
+#EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://logo.doube.eu.org/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
+#EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://logo.doube.eu.org/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
 http://tv543.cc/Smart.php?id=niandainews_twn
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東森新聞HD" tvg-logo="https://epg.112114.xyz/logo/東森新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森新聞HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森新聞HD" tvg-logo="https://logo.doube.eu.org/東森新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森新聞HD
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞
+#EXTINF:-1 group-title="台灣酒店" tvg-name="中天新聞" tvg-logo="https://logo.doube.eu.org/中天新聞.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞
 http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",民視新聞
+#EXTINF:-1 group-title="台灣酒店" tvg-name="民視新聞" tvg-logo="https://logo.doube.eu.org/民視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",民視新聞
 http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="三立新聞HD" tvg-logo="https://epg.112114.xyz/logo/三立新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立新聞HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="三立新聞HD" tvg-logo="https://logo.doube.eu.org/三立新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",三立新聞HD
 http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS新聞HD" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新聞HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS新聞HD" tvg-logo="https://logo.doube.eu.org/TVBS新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新聞HD
 http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS HD" tvg-logo="https://epg.112114.xyz/logo/TVBS HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS HD" tvg-logo="https://logo.doube.eu.org/TVBS HD.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS HD
 http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="台灣酒店",非凡新聞
 http://106.107.177.201:50007/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="非凡商業HD" tvg-logo="https://epg.112114.xyz/logo/非凡商業HD.png" epg-url="https://epg.112114.xyz/pp.xml",非凡商業HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="非凡商業HD" tvg-logo="https://logo.doube.eu.org/非凡商業HD.png" epg-url="https://epg.112114.xyz/pp.xml",非凡商業HD
 http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東森財經HD" tvg-logo="https://epg.112114.xyz/logo/東森財經HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森財經HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森財經HD" tvg-logo="https://logo.doube.eu.org/東森財經HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森財經HD
 http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞
+#EXTINF:-1 group-title="台灣酒店" tvg-name="寰宇新聞" tvg-logo="https://logo.doube.eu.org/寰宇新聞.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞
 http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://epg.112114.xyz/pp.xml",Bloomberg News
+#EXTINF:-1 group-title="台灣酒店" tvg-name="Bloomberg News" tvg-logo="https://logo.doube.eu.org/Bloomberg News.png" epg-url="https://epg.112114.xyz/pp.xml",Bloomberg News
 http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="NHK HD" tvg-logo="https://epg.112114.xyz/logo/NHK HD.png" epg-url="https://epg.112114.xyz/pp.xml",NHK HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="NHK HD" tvg-logo="https://logo.doube.eu.org/NHK HD.png" epg-url="https://epg.112114.xyz/pp.xml",NHK HD
 http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
 #EXTINF:-1 tvg-id="镜电视新闻台" tvg-name="镜新闻" tvg-logo="https://logo.doube.eu.org/镜电视新闻台.png" group-title="台灣酒店",镜新闻
 http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv075
-#EXTINF:-1 group-title="台灣酒店" tvg-name="好萊塢電影HD" tvg-logo="https://epg.112114.xyz/logo/好萊塢電影HD.png" epg-url="https://epg.112114.xyz/pp.xml",好萊塢電影HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="好萊塢電影HD" tvg-logo="https://logo.doube.eu.org/好萊塢電影HD.png" epg-url="https://epg.112114.xyz/pp.xml",好萊塢電影HD
 http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來電影HD" tvg-logo="https://epg.112114.xyz/logo/緯來電影HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來電影HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來電影HD" tvg-logo="https://logo.doube.eu.org/緯來電影HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來電影HD
 http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華電影台" tvg-logo="https://epg.112114.xyz/logo/龍華電影台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="龍華電影台" tvg-logo="https://logo.doube.eu.org/龍華電影台.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影台
 http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" epg-url="https://epg.112114.xyz/pp.xml",HBO
+#EXTINF:-1 group-title="台灣酒店" tvg-name="HBO" tvg-logo="https://logo.doube.eu.org/HBO.png" epg-url="https://epg.112114.xyz/pp.xml",HBO
 http://220.134.196.147:9520/http/61.219.99.20:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" epg-url="https://epg.112114.xyz/pp.xml",AXN
+#EXTINF:-1 group-title="台灣酒店" tvg-name="AXN" tvg-logo="https://logo.doube.eu.org/AXN.png" epg-url="https://epg.112114.xyz/pp.xml",AXN
 http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="CINEMAX HD" tvg-logo="https://epg.112114.xyz/logo/CINEMAX HD.png" epg-url="https://epg.112114.xyz/pp.xml",CINEMAX HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="CINEMAX HD" tvg-logo="https://logo.doube.eu.org/CINEMAX HD.png" epg-url="https://epg.112114.xyz/pp.xml",CINEMAX HD
 http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="AMC 電影台" tvg-logo="https://epg.112114.xyz/logo/AMC 電影台.png" epg-url="https://epg.112114.xyz/pp.xml",AMC 電影台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="AMC 電影台" tvg-logo="https://logo.doube.eu.org/AMC 電影台.png" epg-url="https://epg.112114.xyz/pp.xml",AMC 電影台
 http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="寵物頻道" tvg-logo="https://epg.112114.xyz/logo/寵物頻道.png" epg-url="https://epg.112114.xyz/pp.xml",寵物頻道
+#EXTINF:-1 group-title="台灣酒店" tvg-name="寵物頻道" tvg-logo="https://logo.doube.eu.org/寵物頻道.png" epg-url="https://epg.112114.xyz/pp.xml",寵物頻道
 http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來育樂HD" tvg-logo="https://epg.112114.xyz/logo/緯來育樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來育樂HD" tvg-logo="https://logo.doube.eu.org/緯來育樂HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂HD
 http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來體育HD" tvg-logo="https://epg.112114.xyz/logo/緯來體育HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育HD
+#EXTINF:-1 group-title="台灣酒店" tvg-name="緯來體育HD" tvg-logo="https://logo.doube.eu.org/緯來體育HD.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育HD
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="博斯運動一" tvg-logo="https://epg.112114.xyz/logo/博斯運動一.png" epg-url="https://epg.112114.xyz/pp.xml",博斯運動一
+#EXTINF:-1 group-title="台灣酒店" tvg-name="博斯運動一" tvg-logo="https://logo.doube.eu.org/博斯運動一.png" epg-url="https://epg.112114.xyz/pp.xml",博斯運動一
 http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="momo綜合台" tvg-logo="https://epg.112114.xyz/logo/momo綜合台.png" epg-url="https://epg.112114.xyz/pp.xml",momo綜合台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="momo綜合台" tvg-logo="https://logo.doube.eu.org/momo綜合台.png" epg-url="https://epg.112114.xyz/pp.xml",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 1" tvg-logo="https://epg.112114.xyz/logo/DAZN 1.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN 1
+#EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 1" tvg-logo="https://logo.doube.eu.org/DAZN 1.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN 1
 http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 2" tvg-logo="https://epg.112114.xyz/logo/DAZN 2.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN 2
+#EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 2" tvg-logo="https://logo.doube.eu.org/DAZN 2.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN 2
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
 http://tv543.cc/Smart.php?id=eltasport_twn
@@ -139,21 +139,21 @@ http://tv543.cc/Smart.php?id=eltasport2_twn
 http://tv543.cc/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="台灣酒店",愛爾達體育4台
 http://tv543.cc/Smart.php?id=eltasports4_twn
-#EXTINF:-1 group-title="台灣酒店" tvg-name="廈門衛視" tvg-logo="https://epg.112114.xyz/logo/廈門衛視.png" epg-url="https://epg.112114.xyz/pp.xml",廈門衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="廈門衛視" tvg-logo="https://logo.doube.eu.org/廈門衛視.png" epg-url="https://epg.112114.xyz/pp.xml",廈門衛視
 http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="CCTV4-中央衛視" tvg-logo="https://epg.112114.xyz/logo/CCTV4-中央衛視.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4-中央衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="CCTV4-中央衛視" tvg-logo="https://logo.doube.eu.org/CCTV4-中央衛視.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4-中央衛視
 http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="海峽衛視" tvg-logo="https://epg.112114.xyz/logo/海峽衛視.png" epg-url="https://epg.112114.xyz/pp.xml",海峽衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="海峽衛視" tvg-logo="https://logo.doube.eu.org/海峽衛視.png" epg-url="https://epg.112114.xyz/pp.xml",海峽衛視
 http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="浙江衛視" tvg-logo="https://epg.112114.xyz/logo/浙江衛視.png" epg-url="https://epg.112114.xyz/pp.xml",浙江衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="浙江衛視" tvg-logo="https://logo.doube.eu.org/浙江衛視.png" epg-url="https://epg.112114.xyz/pp.xml",浙江衛視
 http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東方衛視" tvg-logo="https://epg.112114.xyz/logo/東方衛視.png" epg-url="https://epg.112114.xyz/pp.xml",東方衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東方衛視" tvg-logo="https://logo.doube.eu.org/東方衛視.png" epg-url="https://epg.112114.xyz/pp.xml",東方衛視
 http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="湖南衛視" tvg-logo="https://epg.112114.xyz/logo/湖南衛視.png" epg-url="https://epg.112114.xyz/pp.xml",湖南衛視
+#EXTINF:-1 group-title="台灣酒店" tvg-name="湖南衛視" tvg-logo="https://logo.doube.eu.org/湖南衛視.png" epg-url="https://epg.112114.xyz/pp.xml",湖南衛視
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="鳯凰衛視資訊" tvg-logo="https://epg.112114.xyz/logo/鳯凰衛視資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳯凰衛視資訊
+#EXTINF:-1 group-title="台灣酒店" tvg-name="鳯凰衛視資訊" tvg-logo="https://logo.doube.eu.org/鳯凰衛視資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳯凰衛視資訊
 http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="鳯凰衛視中文" tvg-logo="https://epg.112114.xyz/logo/鳯凰衛視中文.png" epg-url="https://epg.112114.xyz/pp.xml",鳯凰衛視中文
+#EXTINF:-1 group-title="台灣酒店" tvg-name="鳯凰衛視中文" tvg-logo="https://logo.doube.eu.org/鳯凰衛視中文.png" epg-url="https://epg.112114.xyz/pp.xml",鳯凰衛視中文
 http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
 
 #EXTM3U
