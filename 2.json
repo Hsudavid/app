@@ -6,13 +6,13 @@
   "lives": [
     {
       "name": "台灣酒店",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/gd1.m3u",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "台灣綜合",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
@@ -793,3 +793,4 @@
     }
   ]
 }
+
