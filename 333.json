@@ -1,34 +1,16 @@
- {
+{
   "urls": [
-    {
-      "name": "🐸PG",
-      "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json"
-    },  
-
-     {
-      "name": "🐸真心",
-      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json"
-    },  
-
-    
-   
-    {
-      "name": "🐸香雅情",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-   },
-
-      {
-      "name": "🐸南风",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-   },
-
-
- 
-    {
-      "name": "🐸OK",
-      "url": "http://ok321.top/ok " }]}
-
-
-
+    { "url": "http://tvbox.王二小放牛娃.top", "name": "王小二" },
+    { "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
+    { "url": "http://我不是.摸鱼儿.com", "name": "摸鱼儿" },
+    { "url": "http://ok321.top/ok", "name": "OK佬" },
+    { "url": "http://肥猫.com", "name": "肥猫" },
+    { "url": "http://tv.999888987.xyz/", "name": "王小二备" },
+    { "url": "https://clun.top/fty.json", "name": "饭太硬备" },
+    { "url": "https://10936.kstore.space/ok", "name": "OK佬备" },
+    { "url": "https://clun.top/moyu.json", "name": "摸鱼儿备" }
+      ]
+}
      
+
    
