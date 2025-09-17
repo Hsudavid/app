@@ -1,27 +1,39 @@
 {
   "urls": [
-     {
-      "name": "🎉新盒子之家🎉",
-      "url": "http://tv543.cc/888.json"
-   },
+    { 
+      "name": "🎉盒子之家🎉",
+      "url": "http://tv543.cc/catvod.bmp"
+    },
     {
-      "name": "🐸彥",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json"
+      "name": "🐸影視",
+      "url": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/config.json"
+    },
+    {
+      "name": "🐸彥3",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json"
     },  
 
-     {
+    {
       "name": "🐸彥2",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json"
     },  
     
-   
     {
-      "name": "🐸彥3",
-      "url": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/config.json"
-   },
-   {
-      "name": "🎉盒子之家🎉",
-      "url": "http://tv543.cc/"}]}
+      "name": "🐸新線路",
+      "url": "http://zhangqun66.com/zq/api.json.json"
+    },  
+    {
+      "name": "🎉大人台🎉",
+      "url": "http://tv543.cc/18.bmp"
+    },
+    {
+      "name": "🎉18+🎉",
+      "url": "http://tv543.cc/18.json"
+    },
+    {
+      "name": "🎉黑木🎉",
+      "url": "http://tv543.cc/1.json"}]}
+
 
 
 
