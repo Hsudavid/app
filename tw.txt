@@ -66,9 +66,13 @@ AMC 電影台,http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_
 momo綜合台,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+愛爾達體育1台,http://iptv.4666888.xyz/iptv.php?id=20232
 愛爾達體育1台,http://tv543.cc/Smart.php?id=eltasport_twn
+愛爾達體育2台,http://iptv.4666888.xyz/iptv.php?id=20233
 愛爾達體育2台,http://tv543.cc/Smart.php?id=eltasport2_twn
+愛爾達體育3台,http://iptv.4666888.xyz/iptv.php?id=20234
 愛爾達體育3台,http://tv543.cc/Smart.php?id=eltasport3_twn
+愛爾達體育4台,http://iptv.4666888.xyz/iptv.php?id=20235
 愛爾達體育4台,http://tv543.cc/Smart.php?id=eltasports4_twn
 廈門衛視,http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 CCTV4-中央衛視,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
@@ -475,6 +479,7 @@ FAKE TAXI,p3p://fccsen.dyndns.tv:29706/615a5c0e000a608eb9c93ef2199b14e4
 FORGIVE ME FATHER,p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 FEMALE AGENT,p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 MOM TEACH SEX,p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
+
 
 
 
