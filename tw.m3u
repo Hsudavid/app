@@ -134,11 +134,19 @@ http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 2" tvg-logo="https://epg.112114.xyz/logo/DAZN 2.png" epg-url="https://epg.pw/api/epg.xml",DAZN 2
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
+http://iptv.4666888.xyz/iptv.php?id=20232
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
 http://tv543.cc/Smart.php?id=eltasport_twn
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
+http://iptv.4666888.xyz/iptv.php?id=20233
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
 http://tv543.cc/Smart.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
+http://iptv.4666888.xyz/iptv.php?id=20234
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
 http://tv543.cc/Smart.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
+http://iptv.4666888.xyz/iptv.php?id=20235
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="台灣酒店",愛爾達體育4台
 http://tv543.cc/Smart.php?id=eltasports4_twn
 #EXTINF:-1 group-title="台灣酒店" tvg-name="廈門衛視" tvg-logo="https://epg.112114.xyz/logo/廈門衛視.png" epg-url="https://epg.pw/api/epg.xml",廈門衛視
