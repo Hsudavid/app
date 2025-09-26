@@ -37,14 +37,16 @@ TVBS歡樂HD,http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.
 緯來日本HD,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 Taiwan Plus,http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-年代新聞,http://tv543.cc/Smart.php?id=niandainews_twn
+年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
+年代新聞,p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
+年代新聞,http://66.90.99.154:8278/niandainews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bd903abc90abbf2d72a4b59b516311d5
 東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
 民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
 三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-非凡新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
+非凡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
 非凡商業HD,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
 東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
@@ -65,9 +67,17 @@ AMC 電影台,http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_
 momo綜合台,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-愛爾達體育1台,http://tv543.cc/Smart.php?id=eltasport_twn
+愛爾達體育1台,http://66.90.99.154:8278/eltasport_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1410aa95a2c63b086b6dca0c3af69140
+愛爾達體育1台,http://66.90.99.154:8278/eltasport_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1410aa95a2c63b086b6dca0c3af69140
+愛爾達體育1台,http://smt.iptv543.com/Smart.php?id=eltasport_twn
+愛爾達體育2台,http://smt.iptv543.com/Smart.php?id=eltasport2_twn
+愛爾達體育2台,http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
 愛爾達體育2台,http://tv543.cc/Smart.php?id=eltasport2_twn
+愛爾達體育3台,http://smt.iptv543.com/Smart.php?id=eltasport3_twn
+愛爾達體育3台,http://66.90.99.154:8278/eltasport3_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=cf5a326a448ec57a9d50a8996aa8a6ad
 愛爾達體育3台,http://tv543.cc/Smart.php?id=eltasport3_twn
+愛爾達體育4台,http://iptv.4666888.xyz/iptv.php?id=20235
+愛爾達體育4台,http://smt.iptv543.com/Smart.php?id=eltasports4_twn
 愛爾達體育4台,http://tv543.cc/Smart.php?id=eltasports4_twn
 廈門衛視,http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
 CCTV4-中央衛視,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
@@ -77,6 +87,7 @@ CCTV4-中央衛視,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/
 湖南衛視,http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
 鳯凰衛視資訊,http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
 鳯凰衛視中文,http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
+
 
 
 
