@@ -61,6 +61,9 @@ http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="八大戲劇HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇HD.png" epg-url="https://epg.pw/api/epg.xml",八大戲劇HD
 http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="台灣酒店",TVBS歡樂台
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv068/index.m3u8
+
 #EXTINF:-1 group-title="台灣酒店" tvg-name="TVBS歡樂HD" tvg-logo="https://epg.112114.xyz/logo/TVBS歡樂HD.png" epg-url="https://epg.pw/api/epg.xml",TVBS歡樂HD
 http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="緯來戲劇" tvg-logo="https://epg.112114.xyz/logo/緯來戲劇.png" epg-url="https://epg.pw/api/epg.xml",緯來戲劇
@@ -87,6 +90,9 @@ http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
 p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
 #EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.pw/api/epg.xml",年代新聞
 http://66.90.99.154:8278/niandainews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bd903abc90abbf2d72a4b59b516311d5
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="台灣酒店",東森新聞HD
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8
+
 #EXTINF:-1 group-title="台灣酒店" tvg-name="東森新聞HD" tvg-logo="https://epg.112114.xyz/logo/東森新聞HD.png" epg-url="https://epg.pw/api/epg.xml",東森新聞HD
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" epg-url="https://epg.pw/api/epg.xml",中天新聞
@@ -107,7 +113,11 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8
 
 #EXTINF:-1 group-title="台灣酒店" tvg-name="非凡商業" tvg-logo="https://epg.112114.xyz/logo/非凡商業.png" epg-url="https://epg.pw/api/epg.xml",非凡商業
 http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="東森財經HD" tvg-logo="https://epg.112114.xyz/logo/東森財經HD.png" epg-url="https://epg.pw/api/epg.xml",東森財經HD
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="台灣酒店",東森財經新聞
+http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
+
+#EXTINF:-1 group-title="台灣酒店" tvg-name="東森財經HD" tvg-logo="https://epg.112114.xyz/logo/東森財經HD.png" epg-url="https://epg.pw/api/epg.xml",東森財經新聞
+
 http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://epg.pw/api/epg.xml",寰宇新聞
 http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
@@ -139,9 +149,9 @@ http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
 http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="緯來體育HD" tvg-logo="https://epg.112114.xyz/logo/緯來體育HD.png" epg-url="https://epg.pw/api/epg.xml",緯來體育HD
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="台灣酒店",博斯運動一台
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="台灣酒店",博斯運動一
 http://xn--elt51t.azip.dpdns.org:5008/litv-longturn07/index.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="博斯運動一台" tvg-logo="https://logo.doube.eu.org/博斯運動一台.png" epg-url="https://epg.pw/api/epg.xml",博斯運動一台
+#EXTINF:-1 group-title="台灣酒店" tvg-name="博斯運動一" tvg-logo="https://logo.doube.eu.org/博斯運動一.png" epg-url="https://epg.pw/api/epg.xml",博斯運動一
 http://220.134.196.147:8564/http/61.219.99.20:8068/hls/15/80/cstv15.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="momo綜合台" tvg-logo="https://epg.112114.xyz/logo/momo綜合台.png" epg-url="https://epg.pw/api/epg.xml",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
