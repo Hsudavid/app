@@ -83,8 +83,8 @@ Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
 古典音樂台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
 TRACE URBAN,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
 MEZZO LIVE,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
-好訊息1,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
-好訊息2,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
+好消息1,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
+好消息2,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
 生活英語台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
 台灣備用,#genre#
 中視HD,http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
@@ -93,7 +93,7 @@ MEZZO LIVE,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
 公視,http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
 人間衛視,http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
 大愛電視,http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
-好訊息GOOD TV,http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
+好消息GOOD TV,http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
 Trace Sport Stars,http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
 DISCOVERY,http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
 旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
@@ -123,21 +123,21 @@ TVBS歡樂HD,http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.
 龍華偶像劇,http://220.134.196.147:8562/http/61.219.99.20:8068/hls/11/80/cstv11.m3u8
 緯來日本HD,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 Taiwan Plus,http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
-年代新聞,http://tv543.cc/Smart.php?id=niandainews_twn
+年代新聞,http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
 東森新聞HD,http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 中天新聞,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
 民視新聞,http://220.134.196.147:8519/http/61.219.99.20:8081/hls/85/80/FtvNews4max.m3u8
 三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 TVBS新聞HD,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-非凡新聞HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
+非凡新聞HD,http://220.134.196.147:8571/http/61.219.99.20:8081/hls/75/817/ch57.m3u8
 非凡商業HD,http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
 東森財經HD,http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 Bloomberg News,http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
 NHK HD,http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
-鏡電視新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+鏡電視新聞台,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
 好萊塢電影HD,http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
 緯來電影HD,http://220.134.196.147:8574/http/61.219.99.20:8081/hls/69/811/ch35.m3u8
 龍華電影台,http://220.134.196.147:8545/http/61.219.99.20:8068/hls/10/80/cstv10.m3u8
@@ -153,524 +153,848 @@ momo綜合台,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo
 DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 廈門衛視,http://220.134.196.147:8573/http/59.120.8.187:8078/hls/42/80/xmtv.m3u8
-CCTV4,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
+CCTV4-中央衛視,http://220.134.196.147:8559/http/59.120.8.187:8078/hls/42/80/cctv4.m3u8
 海峽衛視,http://220.134.196.147:8550/http/59.120.8.187:8078/hls/42/80/fjttv.m3u8
 浙江衛視,http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 東方衛視,http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
 湖南衛視,http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
-鳯凰衛視資訊,http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
-鳯凰衛視中文,http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
+鳳凰衛視資訊,http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+鳳凰衛視中文,http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
+綜合其他,#genre#
+民視第一台,http://106.107.242.191:50007/4gtv-4gtv003/index.m3u8
+民視台灣台,http://106.107.242.191:50007/4gtv-4gtv001/index.m3u8
+民視HD,http://106.107.242.191:50007/4gtv-4gtv002/index.m3u8
+大愛電視,http://106.107.242.191:50007/4gtv-live007/index.m3u8
+中視,http://106.107.242.191:50007/4gtv-4gtv040/index.m3u8
+電影戲劇,#genre#
+中視經典台,http://106.107.242.191:50007/4gtv-4gtv080/index.m3u8
+綜合其他,#genre#
+華視,http://106.107.242.191:50007/4gtv-4gtv041/index.m3u8
+三立綜合合,http://106.107.242.191:50007/4gtv-live207/index.m3u8
+客家電視,http://106.107.242.191:50007/4gtv-4gtv043/index.m3u8
+音樂綜藝,#genre#
+八大綜藝,http://106.107.242.191:50007/4gtv-4gtv039/index.m3u8
+綜合其他,#genre#
+中視菁采台,http://106.107.242.191:50007/4gtv-4gtv064/index.m3u8
+音樂綜藝,#genre#
+TVBS精采台,http://106.107.242.191:50007/4gtv-4gtv067/index.m3u8
+ELTA娛樂,http://106.107.242.191:50007/4gtv-4gtv070/index.m3u8
+綜合其他,#genre#
+靖天綜合,http://106.107.242.191:50007/4gtv-4gtv046/index.m3u8
+靖天日本,http://106.107.242.191:50007/4gtv-4gtv047/index.m3u8
+新唐人亞太台,http://106.107.242.191:50007/4gtv-live050/index.m3u8
+Arirang TV,http://106.107.242.191:50007/4gtv-4gtv079/index.m3u8
+生活旅遊,#genre#
+Global Trekker,http://106.107.242.191:50007/4gtv-live112/index.m3u8
+綜合其他,#genre#
+原住民族電視台,http://106.107.242.191:50007/4gtv-live014/index.m3u8
+東森購物四台,http://106.107.242.191:50007/4gtv-live049/index.m3u8
+兒童卡通,#genre#
+LiveABC 互動英語台,http://106.107.242.191:50007/4gtv-live030/index.m3u8
+達文西,http://106.107.242.191:50007/4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://106.107.242.191:50007/litv-longturn20/index.m3u8
+Nick Jr.,http://106.107.242.191:50007/4gtv-live032/index.m3u8
+Nickelodeon,http://106.107.242.191:50007/4gtv-live105/index.m3u8
+DreamWorks,http://106.107.242.191:50007/4gtv-live017/index.m3u8
+靖天卡通台,http://106.107.242.191:50007/4gtv-4gtv044/index.m3u8
+靖洋卡通,http://106.107.242.191:50007/4gtv-4gtv057/index.m3u8
+MOMO親子,http://106.107.242.191:50007/4gtv-live107/index.m3u8
+綜合其他,#genre#
+東森購物一台,http://106.107.242.191:50007/4gtv-live047/index.m3u8
+東森購物一台,http://106.107.242.191:50007/4gtv-4gtv102/index.m3u8
+東森購物一台,http://106.107.242.191:50007/of-4gtv-4gtv102/index.m3u8
+新聞財經,#genre#
+鏡電視新聞台,http://106.107.242.191:50007/4gtv-4gtv075/index.m3u8
+東森新聞,http://106.107.242.191:50007/4gtv-4gtv152/index.m3u8
+華視新聞台,http://106.107.242.191:50007/4gtv-4gtv052/index.m3u8
+民視新聞,http://106.107.242.191:50007/litv-ftv13/index.m3u8
+三立iNEWS,http://106.107.242.191:50007/4gtv-live089/index.m3u8
+東森財經新聞,http://106.107.242.191:50007/4gtv-4gtv153/index.m3u8
+中視新聞台,http://106.107.242.191:50007/4gtv-4gtv074/index.m3u8
+中天新聞台,http://106.107.242.191:50007/4gtv-4gtv009/index.m3u8
+BLOOMBERG TV,http://106.107.242.191:50007/4gtv-live059/index.m3u8
+寰宇新聞,http://106.107.242.191:50007/litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://106.107.242.191:50007/4gtv-4gtv156/index.m3u8
+SBN 全球財經台,http://106.107.242.191:50007/4gtv-live060/index.m3u8
+寰宇財經,http://106.107.242.191:50007/4gtv-4gtv158/index.m3u8
+綜合其他,#genre#
+TVBS HD,http://106.107.242.191:50007/4gtv-4gtv073/index.m3u8
+東森購物二台,http://106.107.242.191:50007/4gtv-live046/index.m3u8
+東森購物二台,http://106.107.242.191:50007/4gtv-4gtv103/index.m3u8
+東森購物二台,http://106.107.242.191:50007/of-4gtv-4gtv103/index.m3u8
+音樂綜藝,#genre#
+民視綜藝,http://106.107.242.191:50007/4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://106.107.242.191:50007/4gtv-4gtv006/index.m3u8
+綜合其他,#genre#
+靖天育樂,http://106.107.242.191:50007/4gtv-4gtv062/index.m3u8
+靖天國際,http://106.107.242.191:50007/4gtv-4gtv063/index.m3u8
+靖天歡樂,http://106.107.242.191:50007/4gtv-4gtv054/index.m3u8
+靖天資訊,http://106.107.242.191:50007/4gtv-4gtv065/index.m3u8
+音樂綜藝,#genre#
+TVBS歡樂台,http://106.107.242.191:50007/4gtv-4gtv068/index.m3u8
+綜合其他,#genre#
+韓國娛樂台,http://106.107.242.191:50007/4gtv-4gtv016/index.m3u8
+電影戲劇,#genre#
+ROCK Entertainment,http://106.107.242.191:50007/4gtv-live080/index.m3u8
+生活旅遊,#genre#
+ Lifetime,http://106.107.242.191:50007/4gtv-live029/index.m3u8
+音樂綜藝,#genre#
+電影原聲台 CMusic,http://106.107.242.191:50007/4gtv-live031/index.m3u8
+Trace Urban,http://106.107.242.191:50007/4gtv-4gtv082/index.m3u8
+MTV Live,http://106.107.242.191:50007/4gtv-live025/index.m3u8
+MEZZO LIVE HD,http://106.107.242.191:50007/4gtv-4gtv083/index.m3u8
+CLASSICA 古典樂,http://106.107.242.191:50007/4gtv-4gtv059/index.m3u8
+綜合其他,#genre#
+東森購物三台,http://106.107.242.191:50007/4gtv-live048/index.m3u8
+生活旅遊,#genre#
+INULTRA,http://106.107.242.191:50007/4gtv-live096/index.m3u8
+體育競技,#genre#
+TRACE Sport Stars,http://106.107.242.191:50007/4gtv-4gtv077/index.m3u8
+智林體育,http://106.107.242.191:50007/4gtv-4gtv101/index.m3u8
+時尚運動X,http://106.107.242.191:50007/4gtv-4gtv014/index.m3u8
+車迷 TV,http://106.107.242.191:50007/4gtv-live201/index.m3u8
+ GINX Esports TV,http://106.107.242.191:50007/4gtv-4gtv053/index.m3u8
+生活旅遊,#genre#
+Pet Club TV,http://106.107.242.191:50007/4gtv-live110/index.m3u8
+民視旅遊,http://106.107.242.191:50007/litv-ftv07/index.m3u8
+滾動力 Rollor,http://106.107.242.191:50007/4gtv-live012/index.m3u8
+亞洲旅遊,http://106.107.242.191:50007/4gtv-4gtv076/index.m3u8
+FUN 4K探索娛樂,http://106.107.242.191:50007/4gtv-live011/index.m3u8
+幸福空間居家台,http://106.107.242.191:50007/4gtv-live206/index.m3u8
+LOVE NATURE,http://106.107.242.191:50007/4gtv-live208/index.m3u8
+紀實探索,#genre#
+歷史頻道,http://106.107.242.191:50007/4gtv-live026/index.m3u8
+生活旅遊,#genre#
+ELTA生活旅遊,http://106.107.242.191:50007/4gtv-live120/index.m3u8
+LUXE TV,http://106.107.242.191:50007/4gtv-live121/index.m3u8
+TV5MONDE Style,http://106.107.242.191:50007/4gtv-live122/index.m3u8
+MagellanTV頻道,http://106.107.242.191:50007/4gtv-live123/index.m3u8
+電影戲劇,#genre#
+公視戲劇,http://106.107.242.191:50007/4gtv-4gtv042/index.m3u8
+民視影劇,http://106.107.242.191:50007/litv-ftv09/index.m3u8
+HITS,http://106.107.242.191:50007/4gtv-live620/index.m3u8
+音樂綜藝,#genre#
+八大精彩,http://106.107.242.191:50007/4gtv-4gtv034/index.m3u8
+電影戲劇,#genre#
+霹靂布袋戲,http://106.107.242.191:50007/4gtv-live145/index.m3u8
+靖天戲劇,http://106.107.242.191:50007/4gtv-4gtv058/index.m3u8
+靖洋戲劇,http://106.107.242.191:50007/4gtv-4gtv045/index.m3u8
+紀實探索,#genre#
+CI 罪案偵查頻道,http://106.107.242.191:50007/4gtv-live027/index.m3u8
+視納華仁紀實頻道,http://106.107.242.191:50007/4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://106.107.242.191:50007/litv-ftv15/index.m3u8
+電影戲劇,#genre#
+金光布袋戲,http://106.107.242.191:50007/4gtv-live144/index.m3u8
+ROCK Action,http://106.107.242.191:50007/4gtv-live138/index.m3u8
+采昌影劇,http://106.107.242.191:50007/4gtv-4gtv049/index.m3u8
+靖天映畫,http://106.107.242.191:50007/4gtv-4gtv055/index.m3u8
+靖天電影,http://106.107.242.191:50007/4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://106.107.242.191:50007/4gtv-4gtv011/index.m3u8
+amc 電影台,http://106.107.242.191:50007/4gtv-4gtv017/index.m3u8
+Cinema World,http://106.107.242.191:50007/4gtv-live069/index.m3u8
+歐洲光影,http://106.107.242.191:50007/4gtv-live157/index.m3u8
+綜合其他,#genre#
+好消息,http://106.107.242.191:50007/litv-ftv16/index.m3u8
+好消息2台,http://106.107.242.191:50007/litv-ftv17/index.m3u8
+大愛二台,http://106.107.242.191:50007/4gtv-live106/index.m3u8
+人間衛視,http://106.107.242.191:50007/4gtv-live008/index.m3u8
+新聞財經,#genre#
+FRANCE24 英文台,http://106.107.242.191:50007/4gtv-live146/index.m3u8
+半島國際新聞台,http://106.107.242.191:50007/litv-ftv10/index.m3u8
+VOA 美國之音,http://106.107.242.191:50007/litv-ftv03/index.m3u8
+CNBC Asia 財經台,http://106.107.242.191:50007/4gtv-live130/index.m3u8
+DW德國之聲,http://106.107.242.191:50007/4gtv-live071/index.m3u8
+綜合其他,#genre#
+國會頻道1,http://106.107.242.191:50007/4gtv-4gtv084/index.m3u8
+國會頻道2,http://106.107.242.191:50007/4gtv-4gtv085/index.m3u8
+音樂綜藝,#genre#
+TVBS綜藝台,http://106.107.242.191:50007/4gtv-live087/index.m3u8
+電影戲劇,#genre#
+TVBS台劇台,http://106.107.242.191:50007/4gtv-live088/index.m3u8
+經典電影台,http://106.107.242.191:50007/4gtv-live021/index.m3u8
+兒童卡通,#genre#
+經典卡通台,http://106.107.242.191:50007/4gtv-live022/index.m3u8
+精選動漫台,http://106.107.242.191:50007/4gtv-live024/index.m3u8
+電影戲劇,#genre#
+戲劇免費看1台,http://106.107.242.191:50007/4gtv-live010/index.m3u8
+綜合其他,#genre#
+民視第一台,http://106.107.242.191:50007/li-4gtv-4gtv003/index.m3u8
+民視台灣台,http://106.107.242.191:50007/li-4gtv-4gtv001/index.m3u8
+中視,http://106.107.242.191:50007/li-4gtv-4gtv040/index.m3u8
+電影戲劇,#genre#
+中視經典台,http://106.107.242.191:50007/li-4gtv-4gtv080/index.m3u8
+綜合其他,#genre#
+華視,http://106.107.242.191:50007/li-4gtv-4gtv041/index.m3u8
+電影戲劇,#genre#
+龍華洋片,http://106.107.242.191:50007/li-litv-longturn02/index.m3u8
+兒童卡通,#genre#
+龍華卡通,http://106.107.242.191:50007/li-litv-longturn01/index.m3u8
+電影戲劇,#genre#
+龍華電影,http://106.107.242.191:50007/li-litv-longturn03/index.m3u8
+龍華日韓,http://106.107.242.191:50007/li-litv-longturn11/index.m3u8
+龍華偶像,http://106.107.242.191:50007/li-litv-longturn12/index.m3u8
+龍華戲劇,http://106.107.242.191:50007/li-litv-longturn18/index.m3u8
+龍華經典,http://106.107.242.191:50007/li-litv-longturn21/index.m3u8
+體育競技,#genre#
+博斯魅力,http://106.107.242.191:50007/litv-longturn04/index.m3u8
+博斯高球I,http://106.107.242.191:50007/litv-longturn05/index.m3u8
+博斯高球II,http://106.107.242.191:50007/litv-longturn06/index.m3u8
+博斯運動I,http://106.107.242.191:50007/litv-longturn07/index.m3u8
+博斯運動II,http://106.107.242.191:50007/litv-longturn08/index.m3u8
+博斯網球,http://106.107.242.191:50007/litv-longturn09/index.m3u8
+博斯無限I,http://106.107.242.191:50007/litv-longturn10/index.m3u8
+博斯無限II,http://106.107.242.191:50007/litv-longturn13/index.m3u8
+新聞財經,#genre#
+非凡新聞,http://106.107.242.191:50007/4gtv-4gtv010/index.m3u8
+非凡商業,http://106.107.242.191:50007/4gtv-4gtv048/index.m3u8
+台視財經台,http://106.107.242.191:50007/4gtv-4gtv056/index.m3u8
+綜合其他,#genre#
+中天亞洲台,http://106.107.242.191:50007/4gtv-4gtv109/index.m3u8
+三立綜合合,http://106.107.242.191:50007/4gtv-live207/index.m3u8
+客家電視,http://106.107.242.191:50007/4gtv-4gtv043/index.m3u8
+音樂綜藝,#genre#
+八大綜藝,http://106.107.242.191:50007/li-4gtv-4gtv039/index.m3u8
+綜合其他,#genre#
+中視菁采台,http://106.107.242.191:50007/li-4gtv-4gtv064/index.m3u8
+音樂綜藝,#genre#
+TVBS精采台,http://106.107.242.191:50007/li-4gtv-4gtv067/index.m3u8
+ELTA娛樂,http://106.107.242.191:50007/li-4gtv-4gtv070/index.m3u8
+綜合其他,#genre#
+靖天綜合,http://106.107.242.191:50007/4gtv-4gtv046/index.m3u8
+靖天日本,http://106.107.242.191:50007/li-4gtv-4gtv047/index.m3u8
+Arirang TV,http://106.107.242.191:50007/li-4gtv-4gtv079/index.m3u8
+兒童卡通,#genre#
+達文西,http://106.107.242.191:50007/li-4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://106.107.242.191:50007/li-litv-longturn20/index.m3u8
+靖天卡通台,http://106.107.242.191:50007/li-4gtv-4gtv044/index.m3u8
+靖洋卡通,http://106.107.242.191:50007/li-4gtv-4gtv057/index.m3u8
+新聞財經,#genre#
+鏡電視新聞台,http://106.107.242.191:50007/li-4gtv-4gtv075/index.m3u8
+東森新聞,http://106.107.242.191:50007/li-4gtv-4gtv152/index.m3u8
+民視新聞,http://106.107.242.191:50007/li-litv-ftv13/index.m3u8
+TVBS新聞台,http://106.107.242.191:50007/li-4gtv-4gtv072/index.m3u8
+東森財經新聞,http://106.107.242.191:50007/li-4gtv-4gtv153/index.m3u8
+中視新聞台,http://106.107.242.191:50007/4gtv-4gtv074/index.m3u8
+中天新聞台,http://106.107.242.191:50007/li-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://106.107.242.191:50007/li-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://106.107.242.191:50007/li-4gtv-4gtv156/index.m3u8
+寰宇財經,http://106.107.242.191:50007/li-4gtv-4gtv158/index.m3u8
+綜合其他,#genre#
+TVBS HD,http://106.107.242.191:50007/li-4gtv-4gtv073/index.m3u8
+音樂綜藝,#genre#
+民視綜藝,http://106.107.242.191:50007/li-4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://106.107.242.191:50007/li-4gtv-4gtv006/index.m3u8
+綜合其他,#genre#
+靖天育樂,http://106.107.242.191:50007/li-4gtv-4gtv062/index.m3u8
+靖天國際,http://106.107.242.191:50007/li-4gtv-4gtv063/index.m3u8
+靖天歡樂,http://106.107.242.191:50007/li-4gtv-4gtv054/index.m3u8
+靖天資訊,http://106.107.242.191:50007/li-4gtv-4gtv065/index.m3u8
+音樂綜藝,#genre#
+TVBS歡樂台,http://106.107.242.191:50007/li-4gtv-4gtv068/index.m3u8
+綜合其他,#genre#
+韓國娛樂台,http://106.107.242.191:50007/li-4gtv-4gtv016/index.m3u8
+音樂綜藝,#genre#
+Trace Urban,http://106.107.242.191:50007/li-4gtv-4gtv082/index.m3u8
+MEZZO LIVE HD,http://106.107.242.191:50007/li-4gtv-4gtv083/index.m3u8
+CLASSICA 古典樂,http://106.107.242.191:50007/li-4gtv-4gtv059/index.m3u8
+體育競技,#genre#
+TRACE Sport Stars,http://106.107.242.191:50007/li-4gtv-4gtv077/index.m3u8
+智林體育,http://106.107.242.191:50007/li-4gtv-4gtv101/index.m3u8
+時尚運動X,http://106.107.242.191:50007/li-4gtv-4gtv014/index.m3u8
+ GINX Esports TV,http://106.107.242.191:50007/li-4gtv-4gtv053/index.m3u8
+生活旅遊,#genre#
+民視旅遊,http://106.107.242.191:50007/li-litv-ftv07/index.m3u8
+亞洲旅遊,http://106.107.242.191:50007/li-4gtv-4gtv076/index.m3u8
+電影戲劇,#genre#
+公視戲劇,http://106.107.242.191:50007/li-4gtv-4gtv042/index.m3u8
+民視影劇,http://106.107.242.191:50007/li-litv-ftv09/index.m3u8
+音樂綜藝,#genre#
+八大精彩,http://106.107.242.191:50007/li-4gtv-4gtv034/index.m3u8
+電影戲劇,#genre#
+靖天戲劇,http://106.107.242.191:50007/li-4gtv-4gtv058/index.m3u8
+靖洋戲劇,http://106.107.242.191:50007/li-4gtv-4gtv045/index.m3u8
+紀實探索,#genre#
+視納華仁紀實頻道,http://106.107.242.191:50007/li-4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://106.107.242.191:50007/li-litv-ftv15/index.m3u8
+電影戲劇,#genre#
+采昌影劇,http://106.107.242.191:50007/li-4gtv-4gtv049/index.m3u8
+靖天映畫,http://106.107.242.191:50007/li-4gtv-4gtv055/index.m3u8
+靖天電影,http://106.107.242.191:50007/li-4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://106.107.242.191:50007/li-4gtv-4gtv011/index.m3u8
+amc 電影台,http://106.107.242.191:50007/li-4gtv-4gtv017/index.m3u8
+綜合其他,#genre#
+好消息,http://106.107.242.191:50007/li-litv-ftv16/index.m3u8
+好消息2台,http://106.107.242.191:50007/li-litv-ftv17/index.m3u8
+新聞財經,#genre#
+半島國際新聞台,http://106.107.242.191:50007/li-litv-ftv10/index.m3u8
+VOA 美國之音,http://106.107.242.191:50007/li-litv-ftv03/index.m3u8
+綜合其他,#genre#
+國會頻道1,http://106.107.242.191:50007/li-4gtv-4gtv084/index.m3u8
+國會頻道2,http://106.107.242.191:50007/li-4gtv-4gtv085/index.m3u8
+電影戲劇,#genre#
+台灣戲劇台,http://106.107.242.191:50007/li-litv-longturn22/index.m3u8
+生活旅遊,#genre#
+Smart知識台,http://106.107.242.191:50007/li-litv-longturn19/index.m3u8
+新聞財經,#genre#
+台視新聞台,http://106.107.242.191:50007/li-4gtv-4gtv051/index.m3u8
+綜合其他,#genre#
+台視HD,http://106.107.242.191:50007/li-4gtv-4gtv066/index.m3u8
+新聞財經,#genre#
+第1商業台,http://106.107.242.191:50007/li-4gtv-4gtv104/index.m3u8
+台視新聞台,http://106.107.242.191:50007/4gtv-4gtv051/index.m3u8
+綜合其他,#genre#
+台視HD,http://106.107.242.191:50007/4gtv-4gtv066/index.m3u8
+中視,http://106.107.242.191:50007/of-4gtv-4gtv040/index.m3u8
+新聞財經,#genre#
+中視新聞台,http://106.107.242.191:50007/of-4gtv-4gtv074/index.m3u8
+綜合其他,#genre#
+華視,http://106.107.242.191:50007/of-4gtv-4gtv041/index.m3u8
+新聞財經,#genre#
+中天新聞台,http://106.107.242.191:50007/of-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://106.107.242.191:50007/of-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://106.107.242.191:50007/of-4gtv-4gtv156/index.m3u8
+寰宇財經,http://106.107.242.191:50007/of-4gtv-4gtv158/index.m3u8
+生活旅遊,#genre#
+亞洲旅遊,http://106.107.242.191:50007/of-4gtv-4gtv076/index.m3u8
+綜合其他,#genre#
+好消息,http://106.107.242.191:50007/of-litv-ftv16/index.m3u8
+好消息2台,http://106.107.242.191:50007/of-litv-ftv17/index.m3u8
+國會頻道1,http://106.107.242.191:50007/of-4gtv-4gtv084/index.m3u8
+國會頻道2,http://106.107.242.191:50007/of-4gtv-4gtv085/index.m3u8
+電影戲劇,#genre#
+台灣戲劇台,http://106.107.242.191:50007/litv-longturn22/index.m3u8
+生活旅遊,#genre#
+Smart知識台,http://106.107.242.191:50007/litv-longturn19/index.m3u8
+新聞財經,#genre#
+第1商業台,http://106.107.242.191:50007/4gtv-4gtv104/index.m3u8
+三立iNEWS,http://106.107.242.191:50007/iNEWS/index.m3u8
+兒童卡通,#genre#
+ELTV生活英語台,http://106.107.242.191:50007/of-litv-longturn20/index.m3u8
+電影戲劇,#genre#
+龍華洋片,http://106.107.242.191:50007/litv-longturn02/index.m3u8
+兒童卡通,#genre#
+龍華卡通,http://106.107.242.191:50007/litv-longturn01/index.m3u8
+電影戲劇,#genre#
+龍華電影,http://106.107.242.191:50007/litv-longturn03/index.m3u8
+龍華日韓,http://106.107.242.191:50007/litv-longturn11/index.m3u8
+龍華偶像,http://106.107.242.191:50007/litv-longturn12/index.m3u8
+龍華戲劇,http://106.107.242.191:50007/litv-longturn18/index.m3u8
+龍華經典,http://106.107.242.191:50007/litv-longturn21/index.m3u8
+新聞財經,#genre#
+倪珍播新聞,http://106.107.242.191:50007/nnews-zh/index.m3u8
+倪珍英語新聞,http://106.107.242.191:50007/nnews-en/index.m3u8
+倪珍越語新聞,http://106.107.242.191:50007/nnews-vn/index.m3u8
 中國,#genre#
-中國|CCTV1,http://tv543.cc/Smart.php?id=cctv1
-中國|CCTV2,http://tv543.cc/Smart.php?id=cctv2
-中國|CCTV3,http://tv543.cc/Smart.php?id=cctv3
-中國|CCTV4,http://tv543.cc/Smart.php?id=Cctv4
-中國|CCTV4,http://tv543.cc/Smart.php?id=cctv4
-中國|CCTV5,http://tv543.cc/Smart.php?id=cctv5
-中國|CCTV6,http://tv543.cc/Smart.php?id=cctv6
-中國|CCTV7,http://tv543.cc/Smart.php?id=cctv7
-中國|CCTV8,http://tv543.cc/Smart.php?id=cctv8hd
-中國|CCTV9,http://tv543.cc/Smart.php?id=cctv9hd
-中國|CCTV10,http://tv543.cc/Smart.php?id=cctv10hd
-中國|CCTV11,http://tv543.cc/Smart.php?id=cctv11
-中國|CCTV12,http://tv543.cc/Smart.php?id=cctv12
-中國|CCTV13,http://tv543.cc/Smart.php?id=cctv13
-中國|CCTV14,http://tv543.cc/Smart.php?id=cctv14
-中國|CCTV15,http://tv543.cc/Smart.php?id=cctv15
-中國|CCTV16,http://tv543.cc/Smart.php?id=cctv16
-中國|CCTV17,http://tv543.cc/Smart.php?id=cctv17
-中國|CCTV5,http://tv543.cc/Smart.php?id=cctv5plus
-中國|湖南衛視,http://tv543.cc/Smart.php?id=hunan_twn
-中國|浙江衛視,http://tv543.cc/Smart.php?id=zhejiang_twn
-中國|江蘇衛視,http://tv543.cc/Smart.php?id=jiangsu_twn
-中國|東方衛視,http://tv543.cc/Smart.php?id=dongfangweishi_twn
-中國|北京衛視,http://tv543.cc/Smart.php?id=beijing
-中國|深圳衛視,http://tv543.cc/Smart.php?id=shenzhen
-中國|廣東衛視,http://tv543.cc/Smart.php?id=guangdongweishi_twn
-中國|大灣區衛視,http://tv543.cc/Smart.php?id=nanfang_twn
-中國|珠江台,http://tv543.cc/Smart.php?id=zhujiang
-中國|東南衛視,http://tv543.cc/Smart.php?id=fujian
-中國|廣西衛視,http://tv543.cc/Smart.php?id=guangxi
-中國|湖北衛視,http://tv543.cc/Smart.php?id=hubei
-中國|四川衛視,http://tv543.cc/Smart.php?id=sichuan_twn
-中國|CGTN,http://tv543.cc/Smart.php?id=CGTN
+中國|CCTV-1 綜合,http://smt.iptv543.com/Smart.php?id=cctv1
+中國|CCTV-2 財經,http://smt.iptv543.com/Smart.php?id=cctv2
+中國|CCTV-3 綜藝,http://smt.iptv543.com/Smart.php?id=cctv3
+中國|CCTV-4 中文國際,http://smt.iptv543.com/Smart.php?id=Cctv4
+中國|CCTV-4 中文國際,http://smt.iptv543.com/Smart.php?id=cctv4
+中國|CCTV-5 體育,http://smt.iptv543.com/Smart.php?id=cctv5
+中國|CCTV-6 電影,http://smt.iptv543.com/Smart.php?id=cctv6
+中國|CCTV-7 國防軍事,http://smt.iptv543.com/Smart.php?id=cctv7
+中國|CCTV-8 電視劇,http://smt.iptv543.com/Smart.php?id=cctv8hd
+中國|CCTV-9 記錄,http://smt.iptv543.com/Smart.php?id=cctv9hd
+中國|CCTV-10 科教,http://smt.iptv543.com/Smart.php?id=cctv10hd
+中國|CCTV-11 戲曲,http://smt.iptv543.com/Smart.php?id=cctv11
+中國|CCTV-12 社會與法,http://smt.iptv543.com/Smart.php?id=cctv12
+中國|CCTV-13 新聞,http://smt.iptv543.com/Smart.php?id=cctv13
+中國|CCTV-14 少兒,http://smt.iptv543.com/Smart.php?id=cctv14
+中國|CCTV-15 音樂,http://smt.iptv543.com/Smart.php?id=cctv15
+中國|CCTV-16 奧林匹克,http://smt.iptv543.com/Smart.php?id=cctv16
+中國|CCTV-17 農業農村,http://smt.iptv543.com/Smart.php?id=cctv17
+中國|CCTV-5+ 體育賽事,http://smt.iptv543.com/Smart.php?id=cctv5plus
+中國|湖南衛視,http://smt.iptv543.com/Smart.php?id=hunan_twn
+中國|浙江衛視,http://smt.iptv543.com/Smart.php?id=zhejiang_twn
+中國|江蘇衛視,http://smt.iptv543.com/Smart.php?id=jiangsu_twn
+中國|東方衛視,http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
+中國|北京衛視,http://smt.iptv543.com/Smart.php?id=beijing
+中國|深圳衛視,http://smt.iptv543.com/Smart.php?id=shenzhen
+中國|廣東衛視,http://smt.iptv543.com/Smart.php?id=guangdongweishi_twn
+中國|大灣區衛視,http://smt.iptv543.com/Smart.php?id=nanfang_twn
+中國|珠江台,http://smt.iptv543.com/Smart.php?id=zhujiang
+中國|東南衛視,http://smt.iptv543.com/Smart.php?id=fujian
+中國|廣西衛視,http://smt.iptv543.com/Smart.php?id=guangxi
+中國|湖北衛視,http://smt.iptv543.com/Smart.php?id=hubei
+中國|四川衛視,http://smt.iptv543.com/Smart.php?id=sichuan_twn
+中國|CGTN,http://smt.iptv543.com/Smart.php?id=CGTN
 香港,#genre#
-香港|鳳凰中文,http://tv543.cc/Smart.php?id=phoenixtv_hd
-香港|鳳凰資訊,http://tv543.cc/Smart.php?id=phoenixinfo_hd
-香港|鳳凰香港,http://tv543.cc/Smart.php?id=hkphoenix_twn
-香港|翡翠台,http://tv543.cc/Smart.php?id=jade_twn
-香港|翡翠台,http://tv543.cc/Smart.php?id=Jade_xue
-香港|明珠台,http://tv543.cc/Smart.php?id=pearl_twn
-香港|無線新聞,http://tv543.cc/Smart.php?id=inews_twn
-香港|TVBPLUS,http://tv543.cc/Smart.php?id=j2_twn
-香港|ViuTV,http://tv543.cc/Smart.php?id=viu1_twn
-香港|ViuTV 6,http://tv543.cc/Smart.php?id=viusix_twn
-香港|RTHK 31,http://tv543.cc/Smart.php?id=rhk31_twn
-香港|RTHK 32,http://tv543.cc/Smart.php?id=rhk32_twn
-香港|HOY TV,http://tv543.cc/Smart.php?id=hoycaijing_twn
+香港|鳳凰中文,http://smt.iptv543.com/Smart.php?id=phoenixtv_hd
+香港|鳳凰資訊,http://smt.iptv543.com/Smart.php?id=phoenixinfo_hd
+香港|鳳凰香港,http://smt.iptv543.com/Smart.php?id=hkphoenix_twn
+香港|翡翠台,http://smt.iptv543.com/Smart.php?id=jade_twn
+香港|翡翠台,http://smt.iptv543.com/Smart.php?id=Jade_xue
+香港|明珠台,http://smt.iptv543.com/Smart.php?id=pearl_twn
+香港|無線新聞,http://smt.iptv543.com/Smart.php?id=inews_twn
+香港|TVBPLUS,http://smt.iptv543.com/Smart.php?id=j2_twn
+香港|ViuTV,http://smt.iptv543.com/Smart.php?id=viu1_twn
+香港|ViuTV 6,http://smt.iptv543.com/Smart.php?id=viusix_twn
+香港|RTHK 31,http://smt.iptv543.com/Smart.php?id=rhk31_twn
+香港|RTHK 32,http://smt.iptv543.com/Smart.php?id=rhk32_twn
+香港|HOY TV,http://smt.iptv543.com/Smart.php?id=hoycaijing_twn
 台灣,#genre#
-台灣|台視 HD,http://tv543.cc/Smart.php?id=ttv_taiwan
-台灣|台視新聞,http://tv543.cc/Smart.php?id=ttvnews_twn
-台灣|台視綜合,http://tv543.cc/Smart.php?id=ttvzhonghe
-台灣|中視 HD,http://tv543.cc/Smart.php?id=zhongshihd_twn
-台灣|中視新聞,http://tv543.cc/Smart.php?id=zhongshinews_twn
-台灣|中視經典,http://tv543.cc/Smart.php?id=zhongshi_twn
-台灣|華視 HD,http://tv543.cc/Smart.php?id=ctshd_twn
-台灣|公視 HD,http://tv543.cc/Smart.php?id=ctv_taiwan
-台灣|公視台語台,http://tv543.cc/Smart.php?id=ctv2_twn
-台灣|三立台灣台,http://tv543.cc/Smart.php?id=sanlitaiwan
-台灣|三立都會台,http://tv543.cc/Smart.php?id=sanlidouhui
-台灣|三立綜合台,http://tv543.cc/Smart.php?id=sanlizhonghe
-台灣|三立戲劇台,http://tv543.cc/Smart.php?id=sanlixiju_twn
-台灣|東森新聞台,http://tv543.cc/Smart.php?id=ettvnews
-台灣|東森財經新聞台,http://tv543.cc/Smart.php?id=ettvcaijing_twn
-台灣|東森綜合台,http://tv543.cc/Smart.php?id=ettvzhonghe
-台灣|東森戲劇台,http://tv543.cc/Smart.php?id=ettvdrama
-台灣|東森電影台,http://tv543.cc/Smart.php?id=ettvmovie
-台灣|東森洋片台,http://tv543.cc/Smart.php?id=ettvwestern
-台灣|東森幼幼台,http://tv543.cc/Smart.php?id=yoyo_twn
-台灣|東森超視,http://tv543.cc/Smart.php?id=ettvsuper
-台灣|TVBS HD,http://tv543.cc/Smart.php?id=tvbs
-台灣|TVBS 新聞台,http://tv543.cc/Smart.php?id=tvbs_n
-台灣|TVBS 歡樂台,http://tv543.cc/Smart.php?id=tvbshuanle_twn
-台灣|民視 HD,http://tv543.cc/Smart.php?id=ftvhd_taiwan
-台灣|民視新聞台,http://tv543.cc/Smart.php?id=ftvnew_taiwan
-台灣|民視台灣台,http://tv543.cc/Smart.php?id=ftvtaiwan_twn
-台灣|中天綜合,http://tv543.cc/Smart.php?id=ctizhonghe
-台灣|中天娛樂,http://tv543.cc/Smart.php?id=ctient
-台灣|中天亞洲,http://tv543.cc/Smart.php?id=ctiasia_twn
-台灣|中天新聞,http://tv543.cc/Smart.php?id=ctinews
-台灣|寰宇新聞台,http://tv543.cc/Smart.php?id=huanyuxinwen_twn
-台灣|寰宇財經台,http://tv543.cc/Smart.php?id=huanyutaiwan_twn
-台灣|八大第一台,http://tv543.cc/Smart.php?id=badafirst
-台灣|八大綜合台,http://tv543.cc/Smart.php?id=badazhonghe
-台灣|八大戲劇台,http://tv543.cc/Smart.php?id=badadrama
-台灣|八大娛樂台,http://tv543.cc/Smart.php?id=badaentertain
-台灣|緯來體育,http://tv543.cc/Smart.php?id=videolandsport
-台灣|緯來精彩,http://tv543.cc/Smart.php?id=videolandspecial_twn
-台灣|緯來日本,http://tv543.cc/Smart.php?id=videolandjapan
-台灣|緯來電影,http://tv543.cc/Smart.php?id=videolandmovie
-台灣|緯來綜合,http://tv543.cc/Smart.php?id=videolandzonghe
-台灣|緯來育樂,http://tv543.cc/Smart.php?id=videolandyule
-台灣|愛爾達綜合台,http://tv543.cc/Smart.php?id=eltazonghe_twn
-台灣|愛爾達影劇台,http://tv543.cc/Smart.php?id=eltayingju_twn
-台灣|年代新聞,http://tv543.cc/Smart.php?id=niandainews_twn
-台灣|龍華戲劇,http://tv543.cc/Smart.php?id=lunghuaxiju_twn
-台灣|龍華偶像,http://tv543.cc/Smart.php?id=lunghuaidol_twn
-台灣|龍華電影,http://tv543.cc/Smart.php?id=xingwei_movie
-台灣|龍華洋片,http://tv543.cc/Smart.php?id=lunghuawestern_twn
-台灣|龍華經典,http://tv543.cc/Smart.php?id=lunghuajingdian_twn
-台灣|靖天國際,http://tv543.cc/Smart.php?id=jingtianintl_twn
-台灣|靖天卡通,http://tv543.cc/Smart.php?id=jingtiancartoon_twn
-台灣|大愛電視,http://tv543.cc/Smart.php?id=daai_twn
-台灣|大愛二台,http://tv543.cc/Smart.php?id=daai2_twn
-台灣|EYE 旅遊台,http://tv543.cc/Smart.php?id=eyetvtravel_twn
-台灣|EYE 戲劇台,http://tv543.cc/Smart.php?id=eyetvxiju_twn
-台灣|亞洲美食,http://tv543.cc/Smart.php?id=afc_twn
-台灣|美食星球,http://tv543.cc/Smart.php?id=foodplanet_twn
-台灣|TLC旅遊生活,http://tv543.cc/Smart.php?id=tlc_twn
-台灣|亞洲旅遊台,http://tv543.cc/Smart.php?id=asiatravel_twn
-台灣|Arirang,http://tv543.cc/Smart.php?id=arirang_twn
-台灣|AXN Taiwan,http://tv543.cc/Smart.php?id=axn_twn
-台灣|MTV Live,http://tv543.cc/Smart.php?id=mtvhd_twn
-台灣|HBO_HD,http://tv543.cc/Smart.php?id=hbohd_twn
-台灣|HBO_HITS,http://tv543.cc/Smart.php?id=hbohit_twn
-台灣|CINEMAX,http://tv543.cc/Smart.php?id=cinemax_twn
-台灣|好萊塢電影台,http://tv543.cc/Smart.php?id=hollywoodmovies_twn
-台灣|衛視電影台,http://tv543.cc/Smart.php?id=weishimovie_twn
-台灣|龍祥時代,http://tv543.cc/Smart.php?id=lungxiangtime_twn
-台灣|美亞電影,http://tv543.cc/Smart.php?id=meiyamovie_twn
-台灣|華藝綜合,http://tv543.cc/Smart.php?id=weishichinese_twn
-台灣|博斯運動一台,http://tv543.cc/Smart.php?id=bosisport1_twn
-台灣|博斯運動二台,http://tv543.cc/Smart.php?id=bosisport2_twn
-台灣|博斯高球一台,http://tv543.cc/Smart.php?id=bosigolf1_twn
-台灣|博斯高球二台,http://tv543.cc/Smart.php?id=bosigolf2_twn
-台灣|博斯網球檯,http://tv543.cc/Smart.php?id=bositennis_twn
-台灣|博斯無限台,http://tv543.cc/Smart.php?id=bosiunlimited_twn
-台灣|好訊息 2,http://tv543.cc/Smart.php?id=good2_twn
+台灣|台視 HD,http://smt.iptv543.com/Smart.php?id=ttv_taiwan
+台灣|台視新聞,http://smt.iptv543.com/Smart.php?id=ttvnews_twn
+台灣|台視綜合,http://smt.iptv543.com/Smart.php?id=ttvzhonghe
+台灣|中視 HD,http://smt.iptv543.com/Smart.php?id=zhongshihd_twn
+台灣|中視新聞,http://smt.iptv543.com/Smart.php?id=zhongshinews_twn
+台灣|中視經典,http://smt.iptv543.com/Smart.php?id=zhongshi_twn
+台灣|華視 HD,http://smt.iptv543.com/Smart.php?id=ctshd_twn
+台灣|公視 HD,http://smt.iptv543.com/Smart.php?id=ctv_taiwan
+台灣|公視台語台,http://smt.iptv543.com/Smart.php?id=ctv2_twn
+台灣|三立台灣台,http://smt.iptv543.com/Smart.php?id=sanlitaiwan
+台灣|三立都會台,http://smt.iptv543.com/Smart.php?id=sanlidouhui
+台灣|三立綜合台,http://smt.iptv543.com/Smart.php?id=sanlizhonghe
+台灣|三立戲劇台,http://smt.iptv543.com/Smart.php?id=sanlixiju_twn
+台灣|東森新聞台,http://smt.iptv543.com/Smart.php?id=ettvnews
+台灣|東森財經新聞台,http://smt.iptv543.com/Smart.php?id=ettvcaijing_twn
+台灣|東森綜合台,http://smt.iptv543.com/Smart.php?id=ettvzhonghe
+台灣|東森戲劇台,http://smt.iptv543.com/Smart.php?id=ettvdrama
+台灣|東森電影台,http://smt.iptv543.com/Smart.php?id=ettvmovie
+台灣|東森洋片台,http://smt.iptv543.com/Smart.php?id=ettvwestern
+台灣|東森幼幼台,http://smt.iptv543.com/Smart.php?id=yoyo_twn
+台灣|東森超視,http://smt.iptv543.com/Smart.php?id=ettvsuper
+台灣|TVBS HD,http://smt.iptv543.com/Smart.php?id=tvbs
+台灣|TVBS 新聞台,http://smt.iptv543.com/Smart.php?id=tvbs_n
+台灣|TVBS 歡樂台,http://smt.iptv543.com/Smart.php?id=tvbshuanle_twn
+台灣|民視 HD,http://smt.iptv543.com/Smart.php?id=ftvhd_taiwan
+台灣|民視新聞台,http://smt.iptv543.com/Smart.php?id=ftvnew_taiwan
+台灣|民視台灣台,http://smt.iptv543.com/Smart.php?id=ftvtaiwan_twn
+台灣|中天綜合,http://smt.iptv543.com/Smart.php?id=ctizhonghe
+台灣|中天娛樂,http://smt.iptv543.com/Smart.php?id=ctient
+台灣|中天亞洲,http://smt.iptv543.com/Smart.php?id=ctiasia_twn
+台灣|中天新聞,http://smt.iptv543.com/Smart.php?id=ctinews
+台灣|寰宇新聞台,http://smt.iptv543.com/Smart.php?id=huanyuxinwen_twn
+台灣|寰宇財經台,http://smt.iptv543.com/Smart.php?id=huanyutaiwan_twn
+台灣|八大第一台,http://smt.iptv543.com/Smart.php?id=badafirst
+台灣|八大綜合台,http://smt.iptv543.com/Smart.php?id=badazhonghe
+台灣|八大戲劇台,http://smt.iptv543.com/Smart.php?id=badadrama
+台灣|八大娛樂台,http://smt.iptv543.com/Smart.php?id=badaentertain
+台灣|緯來體育,http://smt.iptv543.com/Smart.php?id=videolandsport
+台灣|緯來精彩,http://smt.iptv543.com/Smart.php?id=videolandspecial_twn
+台灣|緯來日本,http://smt.iptv543.com/Smart.php?id=videolandjapan
+台灣|緯來電影,http://smt.iptv543.com/Smart.php?id=videolandmovie
+台灣|緯來綜合,http://smt.iptv543.com/Smart.php?id=videolandzonghe
+台灣|緯來育樂,http://smt.iptv543.com/Smart.php?id=videolandyule
+台灣|愛爾達綜合台,http://smt.iptv543.com/Smart.php?id=eltazonghe_twn
+台灣|愛爾達影劇台,http://smt.iptv543.com/Smart.php?id=eltayingju_twn
+台灣|年代新聞,http://smt.iptv543.com/Smart.php?id=niandainews_twn
+台灣|龍華戲劇,http://smt.iptv543.com/Smart.php?id=lunghuaxiju_twn
+台灣|龍華偶像,http://smt.iptv543.com/Smart.php?id=lunghuaidol_twn
+台灣|龍華電影,http://smt.iptv543.com/Smart.php?id=xingwei_movie
+台灣|龍華洋片,http://smt.iptv543.com/Smart.php?id=lunghuawestern_twn
+台灣|龍華經典,http://smt.iptv543.com/Smart.php?id=lunghuajingdian_twn
+台灣|靖天國際,http://smt.iptv543.com/Smart.php?id=jingtianintl_twn
+台灣|靖天卡通,http://smt.iptv543.com/Smart.php?id=jingtiancartoon_twn
+台灣|大愛電視,http://smt.iptv543.com/Smart.php?id=daai_twn
+台灣|大愛二台,http://smt.iptv543.com/Smart.php?id=daai2_twn
+台灣|EYE 旅遊台,http://smt.iptv543.com/Smart.php?id=eyetvtravel_twn
+台灣|EYE 戲劇台,http://smt.iptv543.com/Smart.php?id=eyetvxiju_twn
+台灣|亞洲美食,http://smt.iptv543.com/Smart.php?id=afc_twn
+台灣|美食星球,http://smt.iptv543.com/Smart.php?id=foodplanet_twn
+台灣|TLC旅遊生活,http://smt.iptv543.com/Smart.php?id=tlc_twn
+台灣|亞洲旅遊台,http://smt.iptv543.com/Smart.php?id=asiatravel_twn
+台灣|Arirang,http://smt.iptv543.com/Smart.php?id=arirang_twn
+台灣|AXN Taiwan,http://smt.iptv543.com/Smart.php?id=axn_twn
+台灣|MTV Live,http://smt.iptv543.com/Smart.php?id=mtvhd_twn
+台灣|HBO_HD,http://smt.iptv543.com/Smart.php?id=hbohd_twn
+台灣|HBO_HITS,http://smt.iptv543.com/Smart.php?id=hbohit_twn
+台灣|CINEMAX,http://smt.iptv543.com/Smart.php?id=cinemax_twn
+台灣|好萊塢電影台,http://smt.iptv543.com/Smart.php?id=hollywoodmovies_twn
+台灣|衛視電影台,http://smt.iptv543.com/Smart.php?id=weishimovie_twn
+台灣|龍祥時代,http://smt.iptv543.com/Smart.php?id=lungxiangtime_twn
+台灣|美亞電影,http://smt.iptv543.com/Smart.php?id=meiyamovie_twn
+台灣|華藝綜合,http://smt.iptv543.com/Smart.php?id=weishichinese_twn
+台灣|博斯運動一台,http://smt.iptv543.com/Smart.php?id=bosisport1_twn
+台灣|博斯運動二台,http://smt.iptv543.com/Smart.php?id=bosisport2_twn
+台灣|博斯高球一台,http://smt.iptv543.com/Smart.php?id=bosigolf1_twn
+台灣|博斯高球二台,http://smt.iptv543.com/Smart.php?id=bosigolf2_twn
+台灣|博斯網球檯,http://smt.iptv543.com/Smart.php?id=bositennis_twn
+台灣|博斯無限台,http://smt.iptv543.com/Smart.php?id=bosiunlimited_twn
+台灣|好消息 2,http://smt.iptv543.com/Smart.php?id=good2_twn
 新加坡,#genre#
-新加坡|Channel 5,http://tv543.cc/Smart.php?id=Channel5HD
-新加坡|Channel 8,http://tv543.cc/Smart.php?id=Channel8HD
-新加坡|Suria,http://tv543.cc/Smart.php?id=Suria
-新加坡|Channel U,http://tv543.cc/Smart.php?id=ChannelU
-新加坡|Vasantham,http://tv543.cc/Smart.php?id=Vasantham
-新加坡|CNA,http://tv543.cc/Smart.php?id=cna
-新加坡|CNA backup,http://tv543.cc/Smart.php?id=cna_twn
-新加坡|MeWatch Ch 5,http://tv543.cc/Smart.php?id=Mewatch_ch5
-新加坡|MeWatch Ch 8,http://tv543.cc/Smart.php?id=Mewatch_ch8
-新加坡|MeWatch Ch U,http://tv543.cc/Smart.php?id=Mewatch_chU
-新加坡|MeWatch Suria,http://tv543.cc/Smart.php?id=Mewatch_Suria
-新加坡|MeWatch Vasantham,http://tv543.cc/Smart.php?id=Mewatch_Vasantham
-新加坡|MeWatch CNA,http://tv543.cc/Smart.php?id=Mewatch_cna
+新加坡|Channel 5,http://smt.iptv543.com/Smart.php?id=Channel5HD
+新加坡|Channel 8,http://smt.iptv543.com/Smart.php?id=Channel8HD
+新加坡|Suria,http://smt.iptv543.com/Smart.php?id=Suria
+新加坡|Channel U,http://smt.iptv543.com/Smart.php?id=ChannelU
+新加坡|Vasantham,http://smt.iptv543.com/Smart.php?id=Vasantham
+新加坡|CNA,http://smt.iptv543.com/Smart.php?id=cna
+新加坡|CNA backup,http://smt.iptv543.com/Smart.php?id=cna_twn
+新加坡|MeWatch Ch 5,http://smt.iptv543.com/Smart.php?id=Mewatch_ch5
+新加坡|MeWatch Ch 8,http://smt.iptv543.com/Smart.php?id=Mewatch_ch8
+新加坡|MeWatch Ch U,http://smt.iptv543.com/Smart.php?id=Mewatch_chU
+新加坡|MeWatch Suria,http://smt.iptv543.com/Smart.php?id=Mewatch_Suria
+新加坡|MeWatch Vasantham,http://smt.iptv543.com/Smart.php?id=Mewatch_Vasantham
+新加坡|MeWatch CNA,http://smt.iptv543.com/Smart.php?id=Mewatch_cna
 馬來西亞,#genre#
-馬來西亞|TV1,http://tv543.cc/Smart.php?id=TV1
-馬來西亞|TV1 backup,http://tv543.cc/Smart.php?id=TV1_backup
-馬來西亞|TV2,http://tv543.cc/Smart.php?id=TV2
-馬來西亞|TV3,http://tv543.cc/Smart.php?id=TV3
-馬來西亞|TV3 SD,http://tv543.cc/Smart.php?id=TV3_mega
-馬來西亞|NTV7,http://tv543.cc/Smart.php?id=NTV7
-馬來西亞|TV8,http://tv543.cc/Smart.php?id=TV8
-馬來西亞|TV9,http://tv543.cc/Smart.php?id=TV9
-馬來西亞|Ria,http://tv543.cc/Smart.php?id=Ria
-馬來西亞|Ria-3,http://tv543.cc/Smart.php?id=Ria_backup
-馬來西亞|Al-Hijrah,http://tv543.cc/Smart.php?id=Alhijrah
-馬來西亞|Al-Hijrah backup,http://tv543.cc/Smart.php?id=Alhijrah_backup
-馬來西亞|Awani,http://tv543.cc/Smart.php?id=Awani
-馬來西亞|Bernama,http://tv543.cc/Smart.php?id=Bernama
-馬來西亞|Prima,http://tv543.cc/Smart.php?id=Prima
-馬來西亞|Prima backup,http://tv543.cc/Smart.php?id=AAprima1
-馬來西亞|Prima backup 2,http://tv543.cc/Smart.php?id=AAprima
-馬來西亞|Ceria,http://tv543.cc/Smart.php?id=Ceria
-馬來西亞|Astro MTV,http://tv543.cc/Smart.php?id=AstroMTV
-馬來西亞|Mecca Live HD,http://tv543.cc/Smart.php?id=quran_mido
-馬來西亞|Madinah HD,http://tv543.cc/Smart.php?id=sunnah_mido
-馬來西亞|Oasis,http://tv543.cc/Smart.php?id=Oasis
-馬來西亞|HBO HD,http://tv543.cc/Smart.php?id=Hbo
-馬來西亞|HBO Signature,http://tv543.cc/Smart.php?id=Hbosignature
-馬來西亞|HBO Hits,http://tv543.cc/Smart.php?id=Hbohitshd
-馬來西亞|NatGeo Wild HD,http://tv543.cc/Smart.php?id=Natgeowild
-馬來西亞|Cartoon Network,http://tv543.cc/Smart.php?id=Cn
-馬來西亞|Nickelodeon,http://tv543.cc/Smart.php?id=Nickelodeon
-馬來西亞|Nick Jr,http://tv543.cc/Smart.php?id=Nickjr
-馬來西亞|Dreamworks,http://tv543.cc/Smart.php?id=Dreamworks
-馬來西亞|Siar,http://tv543.cc/Smart.php?id=Siar
-馬來西亞|Citra,http://tv543.cc/Smart.php?id=AAcitra
-馬來西亞|Citra backup,http://tv543.cc/Smart.php?id=AAcitra1
-馬來西亞|Sensasi,http://tv543.cc/Smart.php?id=Sensasi
-馬來西亞|Aura,http://tv543.cc/Smart.php?id=Aura
-馬來西亞|Rania,http://tv543.cc/Smart.php?id=Rania
-馬來西亞|KBS World,http://tv543.cc/Smart.php?id=KBS
-馬來西亞|Boo,http://tv543.cc/Smart.php?id=Boo
-馬來西亞|Awesome TV,http://tv543.cc/Smart.php?id=Dsangat
-馬來西亞|Astro Sonypix,http://tv543.cc/Smart.php?id=Asonypix
-馬來西亞|Sony HD,http://tv543.cc/Smart.php?id=SetOne
-馬來西亞|TvN,http://tv543.cc/Smart.php?id=TVN
-馬來西亞|AEC,http://tv543.cc/Smart.php?id=AEC
-馬來西亞|華麗台 HD （Wah Lai Toi）,http://tv543.cc/Smart.php?id=Wlt
-馬來西亞|歡喜台 HD （Hua Hee Tai）,http://tv543.cc/Smart.php?id=Huahee
-馬來西亞|Astro QJ,http://tv543.cc/Smart.php?id=Quanjia
-馬來西亞|TVB Jade,http://tv543.cc/Smart.php?id=Tvbjade
-馬來西亞|TVB Asia,http://tv543.cc/Smart.php?id=Tvbasia
-馬來西亞|TVB Entertainment,http://tv543.cc/Smart.php?id=Tvbentertainment
-馬來西亞|TVB Classic,http://tv543.cc/Smart.php?id=Tvbclassic
-馬來西亞|AOD,http://tv543.cc/Smart.php?id=Aodhd
-馬來西亞|One,http://tv543.cc/Smart.php?id=One
-馬來西亞|TVB 星河台 Xing He,http://tv543.cc/Smart.php?id=Xinhe
-馬來西亞|愛奇藝 iQiyi,http://tv543.cc/Smart.php?id=Qiyi
-馬來西亞|Animal Planet (Eng),http://tv543.cc/Smart.php?id=AnimalPlanet
-馬來西亞|tvN Movie,http://tv543.cc/Smart.php?id=Tvnmovie
-馬來西亞|CNN backup,http://tv543.cc/Smart.php?id=cnn_twn
-馬來西亞|Celestial Classic,http://tv543.cc/Smart.php?id=Celestial2
-馬來西亞|CNBC,http://tv543.cc/Smart.php?id=cnbc_twn
-馬來西亞|TLC,http://tv543.cc/Smart.php?id=Tlc
-馬來西亞|CNA,http://tv543.cc/Smart.php?id=cna
-馬來西亞|BBC World News,http://tv543.cc/Smart.php?id=bbcnews_twn
-馬來西亞|Foodnetwork Hd,http://tv543.cc/Smart.php?id=Foodnetwork
-馬來西亞|HGTV,http://tv543.cc/Smart.php?id=HGTV
-馬來西亞|Goshop,http://tv543.cc/Smart.php?id=Goshop
-馬來西亞|Celestial Movies HD,http://tv543.cc/Smart.php?id=Celestial
-馬來西亞|Axn HD,http://tv543.cc/Smart.php?id=Axn
-馬來西亞|Paramount Network,http://tv543.cc/Smart.php?id=Paramountnetwork
-馬來西亞|Astrol Kplus,http://tv543.cc/Smart.php?id=Kplus
-馬來西亞|AFC 亞洲旅遊台,http://tv543.cc/Smart.php?id=asiatravel_twn
-馬來西亞|Rock Actions,http://tv543.cc/Smart.php?id=Rockaction
-馬來西亞|Bloomberg News,http://tv543.cc/Smart.php?id=bloomberg_twn
-馬來西亞|Al-Jazeera,http://tv543.cc/Smart.php?id=aljazeera_twn
-馬來西亞|Rock Entertainment,http://tv543.cc/Smart.php?id=Rockentertain
-馬來西亞|RTM Sports HD,http://tv543.cc/Smart.php?id=Rtmsport
-馬來西亞|Arena,http://tv543.cc/Smart.php?id=Arena
-馬來西亞|Arena 2,http://tv543.cc/Smart.php?id=Arena2
-馬來西亞|BolaArena 1,http://tv543.cc/Smart.php?id=Bolaarena1
-馬來西亞|BolaArena 2,http://tv543.cc/Smart.php?id=Bolaarena2
-馬來西亞|Astro LOL,http://tv543.cc/Smart.php?id=Astro_lol
-馬來西亞|Astro Rusi,http://tv543.cc/Smart.php?id=Rusi
-馬來西亞|WION,http://tv543.cc/Smart.php?id=Wion
-馬來西亞|RTM Asean,http://tv543.cc/Smart.php?id=Rtmasean
+馬來西亞|TV1,http://smt.iptv543.com/Smart.php?id=TV1
+馬來西亞|TV1 backup,http://smt.iptv543.com/Smart.php?id=TV1_backup
+馬來西亞|TV2,http://smt.iptv543.com/Smart.php?id=TV2
+馬來西亞|TV3,http://smt.iptv543.com/Smart.php?id=TV3
+馬來西亞|TV3 SD,http://smt.iptv543.com/Smart.php?id=TV3_mega
+馬來西亞|NTV7,http://smt.iptv543.com/Smart.php?id=NTV7
+馬來西亞|TV8,http://smt.iptv543.com/Smart.php?id=TV8
+馬來西亞|TV9,http://smt.iptv543.com/Smart.php?id=TV9
+馬來西亞|Ria,http://smt.iptv543.com/Smart.php?id=Ria
+馬來西亞|Ria-3,http://smt.iptv543.com/Smart.php?id=Ria_backup
+馬來西亞|Al-Hijrah,http://smt.iptv543.com/Smart.php?id=Alhijrah
+馬來西亞|Al-Hijrah backup,http://smt.iptv543.com/Smart.php?id=Alhijrah_backup
+馬來西亞|Awani,http://smt.iptv543.com/Smart.php?id=Awani
+馬來西亞|Bernama,http://smt.iptv543.com/Smart.php?id=Bernama
+馬來西亞|Prima,http://smt.iptv543.com/Smart.php?id=Prima
+馬來西亞|Prima backup,http://smt.iptv543.com/Smart.php?id=AAprima1
+馬來西亞|Prima backup 2,http://smt.iptv543.com/Smart.php?id=AAprima
+馬來西亞|Ceria,http://smt.iptv543.com/Smart.php?id=Ceria
+馬來西亞|Astro MTV,http://smt.iptv543.com/Smart.php?id=AstroMTV
+馬來西亞|Mecca Live HD,http://smt.iptv543.com/Smart.php?id=quran_mido
+馬來西亞|Madinah HD,http://smt.iptv543.com/Smart.php?id=sunnah_mido
+馬來西亞|Oasis,http://smt.iptv543.com/Smart.php?id=Oasis
+馬來西亞|HBO HD,http://smt.iptv543.com/Smart.php?id=Hbo
+馬來西亞|HBO Signature,http://smt.iptv543.com/Smart.php?id=Hbosignature
+馬來西亞|HBO Hits,http://smt.iptv543.com/Smart.php?id=Hbohitshd
+馬來西亞|NatGeo Wild HD,http://smt.iptv543.com/Smart.php?id=Natgeowild
+馬來西亞|Cartoon Network,http://smt.iptv543.com/Smart.php?id=Cn
+馬來西亞|Nickelodeon,http://smt.iptv543.com/Smart.php?id=Nickelodeon
+馬來西亞|Nick Jr,http://smt.iptv543.com/Smart.php?id=Nickjr
+馬來西亞|Dreamworks,http://smt.iptv543.com/Smart.php?id=Dreamworks
+馬來西亞|Siar,http://smt.iptv543.com/Smart.php?id=Siar
+馬來西亞|Citra,http://smt.iptv543.com/Smart.php?id=AAcitra
+馬來西亞|Citra backup,http://smt.iptv543.com/Smart.php?id=AAcitra1
+馬來西亞|Sensasi,http://smt.iptv543.com/Smart.php?id=Sensasi
+馬來西亞|Aura,http://smt.iptv543.com/Smart.php?id=Aura
+馬來西亞|Rania,http://smt.iptv543.com/Smart.php?id=Rania
+馬來西亞|KBS World,http://smt.iptv543.com/Smart.php?id=KBS
+馬來西亞|Boo,http://smt.iptv543.com/Smart.php?id=Boo
+馬來西亞|Awesome TV,http://smt.iptv543.com/Smart.php?id=Dsangat
+馬來西亞|Astro Sonypix,http://smt.iptv543.com/Smart.php?id=Asonypix
+馬來西亞|Sony HD,http://smt.iptv543.com/Smart.php?id=SetOne
+馬來西亞|TvN,http://smt.iptv543.com/Smart.php?id=TVN
+馬來西亞|AEC,http://smt.iptv543.com/Smart.php?id=AEC
+馬來西亞|華麗台 HD （Wah Lai Toi）,http://smt.iptv543.com/Smart.php?id=Wlt
+馬來西亞|歡喜台 HD （Hua Hee Tai）,http://smt.iptv543.com/Smart.php?id=Huahee
+馬來西亞|Astro QJ,http://smt.iptv543.com/Smart.php?id=Quanjia
+馬來西亞|TVB Jade,http://smt.iptv543.com/Smart.php?id=Tvbjade
+馬來西亞|TVB Asia,http://smt.iptv543.com/Smart.php?id=Tvbasia
+馬來西亞|TVB Entertainment,http://smt.iptv543.com/Smart.php?id=Tvbentertainment
+馬來西亞|TVB Classic,http://smt.iptv543.com/Smart.php?id=Tvbclassic
+馬來西亞|AOD,http://smt.iptv543.com/Smart.php?id=Aodhd
+馬來西亞|One,http://smt.iptv543.com/Smart.php?id=One
+馬來西亞|TVB 星河台 Xing He,http://smt.iptv543.com/Smart.php?id=Xinhe
+馬來西亞|愛奇藝 iQiyi,http://smt.iptv543.com/Smart.php?id=Qiyi
+馬來西亞|Animal Planet (Eng),http://smt.iptv543.com/Smart.php?id=AnimalPlanet
+馬來西亞|tvN Movie,http://smt.iptv543.com/Smart.php?id=Tvnmovie
+馬來西亞|CNN backup,http://smt.iptv543.com/Smart.php?id=cnn_twn
+馬來西亞|Celestial Classic,http://smt.iptv543.com/Smart.php?id=Celestial2
+馬來西亞|CNBC,http://smt.iptv543.com/Smart.php?id=cnbc_twn
+馬來西亞|TLC,http://smt.iptv543.com/Smart.php?id=Tlc
+馬來西亞|CNA,http://smt.iptv543.com/Smart.php?id=cna
+馬來西亞|BBC World News,http://smt.iptv543.com/Smart.php?id=bbcnews_twn
+馬來西亞|Foodnetwork Hd,http://smt.iptv543.com/Smart.php?id=Foodnetwork
+馬來西亞|HGTV,http://smt.iptv543.com/Smart.php?id=HGTV
+馬來西亞|Goshop,http://smt.iptv543.com/Smart.php?id=Goshop
+馬來西亞|Celestial Movies HD,http://smt.iptv543.com/Smart.php?id=Celestial
+馬來西亞|Axn HD,http://smt.iptv543.com/Smart.php?id=Axn
+馬來西亞|Paramount Network,http://smt.iptv543.com/Smart.php?id=Paramountnetwork
+馬來西亞|Astrol Kplus,http://smt.iptv543.com/Smart.php?id=Kplus
+馬來西亞|AFC 亞洲旅遊台,http://smt.iptv543.com/Smart.php?id=asiatravel_twn
+馬來西亞|Rock Actions,http://smt.iptv543.com/Smart.php?id=Rockaction
+馬來西亞|Bloomberg News,http://smt.iptv543.com/Smart.php?id=bloomberg_twn
+馬來西亞|Al-Jazeera,http://smt.iptv543.com/Smart.php?id=aljazeera_twn
+馬來西亞|Rock Entertainment,http://smt.iptv543.com/Smart.php?id=Rockentertain
+馬來西亞|RTM Sports HD,http://smt.iptv543.com/Smart.php?id=Rtmsport
+馬來西亞|Arena,http://smt.iptv543.com/Smart.php?id=Arena
+馬來西亞|Arena 2,http://smt.iptv543.com/Smart.php?id=Arena2
+馬來西亞|BolaArena 1,http://smt.iptv543.com/Smart.php?id=Bolaarena1
+馬來西亞|BolaArena 2,http://smt.iptv543.com/Smart.php?id=Bolaarena2
+馬來西亞|Astro LOL,http://smt.iptv543.com/Smart.php?id=Astro_lol
+馬來西亞|Astro Rusi,http://smt.iptv543.com/Smart.php?id=Rusi
+馬來西亞|WION,http://smt.iptv543.com/Smart.php?id=Wion
+馬來西亞|RTM Asean,http://smt.iptv543.com/Smart.php?id=Rtmasean
 印度尼西亞,#genre#
-印度尼西亞|TVRI National,http://tv543.cc/Smart.php?id=TVRI
-印度尼西亞|RCTI,http://tv543.cc/Smart.php?id=Rcti
-印度尼西亞|Kompass TV,http://tv543.cc/Smart.php?id=Kompass
-印度尼西亞|Berita Satu,http://tv543.cc/Smart.php?id=BeritaSatu_eko
-印度尼西亞|Indosiar HD,http://tv543.cc/Smart.php?id=Indosiar
-印度尼西亞|AnTV,http://tv543.cc/Smart.php?id=Antv
-印度尼西亞|MNC TV,http://tv543.cc/Smart.php?id=Mnctv
-印度尼西亞|Trans 7,http://tv543.cc/Smart.php?id=Trans7_eko
-印度尼西亞|Transtv,http://tv543.cc/Smart.php?id=Transtv
-印度尼西亞|JTV,http://tv543.cc/Smart.php?id=JTV_eko
-印度尼西亞|Metro TV,http://tv543.cc/Smart.php?id=metrotv_eko
-印度尼西亞|Cinemax,http://tv543.cc/Smart.php?id=Cinemax
-印度尼西亞|SCTV,http://tv543.cc/Smart.php?id=SCTV
-印度尼西亞|Tvone,http://tv543.cc/Smart.php?id=Tvone
-印度尼西亞|TVMU,http://tv543.cc/Smart.php?id=TVMU_eko
-印度尼西亞|GTV,http://tv543.cc/Smart.php?id=Gtv
-印度尼西亞|RTV,http://tv543.cc/Smart.php?id=Rtv
-印度尼西亞|Jak TV,http://tv543.cc/Smart.php?id=JakTV
-印度尼西亞|iNews TV,http://tv543.cc/Smart.php?id=Inewstv
-印度尼西亞|Daai TV,http://tv543.cc/Smart.php?id=DaaiTV
-印度尼西亞|Net TV,http://tv543.cc/Smart.php?id=NetTV
-印度尼西亞|Animax,http://tv543.cc/Smart.php?id=Animax
-印度尼西亞|EWTN,http://tv543.cc/Smart.php?id=Ewtn
-印度尼西亞|AlQuran AlKareem,http://tv543.cc/Smart.php?id=AlQuran
-印度尼西亞|Tawaf TV,http://tv543.cc/Smart.php?id=TawafTV
-印度尼西亞|Vision Prime,http://tv543.cc/Smart.php?id=VisionPrime
-印度尼西亞|Muslim TV,http://tv543.cc/Smart.php?id=MuslimTV
-印度尼西亞|Music TV,http://tv543.cc/Smart.php?id=MusicTV
-印度尼西亞|Lifestyle&amp;Fashion,http://tv543.cc/Smart.php?id=Lifestyle
-印度尼西亞|Entertain,http://tv543.cc/Smart.php?id=Entertain
-印度尼西亞|Hits,http://tv543.cc/Smart.php?id=Hits
-印度尼西亞|Warner TV,http://tv543.cc/Smart.php?id=WarnerTV
-印度尼西亞|SCM,http://tv543.cc/Smart.php?id=Weishimovie
-印度尼西亞|Thrill,http://tv543.cc/Smart.php?id=Thrill
-印度尼西亞|Fight Sports,http://tv543.cc/Smart.php?id=Fs
-印度尼西亞|Hits Movie,http://tv543.cc/Smart.php?id=Hitsmovie
-印度尼西亞|One,http://tv543.cc/Smart.php?id=One
-印度尼西亞|tvN Movie,http://tv543.cc/Smart.php?id=Tvnmovie
-印度尼西亞|Celestial Movies HD,http://tv543.cc/Smart.php?id=Celestialindo
-印度尼西亞|Rock Actions,http://tv543.cc/Smart.php?id=Rockaction
-印度尼西亞|Rock Entertainment,http://tv543.cc/Smart.php?id=Rockentertain
+印度尼西亞|TVRI National,http://smt.iptv543.com/Smart.php?id=TVRI
+印度尼西亞|RCTI,http://smt.iptv543.com/Smart.php?id=Rcti
+印度尼西亞|Kompass TV,http://smt.iptv543.com/Smart.php?id=Kompass
+印度尼西亞|Berita Satu,http://smt.iptv543.com/Smart.php?id=BeritaSatu_eko
+印度尼西亞|Indosiar HD,http://smt.iptv543.com/Smart.php?id=Indosiar
+印度尼西亞|AnTV,http://smt.iptv543.com/Smart.php?id=Antv
+印度尼西亞|MNC TV,http://smt.iptv543.com/Smart.php?id=Mnctv
+印度尼西亞|Trans 7,http://smt.iptv543.com/Smart.php?id=Trans7_eko
+印度尼西亞|Transtv,http://smt.iptv543.com/Smart.php?id=Transtv
+印度尼西亞|JTV,http://smt.iptv543.com/Smart.php?id=JTV_eko
+印度尼西亞|Metro TV,http://smt.iptv543.com/Smart.php?id=metrotv_eko
+印度尼西亞|Cinemax,http://smt.iptv543.com/Smart.php?id=Cinemax
+印度尼西亞|SCTV,http://smt.iptv543.com/Smart.php?id=SCTV
+印度尼西亞|Tvone,http://smt.iptv543.com/Smart.php?id=Tvone
+印度尼西亞|TVMU,http://smt.iptv543.com/Smart.php?id=TVMU_eko
+印度尼西亞|GTV,http://smt.iptv543.com/Smart.php?id=Gtv
+印度尼西亞|RTV,http://smt.iptv543.com/Smart.php?id=Rtv
+印度尼西亞|Jak TV,http://smt.iptv543.com/Smart.php?id=JakTV
+印度尼西亞|iNews TV,http://smt.iptv543.com/Smart.php?id=Inewstv
+印度尼西亞|Daai TV,http://smt.iptv543.com/Smart.php?id=DaaiTV
+印度尼西亞|Net TV,http://smt.iptv543.com/Smart.php?id=NetTV
+印度尼西亞|Animax,http://smt.iptv543.com/Smart.php?id=Animax
+印度尼西亞|EWTN,http://smt.iptv543.com/Smart.php?id=Ewtn
+印度尼西亞|AlQuran AlKareem,http://smt.iptv543.com/Smart.php?id=AlQuran
+印度尼西亞|Tawaf TV,http://smt.iptv543.com/Smart.php?id=TawafTV
+印度尼西亞|Vision Prime,http://smt.iptv543.com/Smart.php?id=VisionPrime
+印度尼西亞|Muslim TV,http://smt.iptv543.com/Smart.php?id=MuslimTV
+印度尼西亞|Music TV,http://smt.iptv543.com/Smart.php?id=MusicTV
+印度尼西亞|Lifestyle&amp;Fashion,http://smt.iptv543.com/Smart.php?id=Lifestyle
+印度尼西亞|Entertain,http://smt.iptv543.com/Smart.php?id=Entertain
+印度尼西亞|Hits,http://smt.iptv543.com/Smart.php?id=Hits
+印度尼西亞|Warner TV,http://smt.iptv543.com/Smart.php?id=WarnerTV
+印度尼西亞|SCM,http://smt.iptv543.com/Smart.php?id=Weishimovie
+印度尼西亞|Thrill,http://smt.iptv543.com/Smart.php?id=Thrill
+印度尼西亞|Fight Sports,http://smt.iptv543.com/Smart.php?id=Fs
+印度尼西亞|Hits Movie,http://smt.iptv543.com/Smart.php?id=Hitsmovie
+印度尼西亞|One,http://smt.iptv543.com/Smart.php?id=One
+印度尼西亞|tvN Movie,http://smt.iptv543.com/Smart.php?id=Tvnmovie
+印度尼西亞|Celestial Movies HD,http://smt.iptv543.com/Smart.php?id=Celestialindo
+印度尼西亞|Rock Actions,http://smt.iptv543.com/Smart.php?id=Rockaction
+印度尼西亞|Rock Entertainment,http://smt.iptv543.com/Smart.php?id=Rockentertain
 印度,#genre#
-印度|Sun TV HD,http://tv543.cc/Smart.php?id=Suntv
-印度|Star Vijay,http://tv543.cc/Smart.php?id=Starvijay
-印度|Colors Tamil,http://tv543.cc/Smart.php?id=Colorstam
-印度|Sun Music,http://tv543.cc/Smart.php?id=Sunmusic
-印度|Astro Sunlife,http://tv543.cc/Smart.php?id=Sunlife
-印度|Astro Vaanavil,http://tv543.cc/Smart.php?id=Vaanavil
-印度|Zee Tamil,http://tv543.cc/Smart.php?id=Zeetamil
-印度|Zee Business,http://tv543.cc/Smart.php?id=Zeebusiness
-印度|News 18 Tamil,http://tv543.cc/Smart.php?id=news18tamil_raj
-印度|Adithya,http://tv543.cc/Smart.php?id=Adithya
-印度|Makkal TV,http://tv543.cc/Smart.php?id=Makkaltv
-印度|Zee Action,http://tv543.cc/Smart.php?id=Zeeaction
-印度|Astro KTV,http://tv543.cc/Smart.php?id=Astroktv
-印度|Zee TV HD,http://tv543.cc/Smart.php?id=Zeetvhd
-印度|Zee Cinema HD,http://tv543.cc/Smart.php?id=Zeecinemahd
-印度|Color HD,http://tv543.cc/Smart.php?id=Colorhd
-印度|Starplus HD,http://tv543.cc/Smart.php?id=Starplushd
-印度|Picture HD,http://tv543.cc/Smart.php?id=Npicture
-印度|Zee News,http://tv543.cc/Smart.php?id=Zeenews
-印度|Asianet,http://tv543.cc/Smart.php?id=asianet_raj
-印度|Asianet News,http://tv543.cc/Smart.php?id=asianetnews_raj
-印度|Discovery World Tamil,http://tv543.cc/Smart.php?id=discoveryworldtam_raj
-印度|History Tamil,http://tv543.cc/Smart.php?id=historytam_raj
-印度|NatGeo Tamil,http://tv543.cc/Smart.php?id=natgeotamil_raj
-印度|Natgeo Wild Tamil,http://tv543.cc/Smart.php?id=natgeowildtamil_raj
-印度|Astro Sonypix,http://tv543.cc/Smart.php?id=Asonypix
-印度|Discovery Kids Tamil,http://tv543.cc/Smart.php?id=discoverykidtamil_raj
-印度|Discovery Tamil,http://tv543.cc/Smart.php?id=discoverytamil_raj
-印度|Sony Yay Tamil,http://tv543.cc/Smart.php?id=sonyyaytam_raj
-印度|Sun TV India,http://tv543.cc/Smart.php?id=suntv_raj
-印度|Starmaa HD,http://tv543.cc/Smart.php?id=starmaa_raj
-印度|Starmaa Movies HD,http://tv543.cc/Smart.php?id=starmaamovies_raj
-印度|Bollyone,http://tv543.cc/Smart.php?id=Bollyone
-印度|Astro Sunmusic,http://tv543.cc/Smart.php?id=Sunmusic
-印度|Vijay Super,http://tv543.cc/Smart.php?id=vijaysuper_raj
-印度|Vellithirai,http://tv543.cc/Smart.php?id=Vellithirai
+印度|Sun TV HD,http://smt.iptv543.com/Smart.php?id=Suntv
+印度|Star Vijay,http://smt.iptv543.com/Smart.php?id=Starvijay
+印度|Colors Tamil,http://smt.iptv543.com/Smart.php?id=Colorstam
+印度|Sun Music,http://smt.iptv543.com/Smart.php?id=Sunmusic
+印度|Astro Sunlife,http://smt.iptv543.com/Smart.php?id=Sunlife
+印度|Astro Vaanavil,http://smt.iptv543.com/Smart.php?id=Vaanavil
+印度|Zee Tamil,http://smt.iptv543.com/Smart.php?id=Zeetamil
+印度|Zee Business,http://smt.iptv543.com/Smart.php?id=Zeebusiness
+印度|News 18 Tamil,http://smt.iptv543.com/Smart.php?id=news18tamil_raj
+印度|Adithya,http://smt.iptv543.com/Smart.php?id=Adithya
+印度|Makkal TV,http://smt.iptv543.com/Smart.php?id=Makkaltv
+印度|Zee Action,http://smt.iptv543.com/Smart.php?id=Zeeaction
+印度|Astro KTV,http://smt.iptv543.com/Smart.php?id=Astroktv
+印度|Zee TV HD,http://smt.iptv543.com/Smart.php?id=Zeetvhd
+印度|Zee Cinema HD,http://smt.iptv543.com/Smart.php?id=Zeecinemahd
+印度|Color HD,http://smt.iptv543.com/Smart.php?id=Colorhd
+印度|Starplus HD,http://smt.iptv543.com/Smart.php?id=Starplushd
+印度|Picture HD,http://smt.iptv543.com/Smart.php?id=Npicture
+印度|Zee News,http://smt.iptv543.com/Smart.php?id=Zeenews
+印度|Asianet,http://smt.iptv543.com/Smart.php?id=asianet_raj
+印度|Asianet News,http://smt.iptv543.com/Smart.php?id=asianetnews_raj
+印度|Discovery World Tamil,http://smt.iptv543.com/Smart.php?id=discoveryworldtam_raj
+印度|History Tamil,http://smt.iptv543.com/Smart.php?id=historytam_raj
+印度|NatGeo Tamil,http://smt.iptv543.com/Smart.php?id=natgeotamil_raj
+印度|Natgeo Wild Tamil,http://smt.iptv543.com/Smart.php?id=natgeowildtamil_raj
+印度|Astro Sonypix,http://smt.iptv543.com/Smart.php?id=Asonypix
+印度|Discovery Kids Tamil,http://smt.iptv543.com/Smart.php?id=discoverykidtamil_raj
+印度|Discovery Tamil,http://smt.iptv543.com/Smart.php?id=discoverytamil_raj
+印度|Sony Yay Tamil,http://smt.iptv543.com/Smart.php?id=sonyyaytam_raj
+印度|Sun TV India,http://smt.iptv543.com/Smart.php?id=suntv_raj
+印度|Starmaa HD,http://smt.iptv543.com/Smart.php?id=starmaa_raj
+印度|Starmaa Movies HD,http://smt.iptv543.com/Smart.php?id=starmaamovies_raj
+印度|Bollyone,http://smt.iptv543.com/Smart.php?id=Bollyone
+印度|Astro Sunmusic,http://smt.iptv543.com/Smart.php?id=Sunmusic
+印度|Vijay Super,http://smt.iptv543.com/Smart.php?id=vijaysuper_raj
+印度|Vellithirai,http://smt.iptv543.com/Smart.php?id=Vellithirai
 泰國,#genre#
-泰國|Channel 3 Thailand,http://tv543.cc/Smart.php?id=ch3_pat
-泰國|Channel 5 Thailand,http://tv543.cc/Smart.php?id=ch5_pat
-泰國|Channel 7 Thailand,http://tv543.cc/Smart.php?id=ch7_pat
-泰國|MCOT HD Thailand-1,http://tv543.cc/Smart.php?id=mcot_pat
-泰國|PPTV Thailand1,http://tv543.cc/Smart.php?id=pptv_pat
-泰國|Thai Thai,http://tv543.cc/Smart.php?id=thaithai_pat
-泰國|Amarin,http://tv543.cc/Smart.php?id=amarin_pat
-泰國|Ch 8,http://tv543.cc/Smart.php?id=ch8_pat
-泰國|GmmOne,http://tv543.cc/Smart.php?id=gmmone_pat
-泰國|Mono,http://tv543.cc/Smart.php?id=mono_pat
-泰國|Thairath,http://tv543.cc/Smart.php?id=thairath_pat
-泰國|tpbs,http://tv543.cc/Smart.php?id=tpbs_pat
-泰國|Workpoint,http://tv543.cc/Smart.php?id=workpoint_pat
-泰國|Gmm Channel,http://tv543.cc/Smart.php?id=gmmchannel_pat
-泰國|Nation,http://tv543.cc/Smart.php?id=nation_pat
-泰國|Tnn24,http://tv543.cc/Smart.php?id=tnn24_pat
-泰國|Nbt,http://tv543.cc/Smart.php?id=nbt_pat
-泰國|New,http://tv543.cc/Smart.php?id=new_pat
-泰國|TPTV,http://tv543.cc/Smart.php?id=tptv_pat
+泰國|Channel 3 Thailand,http://smt.iptv543.com/Smart.php?id=ch3_pat
+泰國|Channel 5 Thailand,http://smt.iptv543.com/Smart.php?id=ch5_pat
+泰國|Channel 7 Thailand,http://smt.iptv543.com/Smart.php?id=ch7_pat
+泰國|MCOT HD Thailand-1,http://smt.iptv543.com/Smart.php?id=mcot_pat
+泰國|PPTV Thailand1,http://smt.iptv543.com/Smart.php?id=pptv_pat
+泰國|Thai Thai,http://smt.iptv543.com/Smart.php?id=thaithai_pat
+泰國|Amarin,http://smt.iptv543.com/Smart.php?id=amarin_pat
+泰國|Ch 8,http://smt.iptv543.com/Smart.php?id=ch8_pat
+泰國|GmmOne,http://smt.iptv543.com/Smart.php?id=gmmone_pat
+泰國|Mono,http://smt.iptv543.com/Smart.php?id=mono_pat
+泰國|Thairath,http://smt.iptv543.com/Smart.php?id=thairath_pat
+泰國|tpbs,http://smt.iptv543.com/Smart.php?id=tpbs_pat
+泰國|Workpoint,http://smt.iptv543.com/Smart.php?id=workpoint_pat
+泰國|Gmm Channel,http://smt.iptv543.com/Smart.php?id=gmmchannel_pat
+泰國|Nation,http://smt.iptv543.com/Smart.php?id=nation_pat
+泰國|Tnn24,http://smt.iptv543.com/Smart.php?id=tnn24_pat
+泰國|Nbt,http://smt.iptv543.com/Smart.php?id=nbt_pat
+泰國|New,http://smt.iptv543.com/Smart.php?id=new_pat
+泰國|TPTV,http://smt.iptv543.com/Smart.php?id=tptv_pat
 英國,#genre#
-英國|BBC 1,http://tv543.cc/Smart.php?id=bbc1_antik
-英國|BBC 2,http://tv543.cc/Smart.php?id=bbc2_antik
-英國|CBBC,http://tv543.cc/Smart.php?id=cbbc_antik
-英國|More4,http://tv543.cc/Smart.php?id=more4_antik
-英國|Freesports,http://tv543.cc/Smart.php?id=freesports_antik
-英國|Skynews,http://tv543.cc/Smart.php?id=skynews_twn
-英國|Pick TV,http://tv543.cc/Smart.php?id=picktv_antik
-英國|itv 1,http://tv543.cc/Smart.php?id=itv1_antik
-英國|itv 2,http://tv543.cc/Smart.php?id=itv2_antik
-英國|Euronews,http://tv543.cc/Smart.php?id=euronews_antik
-英國|Channel 4,http://tv543.cc/Smart.php?id=channel4_antik
-英國|NatGeo HD,http://tv543.cc/Smart.php?id=Natgeo
-英國|CBeebies,http://tv543.cc/Smart.php?id=Cbeebies
-英國|History,http://tv543.cc/Smart.php?id=History
-英國|Kids TV,http://tv543.cc/Smart.php?id=KidsTV
-英國|France 24,http://tv543.cc/Smart.php?id=france24_twn
-英國|DW (Deutsch),http://tv543.cc/Smart.php?id=dw_twn
-英國|BBC Earth HD,http://tv543.cc/Smart.php?id=bbcearth_twn
-英國|BBC Earth Lifestyle,http://tv543.cc/Smart.php?id=bbclifestyle_twn
-英國|MTV Live,http://tv543.cc/Smart.php?id=mtvhd_twn
-英國|Star Movies HD,http://tv543.cc/Smart.php?id=starmovies_raj
-英國|NHK World,http://tv543.cc/Smart.php?id=nhkworld_japan
-英國|Warner TV,http://tv543.cc/Smart.php?id=WarnerTV
-英國|HBO HD,http://tv543.cc/Smart.php?id=Hbo
-英國|NatGeo Wild HD,http://tv543.cc/Smart.php?id=Natgeowild
-英國|Nickelodeon,http://tv543.cc/Smart.php?id=Nickelodeon
-英國|Nick Jr,http://tv543.cc/Smart.php?id=Nickjr
-英國|Thrill,http://tv543.cc/Smart.php?id=Thrill
-英國|CGTN,http://tv543.cc/Smart.php?id=CGTN
-英國|Hits Movie,http://tv543.cc/Smart.php?id=Hitsmovie
-英國|Animal Planet (Eng),http://tv543.cc/Smart.php?id=AnimalPlanet
-英國|CNBC,http://tv543.cc/Smart.php?id=cnbc_twn
-英國|TLC,http://tv543.cc/Smart.php?id=Tlc
-英國|BBC World News,http://tv543.cc/Smart.php?id=bbcworldnews_antik
-英國|HGTV,http://tv543.cc/Smart.php?id=HGTV
-英國|Axn HD,http://tv543.cc/Smart.php?id=Axn
-英國|Skysports F1,http://tv543.cc/Smart.php?id=tiankongf1
-英國|Skysports Cricket,http://tv543.cc/Smart.php?id=tiankongcricket
-英國|Bloomberg News,http://tv543.cc/Smart.php?id=bloomberg_twn
-英國|Skysports EPL,http://tv543.cc/Smart.php?id=tiankongepl
-英國|Skysports Main Event,http://tv543.cc/Smart.php?id=tiankongmain
-英國|Skysports News,http://tv543.cc/Smart.php?id=tiankongnews
-英國|Al-Jazeera,http://tv543.cc/Smart.php?id=aljazeera_twn
+英國|BBC 1,http://smt.iptv543.com/Smart.php?id=bbc1_antik
+英國|BBC 2,http://smt.iptv543.com/Smart.php?id=bbc2_antik
+英國|CBBC,http://smt.iptv543.com/Smart.php?id=cbbc_antik
+英國|More4,http://smt.iptv543.com/Smart.php?id=more4_antik
+英國|Freesports,http://smt.iptv543.com/Smart.php?id=freesports_antik
+英國|Skynews,http://smt.iptv543.com/Smart.php?id=skynews_twn
+英國|Pick TV,http://smt.iptv543.com/Smart.php?id=picktv_antik
+英國|itv 1,http://smt.iptv543.com/Smart.php?id=itv1_antik
+英國|itv 2,http://smt.iptv543.com/Smart.php?id=itv2_antik
+英國|Euronews,http://smt.iptv543.com/Smart.php?id=euronews_antik
+英國|Channel 4,http://smt.iptv543.com/Smart.php?id=channel4_antik
+英國|NatGeo HD,http://smt.iptv543.com/Smart.php?id=Natgeo
+英國|CBeebies,http://smt.iptv543.com/Smart.php?id=Cbeebies
+英國|History,http://smt.iptv543.com/Smart.php?id=History
+英國|Kids TV,http://smt.iptv543.com/Smart.php?id=KidsTV
+英國|France 24,http://smt.iptv543.com/Smart.php?id=france24_twn
+英國|DW (Deutsch),http://smt.iptv543.com/Smart.php?id=dw_twn
+英國|BBC Earth HD,http://smt.iptv543.com/Smart.php?id=bbcearth_twn
+英國|BBC Earth Lifestyle,http://smt.iptv543.com/Smart.php?id=bbclifestyle_twn
+英國|MTV Live,http://smt.iptv543.com/Smart.php?id=mtvhd_twn
+英國|Star Movies HD,http://smt.iptv543.com/Smart.php?id=starmovies_raj
+英國|NHK World,http://smt.iptv543.com/Smart.php?id=nhkworld_japan
+英國|Warner TV,http://smt.iptv543.com/Smart.php?id=WarnerTV
+英國|HBO HD,http://smt.iptv543.com/Smart.php?id=Hbo
+英國|NatGeo Wild HD,http://smt.iptv543.com/Smart.php?id=Natgeowild
+英國|Nickelodeon,http://smt.iptv543.com/Smart.php?id=Nickelodeon
+英國|Nick Jr,http://smt.iptv543.com/Smart.php?id=Nickjr
+英國|Thrill,http://smt.iptv543.com/Smart.php?id=Thrill
+英國|CGTN,http://smt.iptv543.com/Smart.php?id=CGTN
+英國|Hits Movie,http://smt.iptv543.com/Smart.php?id=Hitsmovie
+英國|Animal Planet (Eng),http://smt.iptv543.com/Smart.php?id=AnimalPlanet
+英國|CNBC,http://smt.iptv543.com/Smart.php?id=cnbc_twn
+英國|TLC,http://smt.iptv543.com/Smart.php?id=Tlc
+英國|BBC World News,http://smt.iptv543.com/Smart.php?id=bbcworldnews_antik
+英國|HGTV,http://smt.iptv543.com/Smart.php?id=HGTV
+英國|Axn HD,http://smt.iptv543.com/Smart.php?id=Axn
+英國|Skysports F1,http://smt.iptv543.com/Smart.php?id=tiankongf1
+英國|Skysports Cricket,http://smt.iptv543.com/Smart.php?id=tiankongcricket
+英國|Bloomberg News,http://smt.iptv543.com/Smart.php?id=bloomberg_twn
+英國|Skysports EPL,http://smt.iptv543.com/Smart.php?id=tiankongepl
+英國|Skysports Main Event,http://smt.iptv543.com/Smart.php?id=tiankongmain
+英國|Skysports News,http://smt.iptv543.com/Smart.php?id=tiankongnews
+英國|Al-Jazeera,http://smt.iptv543.com/Smart.php?id=aljazeera_twn
 電影頻道,#genre#
-電影頻道|CCTV6,http://tv543.cc/Smart.php?id=cctv6
-電影頻道|AXN Taiwan,http://tv543.cc/Smart.php?id=axn_twn
-電影頻道|HBO_HD,http://tv543.cc/Smart.php?id=hbohd_twn
-電影頻道|HBO_HITS,http://tv543.cc/Smart.php?id=hbohit_twn
-電影頻道|CINEMAX,http://tv543.cc/Smart.php?id=cinemax_twn
-電影頻道|好萊塢電影台,http://tv543.cc/Smart.php?id=hollywoodmovies_twn
-電影頻道|東森電影,http://tv543.cc/Smart.php?id=ettvmovie
-電影頻道|東森洋片,http://tv543.cc/Smart.php?id=ettvwestern
-電影頻道|龍華電影,http://tv543.cc/Smart.php?id=xingwei_movie
-電影頻道|龍華洋片,http://tv543.cc/Smart.php?id=lunghuawestern_twn
-電影頻道|龍祥時代,http://tv543.cc/Smart.php?id=lungxiangtime_twn
-電影頻道|美亞電影,http://tv543.cc/Smart.php?id=meiyamovie_twn
-電影頻道|衛視電影台,http://tv543.cc/Smart.php?id=weishimovie_twn
-電影頻道|天映頻道,http://tv543.cc/Smart.php?id=Celestial
-電影頻道|天映頻道,http://tv543.cc/Smart.php?id=Celestialindo
-電影頻道|天映經典,http://tv543.cc/Smart.php?id=Celestial2
-電影頻道|Animax,http://tv543.cc/Smart.php?id=Animax
-電影頻道|Movies Now HD,http://tv543.cc/Smart.php?id=moviesnow_raj
-電影頻道|Star Movies HD,http://tv543.cc/Smart.php?id=starmovies_raj
-電影頻道|Hits,http://tv543.cc/Smart.php?id=Hits
-電影頻道|Warner TV,http://tv543.cc/Smart.php?id=WarnerTV
-電影頻道|HBO HD,http://tv543.cc/Smart.php?id=Hbo
-電影頻道|HBO Signature,http://tv543.cc/Smart.php?id=Hbosignature
-電影頻道|HBO Family,http://tv543.cc/Smart.php?id=Hbofamily
-電影頻道|HBO Hits,http://tv543.cc/Smart.php?id=Hbohitshd
-電影頻道|Cinemax,http://tv543.cc/Smart.php?id=Cinemax
-電影頻道|Dreamworks,http://tv543.cc/Smart.php?id=Dreamworks
-電影頻道|SCM,http://tv543.cc/Smart.php?id=Weishimovie
-電影頻道|Thrill,http://tv543.cc/Smart.php?id=Thrill
-電影頻道|Hits Movie,http://tv543.cc/Smart.php?id=Hitsmovie
-電影頻道|One,http://tv543.cc/Smart.php?id=One
-電影頻道|tvN Movie,http://tv543.cc/Smart.php?id=Tvnmovie
-電影頻道|Axn HD,http://tv543.cc/Smart.php?id=Axn
-電影頻道|Paramount Network,http://tv543.cc/Smart.php?id=Paramountnetwork
-電影頻道|Astrol Kplus,http://tv543.cc/Smart.php?id=Kplus
-電影頻道|Rock Actions,http://tv543.cc/Smart.php?id=Rockaction
-電影頻道|Rock Entertainment,http://tv543.cc/Smart.php?id=Rockentertain
+電影頻道|CCTV-6,http://smt.iptv543.com/Smart.php?id=cctv6
+電影頻道|AXN Taiwan,http://smt.iptv543.com/Smart.php?id=axn_twn
+電影頻道|HBO_HD,http://smt.iptv543.com/Smart.php?id=hbohd_twn
+電影頻道|HBO_HITS,http://smt.iptv543.com/Smart.php?id=hbohit_twn
+電影頻道|CINEMAX,http://smt.iptv543.com/Smart.php?id=cinemax_twn
+電影頻道|好萊塢電影台,http://smt.iptv543.com/Smart.php?id=hollywoodmovies_twn
+電影頻道|東森電影,http://smt.iptv543.com/Smart.php?id=ettvmovie
+電影頻道|東森洋片,http://smt.iptv543.com/Smart.php?id=ettvwestern
+電影頻道|龍華電影,http://smt.iptv543.com/Smart.php?id=xingwei_movie
+電影頻道|龍華洋片,http://smt.iptv543.com/Smart.php?id=lunghuawestern_twn
+電影頻道|龍祥時代,http://smt.iptv543.com/Smart.php?id=lungxiangtime_twn
+電影頻道|美亞電影,http://smt.iptv543.com/Smart.php?id=meiyamovie_twn
+電影頻道|衛視電影台,http://smt.iptv543.com/Smart.php?id=weishimovie_twn
+電影頻道|天映頻道,http://smt.iptv543.com/Smart.php?id=Celestial
+電影頻道|天映頻道,http://smt.iptv543.com/Smart.php?id=Celestialindo
+電影頻道|天映經典,http://smt.iptv543.com/Smart.php?id=Celestial2
+電影頻道|Animax,http://smt.iptv543.com/Smart.php?id=Animax
+電影頻道|Movies Now HD,http://smt.iptv543.com/Smart.php?id=moviesnow_raj
+電影頻道|Star Movies HD,http://smt.iptv543.com/Smart.php?id=starmovies_raj
+電影頻道|Hits,http://smt.iptv543.com/Smart.php?id=Hits
+電影頻道|Warner TV,http://smt.iptv543.com/Smart.php?id=WarnerTV
+電影頻道|HBO HD,http://smt.iptv543.com/Smart.php?id=Hbo
+電影頻道|HBO Signature,http://smt.iptv543.com/Smart.php?id=Hbosignature
+電影頻道|HBO Family,http://smt.iptv543.com/Smart.php?id=Hbofamily
+電影頻道|HBO Hits,http://smt.iptv543.com/Smart.php?id=Hbohitshd
+電影頻道|Cinemax,http://smt.iptv543.com/Smart.php?id=Cinemax
+電影頻道|Dreamworks,http://smt.iptv543.com/Smart.php?id=Dreamworks
+電影頻道|SCM,http://smt.iptv543.com/Smart.php?id=Weishimovie
+電影頻道|Thrill,http://smt.iptv543.com/Smart.php?id=Thrill
+電影頻道|Hits Movie,http://smt.iptv543.com/Smart.php?id=Hitsmovie
+電影頻道|One,http://smt.iptv543.com/Smart.php?id=One
+電影頻道|tvN Movie,http://smt.iptv543.com/Smart.php?id=Tvnmovie
+電影頻道|Axn HD,http://smt.iptv543.com/Smart.php?id=Axn
+電影頻道|Paramount Network,http://smt.iptv543.com/Smart.php?id=Paramountnetwork
+電影頻道|Astrol Kplus,http://smt.iptv543.com/Smart.php?id=Kplus
+電影頻道|Rock Actions,http://smt.iptv543.com/Smart.php?id=Rockaction
+電影頻道|Rock Entertainment,http://smt.iptv543.com/Smart.php?id=Rockentertain
 紀錄頻道,#genre#
-紀錄頻道|Natgeo_HD,http://tv543.cc/Smart.php?id=natgeohd_twn
-紀錄頻道|NatGeo_Wild HD,http://tv543.cc/Smart.php?id=natgeowild_twn
-紀錄頻道|Animal_Planet,http://tv543.cc/Smart.php?id=animalplanet_twn
-紀錄頻道|Discovery Asia,http://tv543.cc/Smart.php?id=discoverytwn_twn
-紀錄頻道|CI,http://tv543.cc/Smart.php?id=ci_twn
-紀錄頻道|Asia Travel,http://tv543.cc/Smart.php?id=asiatravel_twn
-紀錄頻道|Discovery HD,http://tv543.cc/Smart.php?id=discoveryhd_twn
-紀錄頻道|亞洲美食,http://tv543.cc/Smart.php?id=afc_twn
-紀錄頻道|美食星球,http://tv543.cc/Smart.php?id=foodplanet_twn
-紀錄頻道|亞洲TLC,http://tv543.cc/Smart.php?id=tlc_twn
-紀錄頻道|NatGeo HD,http://tv543.cc/Smart.php?id=Natgeo
-紀錄頻道|Fashion TV,http://tv543.cc/Smart.php?id=fashiontv_twn
-紀錄頻道|History,http://tv543.cc/Smart.php?id=History
-紀錄頻道|BBC Earth HD,http://tv543.cc/Smart.php?id=bbcearth_twn
-紀錄頻道|BBC Earth Lifestyle,http://tv543.cc/Smart.php?id=bbclifestyle_twn
-紀錄頻道|MTV Live,http://tv543.cc/Smart.php?id=mtvhd_twn
-紀錄頻道|NatGeo Wild HD,http://tv543.cc/Smart.php?id=Natgeowild
-紀錄頻道|Animal Planet (Eng),http://tv543.cc/Smart.php?id=AnimalPlanet
-紀錄頻道|TLC,http://tv543.cc/Smart.php?id=Tlc
-紀錄頻道|Foodnetwork Hd,http://tv543.cc/Smart.php?id=Foodnetwork
-紀錄頻道|HGTV,http://tv543.cc/Smart.php?id=HGTV
-紀錄頻道|亞洲旅遊台,http://tv543.cc/Smart.php?id=asiatravel_twn
+紀錄頻道|Natgeo_HD,http://smt.iptv543.com/Smart.php?id=natgeohd_twn
+紀錄頻道|NatGeo_Wild HD,http://smt.iptv543.com/Smart.php?id=natgeowild_twn
+紀錄頻道|Animal_Planet,http://smt.iptv543.com/Smart.php?id=animalplanet_twn
+紀錄頻道|Discovery Asia,http://smt.iptv543.com/Smart.php?id=discoverytwn_twn
+紀錄頻道|CI,http://smt.iptv543.com/Smart.php?id=ci_twn
+紀錄頻道|Asia Travel,http://smt.iptv543.com/Smart.php?id=asiatravel_twn
+紀錄頻道|Discovery HD,http://smt.iptv543.com/Smart.php?id=discoveryhd_twn
+紀錄頻道|亞洲美食,http://smt.iptv543.com/Smart.php?id=afc_twn
+紀錄頻道|美食星球,http://smt.iptv543.com/Smart.php?id=foodplanet_twn
+紀錄頻道|亞洲TLC,http://smt.iptv543.com/Smart.php?id=tlc_twn
+紀錄頻道|NatGeo HD,http://smt.iptv543.com/Smart.php?id=Natgeo
+紀錄頻道|Fashion TV,http://smt.iptv543.com/Smart.php?id=fashiontv_twn
+紀錄頻道|History,http://smt.iptv543.com/Smart.php?id=History
+紀錄頻道|BBC Earth HD,http://smt.iptv543.com/Smart.php?id=bbcearth_twn
+紀錄頻道|BBC Earth Lifestyle,http://smt.iptv543.com/Smart.php?id=bbclifestyle_twn
+紀錄頻道|MTV Live,http://smt.iptv543.com/Smart.php?id=mtvhd_twn
+紀錄頻道|NatGeo Wild HD,http://smt.iptv543.com/Smart.php?id=Natgeowild
+紀錄頻道|Animal Planet (Eng),http://smt.iptv543.com/Smart.php?id=AnimalPlanet
+紀錄頻道|TLC,http://smt.iptv543.com/Smart.php?id=Tlc
+紀錄頻道|Foodnetwork Hd,http://smt.iptv543.com/Smart.php?id=Foodnetwork
+紀錄頻道|HGTV,http://smt.iptv543.com/Smart.php?id=HGTV
+紀錄頻道|亞洲旅遊台,http://smt.iptv543.com/Smart.php?id=asiatravel_twn
 新聞頻道,#genre#
-新聞頻道|Skynews,http://tv543.cc/Smart.php?id=skynews_twn
-新聞頻道|ABC News,http://tv543.cc/Smart.php?id=abcnews_glo
-新聞頻道|東森財經新聞,http://tv543.cc/Smart.php?id=ettvcaijing_twn
-新聞頻道|CBS HD,http://tv543.cc/Smart.php?id=cbshd_glo
-新聞頻道|CBSN HD,http://tv543.cc/Smart.php?id=cbsn_glo
-新聞頻道|France 24,http://tv543.cc/Smart.php?id=france24_twn
-新聞頻道|DW (Deutsch),http://tv543.cc/Smart.php?id=dw_twn
-新聞頻道|NHK World,http://tv543.cc/Smart.php?id=nhkworld_japan
-新聞頻道|Fox News,http://tv543.cc/Smart.php?id=foxnews_twn
-新聞頻道|CGTN,http://tv543.cc/Smart.php?id=CGTN
-新聞頻道|CNN International,http://tv543.cc/Smart.php?id=Cnn
-新聞頻道|CNN backup,http://tv543.cc/Smart.php?id=cnn_twn
-新聞頻道|CNBC,http://tv543.cc/Smart.php?id=cnbc_twn
-新聞頻道|CNA,http://tv543.cc/Smart.php?id=cna
-新聞頻道|BBC World News,http://tv543.cc/Smart.php?id=bbcnews_twn
-新聞頻道|BBC World News,http://tv543.cc/Smart.php?id=Bbcnews
-新聞頻道|Bloomberg News,http://tv543.cc/Smart.php?id=bloomberg_twn
-新聞頻道|Al-Jazeera,http://tv543.cc/Smart.php?id=aljazeera_twn
+新聞頻道|Skynews,http://smt.iptv543.com/Smart.php?id=skynews_twn
+新聞頻道|ABC News,http://smt.iptv543.com/Smart.php?id=abcnews_glo
+新聞頻道|東森財經新聞,http://smt.iptv543.com/Smart.php?id=ettvcaijing_twn
+新聞頻道|CBS HD,http://smt.iptv543.com/Smart.php?id=cbshd_glo
+新聞頻道|CBSN HD,http://smt.iptv543.com/Smart.php?id=cbsn_glo
+新聞頻道|France 24,http://smt.iptv543.com/Smart.php?id=france24_twn
+新聞頻道|DW (Deutsch),http://smt.iptv543.com/Smart.php?id=dw_twn
+新聞頻道|NHK World,http://smt.iptv543.com/Smart.php?id=nhkworld_japan
+新聞頻道|Fox News,http://smt.iptv543.com/Smart.php?id=foxnews_twn
+新聞頻道|CGTN,http://smt.iptv543.com/Smart.php?id=CGTN
+新聞頻道|CNN International,http://smt.iptv543.com/Smart.php?id=Cnn
+新聞頻道|CNN backup,http://smt.iptv543.com/Smart.php?id=cnn_twn
+新聞頻道|CNBC,http://smt.iptv543.com/Smart.php?id=cnbc_twn
+新聞頻道|CNA,http://smt.iptv543.com/Smart.php?id=cna
+新聞頻道|BBC World News,http://smt.iptv543.com/Smart.php?id=bbcnews_twn
+新聞頻道|BBC World News,http://smt.iptv543.com/Smart.php?id=Bbcnews
+新聞頻道|Bloomberg News,http://smt.iptv543.com/Smart.php?id=bloomberg_twn
+新聞頻道|Al-Jazeera,http://smt.iptv543.com/Smart.php?id=aljazeera_twn
 兒童頻道,#genre#
-兒童頻道|Baby TV Eng,http://tv543.cc/Smart.php?id=Babytv
-兒童頻道|CBeebies,http://tv543.cc/Smart.php?id=Cbeebies
-兒童頻道|Kids TV,http://tv543.cc/Smart.php?id=KidsTV
-兒童頻道|Momo TV,http://tv543.cc/Smart.php?id=momo1_twn
-兒童頻道|Animax,http://tv543.cc/Smart.php?id=Animax
-兒童頻道|Baby TV,http://tv543.cc/Smart.php?id=babytv_twn
-兒童頻道|MiaoMi,http://tv543.cc/Smart.php?id=MiaoMi
-兒童頻道|靖天卡通,http://tv543.cc/Smart.php?id=jingtiancartoon_twn
-兒童頻道|東森幼幼,http://tv543.cc/Smart.php?id=yoyo_twn
-兒童頻道|Cartoon Network,http://tv543.cc/Smart.php?id=Cn
-兒童頻道|Nickelodeon,http://tv543.cc/Smart.php?id=Nickelodeon
-兒童頻道|Nick Jr,http://tv543.cc/Smart.php?id=Nickjr
+兒童頻道|Baby TV Eng,http://smt.iptv543.com/Smart.php?id=Babytv
+兒童頻道|CBeebies,http://smt.iptv543.com/Smart.php?id=Cbeebies
+兒童頻道|Kids TV,http://smt.iptv543.com/Smart.php?id=KidsTV
+兒童頻道|Momo TV,http://smt.iptv543.com/Smart.php?id=momo1_twn
+兒童頻道|Animax,http://smt.iptv543.com/Smart.php?id=Animax
+兒童頻道|Baby TV,http://smt.iptv543.com/Smart.php?id=babytv_twn
+兒童頻道|MiaoMi,http://smt.iptv543.com/Smart.php?id=MiaoMi
+兒童頻道|靖天卡通,http://smt.iptv543.com/Smart.php?id=jingtiancartoon_twn
+兒童頻道|東森幼幼,http://smt.iptv543.com/Smart.php?id=yoyo_twn
+兒童頻道|Cartoon Network,http://smt.iptv543.com/Smart.php?id=Cn
+兒童頻道|Nickelodeon,http://smt.iptv543.com/Smart.php?id=Nickelodeon
+兒童頻道|Nick Jr,http://smt.iptv543.com/Smart.php?id=Nickjr
 體育頻道,#genre#
-體育頻道|Astro Premier League 1,http://tv543.cc/Smart.php?id=go_assp1
-體育頻道|Astro EPL 1 backup,http://tv543.cc/Smart.php?id=go_assp1x
-體育頻道|Astro Premier League 2,http://tv543.cc/Smart.php?id=go_assp2
-體育頻道|Astro Grandstand,http://tv543.cc/Smart.php?id=go_assp3
-體育頻道|Astro Football,http://tv543.cc/Smart.php?id=go_assp4
-體育頻道|Astro Sports Plus,http://tv543.cc/Smart.php?id=go_sportsplus
-體育頻道|Astro Badminton 1,http://tv543.cc/Smart.php?id=go_badminton1
-體育頻道|Astro Badminton 2,http://tv543.cc/Smart.php?id=go_badminton2
-體育頻道|Astro W-Sports,http://tv543.cc/Smart.php?id=go_assp5
-體育頻道|Supersports 1,http://tv543.cc/Smart.php?id=Assp1
-體育頻道|Supersports 2,http://tv543.cc/Smart.php?id=Assp2
-體育頻道|Supersports 3,http://tv543.cc/Smart.php?id=Assp3
-體育頻道|Supersports 4,http://tv543.cc/Smart.php?id=Assp4
-體育頻道|WWE,http://tv543.cc/Smart.php?id=Wwe
-體育頻道|Fight Sports,http://tv543.cc/Smart.php?id=Fs
-體育頻道|NBA TV,http://tv543.cc/Smart.php?id=Nba
-體育頻道|Astro Cricket,http://tv543.cc/Smart.php?id=Acricket
-體育頻道|Astro Golf,http://tv543.cc/Smart.php?id=Agolf
-體育頻道|Tnt Sports 1,http://tv543.cc/Smart.php?id=6fac0aaead
-體育頻道|TNT Sports 2,http://tv543.cc/Smart.php?id=d9a76a79cc
-體育頻道|TNT Sports 3,http://tv543.cc/Smart.php?id=5fea4d73db
-體育頻道|TNT Sports 4,http://tv543.cc/Smart.php?id=tntsport4
-體育頻道|Sony Ten 1,http://tv543.cc/Smart.php?id=ten1_raj
-體育頻道|Sony Ten 2,http://tv543.cc/Smart.php?id=ten2_raj
-體育頻道|Sony Ten 3,http://tv543.cc/Smart.php?id=ten3_raj
-體育頻道|SPOTV 1 HD,http://tv543.cc/Smart.php?id=go_spotv
-體育頻道|SPO TV 2,http://tv543.cc/Smart.php?id=go_spotv2
-體育頻道|Skysports F1,http://tv543.cc/Smart.php?id=tiankongf1
-體育頻道|Skysports Cricket,http://tv543.cc/Smart.php?id=tiankongcricket
-體育頻道|Skysports EPL,http://tv543.cc/Smart.php?id=tiankongepl
-體育頻道|Skysports Main Event,http://tv543.cc/Smart.php?id=tiankongmain
-體育頻道|Skysports News,http://tv543.cc/Smart.php?id=tiankongnews
-體育頻道|Skysports Mix,http://tv543.cc/Smart.php?id=tiankongmix
-體育頻道|CCTV5,http://tv543.cc/Smart.php?id=cctv5
-體育頻道|CCTV5,http://tv543.cc/Smart.php?id=cctv5plus
-體育頻道|愛爾達體育1台,http://tv543.cc/Smart.php?id=eltasport_twn
-體育頻道|愛爾達體育2台,http://tv543.cc/Smart.php?id=eltasport2_twn
-體育頻道|愛爾達體育3台,http://tv543.cc/Smart.php?id=eltasport3_twn
-體育頻道|愛爾達體育4台,http://tv543.cc/Smart.php?id=eltasports4_twn
-體育頻道|Rugby Pass TV,http://tv543.cc/Smart.php?id=Rugbypasstv
-體育頻道|RTM Sports HD,http://tv543.cc/Smart.php?id=Rtmsport
-體育頻道|Arena,http://tv543.cc/Smart.php?id=Arena
-體育頻道|Arena 2,http://tv543.cc/Smart.php?id=Arena2
-體育頻道|BolaArena 1,http://tv543.cc/Smart.php?id=Bolaarena1
-體育頻道|BolaArena 2,http://tv543.cc/Smart.php?id=Bolaarena2
-體育頻道|Astro Beinsports 1,http://tv543.cc/Smart.php?id=Astrobein1
-體育頻道|Astro Beinsports 2,http://tv543.cc/Smart.php?id=Astrobein2
-體育頻道|Astro Beinsports 3,http://tv543.cc/Smart.php?id=Astrobein3
+體育頻道|Astro Premier League 1,http://smt.iptv543.com/Smart.php?id=go_assp1
+體育頻道|Astro EPL 1 backup,http://smt.iptv543.com/Smart.php?id=go_assp1x
+體育頻道|Astro Premier League 2,http://smt.iptv543.com/Smart.php?id=go_assp2
+體育頻道|Astro Grandstand,http://smt.iptv543.com/Smart.php?id=go_assp3
+體育頻道|Astro Football,http://smt.iptv543.com/Smart.php?id=go_assp4
+體育頻道|Astro Sports Plus,http://smt.iptv543.com/Smart.php?id=go_sportsplus
+體育頻道|Astro Badminton 1,http://smt.iptv543.com/Smart.php?id=go_badminton1
+體育頻道|Astro Badminton 2,http://smt.iptv543.com/Smart.php?id=go_badminton2
+體育頻道|Astro W-Sports,http://smt.iptv543.com/Smart.php?id=go_assp5
+體育頻道|Supersports 1,http://smt.iptv543.com/Smart.php?id=Assp1
+體育頻道|Supersports 2,http://smt.iptv543.com/Smart.php?id=Assp2
+體育頻道|Supersports 3,http://smt.iptv543.com/Smart.php?id=Assp3
+體育頻道|Supersports 4,http://smt.iptv543.com/Smart.php?id=Assp4
+體育頻道|WWE,http://smt.iptv543.com/Smart.php?id=Wwe
+體育頻道|Fight Sports,http://smt.iptv543.com/Smart.php?id=Fs
+體育頻道|NBA TV,http://smt.iptv543.com/Smart.php?id=Nba
+體育頻道|Astro Cricket,http://smt.iptv543.com/Smart.php?id=Acricket
+體育頻道|Astro Golf,http://smt.iptv543.com/Smart.php?id=Agolf
+體育頻道|Tnt Sports 1,http://smt.iptv543.com/Smart.php?id=6fac0aaead
+體育頻道|TNT Sports 2,http://smt.iptv543.com/Smart.php?id=d9a76a79cc
+體育頻道|TNT Sports 3,http://smt.iptv543.com/Smart.php?id=5fea4d73db
+體育頻道|TNT Sports 4,http://smt.iptv543.com/Smart.php?id=tntsport4
+體育頻道|Sony Ten 1,http://smt.iptv543.com/Smart.php?id=ten1_raj
+體育頻道|Sony Ten 2,http://smt.iptv543.com/Smart.php?id=ten2_raj
+體育頻道|Sony Ten 3,http://smt.iptv543.com/Smart.php?id=ten3_raj
+體育頻道|SPOTV 1 HD,http://smt.iptv543.com/Smart.php?id=go_spotv
+體育頻道|SPO TV 2,http://smt.iptv543.com/Smart.php?id=go_spotv2
+體育頻道|Skysports F1,http://smt.iptv543.com/Smart.php?id=tiankongf1
+體育頻道|Skysports Cricket,http://smt.iptv543.com/Smart.php?id=tiankongcricket
+體育頻道|Skysports EPL,http://smt.iptv543.com/Smart.php?id=tiankongepl
+體育頻道|Skysports Main Event,http://smt.iptv543.com/Smart.php?id=tiankongmain
+體育頻道|Skysports News,http://smt.iptv543.com/Smart.php?id=tiankongnews
+體育頻道|Skysports Mix,http://smt.iptv543.com/Smart.php?id=tiankongmix
+體育頻道|CCTV-5 體育頻道,http://smt.iptv543.com/Smart.php?id=cctv5
+體育頻道|CCTV-5+ 體育賽事 HD,http://smt.iptv543.com/Smart.php?id=cctv5plus
+體育頻道|愛爾達體育1台,http://smt.iptv543.com/Smart.php?id=eltasport_twn
+體育頻道|愛爾達體育2台,http://smt.iptv543.com/Smart.php?id=eltasport2_twn
+體育頻道|愛爾達體育3台,http://smt.iptv543.com/Smart.php?id=eltasport3_twn
+體育頻道|愛爾達體育4台,http://smt.iptv543.com/Smart.php?id=eltasports4_twn
+體育頻道|Rugby Pass TV,http://smt.iptv543.com/Smart.php?id=Rugbypasstv
+體育頻道|RTM Sports HD,http://smt.iptv543.com/Smart.php?id=Rtmsport
+體育頻道|Arena,http://smt.iptv543.com/Smart.php?id=Arena
+體育頻道|Arena 2,http://smt.iptv543.com/Smart.php?id=Arena2
+體育頻道|BolaArena 1,http://smt.iptv543.com/Smart.php?id=Bolaarena1
+體育頻道|BolaArena 2,http://smt.iptv543.com/Smart.php?id=Bolaarena2
+體育頻道|Astro Beinsports 1,http://smt.iptv543.com/Smart.php?id=Astrobein1
+體育頻道|Astro Beinsports 2,http://smt.iptv543.com/Smart.php?id=Astrobein2
+體育頻道|Astro Beinsports 3,http://smt.iptv543.com/Smart.php?id=Astrobein3
 日本,#genre#
 NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
 NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
@@ -865,7 +1189,7 @@ X-ART,p3p://fccsen.dyndns.tv:29706/5bf5804b000c1f94f2a1bb68696a6fef
 Mofos,p3p://fccsen.dyndns.tv:29706/5bff56d9000b3e2a190fc1f71a56397f
 Kinpatu JP,p3p://fccsen.dyndns.tv:29706/5bff5847000dfb1d1915585c0ec87b11
 Fucked and Bound,p3p://fccsen.dyndns.tv:29706/5ca77a06000ba882679f7004005f3200
-MiamiTVMéxico,p3p://167.114.175.6:55331/64ef00bf000eb051d6cfed1d17c05ca9
+MiamiTVMexico,p3p://167.114.175.6:55331/64ef00bf000eb051d6cfed1d17c05ca9
 Cumshots,p3p://fccsen.dyndns.tv:29706/5d430bf20009746dc750faef0d6557a7
 Foot Factory,p3p://fccsen.dyndns.tv:29706/5d430c85000d7cb0c7533a302af02f25
 FreakMob Media,p3p://fccsen.dyndns.tv:29706/629ad314000794749d9966725dd6305a
@@ -890,6 +1214,8 @@ FAKE TAXI,p3p://fccsen.dyndns.tv:29706/615a5c0e000a608eb9c93ef2199b14e4
 FORGIVE ME FATHER,p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 FEMALE AGENT,p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 MOM TEACH SEX,p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
+
+
 
 
 
