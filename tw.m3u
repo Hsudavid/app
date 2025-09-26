@@ -84,6 +84,8 @@ http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.pw/api/epg.xml",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣酒店",年代新聞
+http://smt.iptv543.com/Smart.php?id=niandainews_twn
 #EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.pw/api/epg.xml",年代新聞
 http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.pw/api/epg.xml",年代新聞
@@ -123,6 +125,8 @@ http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="Bloomberg News" tvg-logo="https://epg.112114.xyz/logo/Bloomberg News.png" epg-url="https://epg.pw/api/epg.xml",Bloomberg News
 http://220.134.196.147:8514/http/61.219.99.20:8078/hls/43/80/bloomber.m3u8
+#EXTINF:-1 tvg-name="NHK HD" tvg-logo="https://logo.catvod.com/NHK HD.png" group-title="台灣酒店",NHK HD
+http://220.134.196.147:8534/http/61.219.99.20:8081/hls/62/804/ch06.m3u8
 #EXTINF:-1 tvg-id="NHK新聞資訊台" tvg-name="NHK新聞資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="台灣酒店", NHK 新聞資訊台
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live168/index.m3u8
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="台灣酒店",鏡電視新聞台
@@ -160,7 +164,7 @@ http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="DAZN 2" tvg-logo="https://epg.112114.xyz/logo/DAZN 2.png" epg-url="https://epg.pw/api/epg.xml",DAZN 2
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
-http://66.90.99.154:8278/eltasport_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1410aa95a2c63b086b6dca0c3af69140
+http://smt.iptv543.com/Smart.php?id=eltasport_twn
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
 http://66.90.99.154:8278/eltasport_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=1410aa95a2c63b086b6dca0c3af69140
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
