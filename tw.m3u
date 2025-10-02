@@ -84,6 +84,8 @@ http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
+https://live.catvod.com/catvod_com.php?id=yinews&token=9b8fcb98910fd05c870ca1b8bf744d5bd6b907b8e2e6eae29ad7dac230240454%3A1759388941%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣酒店",年代新聞
 http://smt.iptv543.com/Smart.php?id=niandainews_twn
 #EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
@@ -94,7 +96,6 @@ p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
 http://66.90.99.154:8278/niandainews_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=bd903abc90abbf2d72a4b59b516311d5
 #EXTINF:-1 tvg-id="東森新聞HD" tvg-name="東森新聞HD"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="台灣酒店",東森新聞HD
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8
-
 #EXTINF:-1 group-title="台灣酒店" tvg-name="東森新聞HD" tvg-logo="https://epg.112114.xyz/logo/東森新聞HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森新聞HD
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="中天新聞" tvg-logo="https://epg.112114.xyz/logo/中天新聞.png" epg-url="https://epg.112114.xyz/pp.xml",中天新聞
@@ -112,14 +113,11 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="台灣酒店",非凡商業
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8
-
 #EXTINF:-1 group-title="台灣酒店" tvg-name="非凡商業" tvg-logo="https://epg.112114.xyz/logo/非凡商業.png" epg-url="https://epg.112114.xyz/pp.xml",非凡商業
 http://220.134.196.147:8511/http/61.219.99.20:8081/hls/74/816/ch56.m3u8
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="台灣酒店",東森財經新聞
 http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv153/index.m3u8
-
 #EXTINF:-1 group-title="台灣酒店" tvg-name="東森財經HD" tvg-logo="https://epg.112114.xyz/logo/東森財經HD.png" epg-url="https://epg.112114.xyz/pp.xml",東森財經新聞
-
 http://220.134.196.147:8525/http/61.219.99.20:8081/hls/63/805/ch11.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" epg-url="https://epg.112114.xyz/pp.xml",寰宇新聞
 http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
