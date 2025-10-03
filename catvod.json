@@ -1,16 +1,51 @@
 {
-  "spider": "https://tvbox.catvod.com/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
+  "spider": "http://tv543.cc/catvod.jar;md5;392df5f6a1c925c9f765c7e4b6f3eda4",
   "wallpaper": "https://imgs.catvod.com",
-  "logo": "https://tvbox.catvod.com/logo.png",
+  "logo": "http://tv543.cc/logo2.gif",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "www.Catvod.com 本站(所有内容仅供测试学习使用,请勿用于违法用途.)",
+      "name": "本站(所有內容僅供測試學習使用,請勿用於違法用途.)",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "黑木影视",
+      "name": "黑木影视",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "header": {
+        "User-Agent": "Lavf/58.12.100"
+      }
+    },
+    {
+      "key": "小苹果",
+      "name": "小苹果",
+      "type": 4,
+      "api": "https://zhangqun66.com/pingguo.php",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "旺旺短剧",
+      "name": "旺旺短剧",
+      "type": 1,
+      "api": "https://zhangqun66.com/ww.php",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "360影视",
@@ -27,7 +62,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/aqy.js"
+      "ext": "./aqy2.js"
     },
     {
       "key": "优酷",
@@ -35,7 +70,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/yk.js"
+      "ext": "./yk2.js"
     },
     {
       "key": "腾讯",
@@ -43,7 +78,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/tx.js"
+      "ext": "./tx.js"
     },
     {
       "key": "搜狗",
@@ -59,7 +94,7 @@
       "type": 3,
       "playerType": "2",
       "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/mgtv.js"
+      "ext": "./mg2.js"
     },
     {
       "key": "bili",
@@ -273,6 +308,19 @@
       "ext": "https://tvbox.catvod.com/js/sdsrty.json"
     },
     {
+      "key": "应用商店",
+      "name": "应用商店",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./shop.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      }
+    },
+    {
       "key": "db",
       "name": "电波",
       "type": 3,
@@ -383,17 +431,51 @@
   ],
   "lives": [
     {
-      "name": "台灣酒店",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
+      "name": "543",
+      "url": "http://tv543.cc/4gtv1.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "台灣綜合",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "name": "海外專線",
+      "url": "https://iptv.mydiver.eu.org/get.php?username=tg_dl9jgpcw&password=w4wec6bc1hua&type=m3u_plus",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "備用線路一",
+      "url": "https://live.catvod.com/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "備用線路二",
+      "url": "http://tv543.cc/kb.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "SMT",
+      "url": "http://tv543.cc/smt.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "142",
+      "url": "http://tv543.cc/142.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "MQ",
+      "api": "csp_MQiTV",
+      "jar": "./fm.jar",
+      "ext": [
+        {
+          "name": "MQiTV",
+          "url": "https://59.125.210.231:4433"
+        }
+      ]
     }
-
   ]
 }
