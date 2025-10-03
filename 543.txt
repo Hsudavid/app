@@ -861,6 +861,7 @@ BBC World News,http://smt.iptv543.com/Smart.php?id=bbcnews_twn
 BBC World News,http://smt.iptv543.com/Smart.php?id=Bbcnews
 Bloomberg News,http://smt.iptv543.com/Smart.php?id=bloomberg_twn
 Al-Jazeera,http://smt.iptv543.com/Smart.php?id=aljazeera_twn
+兒童頻道,#genre#
 Baby TV Eng,http://smt.iptv543.com/Smart.php?id=Babytv
 CBeebies,http://smt.iptv543.com/Smart.php?id=Cbeebies
 Kids TV,http://smt.iptv543.com/Smart.php?id=KidsTV
@@ -1141,6 +1142,8 @@ FAKE TAXI,p3p://fccsen.dyndns.tv:29706/615a5c0e000a608eb9c93ef2199b14e4
 FORGIVE ME FATHER,p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 FEMALE AGENT,p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 MOM TEACH SEX,p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
+
+
 
 
 
