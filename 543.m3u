@@ -5,6 +5,10 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞" tvg-logo="https://logo.doube.eu.org/東森新聞台.png" group-title="台灣頻道",東森新聞
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣頻道",年代新聞
+http://smt.iptv543.com/Smart.php?id=niandainews_twn
+#EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="台灣頻道",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://logo.doube.eu.org/民視新聞台.png" group-title="台灣頻道",民視新聞台
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv13
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡新聞" tvg-logo="https://logo.doube.eu.org/鏡電視新聞台.png" group-title="台灣頻道",鏡新聞
@@ -167,9 +171,9 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
 #EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="台灣頻道",MEZZO LIVE
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
-#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="台灣頻道",好消息1
+#EXTINF:-1 tvg-id="好訊息1" tvg-name="好訊息1" tvg-logo="https://logo.doube.eu.org/好訊息1.png" group-title="台灣頻道",好訊息1
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
-#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="台灣頻道",好消息2
+#EXTINF:-1 tvg-id="好訊息2" tvg-name="好訊息2" tvg-logo="https://logo.doube.eu.org/好訊息2.png" group-title="台灣頻道",好訊息2
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="生活英語台" tvg-logo="https://logo.doube.eu.org/ELTV生活英語台.png" group-title="台灣頻道",生活英語台
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
@@ -189,7 +193,7 @@ http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
 http://220.134.196.147:8515/http/61.219.99.20:8081/hls/69/811/ch36.m3u8
 #EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://logo.catvod.com/大愛電視.png" group-title="台灣備用",大愛電視
 http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
-#EXTINF:-1 tvg-name="好消息GOOD TV" tvg-logo="https://logo.catvod.com/好消息GOOD TV.png" group-title="台灣備用",好消息GOOD TV
+#EXTINF:-1 tvg-name="好訊息GOOD TV" tvg-logo="https://logo.catvod.com/好訊息GOOD TV.png" group-title="台灣備用",好訊息GOOD TV
 http://220.134.196.147:8523/http/61.219.99.20:8081/hls/74/816/ch53.m3u8
 #EXTINF:-1 tvg-name="Trace Sport Stars" tvg-logo="https://logo.catvod.com/Trace Sport Stars.png" group-title="台灣備用",Trace Sport Stars
 http://220.134.196.147:8569/http/61.219.99.20:8092/upload/212/TraceS_TS-1111_1.m3u8
@@ -250,7 +254,7 @@ http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 #EXTINF:-1 tvg-name="Taiwan Plus" tvg-logo="https://logo.catvod.com/Taiwan Plus.png" group-title="台灣備用",Taiwan Plus
 http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
 #EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣備用",年代新聞
-http://220.134.196.147:8538/http/61.219.99.20:8081/hls/67/809/ch27.m3u8
+http://smt.iptv543.com/Smart.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="東森新聞HD" tvg-logo="https://logo.catvod.com/東森新聞HD.png" group-title="台灣備用",東森新聞HD
 http://220.134.196.147:8527/http/61.219.99.20:8081/hls/63/805/ch10.m3u8
 #EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://logo.catvod.com/中天新聞.png" group-title="台灣備用",中天新聞
@@ -319,9 +323,9 @@ http://220.134.196.147:8512/http/59.120.8.187:8078/hls/41/80/zhejiang.m3u8
 http://220.134.196.147:8558/http/59.120.8.187:8078/hls/41/80/east.m3u8
 #EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://logo.catvod.com/湖南衛視.png" group-title="台灣備用",湖南衛視
 http://220.134.196.147:8563/http/59.120.8.187:8078/hls/41/80/huana.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視資訊" tvg-logo="https://logo.catvod.com/鳳凰衛視資訊.png" group-title="台灣備用",鳳凰衛視資訊
+#EXTINF:-1 tvg-name="鳯凰衛視資訊" tvg-logo="https://logo.catvod.com/鳯凰衛視資訊.png" group-title="台灣備用",鳯凰衛視資訊
 http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="https://logo.catvod.com/鳳凰衛視中文.png" group-title="台灣備用",鳳凰衛視中文
+#EXTINF:-1 tvg-name="鳯凰衛視中文" tvg-logo="https://logo.catvod.com/鳯凰衛視中文.png" group-title="台灣備用",鳯凰衛視中文
 http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch
 
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
@@ -371,7 +375,7 @@ http://106.107.242.191:50007/4gtv-live030/index.m3u8
 http://106.107.242.191:50007/4gtv-4gtv018/index.m3u8
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
 http://106.107.242.191:50007/litv-longturn20/index.m3u8
-#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通",Nick Jr.
+#EXTINF:-1 tvg-id="Nick Jr. " tvg-name="Nick Jr. " tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通",Nick Jr.
 http://106.107.242.191:50007/4gtv-live032/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通",Nickelodeon
 http://106.107.242.191:50007/4gtv-live105/index.m3u8
@@ -403,7 +407,7 @@ http://106.107.242.191:50007/4gtv-live089/index.m3u8
 http://106.107.242.191:50007/4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
 http://106.107.242.191:50007/4gtv-4gtv074/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png兒童頻道 group-title="新聞財經",中天新聞台
 http://106.107.242.191:50007/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
 http://106.107.242.191:50007/4gtv-live059/index.m3u8
@@ -529,9 +533,9 @@ http://106.107.242.191:50007/4gtv-4gtv017/index.m3u8
 http://106.107.242.191:50007/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="電影戲劇",歐洲光影
 http://106.107.242.191:50007/4gtv-live157/index.m3u8
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
+#EXTINF:-1 tvg-id="好訊息" tvg-name="好訊息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好訊息
 http://106.107.242.191:50007/litv-ftv16/index.m3u8
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
+#EXTINF:-1 tvg-id="好訊息2台" tvg-name="好訊息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好訊息2台
 http://106.107.242.191:50007/litv-ftv17/index.m3u8
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
 http://106.107.242.191:50007/4gtv-live106/index.m3u8
@@ -603,9 +607,9 @@ http://106.107.242.191:50007/litv-longturn09/index.m3u8
 http://106.107.242.191:50007/litv-longturn10/index.m3u8
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="體育競技",博斯無限II
 http://106.107.242.191:50007/litv-longturn13/index.m3u8
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png兒童頻道 group-title="新聞財經",非凡新聞
 http://106.107.242.191:50007/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png兒童頻道 group-title="新聞財經",非凡商業
 http://106.107.242.191:50007/4gtv-4gtv048/index.m3u8
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
 http://106.107.242.191:50007/4gtv-4gtv056/index.m3u8
@@ -649,7 +653,7 @@ http://106.107.242.191:50007/li-4gtv-4gtv072/index.m3u8
 http://106.107.242.191:50007/li-4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
 http://106.107.242.191:50007/4gtv-4gtv074/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png兒童頻道 group-title="新聞財經",中天新聞台
 http://106.107.242.191:50007/li-4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
 http://106.107.242.191:50007/li-litv-longturn14/index.m3u8
@@ -717,9 +721,9 @@ http://106.107.242.191:50007/li-4gtv-4gtv061/index.m3u8
 http://106.107.242.191:50007/li-4gtv-4gtv011/index.m3u8
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
 http://106.107.242.191:50007/li-4gtv-4gtv017/index.m3u8
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
+#EXTINF:-1 tvg-id="好訊息" tvg-name="好訊息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好訊息
 http://106.107.242.191:50007/li-litv-ftv16/index.m3u8
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
+#EXTINF:-1 tvg-id="好訊息2台" tvg-name="好訊息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好訊息2台
 http://106.107.242.191:50007/li-litv-ftv17/index.m3u8
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
 http://106.107.242.191:50007/li-litv-ftv10/index.m3u8
@@ -749,7 +753,7 @@ http://106.107.242.191:50007/of-4gtv-4gtv040/index.m3u8
 http://106.107.242.191:50007/of-4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
 http://106.107.242.191:50007/of-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png兒童頻道 group-title="新聞財經",中天新聞台
 http://106.107.242.191:50007/of-4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
 http://106.107.242.191:50007/of-litv-longturn14/index.m3u8
@@ -759,9 +763,9 @@ http://106.107.242.191:50007/of-4gtv-4gtv156/index.m3u8
 http://106.107.242.191:50007/of-4gtv-4gtv158/index.m3u8
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
 http://106.107.242.191:50007/of-4gtv-4gtv076/index.m3u8
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
+#EXTINF:-1 tvg-id="好訊息" tvg-name="好訊息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好訊息
 http://106.107.242.191:50007/of-litv-ftv16/index.m3u8
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
+#EXTINF:-1 tvg-id="好訊息2台" tvg-name="好訊息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好訊息2台
 http://106.107.242.191:50007/of-litv-ftv17/index.m3u8
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
 http://106.107.242.191:50007/of-4gtv-4gtv084/index.m3u8
@@ -801,1004 +805,1003 @@ http://106.107.242.191:50007/nnews-vn/index.m3u8
 
 
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="中國|CCTV1" tvg-logo="https://logo.catvod.com/中國|CCTV1.png" group-title="中國",中國|CCTV-1 綜合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="中國",CCTV-1 綜合
 http://smt.iptv543.com/Smart.php?id=cctv1
-#EXTINF:-1 tvg-name="中國|CCTV2" tvg-logo="https://logo.catvod.com/中國|CCTV2.png" group-title="中國",中國|CCTV-2 財經
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="中國",CCTV-2 財經
 http://smt.iptv543.com/Smart.php?id=cctv2
-#EXTINF:-1 tvg-name="中國|CCTV3" tvg-logo="https://logo.catvod.com/中國|CCTV3.png" group-title="中國",中國|CCTV-3 綜藝
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="中國",CCTV-3 綜藝
 http://smt.iptv543.com/Smart.php?id=cctv3
-#EXTINF:-1 tvg-name="中國|CCTV4" tvg-logo="https://logo.catvod.com/中國|CCTV4.png" group-title="中國",中國|CCTV-4 中文國際
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="中國",CCTV-4 中文國際
 http://smt.iptv543.com/Smart.php?id=Cctv4
-#EXTINF:-1 tvg-name="中國|CCTV4" tvg-logo="https://logo.catvod.com/中國|CCTV4.png" group-title="中國",中國|CCTV-4 中文國際
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="中國",CCTV-4 中文國際
 http://smt.iptv543.com/Smart.php?id=cctv4
-#EXTINF:-1 tvg-name="中國|CCTV5" tvg-logo="https://logo.catvod.com/中國|CCTV5.png" group-title="中國",中國|CCTV-5 體育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="中國",CCTV-5 體育
 http://smt.iptv543.com/Smart.php?id=cctv5
-#EXTINF:-1 tvg-name="中國|CCTV6" tvg-logo="https://logo.catvod.com/中國|CCTV6.png" group-title="中國",中國|CCTV-6 電影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="中國",CCTV-6 電影
 http://smt.iptv543.com/Smart.php?id=cctv6
-#EXTINF:-1 tvg-name="中國|CCTV7" tvg-logo="https://logo.catvod.com/中國|CCTV7.png" group-title="中國",中國|CCTV-7 國防軍事
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="中國",CCTV-7 國防軍事
 http://smt.iptv543.com/Smart.php?id=cctv7
-#EXTINF:-1 tvg-name="中國|CCTV8" tvg-logo="https://logo.catvod.com/中國|CCTV8.png" group-title="中國",中國|CCTV-8 電視劇
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="中國",CCTV-8 電視劇
 http://smt.iptv543.com/Smart.php?id=cctv8hd
-#EXTINF:-1 tvg-name="中國|CCTV9" tvg-logo="https://logo.catvod.com/中國|CCTV9.png" group-title="中國",中國|CCTV-9 記錄
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="中國",CCTV-9 記錄
 http://smt.iptv543.com/Smart.php?id=cctv9hd
-#EXTINF:-1 tvg-name="中國|CCTV10" tvg-logo="https://logo.catvod.com/中國|CCTV10.png" group-title="中國",中國|CCTV-10 科教
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="中國",CCTV-10 科教
 http://smt.iptv543.com/Smart.php?id=cctv10hd
-#EXTINF:-1 tvg-name="中國|CCTV11" tvg-logo="https://logo.catvod.com/中國|CCTV11.png" group-title="中國",中國|CCTV-11 戲曲
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="中國",CCTV-11 戲曲
 http://smt.iptv543.com/Smart.php?id=cctv11
-#EXTINF:-1 tvg-name="中國|CCTV12" tvg-logo="https://logo.catvod.com/中國|CCTV12.png" group-title="中國",中國|CCTV-12 社會與法
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="中國",CCTV-12 社會與法
 http://smt.iptv543.com/Smart.php?id=cctv12
-#EXTINF:-1 tvg-name="中國|CCTV13" tvg-logo="https://logo.catvod.com/中國|CCTV13.png" group-title="中國",中國|CCTV-13 新聞
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="中國",CCTV-13 新聞
 http://smt.iptv543.com/Smart.php?id=cctv13
-#EXTINF:-1 tvg-name="中國|CCTV14" tvg-logo="https://logo.catvod.com/中國|CCTV14.png" group-title="中國",中國|CCTV-14 少兒
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="中國",CCTV-14 少兒
 http://smt.iptv543.com/Smart.php?id=cctv14
-#EXTINF:-1 tvg-name="中國|CCTV15" tvg-logo="https://logo.catvod.com/中國|CCTV15.png" group-title="中國",中國|CCTV-15 音樂
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="中國",CCTV-15 音樂
 http://smt.iptv543.com/Smart.php?id=cctv15
-#EXTINF:-1 tvg-name="中國|CCTV16" tvg-logo="https://logo.catvod.com/中國|CCTV16.png" group-title="中國",中國|CCTV-16 奧林匹克
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="中國",CCTV-16 奧林匹克
 http://smt.iptv543.com/Smart.php?id=cctv16
-#EXTINF:-1 tvg-name="中國|CCTV17" tvg-logo="https://logo.catvod.com/中國|CCTV17.png" group-title="中國",中國|CCTV-17 農業農村
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="中國",CCTV-17 農業農村
 http://smt.iptv543.com/Smart.php?id=cctv17
-#EXTINF:-1 tvg-name="中國|CCTV5" tvg-logo="https://logo.catvod.com/中國|CCTV5.png" group-title="中國",中國|CCTV-5+ 體育賽事
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="中國",CCTV-5+ 體育賽事
 http://smt.iptv543.com/Smart.php?id=cctv5plus
-#EXTINF:-1 tvg-name="中國|湖南衛視" tvg-logo="https://logo.catvod.com/中國|湖南衛視.png" group-title="中國",中國|湖南衛視
+#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://logo.catvod.com/湖南衛視.png" group-title="中國",湖南衛視
 http://smt.iptv543.com/Smart.php?id=hunan_twn
-#EXTINF:-1 tvg-name="中國|浙江衛視" tvg-logo="https://logo.catvod.com/中國|浙江衛視.png" group-title="中國",中國|浙江衛視
+#EXTINF:-1 tvg-name="浙江衛視" tvg-logo="https://logo.catvod.com/浙江衛視.png" group-title="中國",浙江衛視
 http://smt.iptv543.com/Smart.php?id=zhejiang_twn
-#EXTINF:-1 tvg-name="中國|江蘇衛視" tvg-logo="https://logo.catvod.com/中國|江蘇衛視.png" group-title="中國",中國|江蘇衛視
+#EXTINF:-1 tvg-name="江蘇衛視" tvg-logo="https://logo.catvod.com/江蘇衛視.png" group-title="中國",江蘇衛視
 http://smt.iptv543.com/Smart.php?id=jiangsu_twn
-#EXTINF:-1 tvg-name="中國|東方衛視" tvg-logo="https://logo.catvod.com/中國|東方衛視.png" group-title="中國",中國|東方衛視
+#EXTINF:-1 tvg-name="東方衛視" tvg-logo="https://logo.catvod.com/東方衛視.png" group-title="中國",東方衛視
 http://smt.iptv543.com/Smart.php?id=dongfangweishi_twn
-#EXTINF:-1 tvg-name="中國|北京衛視" tvg-logo="https://logo.catvod.com/中國|北京衛視.png" group-title="中國",中國|北京衛視
+#EXTINF:-1 tvg-name="北京衛視" tvg-logo="https://logo.catvod.com/北京衛視.png" group-title="中國",北京衛視
 http://smt.iptv543.com/Smart.php?id=beijing
-#EXTINF:-1 tvg-name="中國|深圳衛視" tvg-logo="https://logo.catvod.com/中國|深圳衛視.png" group-title="中國",中國|深圳衛視
+#EXTINF:-1 tvg-name="深圳衛視" tvg-logo="https://logo.catvod.com/深圳衛視.png" group-title="中國",深圳衛視
 http://smt.iptv543.com/Smart.php?id=shenzhen
-#EXTINF:-1 tvg-name="中國|廣東衛視" tvg-logo="https://logo.catvod.com/中國|廣東衛視.png" group-title="中國",中國|廣東衛視
+#EXTINF:-1 tvg-name="廣東衛視" tvg-logo="https://logo.catvod.com/廣東衛視.png" group-title="中國",廣東衛視
 http://smt.iptv543.com/Smart.php?id=guangdongweishi_twn
-#EXTINF:-1 tvg-name="中國|大灣區衛視" tvg-logo="https://logo.catvod.com/中國|大灣區衛視.png" group-title="中國",中國|大灣區衛視
+#EXTINF:-1 tvg-name="大灣區衛視" tvg-logo="https://logo.catvod.com/大灣區衛視.png" group-title="中國",大灣區衛視
 http://smt.iptv543.com/Smart.php?id=nanfang_twn
-#EXTINF:-1 tvg-name="中國|珠江台" tvg-logo="https://logo.catvod.com/中國|珠江台.png" group-title="中國",中國|珠江台
+#EXTINF:-1 tvg-name="珠江台" tvg-logo="https://logo.catvod.com/珠江台.png" group-title="中國",珠江台
 http://smt.iptv543.com/Smart.php?id=zhujiang
-#EXTINF:-1 tvg-name="中國|東南衛視" tvg-logo="https://logo.catvod.com/中國|東南衛視.png" group-title="中國",中國|東南衛視
+#EXTINF:-1 tvg-name="東南衛視" tvg-logo="https://logo.catvod.com/東南衛視.png" group-title="中國",東南衛視
 http://smt.iptv543.com/Smart.php?id=fujian
-#EXTINF:-1 tvg-name="中國|廣西衛視" tvg-logo="https://logo.catvod.com/中國|廣西衛視.png" group-title="中國",中國|廣西衛視
+#EXTINF:-1 tvg-name="廣西衛視" tvg-logo="https://logo.catvod.com/廣西衛視.png" group-title="中國",廣西衛視
 http://smt.iptv543.com/Smart.php?id=guangxi
-#EXTINF:-1 tvg-name="中國|湖北衛視" tvg-logo="https://logo.catvod.com/中國|湖北衛視.png" group-title="中國",中國|湖北衛視
+#EXTINF:-1 tvg-name="湖北衛視" tvg-logo="https://logo.catvod.com/湖北衛視.png" group-title="中國",湖北衛視
 http://smt.iptv543.com/Smart.php?id=hubei
-#EXTINF:-1 tvg-name="中國|四川衛視" tvg-logo="https://logo.catvod.com/中國|四川衛視.png" group-title="中國",中國|四川衛視
+#EXTINF:-1 tvg-name="四川衛視" tvg-logo="https://logo.catvod.com/四川衛視.png" group-title="中國",四川衛視
 http://smt.iptv543.com/Smart.php?id=sichuan_twn
-#EXTINF:-1 tvg-name="中國|CGTN" tvg-logo="https://logo.catvod.com/中國|CGTN.png" group-title="中國",中國|CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="中國",CGTN
 http://smt.iptv543.com/Smart.php?id=CGTN
 
 
 
 
-#EXTINF:-1 tvg-name="香港|鳳凰中文" tvg-logo="https://logo.catvod.com/香港|鳳凰中文.png" group-title="香港",香港|鳳凰中文
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="香港",鳳凰中文
 http://smt.iptv543.com/Smart.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="香港|鳳凰資訊" tvg-logo="https://logo.catvod.com/香港|鳳凰資訊.png" group-title="香港",香港|鳳凰資訊
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://logo.catvod.com/鳳凰資訊.png" group-title="香港",鳳凰資訊
 http://smt.iptv543.com/Smart.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-name="香港|鳳凰香港" tvg-logo="https://logo.catvod.com/香港|鳳凰香港.png" group-title="香港",香港|鳳凰香港
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://logo.catvod.com/鳳凰香港.png" group-title="香港",鳳凰香港
 http://smt.iptv543.com/Smart.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="香港|翡翠台" tvg-logo="https://logo.catvod.com/香港|翡翠台.png" group-title="香港",香港|翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港",翡翠台
 http://smt.iptv543.com/Smart.php?id=jade_twn
-#EXTINF:-1 tvg-name="香港|翡翠台" tvg-logo="https://logo.catvod.com/香港|翡翠台.png" group-title="香港",香港|翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://logo.catvod.com/翡翠台.png" group-title="香港",翡翠台
 http://smt.iptv543.com/Smart.php?id=Jade_xue
-#EXTINF:-1 tvg-name="香港|明珠台" tvg-logo="https://logo.catvod.com/香港|明珠台.png" group-title="香港",香港|明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://logo.catvod.com/明珠台.png" group-title="香港",明珠台
 http://smt.iptv543.com/Smart.php?id=pearl_twn
-#EXTINF:-1 tvg-name="香港|無線新聞" tvg-logo="https://logo.catvod.com/香港|無線新聞.png" group-title="香港",香港|無線新聞
+#EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://logo.catvod.com/無線新聞.png" group-title="香港",無線新聞
 http://smt.iptv543.com/Smart.php?id=inews_twn
-#EXTINF:-1 tvg-name="香港|TVBPLUS" tvg-logo="https://logo.catvod.com/香港|TVBPLUS.png" group-title="香港",香港|TVBPLUS
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://logo.catvod.com/TVBPLUS.png" group-title="香港",TVBPLUS
 http://smt.iptv543.com/Smart.php?id=j2_twn
-#EXTINF:-1 tvg-name="香港|ViuTV" tvg-logo="https://logo.catvod.com/香港|ViuTV.png" group-title="香港",香港|ViuTV
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://logo.catvod.com/ViuTV.png" group-title="香港",ViuTV
 http://smt.iptv543.com/Smart.php?id=viu1_twn
-#EXTINF:-1 tvg-name="香港|ViuTV 6" tvg-logo="https://logo.catvod.com/香港|ViuTV 6.png" group-title="香港",香港|ViuTV 6
+#EXTINF:-1 tvg-name="ViuTV 6" tvg-logo="https://logo.catvod.com/ViuTV 6.png" group-title="香港",ViuTV 6
 http://smt.iptv543.com/Smart.php?id=viusix_twn
-#EXTINF:-1 tvg-name="香港|RTHK 31" tvg-logo="https://logo.catvod.com/香港|RTHK 31.png" group-title="香港",香港|RTHK 31
+#EXTINF:-1 tvg-name="RTHK 31" tvg-logo="https://logo.catvod.com/RTHK 31.png" group-title="香港",RTHK 31
 http://smt.iptv543.com/Smart.php?id=rhk31_twn
-#EXTINF:-1 tvg-name="香港|RTHK 32" tvg-logo="https://logo.catvod.com/香港|RTHK 32.png" group-title="香港",香港|RTHK 32
+#EXTINF:-1 tvg-name="RTHK 32" tvg-logo="https://logo.catvod.com/RTHK 32.png" group-title="香港",RTHK 32
 http://smt.iptv543.com/Smart.php?id=rhk32_twn
-#EXTINF:-1 tvg-name="香港|HOY TV" tvg-logo="https://logo.catvod.com/香港|HOY TV.png" group-title="香港",香港|HOY TV
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://logo.catvod.com/HOY TV.png" group-title="香港",HOY TV
 http://smt.iptv543.com/Smart.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-name="台灣|台視 HD" tvg-logo="https://logo.catvod.com/台灣|台視 HD.png" group-title="台灣",台灣|台視 HD
+#EXTINF:-1 tvg-name="台視 HD" tvg-logo="https://logo.catvod.com/台視 HD.png" group-title="台灣",台視 HD
 http://smt.iptv543.com/Smart.php?id=ttv_taiwan
-#EXTINF:-1 tvg-name="台灣|台視新聞" tvg-logo="https://logo.catvod.com/台灣|台視新聞.png" group-title="台灣",台灣|台視新聞
+#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://logo.catvod.com/台視新聞.png" group-title="台灣",台視新聞
 http://smt.iptv543.com/Smart.php?id=ttvnews_twn
-#EXTINF:-1 tvg-name="台灣|台視綜合" tvg-logo="https://logo.catvod.com/台灣|台視綜合.png" group-title="台灣",台灣|台視綜合
+#EXTINF:-1 tvg-name="台視綜合" tvg-logo="https://logo.catvod.com/台視綜合.png" group-title="台灣",台視綜合
 http://smt.iptv543.com/Smart.php?id=ttvzhonghe
-#EXTINF:-1 tvg-name="台灣|中視 HD" tvg-logo="https://logo.catvod.com/台灣|中視 HD.png" group-title="台灣",台灣|中視 HD
+#EXTINF:-1 tvg-name="中視 HD" tvg-logo="https://logo.catvod.com/中視 HD.png" group-title="台灣",中視 HD
 http://smt.iptv543.com/Smart.php?id=zhongshihd_twn
-#EXTINF:-1 tvg-name="台灣|中視新聞" tvg-logo="https://logo.catvod.com/台灣|中視新聞.png" group-title="台灣",台灣|中視新聞
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://logo.catvod.com/中視新聞.png" group-title="台灣",中視新聞
 http://smt.iptv543.com/Smart.php?id=zhongshinews_twn
-#EXTINF:-1 tvg-name="台灣|中視經典" tvg-logo="https://logo.catvod.com/台灣|中視經典.png" group-title="台灣",台灣|中視經典
+#EXTINF:-1 tvg-name="中視經典" tvg-logo="https://logo.catvod.com/中視經典.png" group-title="台灣",中視經典
 http://smt.iptv543.com/Smart.php?id=zhongshi_twn
-#EXTINF:-1 tvg-name="台灣|華視 HD" tvg-logo="https://logo.catvod.com/台灣|華視 HD.png" group-title="台灣",台灣|華視 HD
+#EXTINF:-1 tvg-name="華視 HD" tvg-logo="https://logo.catvod.com/華視 HD.png" group-title="台灣",華視 HD
 http://smt.iptv543.com/Smart.php?id=ctshd_twn
-#EXTINF:-1 tvg-name="台灣|公視 HD" tvg-logo="https://logo.catvod.com/台灣|公視 HD.png" group-title="台灣",台灣|公視 HD
+#EXTINF:-1 tvg-name="公視 HD" tvg-logo="https://logo.catvod.com/公視 HD.png" group-title="台灣",公視 HD
 http://smt.iptv543.com/Smart.php?id=ctv_taiwan
-#EXTINF:-1 tvg-name="台灣|公視台語台" tvg-logo="https://logo.catvod.com/台灣|公視台語台.png" group-title="台灣",台灣|公視台語台
+#EXTINF:-1 tvg-name="公視台語台" tvg-logo="https://logo.catvod.com/公視台語台.png" group-title="台灣",公視台語台
 http://smt.iptv543.com/Smart.php?id=ctv2_twn
-#EXTINF:-1 tvg-name="台灣|三立台灣台" tvg-logo="https://logo.catvod.com/台灣|三立台灣台.png" group-title="台灣",台灣|三立台灣台
+#EXTINF:-1 tvg-name="三立台灣台" tvg-logo="https://logo.catvod.com/三立台灣台.png" group-title="台灣",三立台灣台
 http://smt.iptv543.com/Smart.php?id=sanlitaiwan
-#EXTINF:-1 tvg-name="台灣|三立都會台" tvg-logo="https://logo.catvod.com/台灣|三立都會台.png" group-title="台灣",台灣|三立都會台
+#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://logo.catvod.com/三立都會台.png" group-title="台灣",三立都會台
 http://smt.iptv543.com/Smart.php?id=sanlidouhui
-#EXTINF:-1 tvg-name="台灣|三立綜合台" tvg-logo="https://logo.catvod.com/台灣|三立綜合台.png" group-title="台灣",台灣|三立綜合台
+#EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://logo.catvod.com/三立綜合台.png" group-title="台灣",三立綜合台
 http://smt.iptv543.com/Smart.php?id=sanlizhonghe
-#EXTINF:-1 tvg-name="台灣|三立戲劇台" tvg-logo="https://logo.catvod.com/台灣|三立戲劇台.png" group-title="台灣",台灣|三立戲劇台
+#EXTINF:-1 tvg-name="三立戲劇台" tvg-logo="https://logo.catvod.com/三立戲劇台.png" group-title="台灣",三立戲劇台
 http://smt.iptv543.com/Smart.php?id=sanlixiju_twn
-#EXTINF:-1 tvg-name="台灣|東森新聞台" tvg-logo="https://logo.catvod.com/台灣|東森新聞台.png" group-title="台灣",台灣|東森新聞台
+#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://logo.catvod.com/東森新聞台.png" group-title="台灣",東森新聞台
 http://smt.iptv543.com/Smart.php?id=ettvnews
-#EXTINF:-1 tvg-name="台灣|東森財經新聞台" tvg-logo="https://logo.catvod.com/台灣|東森財經新聞台.png" group-title="台灣",台灣|東森財經新聞台
+#EXTINF:-1 tvg-name="東森財經新聞台" tvg-logo="https://logo.catvod.com/東森財經新聞台.png" group-title="台灣",東森財經新聞台
 http://smt.iptv543.com/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-name="台灣|東森綜合台" tvg-logo="https://logo.catvod.com/台灣|東森綜合台.png" group-title="台灣",台灣|東森綜合台
+#EXTINF:-1 tvg-name="東森綜合台" tvg-logo="https://logo.catvod.com/東森綜合台.png" group-title="台灣",東森綜合台
 http://smt.iptv543.com/Smart.php?id=ettvzhonghe
-#EXTINF:-1 tvg-name="台灣|東森戲劇台" tvg-logo="https://logo.catvod.com/台灣|東森戲劇台.png" group-title="台灣",台灣|東森戲劇台
+#EXTINF:-1 tvg-name="東森戲劇台" tvg-logo="https://logo.catvod.com/東森戲劇台.png" group-title="台灣",東森戲劇台
 http://smt.iptv543.com/Smart.php?id=ettvdrama
-#EXTINF:-1 tvg-name="台灣|東森電影台" tvg-logo="https://logo.catvod.com/台灣|東森電影台.png" group-title="台灣",台灣|東森電影台
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://logo.catvod.com/東森電影台.png" group-title="台灣",東森電影台
 http://smt.iptv543.com/Smart.php?id=ettvmovie
-#EXTINF:-1 tvg-name="台灣|東森洋片台" tvg-logo="https://logo.catvod.com/台灣|東森洋片台.png" group-title="台灣",台灣|東森洋片台
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://logo.catvod.com/東森洋片台.png" group-title="台灣",東森洋片台
 http://smt.iptv543.com/Smart.php?id=ettvwestern
-#EXTINF:-1 tvg-name="台灣|東森幼幼台" tvg-logo="https://logo.catvod.com/台灣|東森幼幼台.png" group-title="台灣",台灣|東森幼幼台
+#EXTINF:-1 tvg-name="東森幼幼台" tvg-logo="https://logo.catvod.com/東森幼幼台.png" group-title="台灣",東森幼幼台
 http://smt.iptv543.com/Smart.php?id=yoyo_twn
-#EXTINF:-1 tvg-name="台灣|東森超視" tvg-logo="https://logo.catvod.com/台灣|東森超視.png" group-title="台灣",台灣|東森超視
+#EXTINF:-1 tvg-name="東森超視" tvg-logo="https://logo.catvod.com/東森超視.png" group-title="台灣",東森超視
 http://smt.iptv543.com/Smart.php?id=ettvsuper
-#EXTINF:-1 tvg-name="台灣|TVBS HD" tvg-logo="https://logo.catvod.com/台灣|TVBS HD.png" group-title="台灣",台灣|TVBS HD
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://logo.catvod.com/TVBS HD.png" group-title="台灣",TVBS HD
 http://smt.iptv543.com/Smart.php?id=tvbs
-#EXTINF:-1 tvg-name="台灣|TVBS 新聞台" tvg-logo="https://logo.catvod.com/台灣|TVBS 新聞台.png" group-title="台灣",台灣|TVBS 新聞台
+#EXTINF:-1 tvg-name="TVBS 新聞台" tvg-logo="https://logo.catvod.com/TVBS 新聞台.png" group-title="台灣",TVBS 新聞台
 http://smt.iptv543.com/Smart.php?id=tvbs_n
-#EXTINF:-1 tvg-name="台灣|TVBS 歡樂台" tvg-logo="https://logo.catvod.com/台灣|TVBS 歡樂台.png" group-title="台灣",台灣|TVBS 歡樂台
+#EXTINF:-1 tvg-name="TVBS 歡樂台" tvg-logo="https://logo.catvod.com/TVBS 歡樂台.png" group-title="台灣",TVBS 歡樂台
 http://smt.iptv543.com/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1 tvg-name="台灣|民視 HD" tvg-logo="https://logo.catvod.com/台灣|民視 HD.png" group-title="台灣",台灣|民視 HD
+#EXTINF:-1 tvg-name="民視 HD" tvg-logo="https://logo.catvod.com/民視 HD.png" group-title="台灣",民視 HD
 http://smt.iptv543.com/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1 tvg-name="台灣|民視新聞台" tvg-logo="https://logo.catvod.com/台灣|民視新聞台.png" group-title="台灣",台灣|民視新聞台
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://logo.catvod.com/民視新聞台.png" group-title="台灣",民視新聞台
 http://smt.iptv543.com/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1 tvg-name="台灣|民視台灣台" tvg-logo="https://logo.catvod.com/台灣|民視台灣台.png" group-title="台灣",台灣|民視台灣台
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://logo.catvod.com/民視台灣台.png" group-title="台灣",民視台灣台
 http://smt.iptv543.com/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1 tvg-name="台灣|中天綜合" tvg-logo="https://logo.catvod.com/台灣|中天綜合.png" group-title="台灣",台灣|中天綜合
+#EXTINF:-1 tvg-name="中天綜合" tvg-logo="https://logo.catvod.com/中天綜合.png" group-title="台灣",中天綜合
 http://smt.iptv543.com/Smart.php?id=ctizhonghe
-#EXTINF:-1 tvg-name="台灣|中天娛樂" tvg-logo="https://logo.catvod.com/台灣|中天娛樂.png" group-title="台灣",台灣|中天娛樂
+#EXTINF:-1 tvg-name="中天娛樂" tvg-logo="https://logo.catvod.com/中天娛樂.png" group-title="台灣",中天娛樂
 http://smt.iptv543.com/Smart.php?id=ctient
-#EXTINF:-1 tvg-name="台灣|中天亞洲" tvg-logo="https://logo.catvod.com/台灣|中天亞洲.png" group-title="台灣",台灣|中天亞洲
+#EXTINF:-1 tvg-name="中天亞洲" tvg-logo="https://logo.catvod.com/中天亞洲.png" group-title="台灣",中天亞洲
 http://smt.iptv543.com/Smart.php?id=ctiasia_twn
-#EXTINF:-1 tvg-name="台灣|中天新聞" tvg-logo="https://logo.catvod.com/台灣|中天新聞.png" group-title="台灣",台灣|中天新聞
+#EXTINF:-1 tvg-name="中天新聞" tvg-logo="https://logo.catvod.com/中天新聞.png" group-title="台灣",中天新聞
 http://smt.iptv543.com/Smart.php?id=ctinews
-#EXTINF:-1 tvg-name="台灣|寰宇新聞台" tvg-logo="https://logo.catvod.com/台灣|寰宇新聞台.png" group-title="台灣",台灣|寰宇新聞台
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://logo.catvod.com/寰宇新聞台.png" group-title="台灣",寰宇新聞台
 http://smt.iptv543.com/Smart.php?id=huanyuxinwen_twn
-#EXTINF:-1 tvg-name="台灣|寰宇財經台" tvg-logo="https://logo.catvod.com/台灣|寰宇財經台.png" group-title="台灣",台灣|寰宇財經台
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://logo.catvod.com/寰宇財經台.png" group-title="台灣",寰宇財經台
 http://smt.iptv543.com/Smart.php?id=huanyutaiwan_twn
-#EXTINF:-1 tvg-name="台灣|八大第一台" tvg-logo="https://logo.catvod.com/台灣|八大第一台.png" group-title="台灣",台灣|八大第一台
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://logo.catvod.com/八大第一台.png" group-title="台灣",八大第一台
 http://smt.iptv543.com/Smart.php?id=badafirst
-#EXTINF:-1 tvg-name="台灣|八大綜合台" tvg-logo="https://logo.catvod.com/台灣|八大綜合台.png" group-title="台灣",台灣|八大綜合台
+#EXTINF:-1 tvg-name="八大綜合台" tvg-logo="https://logo.catvod.com/八大綜合台.png" group-title="台灣",八大綜合台
 http://smt.iptv543.com/Smart.php?id=badazhonghe
-#EXTINF:-1 tvg-name="台灣|八大戲劇台" tvg-logo="https://logo.catvod.com/台灣|八大戲劇台.png" group-title="台灣",台灣|八大戲劇台
+#EXTINF:-1 tvg-name="八大戲劇台" tvg-logo="https://logo.catvod.com/八大戲劇台.png" group-title="台灣",八大戲劇台
 http://smt.iptv543.com/Smart.php?id=badadrama
-#EXTINF:-1 tvg-name="台灣|八大娛樂台" tvg-logo="https://logo.catvod.com/台灣|八大娛樂台.png" group-title="台灣",台灣|八大娛樂台
+#EXTINF:-1 tvg-name="八大娛樂台" tvg-logo="https://logo.catvod.com/八大娛樂台.png" group-title="台灣",八大娛樂台
 http://smt.iptv543.com/Smart.php?id=badaentertain
-#EXTINF:-1 tvg-name="台灣|緯來體育" tvg-logo="https://logo.catvod.com/台灣|緯來體育.png" group-title="台灣",台灣|緯來體育
+#EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://logo.catvod.com/緯來體育.png" group-title="台灣",緯來體育
 http://smt.iptv543.com/Smart.php?id=videolandsport
-#EXTINF:-1 tvg-name="台灣|緯來精彩" tvg-logo="https://logo.catvod.com/台灣|緯來精彩.png" group-title="台灣",台灣|緯來精彩
+#EXTINF:-1 tvg-name="緯來精彩" tvg-logo="https://logo.catvod.com/緯來精彩.png" group-title="台灣",緯來精彩
 http://smt.iptv543.com/Smart.php?id=videolandspecial_twn
-#EXTINF:-1 tvg-name="台灣|緯來日本" tvg-logo="https://logo.catvod.com/台灣|緯來日本.png" group-title="台灣",台灣|緯來日本
+#EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://logo.catvod.com/緯來日本.png" group-title="台灣",緯來日本
 http://smt.iptv543.com/Smart.php?id=videolandjapan
-#EXTINF:-1 tvg-name="台灣|緯來電影" tvg-logo="https://logo.catvod.com/台灣|緯來電影.png" group-title="台灣",台灣|緯來電影
+#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://logo.catvod.com/緯來電影.png" group-title="台灣",緯來電影
 http://smt.iptv543.com/Smart.php?id=videolandmovie
-#EXTINF:-1 tvg-name="台灣|緯來綜合" tvg-logo="https://logo.catvod.com/台灣|緯來綜合.png" group-title="台灣",台灣|緯來綜合
+#EXTINF:-1 tvg-name="緯來綜合" tvg-logo="https://logo.catvod.com/緯來綜合.png" group-title="台灣",緯來綜合
 http://smt.iptv543.com/Smart.php?id=videolandzonghe
-#EXTINF:-1 tvg-name="台灣|緯來育樂" tvg-logo="https://logo.catvod.com/台灣|緯來育樂.png" group-title="台灣",台灣|緯來育樂
+#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://logo.catvod.com/緯來育樂.png" group-title="台灣",緯來育樂
 http://smt.iptv543.com/Smart.php?id=videolandyule
-#EXTINF:-1 tvg-name="台灣|愛爾達綜合台" tvg-logo="https://logo.catvod.com/台灣|愛爾達綜合台.png" group-title="台灣",台灣|愛爾達綜合台
+#EXTINF:-1 tvg-name="愛爾達綜合台" tvg-logo="https://logo.catvod.com/愛爾達綜合台.png" group-title="台灣",愛爾達綜合台
 http://smt.iptv543.com/Smart.php?id=eltazonghe_twn
-#EXTINF:-1 tvg-name="台灣|愛爾達影劇台" tvg-logo="https://logo.catvod.com/台灣|愛爾達影劇台.png" group-title="台灣",台灣|愛爾達影劇台
+#EXTINF:-1 tvg-name="愛爾達影劇台" tvg-logo="https://logo.catvod.com/愛爾達影劇台.png" group-title="台灣",愛爾達影劇台
 http://smt.iptv543.com/Smart.php?id=eltayingju_twn
-
-#EXTINF:-1 tvg-name="台灣|年代新聞" tvg-logo="https://logo.catvod.com/台灣|年代新聞.png" group-title="台灣",台灣|年代新聞
+#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣",年代新聞
 http://smt.iptv543.com/Smart.php?id=niandainews_twn
-#EXTINF:-1 tvg-name="台灣|龍華戲劇" tvg-logo="https://logo.catvod.com/台灣|龍華戲劇.png" group-title="台灣",台灣|龍華戲劇
+#EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://logo.catvod.com/龍華戲劇.png" group-title="台灣",龍華戲劇
 http://smt.iptv543.com/Smart.php?id=lunghuaxiju_twn
-#EXTINF:-1 tvg-name="台灣|龍華偶像" tvg-logo="https://logo.catvod.com/台灣|龍華偶像.png" group-title="台灣",台灣|龍華偶像
+#EXTINF:-1 tvg-name="龍華偶像" tvg-logo="https://logo.catvod.com/龍華偶像.png" group-title="台灣",龍華偶像
 http://smt.iptv543.com/Smart.php?id=lunghuaidol_twn
-#EXTINF:-1 tvg-name="台灣|龍華電影" tvg-logo="https://logo.catvod.com/台灣|龍華電影.png" group-title="台灣",台灣|龍華電影
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://logo.catvod.com/龍華電影.png" group-title="台灣",龍華電影
 http://smt.iptv543.com/Smart.php?id=xingwei_movie
-#EXTINF:-1 tvg-name="台灣|龍華洋片" tvg-logo="https://logo.catvod.com/台灣|龍華洋片.png" group-title="台灣",台灣|龍華洋片
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://logo.catvod.com/龍華洋片.png" group-title="台灣",龍華洋片
 http://smt.iptv543.com/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-name="台灣|龍華經典" tvg-logo="https://logo.catvod.com/台灣|龍華經典.png" group-title="台灣",台灣|龍華經典
+#EXTINF:-1 tvg-name="龍華經典" tvg-logo="https://logo.catvod.com/龍華經典.png" group-title="台灣",龍華經典
 http://smt.iptv543.com/Smart.php?id=lunghuajingdian_twn
-#EXTINF:-1 tvg-name="台灣|靖天國際" tvg-logo="https://logo.catvod.com/台灣|靖天國際.png" group-title="台灣",台灣|靖天國際
+#EXTINF:-1 tvg-name="靖天國際" tvg-logo="https://logo.catvod.com/靖天國際.png" group-title="台灣",靖天國際
 http://smt.iptv543.com/Smart.php?id=jingtianintl_twn
-#EXTINF:-1 tvg-name="台灣|靖天卡通" tvg-logo="https://logo.catvod.com/台灣|靖天卡通.png" group-title="台灣",台灣|靖天卡通
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://logo.catvod.com/靖天卡通.png" group-title="台灣",靖天卡通
 http://smt.iptv543.com/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="台灣|大愛電視" tvg-logo="https://logo.catvod.com/台灣|大愛電視.png" group-title="台灣",台灣|大愛電視
+#EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://logo.catvod.com/大愛電視.png" group-title="台灣",大愛電視
 http://smt.iptv543.com/Smart.php?id=daai_twn
-#EXTINF:-1 tvg-name="台灣|大愛二台" tvg-logo="https://logo.catvod.com/台灣|大愛二台.png" group-title="台灣",台灣|大愛二台
+#EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://logo.catvod.com/大愛二台.png" group-title="台灣",大愛二台
 http://smt.iptv543.com/Smart.php?id=daai2_twn
-#EXTINF:-1 tvg-name="台灣|EYE 旅遊台" tvg-logo="https://logo.catvod.com/台灣|EYE 旅遊台.png" group-title="台灣",台灣|EYE 旅遊台
+#EXTINF:-1 tvg-name="EYE 旅遊台" tvg-logo="https://logo.catvod.com/EYE 旅遊台.png" group-title="台灣",EYE 旅遊台
 http://smt.iptv543.com/Smart.php?id=eyetvtravel_twn
-#EXTINF:-1 tvg-name="台灣|EYE 戲劇台" tvg-logo="https://logo.catvod.com/台灣|EYE 戲劇台.png" group-title="台灣",台灣|EYE 戲劇台
+#EXTINF:-1 tvg-name="EYE 戲劇台" tvg-logo="https://logo.catvod.com/EYE 戲劇台.png" group-title="台灣",EYE 戲劇台
 http://smt.iptv543.com/Smart.php?id=eyetvxiju_twn
-#EXTINF:-1 tvg-name="台灣|亞洲美食" tvg-logo="https://logo.catvod.com/台灣|亞洲美食.png" group-title="台灣",台灣|亞洲美食
+#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://logo.catvod.com/亞洲美食.png" group-title="台灣",亞洲美食
 http://smt.iptv543.com/Smart.php?id=afc_twn
-#EXTINF:-1 tvg-name="台灣|美食星球" tvg-logo="https://logo.catvod.com/台灣|美食星球.png" group-title="台灣",台灣|美食星球
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://logo.catvod.com/美食星球.png" group-title="台灣",美食星球
 http://smt.iptv543.com/Smart.php?id=foodplanet_twn
-#EXTINF:-1 tvg-name="台灣|TLC旅遊生活" tvg-logo="https://logo.catvod.com/台灣|TLC旅遊生活.png" group-title="台灣",台灣|TLC旅遊生活
+#EXTINF:-1 tvg-name="TLC旅遊生活" tvg-logo="https://logo.catvod.com/TLC旅遊生活.png" group-title="台灣",TLC旅遊生活
 http://smt.iptv543.com/Smart.php?id=tlc_twn
-#EXTINF:-1 tvg-name="台灣|亞洲旅遊台" tvg-logo="https://logo.catvod.com/台灣|亞洲旅遊台.png" group-title="台灣",台灣|亞洲旅遊台
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://logo.catvod.com/亞洲旅遊台.png" group-title="台灣",亞洲旅遊台
 http://smt.iptv543.com/Smart.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="台灣|Arirang" tvg-logo="https://logo.catvod.com/台灣|Arirang.png" group-title="台灣",台灣|Arirang
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://logo.catvod.com/Arirang.png" group-title="台灣",Arirang
 http://smt.iptv543.com/Smart.php?id=arirang_twn
-#EXTINF:-1 tvg-name="台灣|AXN Taiwan" tvg-logo="https://logo.catvod.com/台灣|AXN Taiwan.png" group-title="台灣",台灣|AXN Taiwan
+#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.catvod.com/AXN Taiwan.png" group-title="台灣",AXN Taiwan
 http://smt.iptv543.com/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="台灣|MTV Live" tvg-logo="https://logo.catvod.com/台灣|MTV Live.png" group-title="台灣",台灣|MTV Live
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="台灣",MTV Live
 http://smt.iptv543.com/Smart.php?id=mtvhd_twn
-#EXTINF:-1 tvg-name="台灣|HBO_HD" tvg-logo="https://logo.catvod.com/台灣|HBO_HD.png" group-title="台灣",台灣|HBO_HD
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="台灣",HBO_HD
 http://smt.iptv543.com/Smart.php?id=hbohd_twn
-#EXTINF:-1 tvg-name="台灣|HBO_HITS" tvg-logo="https://logo.catvod.com/台灣|HBO_HITS.png" group-title="台灣",台灣|HBO_HITS
+#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://logo.catvod.com/HBO_HITS.png" group-title="台灣",HBO_HITS
 http://smt.iptv543.com/Smart.php?id=hbohit_twn
-#EXTINF:-1 tvg-name="台灣|CINEMAX" tvg-logo="https://logo.catvod.com/台灣|CINEMAX.png" group-title="台灣",台灣|CINEMAX
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://logo.catvod.com/CINEMAX.png" group-title="台灣",CINEMAX
 http://smt.iptv543.com/Smart.php?id=cinemax_twn
-#EXTINF:-1 tvg-name="台灣|好萊塢電影台" tvg-logo="https://logo.catvod.com/台灣|好萊塢電影台.png" group-title="台灣",台灣|好萊塢電影台
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://logo.catvod.com/好萊塢電影台.png" group-title="台灣",好萊塢電影台
 http://smt.iptv543.com/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-name="台灣|衛視電影台" tvg-logo="https://logo.catvod.com/台灣|衛視電影台.png" group-title="台灣",台灣|衛視電影台
+#EXTINF:-1 tvg-name="衛視電影台" tvg-logo="https://logo.catvod.com/衛視電影台.png" group-title="台灣",衛視電影台
 http://smt.iptv543.com/Smart.php?id=weishimovie_twn
-#EXTINF:-1 tvg-name="台灣|龍祥時代" tvg-logo="https://logo.catvod.com/台灣|龍祥時代.png" group-title="台灣",台灣|龍祥時代
+#EXTINF:-1 tvg-name="龍祥時代" tvg-logo="https://logo.catvod.com/龍祥時代.png" group-title="台灣",龍祥時代
 http://smt.iptv543.com/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="台灣|美亞電影" tvg-logo="https://logo.catvod.com/台灣|美亞電影.png" group-title="台灣",台灣|美亞電影
+#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://logo.catvod.com/美亞電影.png" group-title="台灣",美亞電影
 http://smt.iptv543.com/Smart.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="台灣|華藝綜合" tvg-logo="https://logo.catvod.com/台灣|華藝綜合.png" group-title="台灣",台灣|華藝綜合
+#EXTINF:-1 tvg-name="華藝綜合" tvg-logo="https://logo.catvod.com/華藝綜合.png" group-title="台灣",華藝綜合
 http://smt.iptv543.com/Smart.php?id=weishichinese_twn
-#EXTINF:-1 tvg-name="台灣|博斯運動一台" tvg-logo="https://logo.catvod.com/台灣|博斯運動一台.png" group-title="台灣",台灣|博斯運動一台
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://logo.catvod.com/博斯運動一台.png" group-title="台灣",博斯運動一台
 http://smt.iptv543.com/Smart.php?id=bosisport1_twn
-#EXTINF:-1 tvg-name="台灣|博斯運動二台" tvg-logo="https://logo.catvod.com/台灣|博斯運動二台.png" group-title="台灣",台灣|博斯運動二台
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://logo.catvod.com/博斯運動二台.png" group-title="台灣",博斯運動二台
 http://smt.iptv543.com/Smart.php?id=bosisport2_twn
-#EXTINF:-1 tvg-name="台灣|博斯高球一台" tvg-logo="https://logo.catvod.com/台灣|博斯高球一台.png" group-title="台灣",台灣|博斯高球一台
+#EXTINF:-1 tvg-name="博斯高球一台" tvg-logo="https://logo.catvod.com/博斯高球一台.png" group-title="台灣",博斯高球一台
 http://smt.iptv543.com/Smart.php?id=bosigolf1_twn
-#EXTINF:-1 tvg-name="台灣|博斯高球二台" tvg-logo="https://logo.catvod.com/台灣|博斯高球二台.png" group-title="台灣",台灣|博斯高球二台
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://logo.catvod.com/博斯高球二台.png" group-title="台灣",博斯高球二台
 http://smt.iptv543.com/Smart.php?id=bosigolf2_twn
-#EXTINF:-1 tvg-name="台灣|博斯網球檯" tvg-logo="https://logo.catvod.com/台灣|博斯網球檯.png" group-title="台灣",台灣|博斯網球檯
+#EXTINF:-1 tvg-name="博斯網球檯" tvg-logo="https://logo.catvod.com/博斯網球檯.png" group-title="台灣",博斯網球檯
 http://smt.iptv543.com/Smart.php?id=bositennis_twn
-#EXTINF:-1 tvg-name="台灣|博斯無限台" tvg-logo="https://logo.catvod.com/台灣|博斯無限台.png" group-title="台灣",台灣|博斯無限台
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://logo.catvod.com/博斯無限台.png" group-title="台灣",博斯無限台
 http://smt.iptv543.com/Smart.php?id=bosiunlimited_twn
-#EXTINF:-1 tvg-name="台灣|好消息 2" tvg-logo="https://logo.catvod.com/台灣|好消息 2.png" group-title="台灣",台灣|好消息 2
+#EXTINF:-1 tvg-name="好訊息 2" tvg-logo="https://logo.catvod.com/好訊息 2.png" group-title="台灣",好訊息 2
 http://smt.iptv543.com/Smart.php?id=good2_twn
-#EXTINF:-1 tvg-name="新加坡|Channel 5" tvg-logo="https://logo.catvod.com/新加坡|Channel 5.png" group-title="新加坡",新加坡|Channel 5
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://logo.catvod.com/Channel 5.png" group-title="新加坡",Channel 5
 http://smt.iptv543.com/Smart.php?id=Channel5HD
-#EXTINF:-1 tvg-name="新加坡|Channel 8" tvg-logo="https://logo.catvod.com/新加坡|Channel 8.png" group-title="新加坡",新加坡|Channel 8
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://logo.catvod.com/Channel 8.png" group-title="新加坡",Channel 8
 http://smt.iptv543.com/Smart.php?id=Channel8HD
-#EXTINF:-1 tvg-name="新加坡|Suria" tvg-logo="https://logo.catvod.com/新加坡|Suria.png" group-title="新加坡",新加坡|Suria
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://logo.catvod.com/Suria.png" group-title="新加坡",Suria
 http://smt.iptv543.com/Smart.php?id=Suria
-#EXTINF:-1 tvg-name="新加坡|Channel U" tvg-logo="https://logo.catvod.com/新加坡|Channel U.png" group-title="新加坡",新加坡|Channel U
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://logo.catvod.com/Channel U.png" group-title="新加坡",Channel U
 http://smt.iptv543.com/Smart.php?id=ChannelU
-#EXTINF:-1 tvg-name="新加坡|Vasantham" tvg-logo="https://logo.catvod.com/新加坡|Vasantham.png" group-title="新加坡",新加坡|Vasantham
+#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://logo.catvod.com/Vasantham.png" group-title="新加坡",Vasantham
 http://smt.iptv543.com/Smart.php?id=Vasantham
-#EXTINF:-1 tvg-name="新加坡|CNA" tvg-logo="https://logo.catvod.com/新加坡|CNA.png" group-title="新加坡",新加坡|CNA
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="新加坡",CNA
 http://smt.iptv543.com/Smart.php?id=cna
-#EXTINF:-1 tvg-name="新加坡|CNA backup" tvg-logo="https://logo.catvod.com/新加坡|CNA backup.png" group-title="新加坡",新加坡|CNA backup
+#EXTINF:-1 tvg-name="CNA backup" tvg-logo="https://logo.catvod.com/CNA backup.png" group-title="新加坡",CNA backup
 http://smt.iptv543.com/Smart.php?id=cna_twn
-#EXTINF:-1 tvg-name="新加坡|MeWatch Ch 5" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Ch 5.png" group-title="新加坡",新加坡|MeWatch Ch 5
+#EXTINF:-1 tvg-name="MeWatch Ch 5" tvg-logo="https://logo.catvod.com/MeWatch Ch 5.png" group-title="新加坡",MeWatch Ch 5
 http://smt.iptv543.com/Smart.php?id=Mewatch_ch5
-#EXTINF:-1 tvg-name="新加坡|MeWatch Ch 8" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Ch 8.png" group-title="新加坡",新加坡|MeWatch Ch 8
+#EXTINF:-1 tvg-name="MeWatch Ch 8" tvg-logo="https://logo.catvod.com/MeWatch Ch 8.png" group-title="新加坡",MeWatch Ch 8
 http://smt.iptv543.com/Smart.php?id=Mewatch_ch8
-#EXTINF:-1 tvg-name="新加坡|MeWatch Ch U" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Ch U.png" group-title="新加坡",新加坡|MeWatch Ch U
+#EXTINF:-1 tvg-name="MeWatch Ch U" tvg-logo="https://logo.catvod.com/MeWatch Ch U.png" group-title="新加坡",MeWatch Ch U
 http://smt.iptv543.com/Smart.php?id=Mewatch_chU
-#EXTINF:-1 tvg-name="新加坡|MeWatch Suria" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Suria.png" group-title="新加坡",新加坡|MeWatch Suria
+#EXTINF:-1 tvg-name="MeWatch Suria" tvg-logo="https://logo.catvod.com/MeWatch Suria.png" group-title="新加坡",MeWatch Suria
 http://smt.iptv543.com/Smart.php?id=Mewatch_Suria
-#EXTINF:-1 tvg-name="新加坡|MeWatch Vasantham" tvg-logo="https://logo.catvod.com/新加坡|MeWatch Vasantham.png" group-title="新加坡",新加坡|MeWatch Vasantham
+#EXTINF:-1 tvg-name="MeWatch Vasantham" tvg-logo="https://logo.catvod.com/MeWatch Vasantham.png" group-title="新加坡",MeWatch Vasantham
 http://smt.iptv543.com/Smart.php?id=Mewatch_Vasantham
-#EXTINF:-1 tvg-name="新加坡|MeWatch CNA" tvg-logo="https://logo.catvod.com/新加坡|MeWatch CNA.png" group-title="新加坡",新加坡|MeWatch CNA
+#EXTINF:-1 tvg-name="MeWatch CNA" tvg-logo="https://logo.catvod.com/MeWatch CNA.png" group-title="新加坡",MeWatch CNA
 http://smt.iptv543.com/Smart.php?id=Mewatch_cna
-#EXTINF:-1 tvg-name="馬來西亞|TV1" tvg-logo="https://logo.catvod.com/馬來西亞|TV1.png" group-title="馬來西亞",馬來西亞|TV1
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://logo.catvod.com/TV1.png" group-title="馬來西亞",TV1
 http://smt.iptv543.com/Smart.php?id=TV1
-#EXTINF:-1 tvg-name="馬來西亞|TV1 backup" tvg-logo="https://logo.catvod.com/馬來西亞|TV1 backup.png" group-title="馬來西亞",馬來西亞|TV1 backup
+#EXTINF:-1 tvg-name="TV1 backup" tvg-logo="https://logo.catvod.com/TV1 backup.png" group-title="馬來西亞",TV1 backup
 http://smt.iptv543.com/Smart.php?id=TV1_backup
-#EXTINF:-1 tvg-name="馬來西亞|TV2" tvg-logo="https://logo.catvod.com/馬來西亞|TV2.png" group-title="馬來西亞",馬來西亞|TV2
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://logo.catvod.com/TV2.png" group-title="馬來西亞",TV2
 http://smt.iptv543.com/Smart.php?id=TV2
-#EXTINF:-1 tvg-name="馬來西亞|TV3" tvg-logo="https://logo.catvod.com/馬來西亞|TV3.png" group-title="馬來西亞",馬來西亞|TV3
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://logo.catvod.com/TV3.png" group-title="馬來西亞",TV3
 http://smt.iptv543.com/Smart.php?id=TV3
-#EXTINF:-1 tvg-name="馬來西亞|TV3 SD" tvg-logo="https://logo.catvod.com/馬來西亞|TV3 SD.png" group-title="馬來西亞",馬來西亞|TV3 SD
+#EXTINF:-1 tvg-name="TV3 SD" tvg-logo="https://logo.catvod.com/TV3 SD.png" group-title="馬來西亞",TV3 SD
 http://smt.iptv543.com/Smart.php?id=TV3_mega
-#EXTINF:-1 tvg-name="馬來西亞|NTV7" tvg-logo="https://logo.catvod.com/馬來西亞|NTV7.png" group-title="馬來西亞",馬來西亞|NTV7
+#EXTINF:-1 tvg-name="NTV7" tvg-logo="https://logo.catvod.com/NTV7.png" group-title="馬來西亞",NTV7
 http://smt.iptv543.com/Smart.php?id=NTV7
-#EXTINF:-1 tvg-name="馬來西亞|TV8" tvg-logo="https://logo.catvod.com/馬來西亞|TV8.png" group-title="馬來西亞",馬來西亞|TV8
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://logo.catvod.com/TV8.png" group-title="馬來西亞",TV8
 http://smt.iptv543.com/Smart.php?id=TV8
-#EXTINF:-1 tvg-name="馬來西亞|TV9" tvg-logo="https://logo.catvod.com/馬來西亞|TV9.png" group-title="馬來西亞",馬來西亞|TV9
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://logo.catvod.com/TV9.png" group-title="馬來西亞",TV9
 http://smt.iptv543.com/Smart.php?id=TV9
-#EXTINF:-1 tvg-name="馬來西亞|Ria" tvg-logo="https://logo.catvod.com/馬來西亞|Ria.png" group-title="馬來西亞",馬來西亞|Ria
+#EXTINF:-1 tvg-name="Ria" tvg-logo="https://logo.catvod.com/Ria.png" group-title="馬來西亞",Ria
 http://smt.iptv543.com/Smart.php?id=Ria
-#EXTINF:-1 tvg-name="馬來西亞|Ria-3" tvg-logo="https://logo.catvod.com/馬來西亞|Ria-3.png" group-title="馬來西亞",馬來西亞|Ria-3
+#EXTINF:-1 tvg-name="Ria-3" tvg-logo="https://logo.catvod.com/Ria-3.png" group-title="馬來西亞",Ria-3
 http://smt.iptv543.com/Smart.php?id=Ria_backup
-#EXTINF:-1 tvg-name="馬來西亞|Al-Hijrah" tvg-logo="https://logo.catvod.com/馬來西亞|Al-Hijrah.png" group-title="馬來西亞",馬來西亞|Al-Hijrah
+#EXTINF:-1 tvg-name="Al-Hijrah" tvg-logo="https://logo.catvod.com/Al-Hijrah.png" group-title="馬來西亞",Al-Hijrah
 http://smt.iptv543.com/Smart.php?id=Alhijrah
-#EXTINF:-1 tvg-name="馬來西亞|Al-Hijrah backup" tvg-logo="https://logo.catvod.com/馬來西亞|Al-Hijrah backup.png" group-title="馬來西亞",馬來西亞|Al-Hijrah backup
+#EXTINF:-1 tvg-name="Al-Hijrah backup" tvg-logo="https://logo.catvod.com/Al-Hijrah backup.png" group-title="馬來西亞",Al-Hijrah backup
 http://smt.iptv543.com/Smart.php?id=Alhijrah_backup
-#EXTINF:-1 tvg-name="馬來西亞|Awani" tvg-logo="https://logo.catvod.com/馬來西亞|Awani.png" group-title="馬來西亞",馬來西亞|Awani
+#EXTINF:-1 tvg-name="Awani" tvg-logo="https://logo.catvod.com/Awani.png" group-title="馬來西亞",Awani
 http://smt.iptv543.com/Smart.php?id=Awani
-#EXTINF:-1 tvg-name="馬來西亞|Bernama" tvg-logo="https://logo.catvod.com/馬來西亞|Bernama.png" group-title="馬來西亞",馬來西亞|Bernama
+#EXTINF:-1 tvg-name="Bernama" tvg-logo="https://logo.catvod.com/Bernama.png" group-title="馬來西亞",Bernama
 http://smt.iptv543.com/Smart.php?id=Bernama
-#EXTINF:-1 tvg-name="馬來西亞|Prima" tvg-logo="https://logo.catvod.com/馬來西亞|Prima.png" group-title="馬來西亞",馬來西亞|Prima
+#EXTINF:-1 tvg-name="Prima" tvg-logo="https://logo.catvod.com/Prima.png" group-title="馬來西亞",Prima
 http://smt.iptv543.com/Smart.php?id=Prima
-#EXTINF:-1 tvg-name="馬來西亞|Prima backup" tvg-logo="https://logo.catvod.com/馬來西亞|Prima backup.png" group-title="馬來西亞",馬來西亞|Prima backup
+#EXTINF:-1 tvg-name="Prima backup" tvg-logo="https://logo.catvod.com/Prima backup.png" group-title="馬來西亞",Prima backup
 http://smt.iptv543.com/Smart.php?id=AAprima1
-#EXTINF:-1 tvg-name="馬來西亞|Prima backup 2" tvg-logo="https://logo.catvod.com/馬來西亞|Prima backup 2.png" group-title="馬來西亞",馬來西亞|Prima backup 2
+#EXTINF:-1 tvg-name="Prima backup 2" tvg-logo="https://logo.catvod.com/Prima backup 2.png" group-title="馬來西亞",Prima backup 2
 http://smt.iptv543.com/Smart.php?id=AAprima
-#EXTINF:-1 tvg-name="馬來西亞|Ceria" tvg-logo="https://logo.catvod.com/馬來西亞|Ceria.png" group-title="馬來西亞",馬來西亞|Ceria
+#EXTINF:-1 tvg-name="Ceria" tvg-logo="https://logo.catvod.com/Ceria.png" group-title="馬來西亞",Ceria
 http://smt.iptv543.com/Smart.php?id=Ceria
-#EXTINF:-1 tvg-name="馬來西亞|Astro MTV" tvg-logo="https://logo.catvod.com/馬來西亞|Astro MTV.png" group-title="馬來西亞",馬來西亞|Astro MTV
+#EXTINF:-1 tvg-name="Astro MTV" tvg-logo="https://logo.catvod.com/Astro MTV.png" group-title="馬來西亞",Astro MTV
 http://smt.iptv543.com/Smart.php?id=AstroMTV
-#EXTINF:-1 tvg-name="馬來西亞|Mecca Live HD" tvg-logo="https://logo.catvod.com/馬來西亞|Mecca Live HD.png" group-title="馬來西亞",馬來西亞|Mecca Live HD
+#EXTINF:-1 tvg-name="Mecca Live HD" tvg-logo="https://logo.catvod.com/Mecca Live HD.png" group-title="馬來西亞",Mecca Live HD
 http://smt.iptv543.com/Smart.php?id=quran_mido
-#EXTINF:-1 tvg-name="馬來西亞|Madinah HD" tvg-logo="https://logo.catvod.com/馬來西亞|Madinah HD.png" group-title="馬來西亞",馬來西亞|Madinah HD
+#EXTINF:-1 tvg-name="Madinah HD" tvg-logo="https://logo.catvod.com/Madinah HD.png" group-title="馬來西亞",Madinah HD
 http://smt.iptv543.com/Smart.php?id=sunnah_mido
-#EXTINF:-1 tvg-name="馬來西亞|Oasis" tvg-logo="https://logo.catvod.com/馬來西亞|Oasis.png" group-title="馬來西亞",馬來西亞|Oasis
+#EXTINF:-1 tvg-name="Oasis" tvg-logo="https://logo.catvod.com/Oasis.png" group-title="馬來西亞",Oasis
 http://smt.iptv543.com/Smart.php?id=Oasis
-#EXTINF:-1 tvg-name="馬來西亞|HBO HD" tvg-logo="https://logo.catvod.com/馬來西亞|HBO HD.png" group-title="馬來西亞",馬來西亞|HBO HD
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="馬來西亞",HBO HD
 http://smt.iptv543.com/Smart.php?id=Hbo
-#EXTINF:-1 tvg-name="馬來西亞|HBO Signature" tvg-logo="https://logo.catvod.com/馬來西亞|HBO Signature.png" group-title="馬來西亞",馬來西亞|HBO Signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://logo.catvod.com/HBO Signature.png" group-title="馬來西亞",HBO Signature
 http://smt.iptv543.com/Smart.php?id=Hbosignature
-#EXTINF:-1 tvg-name="馬來西亞|HBO Hits" tvg-logo="https://logo.catvod.com/馬來西亞|HBO Hits.png" group-title="馬來西亞",馬來西亞|HBO Hits
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://logo.catvod.com/HBO Hits.png" group-title="馬來西亞",HBO Hits
 http://smt.iptv543.com/Smart.php?id=Hbohitshd
-#EXTINF:-1 tvg-name="馬來西亞|NatGeo Wild HD" tvg-logo="https://logo.catvod.com/馬來西亞|NatGeo Wild HD.png" group-title="馬來西亞",馬來西亞|NatGeo Wild HD
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="馬來西亞",NatGeo Wild HD
 http://smt.iptv543.com/Smart.php?id=Natgeowild
-#EXTINF:-1 tvg-name="馬來西亞|Cartoon Network" tvg-logo="https://logo.catvod.com/馬來西亞|Cartoon Network.png" group-title="馬來西亞",馬來西亞|Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title="馬來西亞",Cartoon Network
 http://smt.iptv543.com/Smart.php?id=Cn
-#EXTINF:-1 tvg-name="馬來西亞|Nickelodeon" tvg-logo="https://logo.catvod.com/馬來西亞|Nickelodeon.png" group-title="馬來西亞",馬來西亞|Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="馬來西亞",Nickelodeon
 http://smt.iptv543.com/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="馬來西亞|Nick Jr" tvg-logo="https://logo.catvod.com/馬來西亞|Nick Jr.png" group-title="馬來西亞",馬來西亞|Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="馬來西亞",Nick Jr
 http://smt.iptv543.com/Smart.php?id=Nickjr
-#EXTINF:-1 tvg-name="馬來西亞|Dreamworks" tvg-logo="https://logo.catvod.com/馬來西亞|Dreamworks.png" group-title="馬來西亞",馬來西亞|Dreamworks
+#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://logo.catvod.com/Dreamworks.png" group-title="馬來西亞",Dreamworks
 http://smt.iptv543.com/Smart.php?id=Dreamworks
-#EXTINF:-1 tvg-name="馬來西亞|Siar" tvg-logo="https://logo.catvod.com/馬來西亞|Siar.png" group-title="馬來西亞",馬來西亞|Siar
+#EXTINF:-1 tvg-name="Siar" tvg-logo="https://logo.catvod.com/Siar.png" group-title="馬來西亞",Siar
 http://smt.iptv543.com/Smart.php?id=Siar
-#EXTINF:-1 tvg-name="馬來西亞|Citra" tvg-logo="https://logo.catvod.com/馬來西亞|Citra.png" group-title="馬來西亞",馬來西亞|Citra
+#EXTINF:-1 tvg-name="Citra" tvg-logo="https://logo.catvod.com/Citra.png" group-title="馬來西亞",Citra
 http://smt.iptv543.com/Smart.php?id=AAcitra
-#EXTINF:-1 tvg-name="馬來西亞|Citra backup" tvg-logo="https://logo.catvod.com/馬來西亞|Citra backup.png" group-title="馬來西亞",馬來西亞|Citra backup
+#EXTINF:-1 tvg-name="Citra backup" tvg-logo="https://logo.catvod.com/Citra backup.png" group-title="馬來西亞",Citra backup
 http://smt.iptv543.com/Smart.php?id=AAcitra1
-#EXTINF:-1 tvg-name="馬來西亞|Sensasi" tvg-logo="https://logo.catvod.com/馬來西亞|Sensasi.png" group-title="馬來西亞",馬來西亞|Sensasi
+#EXTINF:-1 tvg-name="Sensasi" tvg-logo="https://logo.catvod.com/Sensasi.png" group-title="馬來西亞",Sensasi
 http://smt.iptv543.com/Smart.php?id=Sensasi
-#EXTINF:-1 tvg-name="馬來西亞|Aura" tvg-logo="https://logo.catvod.com/馬來西亞|Aura.png" group-title="馬來西亞",馬來西亞|Aura
+#EXTINF:-1 tvg-name="Aura" tvg-logo="https://logo.catvod.com/Aura.png" group-title="馬來西亞",Aura
 http://smt.iptv543.com/Smart.php?id=Aura
-#EXTINF:-1 tvg-name="馬來西亞|Rania" tvg-logo="https://logo.catvod.com/馬來西亞|Rania.png" group-title="馬來西亞",馬來西亞|Rania
+#EXTINF:-1 tvg-name="Rania" tvg-logo="https://logo.catvod.com/Rania.png" group-title="馬來西亞",Rania
 http://smt.iptv543.com/Smart.php?id=Rania
-#EXTINF:-1 tvg-name="馬來西亞|KBS World" tvg-logo="https://logo.catvod.com/馬來西亞|KBS World.png" group-title="馬來西亞",馬來西亞|KBS World
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://logo.catvod.com/KBS World.png" group-title="馬來西亞",KBS World
 http://smt.iptv543.com/Smart.php?id=KBS
-#EXTINF:-1 tvg-name="馬來西亞|Boo" tvg-logo="https://logo.catvod.com/馬來西亞|Boo.png" group-title="馬來西亞",馬來西亞|Boo
+#EXTINF:-1 tvg-name="Boo" tvg-logo="https://logo.catvod.com/Boo.png" group-title="馬來西亞",Boo
 http://smt.iptv543.com/Smart.php?id=Boo
-#EXTINF:-1 tvg-name="馬來西亞|Awesome TV" tvg-logo="https://logo.catvod.com/馬來西亞|Awesome TV.png" group-title="馬來西亞",馬來西亞|Awesome TV
+#EXTINF:-1 tvg-name="Awesome TV" tvg-logo="https://logo.catvod.com/Awesome TV.png" group-title="馬來西亞",Awesome TV
 http://smt.iptv543.com/Smart.php?id=Dsangat
-#EXTINF:-1 tvg-name="馬來西亞|Astro Sonypix" tvg-logo="https://logo.catvod.com/馬來西亞|Astro Sonypix.png" group-title="馬來西亞",馬來西亞|Astro Sonypix
+#EXTINF:-1 tvg-name="Astro Sonypix" tvg-logo="https://logo.catvod.com/Astro Sonypix.png" group-title="馬來西亞",Astro Sonypix
 http://smt.iptv543.com/Smart.php?id=Asonypix
-#EXTINF:-1 tvg-name="馬來西亞|Sony HD" tvg-logo="https://logo.catvod.com/馬來西亞|Sony HD.png" group-title="馬來西亞",馬來西亞|Sony HD
+#EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://logo.catvod.com/Sony HD.png" group-title="馬來西亞",Sony HD
 http://smt.iptv543.com/Smart.php?id=SetOne
-#EXTINF:-1 tvg-name="馬來西亞|TvN" tvg-logo="https://logo.catvod.com/馬來西亞|TvN.png" group-title="馬來西亞",馬來西亞|TvN
+#EXTINF:-1 tvg-name="TvN" tvg-logo="https://logo.catvod.com/TvN.png" group-title="馬來西亞",TvN
 http://smt.iptv543.com/Smart.php?id=TVN
-#EXTINF:-1 tvg-name="馬來西亞|AEC" tvg-logo="https://logo.catvod.com/馬來西亞|AEC.png" group-title="馬來西亞",馬來西亞|AEC
+#EXTINF:-1 tvg-name="AEC" tvg-logo="https://logo.catvod.com/AEC.png" group-title="馬來西亞",AEC
 http://smt.iptv543.com/Smart.php?id=AEC
-#EXTINF:-1 tvg-name="馬來西亞|華麗台 HD （Wah Lai Toi）" tvg-logo="https://logo.catvod.com/馬來西亞|華麗台 HD （Wah Lai Toi）.png" group-title="馬來西亞",馬來西亞|華麗台 HD （Wah Lai Toi）
+#EXTINF:-1 tvg-name="華麗台 HD （Wah Lai Toi）" tvg-logo="https://logo.catvod.com/華麗台 HD （Wah Lai Toi）.png" group-title="馬來西亞",華麗台 HD （Wah Lai Toi）
 http://smt.iptv543.com/Smart.php?id=Wlt
-#EXTINF:-1 tvg-name="馬來西亞|歡喜台 HD （Hua Hee Tai）" tvg-logo="https://logo.catvod.com/馬來西亞|歡喜台 HD （Hua Hee Tai）.png" group-title="馬來西亞",馬來西亞|歡喜台 HD （Hua Hee Tai）
+#EXTINF:-1 tvg-name="歡喜台 HD （Hua Hee Tai）" tvg-logo="https://logo.catvod.com/歡喜台 HD （Hua Hee Tai）.png" group-title="馬來西亞",歡喜台 HD （Hua Hee Tai）
 http://smt.iptv543.com/Smart.php?id=Huahee
-#EXTINF:-1 tvg-name="馬來西亞|Astro QJ" tvg-logo="https://logo.catvod.com/馬來西亞|Astro QJ.png" group-title="馬來西亞",馬來西亞|Astro QJ
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/Astro QJ.png" group-title="馬來西亞",Astro QJ
 http://smt.iptv543.com/Smart.php?id=Quanjia
-#EXTINF:-1 tvg-name="馬來西亞|TVB Jade" tvg-logo="https://logo.catvod.com/馬來西亞|TVB Jade.png" group-title="馬來西亞",馬來西亞|TVB Jade
+#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://logo.catvod.com/TVB Jade.png" group-title="馬來西亞",TVB Jade
 http://smt.iptv543.com/Smart.php?id=Tvbjade
-#EXTINF:-1 tvg-name="馬來西亞|TVB Asia" tvg-logo="https://logo.catvod.com/馬來西亞|TVB Asia.png" group-title="馬來西亞",馬來西亞|TVB Asia
+#EXTINF:-1 tvg-name="TVB Asia" tvg-logo="https://logo.catvod.com/TVB Asia.png" group-title="馬來西亞",TVB Asia
 http://smt.iptv543.com/Smart.php?id=Tvbasia
-#EXTINF:-1 tvg-name="馬來西亞|TVB Entertainment" tvg-logo="https://logo.catvod.com/馬來西亞|TVB Entertainment.png" group-title="馬來西亞",馬來西亞|TVB Entertainment
+#EXTINF:-1 tvg-name="TVB Entertainment" tvg-logo="https://logo.catvod.com/TVB Entertainment.png" group-title="馬來西亞",TVB Entertainment
 http://smt.iptv543.com/Smart.php?id=Tvbentertainment
-#EXTINF:-1 tvg-name="馬來西亞|TVB Classic" tvg-logo="https://logo.catvod.com/馬來西亞|TVB Classic.png" group-title="馬來西亞",馬來西亞|TVB Classic
+#EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://logo.catvod.com/TVB Classic.png" group-title="馬來西亞",TVB Classic
 http://smt.iptv543.com/Smart.php?id=Tvbclassic
-#EXTINF:-1 tvg-name="馬來西亞|AOD" tvg-logo="https://logo.catvod.com/馬來西亞|AOD.png" group-title="馬來西亞",馬來西亞|AOD
+#EXTINF:-1 tvg-name="AOD" tvg-logo="https://logo.catvod.com/AOD.png" group-title="馬來西亞",AOD
 http://smt.iptv543.com/Smart.php?id=Aodhd
-#EXTINF:-1 tvg-name="馬來西亞|One" tvg-logo="https://logo.catvod.com/馬來西亞|One.png" group-title="馬來西亞",馬來西亞|One
+#EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="馬來西亞",One
 http://smt.iptv543.com/Smart.php?id=One
-#EXTINF:-1 tvg-name="馬來西亞|TVB 星河台 Xing He" tvg-logo="https://logo.catvod.com/馬來西亞|TVB 星河台 Xing He.png" group-title="馬來西亞",馬來西亞|TVB 星河台 Xing He
+#EXTINF:-1 tvg-name="TVB 星河台 Xing He" tvg-logo="https://logo.catvod.com/TVB 星河台 Xing He.png" group-title="馬來西亞",TVB 星河台 Xing He
 http://smt.iptv543.com/Smart.php?id=Xinhe
-#EXTINF:-1 tvg-name="馬來西亞|愛奇藝 iQiyi" tvg-logo="https://logo.catvod.com/馬來西亞|愛奇藝 iQiyi.png" group-title="馬來西亞",馬來西亞|愛奇藝 iQiyi
+#EXTINF:-1 tvg-name="愛奇藝 iQiyi" tvg-logo="https://logo.catvod.com/愛奇藝 iQiyi.png" group-title="馬來西亞",愛奇藝 iQiyi
 http://smt.iptv543.com/Smart.php?id=Qiyi
-#EXTINF:-1 tvg-name="馬來西亞|Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/馬來西亞|Animal Planet (Eng).png" group-title="馬來西亞",馬來西亞|Animal Planet (Eng)
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="馬來西亞",Animal Planet (Eng)
 http://smt.iptv543.com/Smart.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="馬來西亞|tvN Movie" tvg-logo="https://logo.catvod.com/馬來西亞|tvN Movie.png" group-title="馬來西亞",馬來西亞|tvN Movie
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="馬來西亞",tvN Movie
 http://smt.iptv543.com/Smart.php?id=Tvnmovie
-#EXTINF:-1 tvg-name="馬來西亞|CNN backup" tvg-logo="https://logo.catvod.com/馬來西亞|CNN backup.png" group-title="馬來西亞",馬來西亞|CNN backup
+#EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="馬來西亞",CNN backup
 http://smt.iptv543.com/Smart.php?id=cnn_twn
-#EXTINF:-1 tvg-name="馬來西亞|Celestial Classic" tvg-logo="https://logo.catvod.com/馬來西亞|Celestial Classic.png" group-title="馬來西亞",馬來西亞|Celestial Classic
+#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://logo.catvod.com/Celestial Classic.png" group-title="馬來西亞",Celestial Classic
 http://smt.iptv543.com/Smart.php?id=Celestial2
-#EXTINF:-1 tvg-name="馬來西亞|CNBC" tvg-logo="https://logo.catvod.com/馬來西亞|CNBC.png" group-title="馬來西亞",馬來西亞|CNBC
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="馬來西亞",CNBC
 http://smt.iptv543.com/Smart.php?id=cnbc_twn
-#EXTINF:-1 tvg-name="馬來西亞|TLC" tvg-logo="https://logo.catvod.com/馬來西亞|TLC.png" group-title="馬來西亞",馬來西亞|TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="馬來西亞",TLC
 http://smt.iptv543.com/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="馬來西亞|CNA" tvg-logo="https://logo.catvod.com/馬來西亞|CNA.png" group-title="馬來西亞",馬來西亞|CNA
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="馬來西亞",CNA
 http://smt.iptv543.com/Smart.php?id=cna
-#EXTINF:-1 tvg-name="馬來西亞|BBC World News" tvg-logo="https://logo.catvod.com/馬來西亞|BBC World News.png" group-title="馬來西亞",馬來西亞|BBC World News
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="馬來西亞",BBC World News
 http://smt.iptv543.com/Smart.php?id=bbcnews_twn
-#EXTINF:-1 tvg-name="馬來西亞|Foodnetwork Hd" tvg-logo="https://logo.catvod.com/馬來西亞|Foodnetwork Hd.png" group-title="馬來西亞",馬來西亞|Foodnetwork Hd
+#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://logo.catvod.com/Foodnetwork Hd.png" group-title="馬來西亞",Foodnetwork Hd
 http://smt.iptv543.com/Smart.php?id=Foodnetwork
-#EXTINF:-1 tvg-name="馬來西亞|HGTV" tvg-logo="https://logo.catvod.com/馬來西亞|HGTV.png" group-title="馬來西亞",馬來西亞|HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="馬來西亞",HGTV
 http://smt.iptv543.com/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="馬來西亞|Goshop" tvg-logo="https://logo.catvod.com/馬來西亞|Goshop.png" group-title="馬來西亞",馬來西亞|Goshop
+#EXTINF:-1 tvg-name="Goshop" tvg-logo="https://logo.catvod.com/Goshop.png" group-title="馬來西亞",Goshop
 http://smt.iptv543.com/Smart.php?id=Goshop
-#EXTINF:-1 tvg-name="馬來西亞|Celestial Movies HD" tvg-logo="https://logo.catvod.com/馬來西亞|Celestial Movies HD.png" group-title="馬來西亞",馬來西亞|Celestial Movies HD
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://logo.catvod.com/Celestial Movies HD.png" group-title="馬來西亞",Celestial Movies HD
 http://smt.iptv543.com/Smart.php?id=Celestial
-#EXTINF:-1 tvg-name="馬來西亞|Axn HD" tvg-logo="https://logo.catvod.com/馬來西亞|Axn HD.png" group-title="馬來西亞",馬來西亞|Axn HD
+#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="馬來西亞",Axn HD
 http://smt.iptv543.com/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="馬來西亞|Paramount Network" tvg-logo="https://logo.catvod.com/馬來西亞|Paramount Network.png" group-title="馬來西亞",馬來西亞|Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://logo.catvod.com/Paramount Network.png" group-title="馬來西亞",Paramount Network
 http://smt.iptv543.com/Smart.php?id=Paramountnetwork
-#EXTINF:-1 tvg-name="馬來西亞|Astrol Kplus" tvg-logo="https://logo.catvod.com/馬來西亞|Astrol Kplus.png" group-title="馬來西亞",馬來西亞|Astrol Kplus
+#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://logo.catvod.com/Astrol Kplus.png" group-title="馬來西亞",Astrol Kplus
 http://smt.iptv543.com/Smart.php?id=Kplus
-#EXTINF:-1 tvg-name="馬來西亞|AFC 亞洲旅遊台" tvg-logo="https://logo.catvod.com/馬來西亞|AFC 亞洲旅遊台.png" group-title="馬來西亞",馬來西亞|AFC 亞洲旅遊台
+#EXTINF:-1 tvg-name="AFC 亞洲旅遊台" tvg-logo="https://logo.catvod.com/AFC 亞洲旅遊台.png" group-title="馬來西亞",AFC 亞洲旅遊台
 http://smt.iptv543.com/Smart.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="馬來西亞|Rock Actions" tvg-logo="https://logo.catvod.com/馬來西亞|Rock Actions.png" group-title="馬來西亞",馬來西亞|Rock Actions
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="馬來西亞",Rock Actions
 http://smt.iptv543.com/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="馬來西亞|Bloomberg News" tvg-logo="https://logo.catvod.com/馬來西亞|Bloomberg News.png" group-title="馬來西亞",馬來西亞|Bloomberg News
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="馬來西亞",Bloomberg News
 http://smt.iptv543.com/Smart.php?id=bloomberg_twn
-#EXTINF:-1 tvg-name="馬來西亞|Al-Jazeera" tvg-logo="https://logo.catvod.com/馬來西亞|Al-Jazeera.png" group-title="馬來西亞",馬來西亞|Al-Jazeera
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="馬來西亞",Al-Jazeera
 http://smt.iptv543.com/Smart.php?id=aljazeera_twn
-#EXTINF:-1 tvg-name="馬來西亞|Rock Entertainment" tvg-logo="https://logo.catvod.com/馬來西亞|Rock Entertainment.png" group-title="馬來西亞",馬來西亞|Rock Entertainment
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="馬來西亞",Rock Entertainment
 http://smt.iptv543.com/Smart.php?id=Rockentertain
-#EXTINF:-1 tvg-name="馬來西亞|RTM Sports HD" tvg-logo="https://logo.catvod.com/馬來西亞|RTM Sports HD.png" group-title="馬來西亞",馬來西亞|RTM Sports HD
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://logo.catvod.com/RTM Sports HD.png" group-title="馬來西亞",RTM Sports HD
 http://smt.iptv543.com/Smart.php?id=Rtmsport
-#EXTINF:-1 tvg-name="馬來西亞|Arena" tvg-logo="https://logo.catvod.com/馬來西亞|Arena.png" group-title="馬來西亞",馬來西亞|Arena
+#EXTINF:-1 tvg-name="Arena" tvg-logo="https://logo.catvod.com/Arena.png" group-title="馬來西亞",Arena
 http://smt.iptv543.com/Smart.php?id=Arena
-#EXTINF:-1 tvg-name="馬來西亞|Arena 2" tvg-logo="https://logo.catvod.com/馬來西亞|Arena 2.png" group-title="馬來西亞",馬來西亞|Arena 2
+#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://logo.catvod.com/Arena 2.png" group-title="馬來西亞",Arena 2
 http://smt.iptv543.com/Smart.php?id=Arena2
-#EXTINF:-1 tvg-name="馬來西亞|BolaArena 1" tvg-logo="https://logo.catvod.com/馬來西亞|BolaArena 1.png" group-title="馬來西亞",馬來西亞|BolaArena 1
+#EXTINF:-1 tvg-name="BolaArena 1" tvg-logo="https://logo.catvod.com/BolaArena 1.png" group-title="馬來西亞",BolaArena 1
 http://smt.iptv543.com/Smart.php?id=Bolaarena1
-#EXTINF:-1 tvg-name="馬來西亞|BolaArena 2" tvg-logo="https://logo.catvod.com/馬來西亞|BolaArena 2.png" group-title="馬來西亞",馬來西亞|BolaArena 2
+#EXTINF:-1 tvg-name="BolaArena 2" tvg-logo="https://logo.catvod.com/BolaArena 2.png" group-title="馬來西亞",BolaArena 2
 http://smt.iptv543.com/Smart.php?id=Bolaarena2
-#EXTINF:-1 tvg-name="馬來西亞|Astro LOL" tvg-logo="https://logo.catvod.com/馬來西亞|Astro LOL.png" group-title="馬來西亞",馬來西亞|Astro LOL
+#EXTINF:-1 tvg-name="Astro LOL" tvg-logo="https://logo.catvod.com/Astro LOL.png" group-title="馬來西亞",Astro LOL
 http://smt.iptv543.com/Smart.php?id=Astro_lol
-#EXTINF:-1 tvg-name="馬來西亞|Astro Rusi" tvg-logo="https://logo.catvod.com/馬來西亞|Astro Rusi.png" group-title="馬來西亞",馬來西亞|Astro Rusi
+#EXTINF:-1 tvg-name="Astro Rusi" tvg-logo="https://logo.catvod.com/Astro Rusi.png" group-title="馬來西亞",Astro Rusi
 http://smt.iptv543.com/Smart.php?id=Rusi
-#EXTINF:-1 tvg-name="馬來西亞|WION" tvg-logo="https://logo.catvod.com/馬來西亞|WION.png" group-title="馬來西亞",馬來西亞|WION
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://logo.catvod.com/WION.png" group-title="馬來西亞",WION
 http://smt.iptv543.com/Smart.php?id=Wion
-#EXTINF:-1 tvg-name="馬來西亞|RTM Asean" tvg-logo="https://logo.catvod.com/馬來西亞|RTM Asean.png" group-title="馬來西亞",馬來西亞|RTM Asean
+#EXTINF:-1 tvg-name="RTM Asean" tvg-logo="https://logo.catvod.com/RTM Asean.png" group-title="馬來西亞",RTM Asean
 http://smt.iptv543.com/Smart.php?id=Rtmasean
-#EXTINF:-1 tvg-name="印度尼西亞|TVRI National" tvg-logo="https://logo.catvod.com/印度尼西亞|TVRI National.png" group-title="印度尼西亞",印度尼西亞|TVRI National
+#EXTINF:-1 tvg-name="TVRI National" tvg-logo="https://logo.catvod.com/TVRI National.png" group-title="印度尼西亞",TVRI National
 http://smt.iptv543.com/Smart.php?id=TVRI
-#EXTINF:-1 tvg-name="印度尼西亞|RCTI" tvg-logo="https://logo.catvod.com/印度尼西亞|RCTI.png" group-title="印度尼西亞",印度尼西亞|RCTI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://logo.catvod.com/RCTI.png" group-title="印度尼西亞",RCTI
 http://smt.iptv543.com/Smart.php?id=Rcti
-#EXTINF:-1 tvg-name="印度尼西亞|Kompass TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Kompass TV.png" group-title="印度尼西亞",印度尼西亞|Kompass TV
+#EXTINF:-1 tvg-name="Kompass TV" tvg-logo="https://logo.catvod.com/Kompass TV.png" group-title="印度尼西亞",Kompass TV
 http://smt.iptv543.com/Smart.php?id=Kompass
-#EXTINF:-1 tvg-name="印度尼西亞|Berita Satu" tvg-logo="https://logo.catvod.com/印度尼西亞|Berita Satu.png" group-title="印度尼西亞",印度尼西亞|Berita Satu
+#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://logo.catvod.com/Berita Satu.png" group-title="印度尼西亞",Berita Satu
 http://smt.iptv543.com/Smart.php?id=BeritaSatu_eko
-#EXTINF:-1 tvg-name="印度尼西亞|Indosiar HD" tvg-logo="https://logo.catvod.com/印度尼西亞|Indosiar HD.png" group-title="印度尼西亞",印度尼西亞|Indosiar HD
+#EXTINF:-1 tvg-name="Indosiar HD" tvg-logo="https://logo.catvod.com/Indosiar HD.png" group-title="印度尼西亞",Indosiar HD
 http://smt.iptv543.com/Smart.php?id=Indosiar
-#EXTINF:-1 tvg-name="印度尼西亞|AnTV" tvg-logo="https://logo.catvod.com/印度尼西亞|AnTV.png" group-title="印度尼西亞",印度尼西亞|AnTV
+#EXTINF:-1 tvg-name="AnTV" tvg-logo="https://logo.catvod.com/AnTV.png" group-title="印度尼西亞",AnTV
 http://smt.iptv543.com/Smart.php?id=Antv
-#EXTINF:-1 tvg-name="印度尼西亞|MNC TV" tvg-logo="https://logo.catvod.com/印度尼西亞|MNC TV.png" group-title="印度尼西亞",印度尼西亞|MNC TV
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://logo.catvod.com/MNC TV.png" group-title="印度尼西亞",MNC TV
 http://smt.iptv543.com/Smart.php?id=Mnctv
-#EXTINF:-1 tvg-name="印度尼西亞|Trans 7" tvg-logo="https://logo.catvod.com/印度尼西亞|Trans 7.png" group-title="印度尼西亞",印度尼西亞|Trans 7
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://logo.catvod.com/Trans 7.png" group-title="印度尼西亞",Trans 7
 http://smt.iptv543.com/Smart.php?id=Trans7_eko
-#EXTINF:-1 tvg-name="印度尼西亞|Transtv" tvg-logo="https://logo.catvod.com/印度尼西亞|Transtv.png" group-title="印度尼西亞",印度尼西亞|Transtv
+#EXTINF:-1 tvg-name="Transtv" tvg-logo="https://logo.catvod.com/Transtv.png" group-title="印度尼西亞",Transtv
 http://smt.iptv543.com/Smart.php?id=Transtv
-#EXTINF:-1 tvg-name="印度尼西亞|JTV" tvg-logo="https://logo.catvod.com/印度尼西亞|JTV.png" group-title="印度尼西亞",印度尼西亞|JTV
+#EXTINF:-1 tvg-name="JTV" tvg-logo="https://logo.catvod.com/JTV.png" group-title="印度尼西亞",JTV
 http://smt.iptv543.com/Smart.php?id=JTV_eko
-#EXTINF:-1 tvg-name="印度尼西亞|Metro TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Metro TV.png" group-title="印度尼西亞",印度尼西亞|Metro TV
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://logo.catvod.com/Metro TV.png" group-title="印度尼西亞",Metro TV
 http://smt.iptv543.com/Smart.php?id=metrotv_eko
-#EXTINF:-1 tvg-name="印度尼西亞|Cinemax" tvg-logo="https://logo.catvod.com/印度尼西亞|Cinemax.png" group-title="印度尼西亞",印度尼西亞|Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.catvod.com/Cinemax.png" group-title="印度尼西亞",Cinemax
 http://smt.iptv543.com/Smart.php?id=Cinemax
-#EXTINF:-1 tvg-name="印度尼西亞|SCTV" tvg-logo="https://logo.catvod.com/印度尼西亞|SCTV.png" group-title="印度尼西亞",印度尼西亞|SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://logo.catvod.com/SCTV.png" group-title="印度尼西亞",SCTV
 http://smt.iptv543.com/Smart.php?id=SCTV
-#EXTINF:-1 tvg-name="印度尼西亞|Tvone" tvg-logo="https://logo.catvod.com/印度尼西亞|Tvone.png" group-title="印度尼西亞",印度尼西亞|Tvone
+#EXTINF:-1 tvg-name="Tvone" tvg-logo="https://logo.catvod.com/Tvone.png" group-title="印度尼西亞",Tvone
 http://smt.iptv543.com/Smart.php?id=Tvone
-#EXTINF:-1 tvg-name="印度尼西亞|TVMU" tvg-logo="https://logo.catvod.com/印度尼西亞|TVMU.png" group-title="印度尼西亞",印度尼西亞|TVMU
+#EXTINF:-1 tvg-name="TVMU" tvg-logo="https://logo.catvod.com/TVMU.png" group-title="印度尼西亞",TVMU
 http://smt.iptv543.com/Smart.php?id=TVMU_eko
-#EXTINF:-1 tvg-name="印度尼西亞|GTV" tvg-logo="https://logo.catvod.com/印度尼西亞|GTV.png" group-title="印度尼西亞",印度尼西亞|GTV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://logo.catvod.com/GTV.png" group-title="印度尼西亞",GTV
 http://smt.iptv543.com/Smart.php?id=Gtv
-#EXTINF:-1 tvg-name="印度尼西亞|RTV" tvg-logo="https://logo.catvod.com/印度尼西亞|RTV.png" group-title="印度尼西亞",印度尼西亞|RTV
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://logo.catvod.com/RTV.png" group-title="印度尼西亞",RTV
 http://smt.iptv543.com/Smart.php?id=Rtv
-#EXTINF:-1 tvg-name="印度尼西亞|Jak TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Jak TV.png" group-title="印度尼西亞",印度尼西亞|Jak TV
+#EXTINF:-1 tvg-name="Jak TV" tvg-logo="https://logo.catvod.com/Jak TV.png" group-title="印度尼西亞",Jak TV
 http://smt.iptv543.com/Smart.php?id=JakTV
-#EXTINF:-1 tvg-name="印度尼西亞|iNews TV" tvg-logo="https://logo.catvod.com/印度尼西亞|iNews TV.png" group-title="印度尼西亞",印度尼西亞|iNews TV
+#EXTINF:-1 tvg-name="iNews TV" tvg-logo="https://logo.catvod.com/iNews TV.png" group-title="印度尼西亞",iNews TV
 http://smt.iptv543.com/Smart.php?id=Inewstv
-#EXTINF:-1 tvg-name="印度尼西亞|Daai TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Daai TV.png" group-title="印度尼西亞",印度尼西亞|Daai TV
+#EXTINF:-1 tvg-name="Daai TV" tvg-logo="https://logo.catvod.com/Daai TV.png" group-title="印度尼西亞",Daai TV
 http://smt.iptv543.com/Smart.php?id=DaaiTV
-#EXTINF:-1 tvg-name="印度尼西亞|Net TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Net TV.png" group-title="印度尼西亞",印度尼西亞|Net TV
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://logo.catvod.com/Net TV.png" group-title="印度尼西亞",Net TV
 http://smt.iptv543.com/Smart.php?id=NetTV
-#EXTINF:-1 tvg-name="印度尼西亞|Animax" tvg-logo="https://logo.catvod.com/印度尼西亞|Animax.png" group-title="印度尼西亞",印度尼西亞|Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="印度尼西亞",Animax
 http://smt.iptv543.com/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="印度尼西亞|EWTN" tvg-logo="https://logo.catvod.com/印度尼西亞|EWTN.png" group-title="印度尼西亞",印度尼西亞|EWTN
+#EXTINF:-1 tvg-name="EWTN" tvg-logo="https://logo.catvod.com/EWTN.png" group-title="印度尼西亞",EWTN
 http://smt.iptv543.com/Smart.php?id=Ewtn
-#EXTINF:-1 tvg-name="印度尼西亞|AlQuran AlKareem" tvg-logo="https://logo.catvod.com/印度尼西亞|AlQuran AlKareem.png" group-title="印度尼西亞",印度尼西亞|AlQuran AlKareem
+#EXTINF:-1 tvg-name="AlQuran AlKareem" tvg-logo="https://logo.catvod.com/AlQuran AlKareem.png" group-title="印度尼西亞",AlQuran AlKareem
 http://smt.iptv543.com/Smart.php?id=AlQuran
-#EXTINF:-1 tvg-name="印度尼西亞|Tawaf TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Tawaf TV.png" group-title="印度尼西亞",印度尼西亞|Tawaf TV
+#EXTINF:-1 tvg-name="Tawaf TV" tvg-logo="https://logo.catvod.com/Tawaf TV.png" group-title="印度尼西亞",Tawaf TV
 http://smt.iptv543.com/Smart.php?id=TawafTV
-#EXTINF:-1 tvg-name="印度尼西亞|Vision Prime" tvg-logo="https://logo.catvod.com/印度尼西亞|Vision Prime.png" group-title="印度尼西亞",印度尼西亞|Vision Prime
+#EXTINF:-1 tvg-name="Vision Prime" tvg-logo="https://logo.catvod.com/Vision Prime.png" group-title="印度尼西亞",Vision Prime
 http://smt.iptv543.com/Smart.php?id=VisionPrime
-#EXTINF:-1 tvg-name="印度尼西亞|Muslim TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Muslim TV.png" group-title="印度尼西亞",印度尼西亞|Muslim TV
+#EXTINF:-1 tvg-name="Muslim TV" tvg-logo="https://logo.catvod.com/Muslim TV.png" group-title="印度尼西亞",Muslim TV
 http://smt.iptv543.com/Smart.php?id=MuslimTV
-#EXTINF:-1 tvg-name="印度尼西亞|Music TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Music TV.png" group-title="印度尼西亞",印度尼西亞|Music TV
+#EXTINF:-1 tvg-name="Music TV" tvg-logo="https://logo.catvod.com/Music TV.png" group-title="印度尼西亞",Music TV
 http://smt.iptv543.com/Smart.php?id=MusicTV
-#EXTINF:-1 tvg-name="印度尼西亞|Lifestyle&amp;Fashion" tvg-logo="https://logo.catvod.com/印度尼西亞|Lifestyle&amp;Fashion.png" group-title="印度尼西亞",印度尼西亞|Lifestyle&amp;Fashion
+#EXTINF:-1 tvg-name="Lifestyle&amp;Fashion" tvg-logo="https://logo.catvod.com/Lifestyle&amp;Fashion.png" group-title="印度尼西亞",Lifestyle&amp;Fashion
 http://smt.iptv543.com/Smart.php?id=Lifestyle
-#EXTINF:-1 tvg-name="印度尼西亞|Entertain" tvg-logo="https://logo.catvod.com/印度尼西亞|Entertain.png" group-title="印度尼西亞",印度尼西亞|Entertain
+#EXTINF:-1 tvg-name="Entertain" tvg-logo="https://logo.catvod.com/Entertain.png" group-title="印度尼西亞",Entertain
 http://smt.iptv543.com/Smart.php?id=Entertain
-#EXTINF:-1 tvg-name="印度尼西亞|Hits" tvg-logo="https://logo.catvod.com/印度尼西亞|Hits.png" group-title="印度尼西亞",印度尼西亞|Hits
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://logo.catvod.com/Hits.png" group-title="印度尼西亞",Hits
 http://smt.iptv543.com/Smart.php?id=Hits
-#EXTINF:-1 tvg-name="印度尼西亞|Warner TV" tvg-logo="https://logo.catvod.com/印度尼西亞|Warner TV.png" group-title="印度尼西亞",印度尼西亞|Warner TV
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="印度尼西亞",Warner TV
 http://smt.iptv543.com/Smart.php?id=WarnerTV
-#EXTINF:-1 tvg-name="印度尼西亞|SCM" tvg-logo="https://logo.catvod.com/印度尼西亞|SCM.png" group-title="印度尼西亞",印度尼西亞|SCM
+#EXTINF:-1 tvg-name="SCM" tvg-logo="https://logo.catvod.com/SCM.png" group-title="印度尼西亞",SCM
 http://smt.iptv543.com/Smart.php?id=Weishimovie
-#EXTINF:-1 tvg-name="印度尼西亞|Thrill" tvg-logo="https://logo.catvod.com/印度尼西亞|Thrill.png" group-title="印度尼西亞",印度尼西亞|Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="印度尼西亞",Thrill
 http://smt.iptv543.com/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="印度尼西亞|Fight Sports" tvg-logo="https://logo.catvod.com/印度尼西亞|Fight Sports.png" group-title="印度尼西亞",印度尼西亞|Fight Sports
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://logo.catvod.com/Fight Sports.png" group-title="印度尼西亞",Fight Sports
 http://smt.iptv543.com/Smart.php?id=Fs
-#EXTINF:-1 tvg-name="印度尼西亞|Hits Movie" tvg-logo="https://logo.catvod.com/印度尼西亞|Hits Movie.png" group-title="印度尼西亞",印度尼西亞|Hits Movie
+#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="印度尼西亞",Hits Movie
 http://smt.iptv543.com/Smart.php?id=Hitsmovie
-#EXTINF:-1 tvg-name="印度尼西亞|One" tvg-logo="https://logo.catvod.com/印度尼西亞|One.png" group-title="印度尼西亞",印度尼西亞|One
+#EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="印度尼西亞",One
 http://smt.iptv543.com/Smart.php?id=One
-#EXTINF:-1 tvg-name="印度尼西亞|tvN Movie" tvg-logo="https://logo.catvod.com/印度尼西亞|tvN Movie.png" group-title="印度尼西亞",印度尼西亞|tvN Movie
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="印度尼西亞",tvN Movie
 http://smt.iptv543.com/Smart.php?id=Tvnmovie
-#EXTINF:-1 tvg-name="印度尼西亞|Celestial Movies HD" tvg-logo="https://logo.catvod.com/印度尼西亞|Celestial Movies HD.png" group-title="印度尼西亞",印度尼西亞|Celestial Movies HD
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://logo.catvod.com/Celestial Movies HD.png" group-title="印度尼西亞",Celestial Movies HD
 http://smt.iptv543.com/Smart.php?id=Celestialindo
-#EXTINF:-1 tvg-name="印度尼西亞|Rock Actions" tvg-logo="https://logo.catvod.com/印度尼西亞|Rock Actions.png" group-title="印度尼西亞",印度尼西亞|Rock Actions
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="印度尼西亞",Rock Actions
 http://smt.iptv543.com/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="印度尼西亞|Rock Entertainment" tvg-logo="https://logo.catvod.com/印度尼西亞|Rock Entertainment.png" group-title="印度尼西亞",印度尼西亞|Rock Entertainment
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="印度尼西亞",Rock Entertainment
 http://smt.iptv543.com/Smart.php?id=Rockentertain
-#EXTINF:-1 tvg-name="印度|Sun TV HD" tvg-logo="https://logo.catvod.com/印度|Sun TV HD.png" group-title="印度",印度|Sun TV HD
+#EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="https://logo.catvod.com/Sun TV HD.png" group-title="印度",Sun TV HD
 http://smt.iptv543.com/Smart.php?id=Suntv
-#EXTINF:-1 tvg-name="印度|Star Vijay" tvg-logo="https://logo.catvod.com/印度|Star Vijay.png" group-title="印度",印度|Star Vijay
+#EXTINF:-1 tvg-name="Star Vijay" tvg-logo="https://logo.catvod.com/Star Vijay.png" group-title="印度",Star Vijay
 http://smt.iptv543.com/Smart.php?id=Starvijay
-#EXTINF:-1 tvg-name="印度|Colors Tamil" tvg-logo="https://logo.catvod.com/印度|Colors Tamil.png" group-title="印度",印度|Colors Tamil
+#EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://logo.catvod.com/Colors Tamil.png" group-title="印度",Colors Tamil
 http://smt.iptv543.com/Smart.php?id=Colorstam
-#EXTINF:-1 tvg-name="印度|Sun Music" tvg-logo="https://logo.catvod.com/印度|Sun Music.png" group-title="印度",印度|Sun Music
+#EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://logo.catvod.com/Sun Music.png" group-title="印度",Sun Music
 http://smt.iptv543.com/Smart.php?id=Sunmusic
-#EXTINF:-1 tvg-name="印度|Astro Sunlife" tvg-logo="https://logo.catvod.com/印度|Astro Sunlife.png" group-title="印度",印度|Astro Sunlife
+#EXTINF:-1 tvg-name="Astro Sunlife" tvg-logo="https://logo.catvod.com/Astro Sunlife.png" group-title="印度",Astro Sunlife
 http://smt.iptv543.com/Smart.php?id=Sunlife
-#EXTINF:-1 tvg-name="印度|Astro Vaanavil" tvg-logo="https://logo.catvod.com/印度|Astro Vaanavil.png" group-title="印度",印度|Astro Vaanavil
+#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="https://logo.catvod.com/Astro Vaanavil.png" group-title="印度",Astro Vaanavil
 http://smt.iptv543.com/Smart.php?id=Vaanavil
-#EXTINF:-1 tvg-name="印度|Zee Tamil" tvg-logo="https://logo.catvod.com/印度|Zee Tamil.png" group-title="印度",印度|Zee Tamil
+#EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://logo.catvod.com/Zee Tamil.png" group-title="印度",Zee Tamil
 http://smt.iptv543.com/Smart.php?id=Zeetamil
-#EXTINF:-1 tvg-name="印度|Zee Business" tvg-logo="https://logo.catvod.com/印度|Zee Business.png" group-title="印度",印度|Zee Business
+#EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://logo.catvod.com/Zee Business.png" group-title="印度",Zee Business
 http://smt.iptv543.com/Smart.php?id=Zeebusiness
-#EXTINF:-1 tvg-name="印度|News 18 Tamil" tvg-logo="https://logo.catvod.com/印度|News 18 Tamil.png" group-title="印度",印度|News 18 Tamil
+#EXTINF:-1 tvg-name="News 18 Tamil" tvg-logo="https://logo.catvod.com/News 18 Tamil.png" group-title="印度",News 18 Tamil
 http://smt.iptv543.com/Smart.php?id=news18tamil_raj
-#EXTINF:-1 tvg-name="印度|Adithya" tvg-logo="https://logo.catvod.com/印度|Adithya.png" group-title="印度",印度|Adithya
+#EXTINF:-1 tvg-name="Adithya" tvg-logo="https://logo.catvod.com/Adithya.png" group-title="印度",Adithya
 http://smt.iptv543.com/Smart.php?id=Adithya
-#EXTINF:-1 tvg-name="印度|Makkal TV" tvg-logo="https://logo.catvod.com/印度|Makkal TV.png" group-title="印度",印度|Makkal TV
+#EXTINF:-1 tvg-name="Makkal TV" tvg-logo="https://logo.catvod.com/Makkal TV.png" group-title="印度",Makkal TV
 http://smt.iptv543.com/Smart.php?id=Makkaltv
-#EXTINF:-1 tvg-name="印度|Zee Action" tvg-logo="https://logo.catvod.com/印度|Zee Action.png" group-title="印度",印度|Zee Action
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://logo.catvod.com/Zee Action.png" group-title="印度",Zee Action
 http://smt.iptv543.com/Smart.php?id=Zeeaction
-#EXTINF:-1 tvg-name="印度|Astro KTV" tvg-logo="https://logo.catvod.com/印度|Astro KTV.png" group-title="印度",印度|Astro KTV
+#EXTINF:-1 tvg-name="Astro KTV" tvg-logo="https://logo.catvod.com/Astro KTV.png" group-title="印度",Astro KTV
 http://smt.iptv543.com/Smart.php?id=Astroktv
-#EXTINF:-1 tvg-name="印度|Zee TV HD" tvg-logo="https://logo.catvod.com/印度|Zee TV HD.png" group-title="印度",印度|Zee TV HD
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://logo.catvod.com/Zee TV HD.png" group-title="印度",Zee TV HD
 http://smt.iptv543.com/Smart.php?id=Zeetvhd
-#EXTINF:-1 tvg-name="印度|Zee Cinema HD" tvg-logo="https://logo.catvod.com/印度|Zee Cinema HD.png" group-title="印度",印度|Zee Cinema HD
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://logo.catvod.com/Zee Cinema HD.png" group-title="印度",Zee Cinema HD
 http://smt.iptv543.com/Smart.php?id=Zeecinemahd
-#EXTINF:-1 tvg-name="印度|Color HD" tvg-logo="https://logo.catvod.com/印度|Color HD.png" group-title="印度",印度|Color HD
+#EXTINF:-1 tvg-name="Color HD" tvg-logo="https://logo.catvod.com/Color HD.png" group-title="印度",Color HD
 http://smt.iptv543.com/Smart.php?id=Colorhd
-#EXTINF:-1 tvg-name="印度|Starplus HD" tvg-logo="https://logo.catvod.com/印度|Starplus HD.png" group-title="印度",印度|Starplus HD
+#EXTINF:-1 tvg-name="Starplus HD" tvg-logo="https://logo.catvod.com/Starplus HD.png" group-title="印度",Starplus HD
 http://smt.iptv543.com/Smart.php?id=Starplushd
-#EXTINF:-1 tvg-name="印度|Picture HD" tvg-logo="https://logo.catvod.com/印度|Picture HD.png" group-title="印度",印度|Picture HD
+#EXTINF:-1 tvg-name="Picture HD" tvg-logo="https://logo.catvod.com/Picture HD.png" group-title="印度",Picture HD
 http://smt.iptv543.com/Smart.php?id=Npicture
-#EXTINF:-1 tvg-name="印度|Zee News" tvg-logo="https://logo.catvod.com/印度|Zee News.png" group-title="印度",印度|Zee News
+#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://logo.catvod.com/Zee News.png" group-title="印度",Zee News
 http://smt.iptv543.com/Smart.php?id=Zeenews
-#EXTINF:-1 tvg-name="印度|Asianet" tvg-logo="https://logo.catvod.com/印度|Asianet.png" group-title="印度",印度|Asianet
+#EXTINF:-1 tvg-name="Asianet" tvg-logo="https://logo.catvod.com/Asianet.png" group-title="印度",Asianet
 http://smt.iptv543.com/Smart.php?id=asianet_raj
-#EXTINF:-1 tvg-name="印度|Asianet News" tvg-logo="https://logo.catvod.com/印度|Asianet News.png" group-title="印度",印度|Asianet News
+#EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://logo.catvod.com/Asianet News.png" group-title="印度",Asianet News
 http://smt.iptv543.com/Smart.php?id=asianetnews_raj
-#EXTINF:-1 tvg-name="印度|Discovery World Tamil" tvg-logo="https://logo.catvod.com/印度|Discovery World Tamil.png" group-title="印度",印度|Discovery World Tamil
+#EXTINF:-1 tvg-name="Discovery World Tamil" tvg-logo="https://logo.catvod.com/Discovery World Tamil.png" group-title="印度",Discovery World Tamil
 http://smt.iptv543.com/Smart.php?id=discoveryworldtam_raj
-#EXTINF:-1 tvg-name="印度|History Tamil" tvg-logo="https://logo.catvod.com/印度|History Tamil.png" group-title="印度",印度|History Tamil
+#EXTINF:-1 tvg-name="History Tamil" tvg-logo="https://logo.catvod.com/History Tamil.png" group-title="印度",History Tamil
 http://smt.iptv543.com/Smart.php?id=historytam_raj
-#EXTINF:-1 tvg-name="印度|NatGeo Tamil" tvg-logo="https://logo.catvod.com/印度|NatGeo Tamil.png" group-title="印度",印度|NatGeo Tamil
+#EXTINF:-1 tvg-name="NatGeo Tamil" tvg-logo="https://logo.catvod.com/NatGeo Tamil.png" group-title="印度",NatGeo Tamil
 http://smt.iptv543.com/Smart.php?id=natgeotamil_raj
-#EXTINF:-1 tvg-name="印度|Natgeo Wild Tamil" tvg-logo="https://logo.catvod.com/印度|Natgeo Wild Tamil.png" group-title="印度",印度|Natgeo Wild Tamil
+#EXTINF:-1 tvg-name="Natgeo Wild Tamil" tvg-logo="https://logo.catvod.com/Natgeo Wild Tamil.png" group-title="印度",Natgeo Wild Tamil
 http://smt.iptv543.com/Smart.php?id=natgeowildtamil_raj
-#EXTINF:-1 tvg-name="印度|Astro Sonypix" tvg-logo="https://logo.catvod.com/印度|Astro Sonypix.png" group-title="印度",印度|Astro Sonypix
+#EXTINF:-1 tvg-name="Astro Sonypix" tvg-logo="https://logo.catvod.com/Astro Sonypix.png" group-title="印度",Astro Sonypix
 http://smt.iptv543.com/Smart.php?id=Asonypix
-#EXTINF:-1 tvg-name="印度|Discovery Kids Tamil" tvg-logo="https://logo.catvod.com/印度|Discovery Kids Tamil.png" group-title="印度",印度|Discovery Kids Tamil
+#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-logo="https://logo.catvod.com/Discovery Kids Tamil.png" group-title="印度",Discovery Kids Tamil
 http://smt.iptv543.com/Smart.php?id=discoverykidtamil_raj
-#EXTINF:-1 tvg-name="印度|Discovery Tamil" tvg-logo="https://logo.catvod.com/印度|Discovery Tamil.png" group-title="印度",印度|Discovery Tamil
+#EXTINF:-1 tvg-name="Discovery Tamil" tvg-logo="https://logo.catvod.com/Discovery Tamil.png" group-title="印度",Discovery Tamil
 http://smt.iptv543.com/Smart.php?id=discoverytamil_raj
-#EXTINF:-1 tvg-name="印度|Sony Yay Tamil" tvg-logo="https://logo.catvod.com/印度|Sony Yay Tamil.png" group-title="印度",印度|Sony Yay Tamil
+#EXTINF:-1 tvg-name="Sony Yay Tamil" tvg-logo="https://logo.catvod.com/Sony Yay Tamil.png" group-title="印度",Sony Yay Tamil
 http://smt.iptv543.com/Smart.php?id=sonyyaytam_raj
-#EXTINF:-1 tvg-name="印度|Sun TV India" tvg-logo="https://logo.catvod.com/印度|Sun TV India.png" group-title="印度",印度|Sun TV India
+#EXTINF:-1 tvg-name="Sun TV India" tvg-logo="https://logo.catvod.com/Sun TV India.png" group-title="印度",Sun TV India
 http://smt.iptv543.com/Smart.php?id=suntv_raj
-#EXTINF:-1 tvg-name="印度|Starmaa HD" tvg-logo="https://logo.catvod.com/印度|Starmaa HD.png" group-title="印度",印度|Starmaa HD
+#EXTINF:-1 tvg-name="Starmaa HD" tvg-logo="https://logo.catvod.com/Starmaa HD.png" group-title="印度",Starmaa HD
 http://smt.iptv543.com/Smart.php?id=starmaa_raj
-#EXTINF:-1 tvg-name="印度|Starmaa Movies HD" tvg-logo="https://logo.catvod.com/印度|Starmaa Movies HD.png" group-title="印度",印度|Starmaa Movies HD
+#EXTINF:-1 tvg-name="Starmaa Movies HD" tvg-logo="https://logo.catvod.com/Starmaa Movies HD.png" group-title="印度",Starmaa Movies HD
 http://smt.iptv543.com/Smart.php?id=starmaamovies_raj
-#EXTINF:-1 tvg-name="印度|Bollyone" tvg-logo="https://logo.catvod.com/印度|Bollyone.png" group-title="印度",印度|Bollyone
+#EXTINF:-1 tvg-name="Bollyone" tvg-logo="https://logo.catvod.com/Bollyone.png" group-title="印度",Bollyone
 http://smt.iptv543.com/Smart.php?id=Bollyone
-#EXTINF:-1 tvg-name="印度|Astro Sunmusic" tvg-logo="https://logo.catvod.com/印度|Astro Sunmusic.png" group-title="印度",印度|Astro Sunmusic
+#EXTINF:-1 tvg-name="Astro Sunmusic" tvg-logo="https://logo.catvod.com/Astro Sunmusic.png" group-title="印度",Astro Sunmusic
 http://smt.iptv543.com/Smart.php?id=Sunmusic
-#EXTINF:-1 tvg-name="印度|Vijay Super" tvg-logo="https://logo.catvod.com/印度|Vijay Super.png" group-title="印度",印度|Vijay Super
+#EXTINF:-1 tvg-name="Vijay Super" tvg-logo="https://logo.catvod.com/Vijay Super.png" group-title="印度",Vijay Super
 http://smt.iptv543.com/Smart.php?id=vijaysuper_raj
-#EXTINF:-1 tvg-name="印度|Vellithirai" tvg-logo="https://logo.catvod.com/印度|Vellithirai.png" group-title="印度",印度|Vellithirai
+#EXTINF:-1 tvg-name="Vellithirai" tvg-logo="https://logo.catvod.com/Vellithirai.png" group-title="印度",Vellithirai
 http://smt.iptv543.com/Smart.php?id=Vellithirai
-#EXTINF:-1 tvg-name="泰國|Channel 3 Thailand" tvg-logo="https://logo.catvod.com/泰國|Channel 3 Thailand.png" group-title="泰國",泰國|Channel 3 Thailand
+#EXTINF:-1 tvg-name="Channel 3 Thailand" tvg-logo="https://logo.catvod.com/Channel 3 Thailand.png" group-title="泰國",Channel 3 Thailand
 http://smt.iptv543.com/Smart.php?id=ch3_pat
-#EXTINF:-1 tvg-name="泰國|Channel 5 Thailand" tvg-logo="https://logo.catvod.com/泰國|Channel 5 Thailand.png" group-title="泰國",泰國|Channel 5 Thailand
+#EXTINF:-1 tvg-name="Channel 5 Thailand" tvg-logo="https://logo.catvod.com/Channel 5 Thailand.png" group-title="泰國",Channel 5 Thailand
 http://smt.iptv543.com/Smart.php?id=ch5_pat
-#EXTINF:-1 tvg-name="泰國|Channel 7 Thailand" tvg-logo="https://logo.catvod.com/泰國|Channel 7 Thailand.png" group-title="泰國",泰國|Channel 7 Thailand
+#EXTINF:-1 tvg-name="Channel 7 Thailand" tvg-logo="https://logo.catvod.com/Channel 7 Thailand.png" group-title="泰國",Channel 7 Thailand
 http://smt.iptv543.com/Smart.php?id=ch7_pat
-#EXTINF:-1 tvg-name="泰國|MCOT HD Thailand-1" tvg-logo="https://logo.catvod.com/泰國|MCOT HD Thailand-1.png" group-title="泰國",泰國|MCOT HD Thailand-1
+#EXTINF:-1 tvg-name="MCOT HD Thailand-1" tvg-logo="https://logo.catvod.com/MCOT HD Thailand-1.png" group-title="泰國",MCOT HD Thailand-1
 http://smt.iptv543.com/Smart.php?id=mcot_pat
-#EXTINF:-1 tvg-name="泰國|PPTV Thailand1" tvg-logo="https://logo.catvod.com/泰國|PPTV Thailand1.png" group-title="泰國",泰國|PPTV Thailand1
+#EXTINF:-1 tvg-name="PPTV Thailand1" tvg-logo="https://logo.catvod.com/PPTV Thailand1.png" group-title="泰國",PPTV Thailand1
 http://smt.iptv543.com/Smart.php?id=pptv_pat
-#EXTINF:-1 tvg-name="泰國|Thai Thai" tvg-logo="https://logo.catvod.com/泰國|Thai Thai.png" group-title="泰國",泰國|Thai Thai
+#EXTINF:-1 tvg-name="Thai Thai" tvg-logo="https://logo.catvod.com/Thai Thai.png" group-title="泰國",Thai Thai
 http://smt.iptv543.com/Smart.php?id=thaithai_pat
-#EXTINF:-1 tvg-name="泰國|Amarin" tvg-logo="https://logo.catvod.com/泰國|Amarin.png" group-title="泰國",泰國|Amarin
+#EXTINF:-1 tvg-name="Amarin" tvg-logo="https://logo.catvod.com/Amarin.png" group-title="泰國",Amarin
 http://smt.iptv543.com/Smart.php?id=amarin_pat
-#EXTINF:-1 tvg-name="泰國|Ch 8" tvg-logo="https://logo.catvod.com/泰國|Ch 8.png" group-title="泰國",泰國|Ch 8
+#EXTINF:-1 tvg-name="Ch 8" tvg-logo="https://logo.catvod.com/Ch 8.png" group-title="泰國",Ch 8
 http://smt.iptv543.com/Smart.php?id=ch8_pat
-#EXTINF:-1 tvg-name="泰國|GmmOne" tvg-logo="https://logo.catvod.com/泰國|GmmOne.png" group-title="泰國",泰國|GmmOne
+#EXTINF:-1 tvg-name="GmmOne" tvg-logo="https://logo.catvod.com/GmmOne.png" group-title="泰國",GmmOne
 http://smt.iptv543.com/Smart.php?id=gmmone_pat
-#EXTINF:-1 tvg-name="泰國|Mono" tvg-logo="https://logo.catvod.com/泰國|Mono.png" group-title="泰國",泰國|Mono
+#EXTINF:-1 tvg-name="Mono" tvg-logo="https://logo.catvod.com/Mono.png" group-title="泰國",Mono
 http://smt.iptv543.com/Smart.php?id=mono_pat
-#EXTINF:-1 tvg-name="泰國|Thairath" tvg-logo="https://logo.catvod.com/泰國|Thairath.png" group-title="泰國",泰國|Thairath
+#EXTINF:-1 tvg-name="Thairath" tvg-logo="https://logo.catvod.com/Thairath.png" group-title="泰國",Thairath
 http://smt.iptv543.com/Smart.php?id=thairath_pat
-#EXTINF:-1 tvg-name="泰國|tpbs" tvg-logo="https://logo.catvod.com/泰國|tpbs.png" group-title="泰國",泰國|tpbs
+#EXTINF:-1 tvg-name="tpbs" tvg-logo="https://logo.catvod.com/tpbs.png" group-title="泰國",tpbs
 http://smt.iptv543.com/Smart.php?id=tpbs_pat
-#EXTINF:-1 tvg-name="泰國|Workpoint" tvg-logo="https://logo.catvod.com/泰國|Workpoint.png" group-title="泰國",泰國|Workpoint
+#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://logo.catvod.com/Workpoint.png" group-title="泰國",Workpoint
 http://smt.iptv543.com/Smart.php?id=workpoint_pat
-#EXTINF:-1 tvg-name="泰國|Gmm Channel" tvg-logo="https://logo.catvod.com/泰國|Gmm Channel.png" group-title="泰國",泰國|Gmm Channel
+#EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="https://logo.catvod.com/Gmm Channel.png" group-title="泰國",Gmm Channel
 http://smt.iptv543.com/Smart.php?id=gmmchannel_pat
-#EXTINF:-1 tvg-name="泰國|Nation" tvg-logo="https://logo.catvod.com/泰國|Nation.png" group-title="泰國",泰國|Nation
+#EXTINF:-1 tvg-name="Nation" tvg-logo="https://logo.catvod.com/Nation.png" group-title="泰國",Nation
 http://smt.iptv543.com/Smart.php?id=nation_pat
-#EXTINF:-1 tvg-name="泰國|Tnn24" tvg-logo="https://logo.catvod.com/泰國|Tnn24.png" group-title="泰國",泰國|Tnn24
+#EXTINF:-1 tvg-name="Tnn24" tvg-logo="https://logo.catvod.com/Tnn24.png" group-title="泰國",Tnn24
 http://smt.iptv543.com/Smart.php?id=tnn24_pat
-#EXTINF:-1 tvg-name="泰國|Nbt" tvg-logo="https://logo.catvod.com/泰國|Nbt.png" group-title="泰國",泰國|Nbt
+#EXTINF:-1 tvg-name="Nbt" tvg-logo="https://logo.catvod.com/Nbt.png" group-title="泰國",Nbt
 http://smt.iptv543.com/Smart.php?id=nbt_pat
-#EXTINF:-1 tvg-name="泰國|New" tvg-logo="https://logo.catvod.com/泰國|New.png" group-title="泰國",泰國|New
+#EXTINF:-1 tvg-name="New" tvg-logo="https://logo.catvod.com/New.png" group-title="泰國",New
 http://smt.iptv543.com/Smart.php?id=new_pat
-#EXTINF:-1 tvg-name="泰國|TPTV" tvg-logo="https://logo.catvod.com/泰國|TPTV.png" group-title="泰國",泰國|TPTV
+#EXTINF:-1 tvg-name="TPTV" tvg-logo="https://logo.catvod.com/TPTV.png" group-title="泰國",TPTV
 http://smt.iptv543.com/Smart.php?id=tptv_pat
-#EXTINF:-1 tvg-name="英國|BBC 1" tvg-logo="https://logo.catvod.com/英國|BBC 1.png" group-title="英國",英國|BBC 1
+#EXTINF:-1 tvg-name="BBC 1" tvg-logo="https://logo.catvod.com/BBC 1.png" group-title="英國",BBC 1
 http://smt.iptv543.com/Smart.php?id=bbc1_antik
-#EXTINF:-1 tvg-name="英國|BBC 2" tvg-logo="https://logo.catvod.com/英國|BBC 2.png" group-title="英國",英國|BBC 2
+#EXTINF:-1 tvg-name="BBC 2" tvg-logo="https://logo.catvod.com/BBC 2.png" group-title="英國",BBC 2
 http://smt.iptv543.com/Smart.php?id=bbc2_antik
-#EXTINF:-1 tvg-name="英國|CBBC" tvg-logo="https://logo.catvod.com/英國|CBBC.png" group-title="英國",英國|CBBC
+#EXTINF:-1 tvg-name="CBBC" tvg-logo="https://logo.catvod.com/CBBC.png" group-title="英國",CBBC
 http://smt.iptv543.com/Smart.php?id=cbbc_antik
-#EXTINF:-1 tvg-name="英國|More4" tvg-logo="https://logo.catvod.com/英國|More4.png" group-title="英國",英國|More4
+#EXTINF:-1 tvg-name="More4" tvg-logo="https://logo.catvod.com/More4.png" group-title="英國",More4
 http://smt.iptv543.com/Smart.php?id=more4_antik
-#EXTINF:-1 tvg-name="英國|Freesports" tvg-logo="https://logo.catvod.com/英國|Freesports.png" group-title="英國",英國|Freesports
+#EXTINF:-1 tvg-name="Freesports" tvg-logo="https://logo.catvod.com/Freesports.png" group-title="英國",Freesports
 http://smt.iptv543.com/Smart.php?id=freesports_antik
-#EXTINF:-1 tvg-name="英國|Skynews" tvg-logo="https://logo.catvod.com/英國|Skynews.png" group-title="英國",英國|Skynews
+#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="英國",Skynews
 http://smt.iptv543.com/Smart.php?id=skynews_twn
-#EXTINF:-1 tvg-name="英國|Pick TV" tvg-logo="https://logo.catvod.com/英國|Pick TV.png" group-title="英國",英國|Pick TV
+#EXTINF:-1 tvg-name="Pick TV" tvg-logo="https://logo.catvod.com/Pick TV.png" group-title="英國",Pick TV
 http://smt.iptv543.com/Smart.php?id=picktv_antik
-#EXTINF:-1 tvg-name="英國|itv 1" tvg-logo="https://logo.catvod.com/英國|itv 1.png" group-title="英國",英國|itv 1
+#EXTINF:-1 tvg-name="itv 1" tvg-logo="https://logo.catvod.com/itv 1.png" group-title="英國",itv 1
 http://smt.iptv543.com/Smart.php?id=itv1_antik
-#EXTINF:-1 tvg-name="英國|itv 2" tvg-logo="https://logo.catvod.com/英國|itv 2.png" group-title="英國",英國|itv 2
+#EXTINF:-1 tvg-name="itv 2" tvg-logo="https://logo.catvod.com/itv 2.png" group-title="英國",itv 2
 http://smt.iptv543.com/Smart.php?id=itv2_antik
-#EXTINF:-1 tvg-name="英國|Euronews" tvg-logo="https://logo.catvod.com/英國|Euronews.png" group-title="英國",英國|Euronews
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://logo.catvod.com/Euronews.png" group-title="英國",Euronews
 http://smt.iptv543.com/Smart.php?id=euronews_antik
-#EXTINF:-1 tvg-name="英國|Channel 4" tvg-logo="https://logo.catvod.com/英國|Channel 4.png" group-title="英國",英國|Channel 4
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://logo.catvod.com/Channel 4.png" group-title="英國",Channel 4
 http://smt.iptv543.com/Smart.php?id=channel4_antik
-#EXTINF:-1 tvg-name="英國|NatGeo HD" tvg-logo="https://logo.catvod.com/英國|NatGeo HD.png" group-title="英國",英國|NatGeo HD
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://logo.catvod.com/NatGeo HD.png" group-title="英國",NatGeo HD
 http://smt.iptv543.com/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="英國|CBeebies" tvg-logo="https://logo.catvod.com/英國|CBeebies.png" group-title="英國",英國|CBeebies
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title="英國",CBeebies
 http://smt.iptv543.com/Smart.php?id=Cbeebies
-#EXTINF:-1 tvg-name="英國|History" tvg-logo="https://logo.catvod.com/英國|History.png" group-title="英國",英國|History
+#EXTINF:-1 tvg-name="History" tvg-logo="https://logo.catvod.com/History.png" group-title="英國",History
 http://smt.iptv543.com/Smart.php?id=History
-#EXTINF:-1 tvg-name="英國|Kids TV" tvg-logo="https://logo.catvod.com/英國|Kids TV.png" group-title="英國",英國|Kids TV
+#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title="英國",Kids TV
 http://smt.iptv543.com/Smart.php?id=KidsTV
-#EXTINF:-1 tvg-name="英國|France 24" tvg-logo="https://logo.catvod.com/英國|France 24.png" group-title="英國",英國|France 24
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="英國",France 24
 http://smt.iptv543.com/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="英國|DW (Deutsch)" tvg-logo="https://logo.catvod.com/英國|DW (Deutsch).png" group-title="英國",英國|DW (Deutsch)
+#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="英國",DW (Deutsch)
 http://smt.iptv543.com/Smart.php?id=dw_twn
-#EXTINF:-1 tvg-name="英國|BBC Earth HD" tvg-logo="https://logo.catvod.com/英國|BBC Earth HD.png" group-title="英國",英國|BBC Earth HD
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://logo.catvod.com/BBC Earth HD.png" group-title="英國",BBC Earth HD
 http://smt.iptv543.com/Smart.php?id=bbcearth_twn
-#EXTINF:-1 tvg-name="英國|BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/英國|BBC Earth Lifestyle.png" group-title="英國",英國|BBC Earth Lifestyle
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/BBC Earth Lifestyle.png" group-title="英國",BBC Earth Lifestyle
 http://smt.iptv543.com/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="英國|MTV Live" tvg-logo="https://logo.catvod.com/英國|MTV Live.png" group-title="英國",英國|MTV Live
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="英國",MTV Live
 http://smt.iptv543.com/Smart.php?id=mtvhd_twn
-#EXTINF:-1 tvg-name="英國|Star Movies HD" tvg-logo="https://logo.catvod.com/英國|Star Movies HD.png" group-title="英國",英國|Star Movies HD
+#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="英國",Star Movies HD
 http://smt.iptv543.com/Smart.php?id=starmovies_raj
-#EXTINF:-1 tvg-name="英國|NHK World" tvg-logo="https://logo.catvod.com/英國|NHK World.png" group-title="英國",英國|NHK World
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="英國",NHK World
 http://smt.iptv543.com/Smart.php?id=nhkworld_japan
-#EXTINF:-1 tvg-name="英國|Warner TV" tvg-logo="https://logo.catvod.com/英國|Warner TV.png" group-title="英國",英國|Warner TV
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="英國",Warner TV
 http://smt.iptv543.com/Smart.php?id=WarnerTV
-#EXTINF:-1 tvg-name="英國|HBO HD" tvg-logo="https://logo.catvod.com/英國|HBO HD.png" group-title="英國",英國|HBO HD
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="英國",HBO HD
 http://smt.iptv543.com/Smart.php?id=Hbo
-#EXTINF:-1 tvg-name="英國|NatGeo Wild HD" tvg-logo="https://logo.catvod.com/英國|NatGeo Wild HD.png" group-title="英國",英國|NatGeo Wild HD
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="英國",NatGeo Wild HD
 http://smt.iptv543.com/Smart.php?id=Natgeowild
-#EXTINF:-1 tvg-name="英國|Nickelodeon" tvg-logo="https://logo.catvod.com/英國|Nickelodeon.png" group-title="英國",英國|Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="英國",Nickelodeon
 http://smt.iptv543.com/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="英國|Nick Jr" tvg-logo="https://logo.catvod.com/英國|Nick Jr.png" group-title="英國",英國|Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="英國",Nick Jr
 http://smt.iptv543.com/Smart.php?id=Nickjr
-#EXTINF:-1 tvg-name="英國|Thrill" tvg-logo="https://logo.catvod.com/英國|Thrill.png" group-title="英國",英國|Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="英國",Thrill
 http://smt.iptv543.com/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="英國|CGTN" tvg-logo="https://logo.catvod.com/英國|CGTN.png" group-title="英國",英國|CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="英國",CGTN
 http://smt.iptv543.com/Smart.php?id=CGTN
-#EXTINF:-1 tvg-name="英國|Hits Movie" tvg-logo="https://logo.catvod.com/英國|Hits Movie.png" group-title="英國",英國|Hits Movie
+#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="英國",Hits Movie
 http://smt.iptv543.com/Smart.php?id=Hitsmovie
-#EXTINF:-1 tvg-name="英國|Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/英國|Animal Planet (Eng).png" group-title="英國",英國|Animal Planet (Eng)
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="英國",Animal Planet (Eng)
 http://smt.iptv543.com/Smart.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="英國|CNBC" tvg-logo="https://logo.catvod.com/英國|CNBC.png" group-title="英國",英國|CNBC
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="英國",CNBC
 http://smt.iptv543.com/Smart.php?id=cnbc_twn
-#EXTINF:-1 tvg-name="英國|TLC" tvg-logo="https://logo.catvod.com/英國|TLC.png" group-title="英國",英國|TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="英國",TLC
 http://smt.iptv543.com/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="英國|BBC World News" tvg-logo="https://logo.catvod.com/英國|BBC World News.png" group-title="英國",英國|BBC World News
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="英國",BBC World News
 http://smt.iptv543.com/Smart.php?id=bbcworldnews_antik
-#EXTINF:-1 tvg-name="英國|HGTV" tvg-logo="https://logo.catvod.com/英國|HGTV.png" group-title="英國",英國|HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="英國",HGTV
 http://smt.iptv543.com/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="英國|Axn HD" tvg-logo="https://logo.catvod.com/英國|Axn HD.png" group-title="英國",英國|Axn HD
+#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="英國",Axn HD
 http://smt.iptv543.com/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="英國|Skysports F1" tvg-logo="https://logo.catvod.com/英國|Skysports F1.png" group-title="英國",英國|Skysports F1
+#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://logo.catvod.com/Skysports F1.png" group-title="英國",Skysports F1
 http://smt.iptv543.com/Smart.php?id=tiankongf1
-#EXTINF:-1 tvg-name="英國|Skysports Cricket" tvg-logo="https://logo.catvod.com/英國|Skysports Cricket.png" group-title="英國",英國|Skysports Cricket
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://logo.catvod.com/Skysports Cricket.png" group-title="英國",Skysports Cricket
 http://smt.iptv543.com/Smart.php?id=tiankongcricket
-#EXTINF:-1 tvg-name="英國|Bloomberg News" tvg-logo="https://logo.catvod.com/英國|Bloomberg News.png" group-title="英國",英國|Bloomberg News
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="英國",Bloomberg News
 http://smt.iptv543.com/Smart.php?id=bloomberg_twn
-#EXTINF:-1 tvg-name="英國|Skysports EPL" tvg-logo="https://logo.catvod.com/英國|Skysports EPL.png" group-title="英國",英國|Skysports EPL
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://logo.catvod.com/Skysports EPL.png" group-title="英國",Skysports EPL
 http://smt.iptv543.com/Smart.php?id=tiankongepl
-#EXTINF:-1 tvg-name="英國|Skysports Main Event" tvg-logo="https://logo.catvod.com/英國|Skysports Main Event.png" group-title="英國",英國|Skysports Main Event
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://logo.catvod.com/Skysports Main Event.png" group-title="英國",Skysports Main Event
 http://smt.iptv543.com/Smart.php?id=tiankongmain
-#EXTINF:-1 tvg-name="英國|Skysports News" tvg-logo="https://logo.catvod.com/英國|Skysports News.png" group-title="英國",英國|Skysports News
+#EXTINF:-1 tvg-name="Skysports News" tvg-logo="https://logo.catvod.com/Skysports News.png" group-title="英國",Skysports News
 http://smt.iptv543.com/Smart.php?id=tiankongnews
-#EXTINF:-1 tvg-name="英國|Al-Jazeera" tvg-logo="https://logo.catvod.com/英國|Al-Jazeera.png" group-title="英國",英國|Al-Jazeera
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="英國",Al-Jazeera
 http://smt.iptv543.com/Smart.php?id=aljazeera_twn
-#EXTINF:-1 tvg-name="電影頻道|CCTV6" tvg-logo="https://logo.catvod.com/電影頻道|CCTV6.png" group-title="電影頻道",電影頻道|CCTV-6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="電影頻道",CCTV-6
 http://smt.iptv543.com/Smart.php?id=cctv6
-#EXTINF:-1 tvg-name="電影頻道|AXN Taiwan" tvg-logo="https://logo.catvod.com/電影頻道|AXN Taiwan.png" group-title="電影頻道",電影頻道|AXN Taiwan
+#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://logo.catvod.com/AXN Taiwan.png" group-title="電影頻道",AXN Taiwan
 http://smt.iptv543.com/Smart.php?id=axn_twn
-#EXTINF:-1 tvg-name="電影頻道|HBO_HD" tvg-logo="https://logo.catvod.com/電影頻道|HBO_HD.png" group-title="電影頻道",電影頻道|HBO_HD
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://logo.catvod.com/HBO_HD.png" group-title="電影頻道",HBO_HD
 http://smt.iptv543.com/Smart.php?id=hbohd_twn
-#EXTINF:-1 tvg-name="電影頻道|HBO_HITS" tvg-logo="https://logo.catvod.com/電影頻道|HBO_HITS.png" group-title="電影頻道",電影頻道|HBO_HITS
+#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://logo.catvod.com/HBO_HITS.png" group-title="電影頻道",HBO_HITS
 http://smt.iptv543.com/Smart.php?id=hbohit_twn
-#EXTINF:-1 tvg-name="電影頻道|CINEMAX" tvg-logo="https://logo.catvod.com/電影頻道|CINEMAX.png" group-title="電影頻道",電影頻道|CINEMAX
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://logo.catvod.com/CINEMAX.png" group-title="電影頻道",CINEMAX
 http://smt.iptv543.com/Smart.php?id=cinemax_twn
-#EXTINF:-1 tvg-name="電影頻道|好萊塢電影台" tvg-logo="https://logo.catvod.com/電影頻道|好萊塢電影台.png" group-title="電影頻道",電影頻道|好萊塢電影台
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://logo.catvod.com/好萊塢電影台.png" group-title="電影頻道",好萊塢電影台
 http://smt.iptv543.com/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-name="電影頻道|東森電影" tvg-logo="https://logo.catvod.com/電影頻道|東森電影.png" group-title="電影頻道",電影頻道|東森電影
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://logo.catvod.com/東森電影.png" group-title="電影頻道",東森電影
 http://smt.iptv543.com/Smart.php?id=ettvmovie
-#EXTINF:-1 tvg-name="電影頻道|東森洋片" tvg-logo="https://logo.catvod.com/電影頻道|東森洋片.png" group-title="電影頻道",電影頻道|東森洋片
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://logo.catvod.com/東森洋片.png" group-title="電影頻道",東森洋片
 http://smt.iptv543.com/Smart.php?id=ettvwestern
-#EXTINF:-1 tvg-name="電影頻道|龍華電影" tvg-logo="https://logo.catvod.com/電影頻道|龍華電影.png" group-title="電影頻道",電影頻道|龍華電影
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://logo.catvod.com/龍華電影.png" group-title="電影頻道",龍華電影
 http://smt.iptv543.com/Smart.php?id=xingwei_movie
-#EXTINF:-1 tvg-name="電影頻道|龍華洋片" tvg-logo="https://logo.catvod.com/電影頻道|龍華洋片.png" group-title="電影頻道",電影頻道|龍華洋片
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://logo.catvod.com/龍華洋片.png" group-title="電影頻道",龍華洋片
 http://smt.iptv543.com/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-name="電影頻道|龍祥時代" tvg-logo="https://logo.catvod.com/電影頻道|龍祥時代.png" group-title="電影頻道",電影頻道|龍祥時代
+#EXTINF:-1 tvg-name="龍祥時代" tvg-logo="https://logo.catvod.com/龍祥時代.png" group-title="電影頻道",龍祥時代
 http://smt.iptv543.com/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-name="電影頻道|美亞電影" tvg-logo="https://logo.catvod.com/電影頻道|美亞電影.png" group-title="電影頻道",電影頻道|美亞電影
+#EXTINF:-1 tvg-name="美亞電影" tvg-logo="https://logo.catvod.com/美亞電影.png" group-title="電影頻道",美亞電影
 http://smt.iptv543.com/Smart.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-name="電影頻道|衛視電影台" tvg-logo="https://logo.catvod.com/電影頻道|衛視電影台.png" group-title="電影頻道",電影頻道|衛視電影台
+#EXTINF:-1 tvg-name="衛視電影台" tvg-logo="https://logo.catvod.com/衛視電影台.png" group-title="電影頻道",衛視電影台
 http://smt.iptv543.com/Smart.php?id=weishimovie_twn
-#EXTINF:-1 tvg-name="電影頻道|天映頻道" tvg-logo="https://logo.catvod.com/電影頻道|天映頻道.png" group-title="電影頻道",電影頻道|天映頻道
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://logo.catvod.com/天映頻道.png" group-title="電影頻道",天映頻道
 http://smt.iptv543.com/Smart.php?id=Celestial
-#EXTINF:-1 tvg-name="電影頻道|天映頻道" tvg-logo="https://logo.catvod.com/電影頻道|天映頻道.png" group-title="電影頻道",電影頻道|天映頻道
+#EXTINF:-1 tvg-name="天映頻道" tvg-logo="https://logo.catvod.com/天映頻道.png" group-title="電影頻道",天映頻道
 http://smt.iptv543.com/Smart.php?id=Celestialindo
-#EXTINF:-1 tvg-name="電影頻道|天映經典" tvg-logo="https://logo.catvod.com/電影頻道|天映經典.png" group-title="電影頻道",電影頻道|天映經典
+#EXTINF:-1 tvg-name="天映經典" tvg-logo="https://logo.catvod.com/天映經典.png" group-title="電影頻道",天映經典
 http://smt.iptv543.com/Smart.php?id=Celestial2
-#EXTINF:-1 tvg-name="電影頻道|Animax" tvg-logo="https://logo.catvod.com/電影頻道|Animax.png" group-title="電影頻道",電影頻道|Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="電影頻道",Animax
 http://smt.iptv543.com/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="電影頻道|Movies Now HD" tvg-logo="https://logo.catvod.com/電影頻道|Movies Now HD.png" group-title="電影頻道",電影頻道|Movies Now HD
+#EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://logo.catvod.com/Movies Now HD.png" group-title="電影頻道",Movies Now HD
 http://smt.iptv543.com/Smart.php?id=moviesnow_raj
-#EXTINF:-1 tvg-name="電影頻道|Star Movies HD" tvg-logo="https://logo.catvod.com/電影頻道|Star Movies HD.png" group-title="電影頻道",電影頻道|Star Movies HD
+#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://logo.catvod.com/Star Movies HD.png" group-title="電影頻道",Star Movies HD
 http://smt.iptv543.com/Smart.php?id=starmovies_raj
-#EXTINF:-1 tvg-name="電影頻道|Hits" tvg-logo="https://logo.catvod.com/電影頻道|Hits.png" group-title="電影頻道",電影頻道|Hits
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://logo.catvod.com/Hits.png" group-title="電影頻道",Hits
 http://smt.iptv543.com/Smart.php?id=Hits
-#EXTINF:-1 tvg-name="電影頻道|Warner TV" tvg-logo="https://logo.catvod.com/電影頻道|Warner TV.png" group-title="電影頻道",電影頻道|Warner TV
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://logo.catvod.com/Warner TV.png" group-title="電影頻道",Warner TV
 http://smt.iptv543.com/Smart.php?id=WarnerTV
-#EXTINF:-1 tvg-name="電影頻道|HBO HD" tvg-logo="https://logo.catvod.com/電影頻道|HBO HD.png" group-title="電影頻道",電影頻道|HBO HD
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://logo.catvod.com/HBO HD.png" group-title="電影頻道",HBO HD
 http://smt.iptv543.com/Smart.php?id=Hbo
-#EXTINF:-1 tvg-name="電影頻道|HBO Signature" tvg-logo="https://logo.catvod.com/電影頻道|HBO Signature.png" group-title="電影頻道",電影頻道|HBO Signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://logo.catvod.com/HBO Signature.png" group-title="電影頻道",HBO Signature
 http://smt.iptv543.com/Smart.php?id=Hbosignature
-#EXTINF:-1 tvg-name="電影頻道|HBO Family" tvg-logo="https://logo.catvod.com/電影頻道|HBO Family.png" group-title="電影頻道",電影頻道|HBO Family
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://logo.catvod.com/HBO Family.png" group-title="電影頻道",HBO Family
 http://smt.iptv543.com/Smart.php?id=Hbofamily
-#EXTINF:-1 tvg-name="電影頻道|HBO Hits" tvg-logo="https://logo.catvod.com/電影頻道|HBO Hits.png" group-title="電影頻道",電影頻道|HBO Hits
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://logo.catvod.com/HBO Hits.png" group-title="電影頻道",HBO Hits
 http://smt.iptv543.com/Smart.php?id=Hbohitshd
-#EXTINF:-1 tvg-name="電影頻道|Cinemax" tvg-logo="https://logo.catvod.com/電影頻道|Cinemax.png" group-title="電影頻道",電影頻道|Cinemax
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://logo.catvod.com/Cinemax.png" group-title="電影頻道",Cinemax
 http://smt.iptv543.com/Smart.php?id=Cinemax
-#EXTINF:-1 tvg-name="電影頻道|Dreamworks" tvg-logo="https://logo.catvod.com/電影頻道|Dreamworks.png" group-title="電影頻道",電影頻道|Dreamworks
+#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://logo.catvod.com/Dreamworks.png" group-title="電影頻道",Dreamworks
 http://smt.iptv543.com/Smart.php?id=Dreamworks
-#EXTINF:-1 tvg-name="電影頻道|SCM" tvg-logo="https://logo.catvod.com/電影頻道|SCM.png" group-title="電影頻道",電影頻道|SCM
+#EXTINF:-1 tvg-name="SCM" tvg-logo="https://logo.catvod.com/SCM.png" group-title="電影頻道",SCM
 http://smt.iptv543.com/Smart.php?id=Weishimovie
-#EXTINF:-1 tvg-name="電影頻道|Thrill" tvg-logo="https://logo.catvod.com/電影頻道|Thrill.png" group-title="電影頻道",電影頻道|Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://logo.catvod.com/Thrill.png" group-title="電影頻道",Thrill
 http://smt.iptv543.com/Smart.php?id=Thrill
-#EXTINF:-1 tvg-name="電影頻道|Hits Movie" tvg-logo="https://logo.catvod.com/電影頻道|Hits Movie.png" group-title="電影頻道",電影頻道|Hits Movie
+#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://logo.catvod.com/Hits Movie.png" group-title="電影頻道",Hits Movie
 http://smt.iptv543.com/Smart.php?id=Hitsmovie
-#EXTINF:-1 tvg-name="電影頻道|One" tvg-logo="https://logo.catvod.com/電影頻道|One.png" group-title="電影頻道",電影頻道|One
+#EXTINF:-1 tvg-name="One" tvg-logo="https://logo.catvod.com/One.png" group-title="電影頻道",One
 http://smt.iptv543.com/Smart.php?id=One
-#EXTINF:-1 tvg-name="電影頻道|tvN Movie" tvg-logo="https://logo.catvod.com/電影頻道|tvN Movie.png" group-title="電影頻道",電影頻道|tvN Movie
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://logo.catvod.com/tvN Movie.png" group-title="電影頻道",tvN Movie
 http://smt.iptv543.com/Smart.php?id=Tvnmovie
-#EXTINF:-1 tvg-name="電影頻道|Axn HD" tvg-logo="https://logo.catvod.com/電影頻道|Axn HD.png" group-title="電影頻道",電影頻道|Axn HD
+#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://logo.catvod.com/Axn HD.png" group-title="電影頻道",Axn HD
 http://smt.iptv543.com/Smart.php?id=Axn
-#EXTINF:-1 tvg-name="電影頻道|Paramount Network" tvg-logo="https://logo.catvod.com/電影頻道|Paramount Network.png" group-title="電影頻道",電影頻道|Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://logo.catvod.com/Paramount Network.png" group-title="電影頻道",Paramount Network
 http://smt.iptv543.com/Smart.php?id=Paramountnetwork
-#EXTINF:-1 tvg-name="電影頻道|Astrol Kplus" tvg-logo="https://logo.catvod.com/電影頻道|Astrol Kplus.png" group-title="電影頻道",電影頻道|Astrol Kplus
+#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://logo.catvod.com/Astrol Kplus.png" group-title="電影頻道",Astrol Kplus
 http://smt.iptv543.com/Smart.php?id=Kplus
-#EXTINF:-1 tvg-name="電影頻道|Rock Actions" tvg-logo="https://logo.catvod.com/電影頻道|Rock Actions.png" group-title="電影頻道",電影頻道|Rock Actions
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://logo.catvod.com/Rock Actions.png" group-title="電影頻道",Rock Actions
 http://smt.iptv543.com/Smart.php?id=Rockaction
-#EXTINF:-1 tvg-name="電影頻道|Rock Entertainment" tvg-logo="https://logo.catvod.com/電影頻道|Rock Entertainment.png" group-title="電影頻道",電影頻道|Rock Entertainment
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://logo.catvod.com/Rock Entertainment.png" group-title="電影頻道",Rock Entertainment
 http://smt.iptv543.com/Smart.php?id=Rockentertain
-#EXTINF:-1 tvg-name="紀錄頻道|Natgeo_HD" tvg-logo="https://logo.catvod.com/紀錄頻道|Natgeo_HD.png" group-title="紀錄頻道",紀錄頻道|Natgeo_HD
+#EXTINF:-1 tvg-name="Natgeo_HD" tvg-logo="https://logo.catvod.com/Natgeo_HD.png" group-title="紀錄頻道",Natgeo_HD
 http://smt.iptv543.com/Smart.php?id=natgeohd_twn
-#EXTINF:-1 tvg-name="紀錄頻道|NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/紀錄頻道|NatGeo_Wild HD.png" group-title="紀錄頻道",紀錄頻道|NatGeo_Wild HD
+#EXTINF:-1 tvg-name="NatGeo_Wild HD" tvg-logo="https://logo.catvod.com/NatGeo_Wild HD.png" group-title="紀錄頻道",NatGeo_Wild HD
 http://smt.iptv543.com/Smart.php?id=natgeowild_twn
-#EXTINF:-1 tvg-name="紀錄頻道|Animal_Planet" tvg-logo="https://logo.catvod.com/紀錄頻道|Animal_Planet.png" group-title="紀錄頻道",紀錄頻道|Animal_Planet
+#EXTINF:-1 tvg-name="Animal_Planet" tvg-logo="https://logo.catvod.com/Animal_Planet.png" group-title="紀錄頻道",Animal_Planet
 http://smt.iptv543.com/Smart.php?id=animalplanet_twn
-#EXTINF:-1 tvg-name="紀錄頻道|Discovery Asia" tvg-logo="https://logo.catvod.com/紀錄頻道|Discovery Asia.png" group-title="紀錄頻道",紀錄頻道|Discovery Asia
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://logo.catvod.com/Discovery Asia.png" group-title="紀錄頻道",Discovery Asia
 http://smt.iptv543.com/Smart.php?id=discoverytwn_twn
-#EXTINF:-1 tvg-name="紀錄頻道|CI" tvg-logo="https://logo.catvod.com/紀錄頻道|CI.png" group-title="紀錄頻道",紀錄頻道|CI
+#EXTINF:-1 tvg-name="CI" tvg-logo="https://logo.catvod.com/CI.png" group-title="紀錄頻道",CI
 http://smt.iptv543.com/Smart.php?id=ci_twn
-#EXTINF:-1 tvg-name="紀錄頻道|Asia Travel" tvg-logo="https://logo.catvod.com/紀錄頻道|Asia Travel.png" group-title="紀錄頻道",紀錄頻道|Asia Travel
+#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://logo.catvod.com/Asia Travel.png" group-title="紀錄頻道",Asia Travel
 http://smt.iptv543.com/Smart.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="紀錄頻道|Discovery HD" tvg-logo="https://logo.catvod.com/紀錄頻道|Discovery HD.png" group-title="紀錄頻道",紀錄頻道|Discovery HD
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://logo.catvod.com/Discovery HD.png" group-title="紀錄頻道",Discovery HD
 http://smt.iptv543.com/Smart.php?id=discoveryhd_twn
-#EXTINF:-1 tvg-name="紀錄頻道|亞洲美食" tvg-logo="https://logo.catvod.com/紀錄頻道|亞洲美食.png" group-title="紀錄頻道",紀錄頻道|亞洲美食
+#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://logo.catvod.com/亞洲美食.png" group-title="紀錄頻道",亞洲美食
 http://smt.iptv543.com/Smart.php?id=afc_twn
-#EXTINF:-1 tvg-name="紀錄頻道|美食星球" tvg-logo="https://logo.catvod.com/紀錄頻道|美食星球.png" group-title="紀錄頻道",紀錄頻道|美食星球
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://logo.catvod.com/美食星球.png" group-title="紀錄頻道",美食星球
 http://smt.iptv543.com/Smart.php?id=foodplanet_twn
-#EXTINF:-1 tvg-name="紀錄頻道|亞洲TLC" tvg-logo="https://logo.catvod.com/紀錄頻道|亞洲TLC.png" group-title="紀錄頻道",紀錄頻道|亞洲TLC
+#EXTINF:-1 tvg-name="亞洲TLC" tvg-logo="https://logo.catvod.com/亞洲TLC.png" group-title="紀錄頻道",亞洲TLC
 http://smt.iptv543.com/Smart.php?id=tlc_twn
-#EXTINF:-1 tvg-name="紀錄頻道|NatGeo HD" tvg-logo="https://logo.catvod.com/紀錄頻道|NatGeo HD.png" group-title="紀錄頻道",紀錄頻道|NatGeo HD
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://logo.catvod.com/NatGeo HD.png" group-title="紀錄頻道",NatGeo HD
 http://smt.iptv543.com/Smart.php?id=Natgeo
-#EXTINF:-1 tvg-name="紀錄頻道|Fashion TV" tvg-logo="https://logo.catvod.com/紀錄頻道|Fashion TV.png" group-title="紀錄頻道",紀錄頻道|Fashion TV
+#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://logo.catvod.com/Fashion TV.png" group-title="紀錄頻道",Fashion TV
 http://smt.iptv543.com/Smart.php?id=fashiontv_twn
-#EXTINF:-1 tvg-name="紀錄頻道|History" tvg-logo="https://logo.catvod.com/紀錄頻道|History.png" group-title="紀錄頻道",紀錄頻道|History
+#EXTINF:-1 tvg-name="History" tvg-logo="https://logo.catvod.com/History.png" group-title="紀錄頻道",History
 http://smt.iptv543.com/Smart.php?id=History
-#EXTINF:-1 tvg-name="紀錄頻道|BBC Earth HD" tvg-logo="https://logo.catvod.com/紀錄頻道|BBC Earth HD.png" group-title="紀錄頻道",紀錄頻道|BBC Earth HD
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://logo.catvod.com/BBC Earth HD.png" group-title="紀錄頻道",BBC Earth HD
 http://smt.iptv543.com/Smart.php?id=bbcearth_twn
-#EXTINF:-1 tvg-name="紀錄頻道|BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/紀錄頻道|BBC Earth Lifestyle.png" group-title="紀錄頻道",紀錄頻道|BBC Earth Lifestyle
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://logo.catvod.com/BBC Earth Lifestyle.png" group-title="紀錄頻道",BBC Earth Lifestyle
 http://smt.iptv543.com/Smart.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-name="紀錄頻道|MTV Live" tvg-logo="https://logo.catvod.com/紀錄頻道|MTV Live.png" group-title="紀錄頻道",紀錄頻道|MTV Live
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://logo.catvod.com/MTV Live.png" group-title="紀錄頻道",MTV Live
 http://smt.iptv543.com/Smart.php?id=mtvhd_twn
-#EXTINF:-1 tvg-name="紀錄頻道|NatGeo Wild HD" tvg-logo="https://logo.catvod.com/紀錄頻道|NatGeo Wild HD.png" group-title="紀錄頻道",紀錄頻道|NatGeo Wild HD
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://logo.catvod.com/NatGeo Wild HD.png" group-title="紀錄頻道",NatGeo Wild HD
 http://smt.iptv543.com/Smart.php?id=Natgeowild
-#EXTINF:-1 tvg-name="紀錄頻道|Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/紀錄頻道|Animal Planet (Eng).png" group-title="紀錄頻道",紀錄頻道|Animal Planet (Eng)
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://logo.catvod.com/Animal Planet (Eng).png" group-title="紀錄頻道",Animal Planet (Eng)
 http://smt.iptv543.com/Smart.php?id=AnimalPlanet
-#EXTINF:-1 tvg-name="紀錄頻道|TLC" tvg-logo="https://logo.catvod.com/紀錄頻道|TLC.png" group-title="紀錄頻道",紀錄頻道|TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://logo.catvod.com/TLC.png" group-title="紀錄頻道",TLC
 http://smt.iptv543.com/Smart.php?id=Tlc
-#EXTINF:-1 tvg-name="紀錄頻道|Foodnetwork Hd" tvg-logo="https://logo.catvod.com/紀錄頻道|Foodnetwork Hd.png" group-title="紀錄頻道",紀錄頻道|Foodnetwork Hd
+#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://logo.catvod.com/Foodnetwork Hd.png" group-title="紀錄頻道",Foodnetwork Hd
 http://smt.iptv543.com/Smart.php?id=Foodnetwork
-#EXTINF:-1 tvg-name="紀錄頻道|HGTV" tvg-logo="https://logo.catvod.com/紀錄頻道|HGTV.png" group-title="紀錄頻道",紀錄頻道|HGTV
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://logo.catvod.com/HGTV.png" group-title="紀錄頻道",HGTV
 http://smt.iptv543.com/Smart.php?id=HGTV
-#EXTINF:-1 tvg-name="紀錄頻道|亞洲旅遊台" tvg-logo="https://logo.catvod.com/紀錄頻道|亞洲旅遊台.png" group-title="紀錄頻道",紀錄頻道|亞洲旅遊台
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://logo.catvod.com/亞洲旅遊台.png" group-title="紀錄頻道",亞洲旅遊台
 http://smt.iptv543.com/Smart.php?id=asiatravel_twn
-#EXTINF:-1 tvg-name="新聞頻道|Skynews" tvg-logo="https://logo.catvod.com/新聞頻道|Skynews.png" group-title="新聞頻道",新聞頻道|Skynews
+#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://logo.catvod.com/Skynews.png" group-title="新聞頻道",Skynews
 http://smt.iptv543.com/Smart.php?id=skynews_twn
-#EXTINF:-1 tvg-name="新聞頻道|ABC News" tvg-logo="https://logo.catvod.com/新聞頻道|ABC News.png" group-title="新聞頻道",新聞頻道|ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://logo.catvod.com/ABC News.png" group-title="新聞頻道",ABC News
 http://smt.iptv543.com/Smart.php?id=abcnews_glo
-#EXTINF:-1 tvg-name="新聞頻道|東森財經新聞" tvg-logo="https://logo.catvod.com/新聞頻道|東森財經新聞.png" group-title="新聞頻道",新聞頻道|東森財經新聞
+#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://logo.catvod.com/東森財經新聞.png" group-title="新聞頻道",東森財經新聞
 http://smt.iptv543.com/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-name="新聞頻道|CBS HD" tvg-logo="https://logo.catvod.com/新聞頻道|CBS HD.png" group-title="新聞頻道",新聞頻道|CBS HD
+#EXTINF:-1 tvg-name="CBS HD" tvg-logo="https://logo.catvod.com/CBS HD.png" group-title="新聞頻道",CBS HD
 http://smt.iptv543.com/Smart.php?id=cbshd_glo
-#EXTINF:-1 tvg-name="新聞頻道|CBSN HD" tvg-logo="https://logo.catvod.com/新聞頻道|CBSN HD.png" group-title="新聞頻道",新聞頻道|CBSN HD
+#EXTINF:-1 tvg-name="CBSN HD" tvg-logo="https://logo.catvod.com/CBSN HD.png" group-title="新聞頻道",CBSN HD
 http://smt.iptv543.com/Smart.php?id=cbsn_glo
-#EXTINF:-1 tvg-name="新聞頻道|France 24" tvg-logo="https://logo.catvod.com/新聞頻道|France 24.png" group-title="新聞頻道",新聞頻道|France 24
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://logo.catvod.com/France 24.png" group-title="新聞頻道",France 24
 http://smt.iptv543.com/Smart.php?id=france24_twn
-#EXTINF:-1 tvg-name="新聞頻道|DW (Deutsch)" tvg-logo="https://logo.catvod.com/新聞頻道|DW (Deutsch).png" group-title="新聞頻道",新聞頻道|DW (Deutsch)
+#EXTINF:-1 tvg-name="DW (Deutsch)" tvg-logo="https://logo.catvod.com/DW (Deutsch).png" group-title="新聞頻道",DW (Deutsch)
 http://smt.iptv543.com/Smart.php?id=dw_twn
-#EXTINF:-1 tvg-name="新聞頻道|NHK World" tvg-logo="https://logo.catvod.com/新聞頻道|NHK World.png" group-title="新聞頻道",新聞頻道|NHK World
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://logo.catvod.com/NHK World.png" group-title="新聞頻道",NHK World
 http://smt.iptv543.com/Smart.php?id=nhkworld_japan
-#EXTINF:-1 tvg-name="新聞頻道|Fox News" tvg-logo="https://logo.catvod.com/新聞頻道|Fox News.png" group-title="新聞頻道",新聞頻道|Fox News
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://logo.catvod.com/Fox News.png" group-title="新聞頻道",Fox News
 http://smt.iptv543.com/Smart.php?id=foxnews_twn
-#EXTINF:-1 tvg-name="新聞頻道|CGTN" tvg-logo="https://logo.catvod.com/新聞頻道|CGTN.png" group-title="新聞頻道",新聞頻道|CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="新聞頻道",CGTN
 http://smt.iptv543.com/Smart.php?id=CGTN
-#EXTINF:-1 tvg-name="新聞頻道|CNN International" tvg-logo="https://logo.catvod.com/新聞頻道|CNN International.png" group-title="新聞頻道",新聞頻道|CNN International
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://logo.catvod.com/CNN International.png" group-title="新聞頻道",CNN International
 http://smt.iptv543.com/Smart.php?id=Cnn
-#EXTINF:-1 tvg-name="新聞頻道|CNN backup" tvg-logo="https://logo.catvod.com/新聞頻道|CNN backup.png" group-title="新聞頻道",新聞頻道|CNN backup
+#EXTINF:-1 tvg-name="CNN backup" tvg-logo="https://logo.catvod.com/CNN backup.png" group-title="新聞頻道",CNN backup
 http://smt.iptv543.com/Smart.php?id=cnn_twn
-#EXTINF:-1 tvg-name="新聞頻道|CNBC" tvg-logo="https://logo.catvod.com/新聞頻道|CNBC.png" group-title="新聞頻道",新聞頻道|CNBC
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://logo.catvod.com/CNBC.png" group-title="新聞頻道",CNBC
 http://smt.iptv543.com/Smart.php?id=cnbc_twn
-#EXTINF:-1 tvg-name="新聞頻道|CNA" tvg-logo="https://logo.catvod.com/新聞頻道|CNA.png" group-title="新聞頻道",新聞頻道|CNA
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://logo.catvod.com/CNA.png" group-title="新聞頻道",CNA
 http://smt.iptv543.com/Smart.php?id=cna
-#EXTINF:-1 tvg-name="新聞頻道|BBC World News" tvg-logo="https://logo.catvod.com/新聞頻道|BBC World News.png" group-title="新聞頻道",新聞頻道|BBC World News
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="新聞頻道",BBC World News
 http://smt.iptv543.com/Smart.php?id=bbcnews_twn
-#EXTINF:-1 tvg-name="新聞頻道|BBC World News" tvg-logo="https://logo.catvod.com/新聞頻道|BBC World News.png" group-title="新聞頻道",新聞頻道|BBC World News
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://logo.catvod.com/BBC World News.png" group-title="新聞頻道",BBC World News
 http://smt.iptv543.com/Smart.php?id=Bbcnews
-#EXTINF:-1 tvg-name="新聞頻道|Bloomberg News" tvg-logo="https://logo.catvod.com/新聞頻道|Bloomberg News.png" group-title="新聞頻道",新聞頻道|Bloomberg News
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://logo.catvod.com/Bloomberg News.png" group-title="新聞頻道",Bloomberg News
 http://smt.iptv543.com/Smart.php?id=bloomberg_twn
-#EXTINF:-1 tvg-name="新聞頻道|Al-Jazeera" tvg-logo="https://logo.catvod.com/新聞頻道|Al-Jazeera.png" group-title="新聞頻道",新聞頻道|Al-Jazeera
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="新聞頻道",Al-Jazeera
 http://smt.iptv543.com/Smart.php?id=aljazeera_twn
-#EXTINF:-1 tvg-name="兒童頻道|Baby TV Eng" tvg-logo="https://logo.catvod.com/兒童頻道|Baby TV Eng.png" group-title="兒童頻道",兒童頻道|Baby TV Eng
+#EXTINF:-1 tvg-name="Baby TV Eng" tvg-logo="https://logo.catvod.com/Baby TV Eng.png" group-title=兒童頻道,Baby TV Eng
 http://smt.iptv543.com/Smart.php?id=Babytv
-#EXTINF:-1 tvg-name="兒童頻道|CBeebies" tvg-logo="https://logo.catvod.com/兒童頻道|CBeebies.png" group-title="兒童頻道",兒童頻道|CBeebies
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title=兒童頻道,CBeebies
 http://smt.iptv543.com/Smart.php?id=Cbeebies
-#EXTINF:-1 tvg-name="兒童頻道|Kids TV" tvg-logo="https://logo.catvod.com/兒童頻道|Kids TV.png" group-title="兒童頻道",兒童頻道|Kids TV
+#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title=兒童頻道,Kids TV
 http://smt.iptv543.com/Smart.php?id=KidsTV
-#EXTINF:-1 tvg-name="兒童頻道|Momo TV" tvg-logo="https://logo.catvod.com/兒童頻道|Momo TV.png" group-title="兒童頻道",兒童頻道|Momo TV
+#EXTINF:-1 tvg-name="Momo TV" tvg-logo="https://logo.catvod.com/Momo TV.png" group-title=兒童頻道,Momo TV
 http://smt.iptv543.com/Smart.php?id=momo1_twn
-#EXTINF:-1 tvg-name="兒童頻道|Animax" tvg-logo="https://logo.catvod.com/兒童頻道|Animax.png" group-title="兒童頻道",兒童頻道|Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title=兒童頻道,Animax
 http://smt.iptv543.com/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="兒童頻道|Baby TV" tvg-logo="https://logo.catvod.com/兒童頻道|Baby TV.png" group-title="兒童頻道",兒童頻道|Baby TV
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://logo.catvod.com/Baby TV.png" group-title=兒童頻道,Baby TV
 http://smt.iptv543.com/Smart.php?id=babytv_twn
-#EXTINF:-1 tvg-name="兒童頻道|MiaoMi" tvg-logo="https://logo.catvod.com/兒童頻道|MiaoMi.png" group-title="兒童頻道",兒童頻道|MiaoMi
+#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://logo.catvod.com/MiaoMi.png" group-title=兒童頻道,MiaoMi
 http://smt.iptv543.com/Smart.php?id=MiaoMi
-#EXTINF:-1 tvg-name="兒童頻道|靖天卡通" tvg-logo="https://logo.catvod.com/兒童頻道|靖天卡通.png" group-title="兒童頻道",兒童頻道|靖天卡通
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://logo.catvod.com/靖天卡通.png" group-title=兒童頻道,靖天卡通
 http://smt.iptv543.com/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="兒童頻道|東森幼幼" tvg-logo="https://logo.catvod.com/兒童頻道|東森幼幼.png" group-title="兒童頻道",兒童頻道|東森幼幼
+#EXTINF:-1 tvg-name="東森幼幼" tvg-logo="https://logo.catvod.com/東森幼幼.png" group-title=兒童頻道,東森幼幼
 http://smt.iptv543.com/Smart.php?id=yoyo_twn
-#EXTINF:-1 tvg-name="兒童頻道|Cartoon Network" tvg-logo="https://logo.catvod.com/兒童頻道|Cartoon Network.png" group-title="兒童頻道",兒童頻道|Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title=兒童頻道,Cartoon Network
 http://smt.iptv543.com/Smart.php?id=Cn
-#EXTINF:-1 tvg-name="兒童頻道|Nickelodeon" tvg-logo="https://logo.catvod.com/兒童頻道|Nickelodeon.png" group-title="兒童頻道",兒童頻道|Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title=兒童頻道,Nickelodeon
 http://smt.iptv543.com/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="兒童頻道|Nick Jr" tvg-logo="https://logo.catvod.com/兒童頻道|Nick Jr.png" group-title="兒童頻道",兒童頻道|Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title=兒童頻道,Nick Jr
 http://smt.iptv543.com/Smart.php?id=Nickjr
-#EXTINF:-1 tvg-name="體育頻道|Astro Premier League 1" tvg-logo="https://logo.catvod.com/體育頻道|Astro Premier League 1.png" group-title="體育頻道",體育頻道|Astro Premier League 1
+#EXTINF:-1 tvg-name="Astro Premier League 1" tvg-logo="https://logo.catvod.com/Astro Premier League 1.png" group-title="體育頻道",Astro Premier League 1
 http://smt.iptv543.com/Smart.php?id=go_assp1
-#EXTINF:-1 tvg-name="體育頻道|Astro EPL 1 backup" tvg-logo="https://logo.catvod.com/體育頻道|Astro EPL 1 backup.png" group-title="體育頻道",體育頻道|Astro EPL 1 backup
+#EXTINF:-1 tvg-name="Astro EPL 1 backup" tvg-logo="https://logo.catvod.com/Astro EPL 1 backup.png" group-title="體育頻道",Astro EPL 1 backup
 http://smt.iptv543.com/Smart.php?id=go_assp1x
-#EXTINF:-1 tvg-name="體育頻道|Astro Premier League 2" tvg-logo="https://logo.catvod.com/體育頻道|Astro Premier League 2.png" group-title="體育頻道",體育頻道|Astro Premier League 2
+#EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="https://logo.catvod.com/Astro Premier League 2.png" group-title="體育頻道",Astro Premier League 2
 http://smt.iptv543.com/Smart.php?id=go_assp2
-#EXTINF:-1 tvg-name="體育頻道|Astro Grandstand" tvg-logo="https://logo.catvod.com/體育頻道|Astro Grandstand.png" group-title="體育頻道",體育頻道|Astro Grandstand
+#EXTINF:-1 tvg-name="Astro Grandstand" tvg-logo="https://logo.catvod.com/Astro Grandstand.png" group-title="體育頻道",Astro Grandstand
 http://smt.iptv543.com/Smart.php?id=go_assp3
-#EXTINF:-1 tvg-name="體育頻道|Astro Football" tvg-logo="https://logo.catvod.com/體育頻道|Astro Football.png" group-title="體育頻道",體育頻道|Astro Football
+#EXTINF:-1 tvg-name="Astro Football" tvg-logo="https://logo.catvod.com/Astro Football.png" group-title="體育頻道",Astro Football
 http://smt.iptv543.com/Smart.php?id=go_assp4
-#EXTINF:-1 tvg-name="體育頻道|Astro Sports Plus" tvg-logo="https://logo.catvod.com/體育頻道|Astro Sports Plus.png" group-title="體育頻道",體育頻道|Astro Sports Plus
+#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-logo="https://logo.catvod.com/Astro Sports Plus.png" group-title="體育頻道",Astro Sports Plus
 http://smt.iptv543.com/Smart.php?id=go_sportsplus
-#EXTINF:-1 tvg-name="體育頻道|Astro Badminton 1" tvg-logo="https://logo.catvod.com/體育頻道|Astro Badminton 1.png" group-title="體育頻道",體育頻道|Astro Badminton 1
+#EXTINF:-1 tvg-name="Astro Badminton 1" tvg-logo="https://logo.catvod.com/Astro Badminton 1.png" group-title="體育頻道",Astro Badminton 1
 http://smt.iptv543.com/Smart.php?id=go_badminton1
-#EXTINF:-1 tvg-name="體育頻道|Astro Badminton 2" tvg-logo="https://logo.catvod.com/體育頻道|Astro Badminton 2.png" group-title="體育頻道",體育頻道|Astro Badminton 2
+#EXTINF:-1 tvg-name="Astro Badminton 2" tvg-logo="https://logo.catvod.com/Astro Badminton 2.png" group-title="體育頻道",Astro Badminton 2
 http://smt.iptv543.com/Smart.php?id=go_badminton2
-#EXTINF:-1 tvg-name="體育頻道|Astro W-Sports" tvg-logo="https://logo.catvod.com/體育頻道|Astro W-Sports.png" group-title="體育頻道",體育頻道|Astro W-Sports
+#EXTINF:-1 tvg-name="Astro W-Sports" tvg-logo="https://logo.catvod.com/Astro W-Sports.png" group-title="體育頻道",Astro W-Sports
 http://smt.iptv543.com/Smart.php?id=go_assp5
-#EXTINF:-1 tvg-name="體育頻道|Supersports 1" tvg-logo="https://logo.catvod.com/體育頻道|Supersports 1.png" group-title="體育頻道",體育頻道|Supersports 1
+#EXTINF:-1 tvg-name="Supersports 1" tvg-logo="https://logo.catvod.com/Supersports 1.png" group-title="體育頻道",Supersports 1
 http://smt.iptv543.com/Smart.php?id=Assp1
-#EXTINF:-1 tvg-name="體育頻道|Supersports 2" tvg-logo="https://logo.catvod.com/體育頻道|Supersports 2.png" group-title="體育頻道",體育頻道|Supersports 2
+#EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://logo.catvod.com/Supersports 2.png" group-title="體育頻道",Supersports 2
 http://smt.iptv543.com/Smart.php?id=Assp2
-#EXTINF:-1 tvg-name="體育頻道|Supersports 3" tvg-logo="https://logo.catvod.com/體育頻道|Supersports 3.png" group-title="體育頻道",體育頻道|Supersports 3
+#EXTINF:-1 tvg-name="Supersports 3" tvg-logo="https://logo.catvod.com/Supersports 3.png" group-title="體育頻道",Supersports 3
 http://smt.iptv543.com/Smart.php?id=Assp3
-#EXTINF:-1 tvg-name="體育頻道|Supersports 4" tvg-logo="https://logo.catvod.com/體育頻道|Supersports 4.png" group-title="體育頻道",體育頻道|Supersports 4
+#EXTINF:-1 tvg-name="Supersports 4" tvg-logo="https://logo.catvod.com/Supersports 4.png" group-title="體育頻道",Supersports 4
 http://smt.iptv543.com/Smart.php?id=Assp4
-#EXTINF:-1 tvg-name="體育頻道|WWE" tvg-logo="https://logo.catvod.com/體育頻道|WWE.png" group-title="體育頻道",體育頻道|WWE
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://logo.catvod.com/WWE.png" group-title="體育頻道",WWE
 http://smt.iptv543.com/Smart.php?id=Wwe
-#EXTINF:-1 tvg-name="體育頻道|Fight Sports" tvg-logo="https://logo.catvod.com/體育頻道|Fight Sports.png" group-title="體育頻道",體育頻道|Fight Sports
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://logo.catvod.com/Fight Sports.png" group-title="體育頻道",Fight Sports
 http://smt.iptv543.com/Smart.php?id=Fs
-#EXTINF:-1 tvg-name="體育頻道|NBA TV" tvg-logo="https://logo.catvod.com/體育頻道|NBA TV.png" group-title="體育頻道",體育頻道|NBA TV
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://logo.catvod.com/NBA TV.png" group-title="體育頻道",NBA TV
 http://smt.iptv543.com/Smart.php?id=Nba
-#EXTINF:-1 tvg-name="體育頻道|Astro Cricket" tvg-logo="https://logo.catvod.com/體育頻道|Astro Cricket.png" group-title="體育頻道",體育頻道|Astro Cricket
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://logo.catvod.com/Astro Cricket.png" group-title="體育頻道",Astro Cricket
 http://smt.iptv543.com/Smart.php?id=Acricket
-#EXTINF:-1 tvg-name="體育頻道|Astro Golf" tvg-logo="https://logo.catvod.com/體育頻道|Astro Golf.png" group-title="體育頻道",體育頻道|Astro Golf
+#EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://logo.catvod.com/Astro Golf.png" group-title="體育頻道",Astro Golf
 http://smt.iptv543.com/Smart.php?id=Agolf
-#EXTINF:-1 tvg-name="體育頻道|Tnt Sports 1" tvg-logo="https://logo.catvod.com/體育頻道|Tnt Sports 1.png" group-title="體育頻道",體育頻道|Tnt Sports 1
+#EXTINF:-1 tvg-name="Tnt Sports 1" tvg-logo="https://logo.catvod.com/Tnt Sports 1.png" group-title="體育頻道",Tnt Sports 1
 http://smt.iptv543.com/Smart.php?id=6fac0aaead
-#EXTINF:-1 tvg-name="體育頻道|TNT Sports 2" tvg-logo="https://logo.catvod.com/體育頻道|TNT Sports 2.png" group-title="體育頻道",體育頻道|TNT Sports 2
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://logo.catvod.com/TNT Sports 2.png" group-title="體育頻道",TNT Sports 2
 http://smt.iptv543.com/Smart.php?id=d9a76a79cc
-#EXTINF:-1 tvg-name="體育頻道|TNT Sports 3" tvg-logo="https://logo.catvod.com/體育頻道|TNT Sports 3.png" group-title="體育頻道",體育頻道|TNT Sports 3
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://logo.catvod.com/TNT Sports 3.png" group-title="體育頻道",TNT Sports 3
 http://smt.iptv543.com/Smart.php?id=5fea4d73db
-#EXTINF:-1 tvg-name="體育頻道|TNT Sports 4" tvg-logo="https://logo.catvod.com/體育頻道|TNT Sports 4.png" group-title="體育頻道",體育頻道|TNT Sports 4
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://logo.catvod.com/TNT Sports 4.png" group-title="體育頻道",TNT Sports 4
 http://smt.iptv543.com/Smart.php?id=tntsport4
-#EXTINF:-1 tvg-name="體育頻道|Sony Ten 1" tvg-logo="https://logo.catvod.com/體育頻道|Sony Ten 1.png" group-title="體育頻道",體育頻道|Sony Ten 1
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://logo.catvod.com/Sony Ten 1.png" group-title="體育頻道",Sony Ten 1
 http://smt.iptv543.com/Smart.php?id=ten1_raj
-#EXTINF:-1 tvg-name="體育頻道|Sony Ten 2" tvg-logo="https://logo.catvod.com/體育頻道|Sony Ten 2.png" group-title="體育頻道",體育頻道|Sony Ten 2
+#EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://logo.catvod.com/Sony Ten 2.png" group-title="體育頻道",Sony Ten 2
 http://smt.iptv543.com/Smart.php?id=ten2_raj
-#EXTINF:-1 tvg-name="體育頻道|Sony Ten 3" tvg-logo="https://logo.catvod.com/體育頻道|Sony Ten 3.png" group-title="體育頻道",體育頻道|Sony Ten 3
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://logo.catvod.com/Sony Ten 3.png" group-title="體育頻道",Sony Ten 3
 http://smt.iptv543.com/Smart.php?id=ten3_raj
-#EXTINF:-1 tvg-name="體育頻道|SPOTV 1 HD" tvg-logo="https://logo.catvod.com/體育頻道|SPOTV 1 HD.png" group-title="體育頻道",體育頻道|SPOTV 1 HD
+#EXTINF:-1 tvg-name="SPOTV 1 HD" tvg-logo="https://logo.catvod.com/SPOTV 1 HD.png" group-title="體育頻道",SPOTV 1 HD
 http://smt.iptv543.com/Smart.php?id=go_spotv
-#EXTINF:-1 tvg-name="體育頻道|SPO TV 2" tvg-logo="https://logo.catvod.com/體育頻道|SPO TV 2.png" group-title="體育頻道",體育頻道|SPO TV 2
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://logo.catvod.com/SPO TV 2.png" group-title="體育頻道",SPO TV 2
 http://smt.iptv543.com/Smart.php?id=go_spotv2
-#EXTINF:-1 tvg-name="體育頻道|Skysports F1" tvg-logo="https://logo.catvod.com/體育頻道|Skysports F1.png" group-title="體育頻道",體育頻道|Skysports F1
+#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://logo.catvod.com/Skysports F1.png" group-title="體育頻道",Skysports F1
 http://smt.iptv543.com/Smart.php?id=tiankongf1
-#EXTINF:-1 tvg-name="體育頻道|Skysports Cricket" tvg-logo="https://logo.catvod.com/體育頻道|Skysports Cricket.png" group-title="體育頻道",體育頻道|Skysports Cricket
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://logo.catvod.com/Skysports Cricket.png" group-title="體育頻道",Skysports Cricket
 http://smt.iptv543.com/Smart.php?id=tiankongcricket
-#EXTINF:-1 tvg-name="體育頻道|Skysports EPL" tvg-logo="https://logo.catvod.com/體育頻道|Skysports EPL.png" group-title="體育頻道",體育頻道|Skysports EPL
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://logo.catvod.com/Skysports EPL.png" group-title="體育頻道",Skysports EPL
 http://smt.iptv543.com/Smart.php?id=tiankongepl
-#EXTINF:-1 tvg-name="體育頻道|Skysports Main Event" tvg-logo="https://logo.catvod.com/體育頻道|Skysports Main Event.png" group-title="體育頻道",體育頻道|Skysports Main Event
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://logo.catvod.com/Skysports Main Event.png" group-title="體育頻道",Skysports Main Event
 http://smt.iptv543.com/Smart.php?id=tiankongmain
-#EXTINF:-1 tvg-name="體育頻道|Skysports News" tvg-logo="https://logo.catvod.com/體育頻道|Skysports News.png" group-title="體育頻道",體育頻道|Skysports News
+#EXTINF:-1 tvg-name="Skysports News" tvg-logo="https://logo.catvod.com/Skysports News.png" group-title="體育頻道",Skysports News
 http://smt.iptv543.com/Smart.php?id=tiankongnews
-#EXTINF:-1 tvg-name="體育頻道|Skysports Mix" tvg-logo="https://logo.catvod.com/體育頻道|Skysports Mix.png" group-title="體育頻道",體育頻道|Skysports Mix
+#EXTINF:-1 tvg-name="Skysports Mix" tvg-logo="https://logo.catvod.com/Skysports Mix.png" group-title="體育頻道",Skysports Mix
 http://smt.iptv543.com/Smart.php?id=tiankongmix
-#EXTINF:-1 tvg-name="體育頻道|CCTV5" tvg-logo="https://logo.catvod.com/體育頻道|CCTV5.png" group-title="體育頻道",體育頻道|CCTV-5 體育頻道
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="體育頻道",CCTV-5 體育頻道
 http://smt.iptv543.com/Smart.php?id=cctv5
-#EXTINF:-1 tvg-name="體育頻道|CCTV5" tvg-logo="https://logo.catvod.com/體育頻道|CCTV5.png" group-title="體育頻道",體育頻道|CCTV-5+ 體育賽事 HD
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="體育頻道",CCTV-5+ 體育賽事 HD
 http://smt.iptv543.com/Smart.php?id=cctv5plus
-#EXTINF:-1 tvg-name="體育頻道|愛爾達體育1台" tvg-logo="https://logo.catvod.com/體育頻道|愛爾達體育1台.png" group-title="體育頻道",體育頻道|愛爾達體育1台
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="體育頻道",愛爾達體育1台
 http://smt.iptv543.com/Smart.php?id=eltasport_twn
-#EXTINF:-1 tvg-name="體育頻道|愛爾達體育2台" tvg-logo="https://logo.catvod.com/體育頻道|愛爾達體育2台.png" group-title="體育頻道",體育頻道|愛爾達體育2台
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="體育頻道",愛爾達體育2台
 http://smt.iptv543.com/Smart.php?id=eltasport2_twn
-#EXTINF:-1 tvg-name="體育頻道|愛爾達體育3台" tvg-logo="https://logo.catvod.com/體育頻道|愛爾達體育3台.png" group-title="體育頻道",體育頻道|愛爾達體育3台
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="體育頻道",愛爾達體育3台
 http://smt.iptv543.com/Smart.php?id=eltasport3_twn
-#EXTINF:-1 tvg-name="體育頻道|愛爾達體育4台" tvg-logo="https://logo.catvod.com/體育頻道|愛爾達體育4台.png" group-title="體育頻道",體育頻道|愛爾達體育4台
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="體育頻道",愛爾達體育4台
 http://smt.iptv543.com/Smart.php?id=eltasports4_twn
-#EXTINF:-1 tvg-name="體育頻道|Rugby Pass TV" tvg-logo="https://logo.catvod.com/體育頻道|Rugby Pass TV.png" group-title="體育頻道",體育頻道|Rugby Pass TV
+#EXTINF:-1 tvg-name="Rugby Pass TV" tvg-logo="https://logo.catvod.com/Rugby Pass TV.png" group-title="體育頻道",Rugby Pass TV
 http://smt.iptv543.com/Smart.php?id=Rugbypasstv
-#EXTINF:-1 tvg-name="體育頻道|RTM Sports HD" tvg-logo="https://logo.catvod.com/體育頻道|RTM Sports HD.png" group-title="體育頻道",體育頻道|RTM Sports HD
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://logo.catvod.com/RTM Sports HD.png" group-title="體育頻道",RTM Sports HD
 http://smt.iptv543.com/Smart.php?id=Rtmsport
-#EXTINF:-1 tvg-name="體育頻道|Arena" tvg-logo="https://logo.catvod.com/體育頻道|Arena.png" group-title="體育頻道",體育頻道|Arena
+#EXTINF:-1 tvg-name="Arena" tvg-logo="https://logo.catvod.com/Arena.png" group-title="體育頻道",Arena
 http://smt.iptv543.com/Smart.php?id=Arena
-#EXTINF:-1 tvg-name="體育頻道|Arena 2" tvg-logo="https://logo.catvod.com/體育頻道|Arena 2.png" group-title="體育頻道",體育頻道|Arena 2
+#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://logo.catvod.com/Arena 2.png" group-title="體育頻道",Arena 2
 http://smt.iptv543.com/Smart.php?id=Arena2
-#EXTINF:-1 tvg-name="體育頻道|BolaArena 1" tvg-logo="https://logo.catvod.com/體育頻道|BolaArena 1.png" group-title="體育頻道",體育頻道|BolaArena 1
+#EXTINF:-1 tvg-name="BolaArena 1" tvg-logo="https://logo.catvod.com/BolaArena 1.png" group-title="體育頻道",BolaArena 1
 http://smt.iptv543.com/Smart.php?id=Bolaarena1
-#EXTINF:-1 tvg-name="體育頻道|BolaArena 2" tvg-logo="https://logo.catvod.com/體育頻道|BolaArena 2.png" group-title="體育頻道",體育頻道|BolaArena 2
+#EXTINF:-1 tvg-name="BolaArena 2" tvg-logo="https://logo.catvod.com/BolaArena 2.png" group-title="體育頻道",BolaArena 2
 http://smt.iptv543.com/Smart.php?id=Bolaarena2
-#EXTINF:-1 tvg-name="體育頻道|Astro Beinsports 1" tvg-logo="https://logo.catvod.com/體育頻道|Astro Beinsports 1.png" group-title="體育頻道",體育頻道|Astro Beinsports 1
+#EXTINF:-1 tvg-name="Astro Beinsports 1" tvg-logo="https://logo.catvod.com/Astro Beinsports 1.png" group-title="體育頻道",Astro Beinsports 1
 http://smt.iptv543.com/Smart.php?id=Astrobein1
-#EXTINF:-1 tvg-name="體育頻道|Astro Beinsports 2" tvg-logo="https://logo.catvod.com/體育頻道|Astro Beinsports 2.png" group-title="體育頻道",體育頻道|Astro Beinsports 2
+#EXTINF:-1 tvg-name="Astro Beinsports 2" tvg-logo="https://logo.catvod.com/Astro Beinsports 2.png" group-title="體育頻道",Astro Beinsports 2
 http://smt.iptv543.com/Smart.php?id=Astrobein2
-#EXTINF:-1 tvg-name="體育頻道|Astro Beinsports 3" tvg-logo="https://logo.catvod.com/體育頻道|Astro Beinsports 3.png" group-title="體育頻道",體育頻道|Astro Beinsports 3
+#EXTINF:-1 tvg-name="Astro Beinsports 3" tvg-logo="https://logo.catvod.com/Astro Beinsports 3.png" group-title="體育頻道",Astro Beinsports 3
 http://smt.iptv543.com/Smart.php?id=Astrobein3
 
 
@@ -2191,7 +2194,7 @@ p3p://fccsen.dyndns.tv:29706/5bff56d9000b3e2a190fc1f71a56397f
 p3p://fccsen.dyndns.tv:29706/5bff5847000dfb1d1915585c0ec87b11
 #EXTINF:-1 tvg-name="Fucked and Bound" tvg-logo="https://logo.catvod.com/Fucked and Bound.png" group-title="私人頻道_543",Fucked and Bound
 p3p://fccsen.dyndns.tv:29706/5ca77a06000ba882679f7004005f3200
-#EXTINF:-1 tvg-name="MiamiTVMexico" tvg-logo="https://logo.catvod.com/MiamiTVMexico.png" group-title="私人頻道_543",MiamiTVMexico
+#EXTINF:-1 tvg-name="MiamiTVMéxico" tvg-logo="https://logo.catvod.com/MiamiTVMéxico.png" group-title="私人頻道_543",MiamiTVMéxico
 p3p://167.114.175.6:55331/64ef00bf000eb051d6cfed1d17c05ca9
 #EXTINF:-1 tvg-name="Cumshots" tvg-logo="https://logo.catvod.com/Cumshots.png" group-title="私人頻道_543",Cumshots
 p3p://fccsen.dyndns.tv:29706/5d430bf20009746dc750faef0d6557a7
@@ -2241,6 +2244,7 @@ p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 #EXTINF:-1 tvg-name="MOM TEACH SEX" tvg-logo="https://logo.catvod.com/MOM TEACH SEX.png" group-title="私人頻道_543",MOM TEACH SEX
 p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
+
 
 
 
