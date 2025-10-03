@@ -407,7 +407,7 @@ http://106.107.242.191:50007/4gtv-live089/index.m3u8
 http://106.107.242.191:50007/4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
 http://106.107.242.191:50007/4gtv-4gtv074/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png兒童頻道 group-title="新聞財經",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"兒童頻道" group-title="新聞財經",中天新聞台
 http://106.107.242.191:50007/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
 http://106.107.242.191:50007/4gtv-live059/index.m3u8
@@ -607,9 +607,9 @@ http://106.107.242.191:50007/litv-longturn09/index.m3u8
 http://106.107.242.191:50007/litv-longturn10/index.m3u8
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="體育競技",博斯無限II
 http://106.107.242.191:50007/litv-longturn13/index.m3u8
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png兒童頻道 group-title="新聞財經",非凡新聞
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"兒童頻道" group-title="新聞財經",非凡新聞
 http://106.107.242.191:50007/4gtv-4gtv010/index.m3u8
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png兒童頻道 group-title="新聞財經",非凡商業
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"兒童頻道" group-title="新聞財經",非凡商業
 http://106.107.242.191:50007/4gtv-4gtv048/index.m3u8
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
 http://106.107.242.191:50007/4gtv-4gtv056/index.m3u8
@@ -653,7 +653,7 @@ http://106.107.242.191:50007/li-4gtv-4gtv072/index.m3u8
 http://106.107.242.191:50007/li-4gtv-4gtv153/index.m3u8
 #EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
 http://106.107.242.191:50007/4gtv-4gtv074/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png兒童頻道 group-title="新聞財經",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"兒童頻道" group-title="新聞財經",中天新聞台
 http://106.107.242.191:50007/li-4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
 http://106.107.242.191:50007/li-litv-longturn14/index.m3u8
@@ -753,7 +753,7 @@ http://106.107.242.191:50007/of-4gtv-4gtv040/index.m3u8
 http://106.107.242.191:50007/of-4gtv-4gtv074/index.m3u8
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
 http://106.107.242.191:50007/of-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png兒童頻道 group-title="新聞財經",中天新聞台
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"兒童頻道" group-title="新聞財經",中天新聞台
 http://106.107.242.191:50007/of-4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
 http://106.107.242.191:50007/of-litv-longturn14/index.m3u8
@@ -1683,29 +1683,29 @@ http://smt.iptv543.com/Smart.php?id=Bbcnews
 http://smt.iptv543.com/Smart.php?id=bloomberg_twn
 #EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://logo.catvod.com/Al-Jazeera.png" group-title="新聞頻道",Al-Jazeera
 http://smt.iptv543.com/Smart.php?id=aljazeera_twn
-#EXTINF:-1 tvg-name="Baby TV Eng" tvg-logo="https://logo.catvod.com/Baby TV Eng.png" group-title=兒童頻道,Baby TV Eng
+#EXTINF:-1 tvg-name="Baby TV Eng" tvg-logo="https://logo.catvod.com/Baby TV Eng.png" group-title="兒童頻道",Baby TV Eng
 http://smt.iptv543.com/Smart.php?id=Babytv
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title=兒童頻道,CBeebies
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://logo.catvod.com/CBeebies.png" group-title="兒童頻道",CBeebies
 http://smt.iptv543.com/Smart.php?id=Cbeebies
-#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title=兒童頻道,Kids TV
+#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://logo.catvod.com/Kids TV.png" group-title="兒童頻道",Kids TV
 http://smt.iptv543.com/Smart.php?id=KidsTV
-#EXTINF:-1 tvg-name="Momo TV" tvg-logo="https://logo.catvod.com/Momo TV.png" group-title=兒童頻道,Momo TV
+#EXTINF:-1 tvg-name="Momo TV" tvg-logo="https://logo.catvod.com/Momo TV.png" group-title="兒童頻道",Momo TV
 http://smt.iptv543.com/Smart.php?id=momo1_twn
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title=兒童頻道,Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://logo.catvod.com/Animax.png" group-title="兒童頻道",Animax
 http://smt.iptv543.com/Smart.php?id=Animax
-#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://logo.catvod.com/Baby TV.png" group-title=兒童頻道,Baby TV
+#EXTINF:-1 tvg-name="Baby TV" tvg-logo="https://logo.catvod.com/Baby TV.png" group-title="兒童頻道",Baby TV
 http://smt.iptv543.com/Smart.php?id=babytv_twn
-#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://logo.catvod.com/MiaoMi.png" group-title=兒童頻道,MiaoMi
+#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://logo.catvod.com/MiaoMi.png" group-title="兒童頻道",MiaoMi
 http://smt.iptv543.com/Smart.php?id=MiaoMi
-#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://logo.catvod.com/靖天卡通.png" group-title=兒童頻道,靖天卡通
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://logo.catvod.com/靖天卡通.png" group-title="兒童頻道",靖天卡通
 http://smt.iptv543.com/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-name="東森幼幼" tvg-logo="https://logo.catvod.com/東森幼幼.png" group-title=兒童頻道,東森幼幼
+#EXTINF:-1 tvg-name="東森幼幼" tvg-logo="https://logo.catvod.com/東森幼幼.png" group-title="兒童頻道",東森幼幼
 http://smt.iptv543.com/Smart.php?id=yoyo_twn
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title=兒童頻道,Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logo.catvod.com/Cartoon Network.png" group-title="兒童頻道",Cartoon Network
 http://smt.iptv543.com/Smart.php?id=Cn
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title=兒童頻道,Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://logo.catvod.com/Nickelodeon.png" group-title="兒童頻道",Nickelodeon
 http://smt.iptv543.com/Smart.php?id=Nickelodeon
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title=兒童頻道,Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://logo.catvod.com/Nick Jr.png" group-title="兒童頻道",Nick Jr
 http://smt.iptv543.com/Smart.php?id=Nickjr
 #EXTINF:-1 tvg-name="Astro Premier League 1" tvg-logo="https://logo.catvod.com/Astro Premier League 1.png" group-title="體育頻道",Astro Premier League 1
 http://smt.iptv543.com/Smart.php?id=go_assp1
@@ -2244,6 +2244,7 @@ p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 #EXTINF:-1 tvg-name="MOM TEACH SEX" tvg-logo="https://logo.catvod.com/MOM TEACH SEX.png" group-title="私人頻道_543",MOM TEACH SEX
 p3p://fccsen.dyndns.tv:29706/615a6095000f18a6b9daef7b58eb58ee
+
 
 
 
