@@ -84,12 +84,8 @@ http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 http://220.134.196.147:8524/http/61.219.99.20:8081/hls/87/80/PtsTaiwanPlus4max.m3u8
 #EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 group-title="台灣酒店" tvg-name="壹新聞" tvg-logo="https://epg.112114.xyz/logo/壹新聞.png" epg-url="https://epg.112114.xyz/pp.xml",壹新聞
-https://live.catvod.com/catvod_com.php?id=yinews&token=9b8fcb98910fd05c870ca1b8bf744d5bd6b907b8e2e6eae29ad7dac230240454%3A1759388941%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣酒店",年代新聞
 http://smt.iptv543.com/Smart.php?id=niandainews_twn
-#EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
-https://live.catvod.com/catvod_com.php?id=niandainews_twn&token=7cf27f76b795bc58f05a339592e67ab4dd65f09fc236a52adde03ca9b640d33f%3A1759388941%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
 p2p://142.54.189.229:2666/64df11830008ea4904a2921502394fe8.ts
 #EXTINF:-1 group-title="台灣酒店" tvg-name="年代新聞" tvg-logo="https://epg.112114.xyz/logo/年代新聞.png" epg-url="https://epg.112114.xyz/pp.xml",年代新聞
@@ -164,25 +160,17 @@ http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
 http://smt.iptv543.com/Smart.php?id=eltasport_twn
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
-https://live.catvod.com/catvod_com.php?id=eltasport_twn&token=f9e49834f1f79d0ec9f39c071e347eb96148cef04459b5f28953ec21844f7767%3A1759388941%3AMTE4LjE1MC4xMTYuMjEy
-#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://logo.catvod.com/愛爾達體育1台.png" group-title="台灣酒店",愛爾達體育1台
 http://tv543.cc/Smart.php?id=eltasport1_twn
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
 http://smt.iptv543.com/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
 http://66.90.99.154:8278/eltasport2_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=5ed4db070bbb88905b02dc3901ec6c98
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://logo.catvod.com/愛爾達體育2台.png" group-title="台灣酒店",愛爾達體育2台
-https://live.catvod.com/catvod_com.php?id=eltasport2_twn&token=c50722008c35cbccf37aba6e530bc50feb4695b800ee0c80827ca3cbace1b3fe%3A1759388941%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
 http://smt.iptv543.com/Smart.php?id=eltasport3_twn
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
-https://live.catvod.com/catvod_com.php?id=eltasport3_twn&token=6273bde30487364255277579879d10dd7d562be873ac475c30433ad19539bb75%3A1759388941%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://logo.catvod.com/愛爾達體育3台.png" group-title="台灣酒店",愛爾達體育3台
 http://tv543.cc/Smart.php?id=eltasport3_twn
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="台灣酒店",愛爾達體育4台
 http://smt.iptv543.com/Smart.php?id=eltasport4_twn
-#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="台灣酒店",愛爾達體育4台
-https://live.catvod.com/catvod_com.php?id=eltasports4_twn&token=f89a38e74af3db50fe5015ca4d923c69fb06d2725732af93c6e994eaef4ed178%3A1759388941%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="台灣酒店",愛爾達體育4台
 http://tv543.cc/Smart.php?id=eltasports4_twn
 #EXTINF:-1 group-title="台灣酒店" tvg-name="廈門衛視" tvg-logo="https://epg.112114.xyz/logo/廈門衛視.png" epg-url="https://epg.112114.xyz/pp.xml",廈門衛視
