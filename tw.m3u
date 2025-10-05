@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://logo.doube.eu.org/台視.png" group-title="台灣頻道",台視
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://logo.doube.eu.org/台視.png" group-title="台灣酒店",台視
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="中視HD" tvg-logo="https://logo.catvod.com/中視HD.png" group-title="台灣酒店",中視HD
 http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
