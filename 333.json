@@ -1,5 +1,9 @@
    {
     "urls": [
+    {
+      "url": "http://肥猫.com",
+      "name": "🚀肥猫线路"
+    },  
      { 
       "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技"
     },
@@ -11,10 +15,6 @@
     
     { 
       "url": "http://ok321.top/ok", "name": "OK佬" 
-    },
-       
-     { 
-      "url": "http://www.饭太硬.xyz/tv", "name": "饭太硬" 
     },
 
     { 
@@ -45,10 +45,7 @@
       "url": "https://ztha.top/TVBox/thdjk.json",
       "name": "🚀挺好线路"
     },
-    {
-      "url": "http://肥猫.com",
-      "name": "🚀肥猫线路"
-    },
+  
        
     {
       "name": "🚀俊佬在线",
@@ -65,11 +62,6 @@
       "url": "https://xn--8owq8u.com/tv/",
       "name": "🚀毒盒线路"
     },
-
-    {
-      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
-      "name": "🚀青龙影线"
-    },
     {
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
       "name": "🚀短剧大全"
@@ -78,6 +70,7 @@
  }
 
    
+
 
 
 
