@@ -118,26 +118,7 @@
       "jar": "https://chuxinya.top/f/pQk5TA/兔叽.jar",
       "ext": "https://www.wwgz.cn"
     },
-    {
-      "key": "茶杯",
-      "name": "李根┃茶杯狐影视",
-      "type": 3,
-      "api": "https://gitee.com/yuan301/tv/raw/master/A/茶杯.py"
-    },
-    {
-      "key": "咖啡弹幕版",
-      "name": "李根┃咖啡弹幕",
-      "type": 3,
-      "api": "csp_KaFeiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
+       {
       "key": "爆炸",
       "name": "李根｜爆炸影视",
       "type": 3,
@@ -146,19 +127,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
     },
-    {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "李根┃腾云影视",
-      "type": 3,
-      "api": "https://gitee.com/aliluya1203/TVBox/raw/main/JS/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/aliluya1203/TVBox/raw/main/JS/腾讯视频.js"
-    },
-        {
+            {
       "key": "爱奇艺",
       "name": "李根┃爱奇艺",
       "type": 3,
@@ -187,22 +156,7 @@
         "version": "120"
       }
     },
-    {
-      "key": "1若惜",
-      "name": "李根｜若惜弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "https://chuxinya.top/f/pQk5TA/兔叽.jar",
-      "ext": {
-        "url": "http://110.40.59.188:9527",
-        "dataKey": "ebad3f1a58b13933",
-        "dataIv": "ebad3f1a58b13933",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
+        {
       "key": "萝卜",
       "name": "李根｜萝卜弹幕",
       "type": 3,
@@ -245,16 +199,7 @@
       "ext": "https://shdy5.us",
       "jar": "https://tv.菜妮丝.top/jar/feimao0731.jar;md5;4bb05945b726cf06209fb3b562f6aa83"
     },
-    {
-      "key": "csp_baibai",
-      "name": "李根｜白白影视",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_SuBaiBai",
-      "jar": "https://chuxinya.top/f/pQk5TA/兔叽.jar",
-      "ext": "https://www.subaibai.com"
-    },
-    {
+       {
       "key": "糯米影视",
       "name": "李根┃糯米影视",
       "type": 3,
@@ -321,61 +266,7 @@
         "version": "119"
       }
     },
-    {
-      "api": "https://zhxy.eu.org/api/KTV歌厅[听]",
-      "ext": "",
-      "filterable": 1,
-      "key": "drpyS_KTV歌厅[听]",
-      "name": "李根┃音乐MV",
-      "quickSearch": 0,
-      "searchable": 2,
-      "type": 4
-    },
-    {
-      "key": "2400部恐怖电影📲",
-      "name": "🎬恐怖电影┃李根",
-      "type": 3,
-      "api": "http://zizhuyun.top/yuan/jy/lib/16.js",
-      "ext": "http://zizhuyun.top/yuan/jy/lib/2400.js"
-    },
-    {
-      "key": "鬼片之家",
-      "name": "鬼片影视┃李根",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://zizhuyun.top/yuan/jy/xyqxbpq.jar",
-      "ext": "http://zizhuyun.top/yuan/jy/lib/鬼片.json"
-    },
-    {
-      "key": "巧技",
-      "name": "李根┃搜索4K",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-    },
-    {
-      "key": "yhdm",
-      "name": "李根┃樱花动漫",
-      "type": 3,
-      "api": "csp_YHDMGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 15
-    },
-    {
-      "key": "动漫巴士",
-      "name": "李根┃巴士动漫",
-      "type": 3,
-      "api": "csp_Dm84Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
-    },
-        {
+           {
       "key": "热播影视",
       "name": "李根┃热播影视",
       "type": 3,
@@ -429,20 +320,7 @@
         "version": "107"
       }
     },
-       {
-      "key": "咖啡",
-      "name": "李根┃咖啡李根",
-      "type": 3,
-      "api": "csp_AppGet2",
-      "ext": {
-        "url": "",
-        "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
-        "dataKey": "qwertyuiopqwertt",
-        "dataIv": "qwertyuiopqwertt",
-        "deviceId": "",
-        "version": "109"
-      }
-    },
+         
         {
       "key": "人人",
       "name": "李根┃人人秒播",
@@ -535,19 +413,7 @@
       "api": "https://7337.kstore.space/kjtv/js/drpy2.min.js",
       "ext": "https://7337.kstore.space/kjtv/js/爱奇艺.js"
     },
-        {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "李根腾腾|4K🐎",
-      "type": 3,
-      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://150.158.112.123/jar/tx4k.js"
-    },
-    {
+            {
       "key": "爱奇艺",
       "name": "李根爱奇┃影视",
       "type": 3,
@@ -667,71 +533,7 @@
         "体  育"
       ]
     },
-    {
-      "key": "木耳秒播",
-      "name": "李根秒播",
-      "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 20,
-      "categories": [
-        "剧情片",
-        "动作片",
-        "冒险片",
-        "喜剧片",
-        "奇幻片",
-        "同性片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "歌舞片",
-        "战争片",
-        "经典片",
-        "动画电影",
-        "网络电影",
-        "其他片",
-        "国产剧",
-        "港剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "台剧",
-        "欧美剧",
-        "新马剧",
-        "其他剧",
-        "国产综艺",
-        "港台综艺",
-        "韩国综艺",
-        "日本综艺",
-        "欧美综艺",
-        "新马泰综艺",
-        "其他综艺",
-        "古装短剧",
-        "虐恋短剧",
-        "逆袭短剧",
-        "神豪短剧",
-        "重生短剧",
-        "复仇短剧",
-        "穿越短剧",
-        "甜宠短剧",
-        "强者短剧",
-        "欧美动漫",
-        "日本动漫",
-        "韩国动漫",
-        "国产动漫",
-        "港台动漫"
-      ],
-      "header": {
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-      }
-    },
-    {
+        {
       "key": "天翼资源",
       "name": "李根天翼",
       "type": 1,
