@@ -45,20 +45,7 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662",
       "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
     },
-    {
-      "key": "文才",
-      "name": "🥇李根┃李根影院",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
+       {
       "key": "肥猫",
       "name": "李根┃肥猫影视",
       "type": 3,
@@ -141,22 +128,7 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
     },
-    {
-      "key": "雄鹰",
-      "name": "李根｜雄鹰弹幕",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "https://chuxinya.top/f/pQk5TA/兔叽.jar",
-      "ext": {
-        "url": "http://122.228.193.2:9988",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-        {
+            {
       "key": "萝卜",
       "name": "李根｜萝卜弹幕",
       "type": 3,
@@ -427,18 +399,7 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
     },
-           {
-      "api": "csp_CangShuGuard",
-      "filterable": 1,
-      "jar": "https://gitee.com/zxmoyun/test/raw/master/NMVNUpzf.png;md5;THISISMD5",
-      "key": "仓鼠",
-      "name": "李根仓鼠4K",
-      "quickSearch": 1,
-      "searchable": 1,
-      "timeout": 10,
-      "type": 3
-    },
-      {
+                 {
       "key": "中田影院",
       "name": "李根影院",
       "type": 1,
@@ -1178,3 +1139,4 @@
     }
   ]
 }
+
