@@ -12,7 +12,9 @@
       "name": "🐸影視",
       "url": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/config.json"
     },
-   
+   { 
+      "url": "http://dodo.3d.tc/i/86813398.png", "name": "李根"
+    },   
     {
       "name": "🎉黑木🎉",
       "url": "http://tv543.cc/1.json"},   
@@ -29,6 +31,7 @@
       "url": "http://tv543.cc/18.json"
     }
    ]}
+
 
 
 
