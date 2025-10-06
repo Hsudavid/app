@@ -8,7 +8,7 @@
       "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技"
     },
      { 
-      "url": "http://dodo.3d.tc/i/86813398.png", "name": "李根"
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/li.json", "name": "李根"
     },   
 
     {
@@ -73,6 +73,7 @@
  }
 
    
+
 
 
 
