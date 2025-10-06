@@ -13,8 +13,9 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }  
-  ],
+    }
+
+     ],
   "sites": [
     {
       "key": "天天",
@@ -67,15 +68,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
     },
-       {
-      "key": "kafeiys",
-      "name": "狂风┃APP",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942422493i0g712948hk8k7i75hj59g6l73010l0lkhkj0h0g5i48i208k1il0gihj36j48k9j0g4gj04h6g233200hh2k593g471j368g73ill1i5ig9g790"
-    },
-    {
+          {
       "key": "huomaoys",
       "name": "火猫┃App",
       "type": 3,
@@ -518,5 +511,5 @@
   "ads": [
     "43.248.128.138"
   ]
-
 }
+
