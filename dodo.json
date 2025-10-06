@@ -169,16 +169,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "快看",
-      "name": "快看┃直连",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
     {
       "key": "360_spider",
       "name": "360┃解析",
@@ -512,4 +503,5 @@
     "43.248.128.138"
   ]
 }
+
 
