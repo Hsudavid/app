@@ -8,6 +8,10 @@
       "name": "🎉cat🎉",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.json"
     },
+     { 
+      "name": "🎉李根🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/li.json"
+    },
     {
       "name": "🐸影視",
       "url": "https://raw.githubusercontent.com/4TVBox/TVBox/refs/heads/main/config.json"
@@ -29,6 +33,7 @@
       "url": "http://tv543.cc/18.json"
     }
    ]}
+
 
 
 
