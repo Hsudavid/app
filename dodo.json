@@ -3,14 +3,18 @@
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext="
-          ]
-        }
+      "name": "台灣酒店",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "台灣綜合",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+
       ]
     }
   ],
@@ -23,15 +27,7 @@
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
-    {
-      "key": "拾光",
-      "name": "拾光┃秒播APP",
-      "type": 3,
-      "api": "csp_Hmys",
-      "playerType": 1,
-      "ext": "https://dy.jmzp.net.cn"
-    },
-    {
+       {
       "key": "csp_xlys",
       "name": "修罗┃无搜索",
       "type": 3,
@@ -74,15 +70,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
     },
-    {
-      "key": "lanyingys",
-      "name": "橘子4K┃APP",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "7lj763gg0939790i5g649ki3hj5k98jil1g6jqiaoji6jg2458hhjjh9i4i62271j0hj124lj80ll9i8"
-    },
-    {
+       {
       "key": "kafeiys",
       "name": "狂风┃APP",
       "type": 3,
@@ -114,15 +102,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
     },
-    {
-      "key": "柚子",
-      "name": "柚子┃无搜索",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942463j9j9jh7498j9gl6k6i952i1i66j6l46590lklll457g593li27lkkhj0gh0j56j48kkj2kglg4gi6g744207ihj9793jl77j368g03kh11k10g8"
-    },
-    {
+       {
       "key": "永夜",
       "name": "永夜┃App",
       "type": 3,
@@ -130,15 +110,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i794248398hi3g05j9i9hhig7j94k818g326i41491kljk31l5k00559751hk81479j872853hk8ilhh31lk2k4616457ggg6j3k83gg46il2649h7j71l7l9ii87g2513821g55k1j0493li7k5643hil46002h2k8h6jih135l2384h"
     },
-    {
-      "key": "趣看",
-      "name": "趣看┃无搜索",
-      "type": 3,
-      "api": "csp_Qiji",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942522k849kg4499i9hl1k5ik48i38l292l1l4l1klgl41255091i8313k2ik478h8j751kh28kh9gj56l3k874684ll3h7j9k83l9034li7lhi5g45k8k3jhhkk760276g8h5h295i9jk7597177g3kk773hh59kl8"
-    },
-    {
+       {
       "key": "星河",
       "name": "星河┃App",
       "type": 3,
@@ -146,15 +118,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i7942463j9j9jgg568780llhk844hi59920376g4402k6j3314g3g30876g828i65g6982j25h89gk3j63kl6i44h6569j1g6lii93gj66jg1"
     },
-    {
-      "key": "时常",
-      "name": "时常┃无搜索",
-      "type": 3,
-      "api": "csp_Qiji",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942423k8hi1h1498h87k1hi9h0l9ljj69771i4k08k0h4145543139753h0825g9i91751ih18gklk916k4k32k7751k9lj9gh2329j29kl7ih94i52lhk2i5h7k563732gii1669038kk45i6760h0kl6932l5jgljj7j87jl43k03423j31"
-    },
-    {
+{
       "key": "巧技三",
       "name": "巧技三┃QD4K",
       "type": 3,
@@ -178,15 +142,7 @@
       "playerType": 2,
       "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
     },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg093979590464ji85lk0jj9i5hill9j0795jj6k761j451lhjkj0l4l1223974kh3994197i56g4lkkj2g4gl1ik3ki58754jk0h3j8l867j46lg03kll1k44lkkh91l2g2"
-    },
-    {
+      {
       "key": "柠檬",
       "name": "柠檬┃App",
       "type": 3,
@@ -194,29 +150,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-    {
-      "key": "AI2",
-      "name": "AI2┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354l2k91k151k138612g78g5j858j3l18l295l9l857lhjj6l6k57k8hkigh373ih6jh327804i43l3l9j6gjk57l7938h64i28509kh7656771l1j55j67jk8kljj5h478l457485g2l40j537l4h67ih345g420686258i648jh8k4l6ij828lk496588370j9ijj5h69591i411g0i38l10jg4j8l45j3jj87h78kj324hg71hj92i20l8326gk9464360kk4257l6j98h07j91ji35k7kg45i"
-    },
-    {
-      "key": "AI3",
-      "name": "AI3┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "7lj763gg0939795i037ki481k20ki2i3g3lk840883843k6k5l4354k0k10k48411g8654l9885g83ih2h0lh295lll81jg8k66l7011l8hji0l432912jhi3hk3140kghkhj3ghl7782871"
-    },
-    {
+        {
       "key": "Dygang",
       "name": "电影港[边下边播]",
       "type": 3,
@@ -288,28 +222,7 @@
       "filterable": 0,
       "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
     },
-    {
-      "key": "csp_sbb",
-      "name": "布布┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "Auete┃无搜索",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+       {
       "key": "NoSearch_csp_BBB",
       "name": "哔哩哔哩",
       "type": 3,
