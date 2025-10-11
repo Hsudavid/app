@@ -1,23 +1,23 @@
-     {
+    {
     "urls": [
     {
       "url": "http://肥猫.com", "name": "肥猫"
     },  
-  { 
+    { 
       "url": "http://www.饭太硬.com/tv", "name": "饭太硬" 
     },
-   { 
+    { 
       "url": "https://zthaa.top/th/api.json", "name": "挺好" 
     },
     { 
       "url": "http://tvbox.王二小放牛娃.top/", "name": "放牛娃" 
     },
 
-   { 
+    { 
       "url": "https://tv.菜妮丝.top/", "name": "菜妮丝" 
     },
 
-     { 
+    { 
       "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技"
     },
     { 
@@ -26,17 +26,12 @@
        
     { 
       "url": "http://ok321.top/ok", "name": "OK佬" 
-    },
-
-      
-      {
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "name": "🚀短剧大全"
     }
    ]
  }
 
    
+
 
 
 
