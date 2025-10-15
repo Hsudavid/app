@@ -133,16 +133,7 @@
       "ext": "https://tvbox.catvod.com/js/tianlong.json"
     },
     
-    {
-      "key": "旺旺",
-      "name": "旺旺",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/wangwang.json"
-    },
+    
     {
       "key": "4k",
       "name": "4k",
@@ -174,16 +165,7 @@
       "filterable": 1,
       "ext": "https://tvbox.catvod.com/js/5555kan.json"
     },
-    {
-      "key": "guangun",
-      "name": "光棍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/guangun.json"
-    },
+   
     {
       "key": "qiyou",
       "name": "奇优",
@@ -353,6 +335,7 @@
     }
   ]
 }
+
 
 
 
