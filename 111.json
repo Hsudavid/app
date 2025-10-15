@@ -1,12 +1,21 @@
 {
   "urls": [
-    { 
-      "name": "🎉盒子之家🎉",
-      "url": "http://tv543.cc/catvod.bmp"
-    },
+   
     { 
       "name": "🎉cat🎉",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.json"
+    },
+     { 
+      "name": "🎉彥1🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json"
+    },
+    { 
+      "name": "🎉彥2🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json"
+    },
+    { 
+      "name": "🎉彥3🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json"
     },
      { 
       "name": "🎉李根🎉",
@@ -30,6 +39,7 @@
       "url": "http://tv543.cc/18.json"
     }
    ]}
+
 
 
 
