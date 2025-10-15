@@ -12,18 +12,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "黑木影视",
-      "name": "黑木影视",
-      "type": 1,
-      "api": "https://heimuer.ggff.net/api.php/tvbox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "header": {
-        "User-Agent": "Lavf/58.12.100"
-      }
-    },
+   
     {
       "key": "小苹果",
       "name": "小苹果",
@@ -444,6 +433,7 @@
     }
   ]
 }
+
 
 
 
