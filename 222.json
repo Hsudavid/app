@@ -1,0 +1,30 @@
+  {
+    "urls": [
+    {
+      "url": "http://肥猫.com", "name": "肥猫"
+    },  
+        { 
+      "url": "https://zthaa.top/th/api.json", "name": "挺好" 
+    },
+    { 
+      "url": "http://tvbox.王二小放牛娃.top/", "name": "放牛娃" 
+    },
+    { 
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.json", "name": "貓仔"
+    },
+    { 
+      "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技"
+    },
+    { 
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/li.json", "name": "李根"
+    },   
+       
+    { 
+      "url": "http://ok321.top/ok", "name": "OK佬" 
+    },
+    { 
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/102.json", "name": "采集"
+    }   
+
+   ]
+ }
