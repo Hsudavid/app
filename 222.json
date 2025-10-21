@@ -9,6 +9,12 @@
     { 
       "url": "http://tvbox.王二小放牛娃.top/", "name": "放牛娃" 
     },
+     { 
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/xc.json", "name": "xc"
+    }, 
+     { 
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/dodo.json", "name": "dodo"
+    }, 
     { 
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.json", "name": "貓仔"
     },
@@ -27,4 +33,5 @@
     }   
 
    ]
+
  }
