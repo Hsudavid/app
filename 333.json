@@ -24,7 +24,12 @@
     { 
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/li.json", "name": "李根"
     },   
-       
+      { 
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/9877.json", "name": "9877"
+    },     
+     { 
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/xc.json", "name": "xc"
+    },       
     { 
       "url": "http://ok321.top/ok", "name": "OK佬" 
     }
@@ -32,6 +37,7 @@
  }
 
    
+
 
 
 
