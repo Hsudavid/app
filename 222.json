@@ -2,7 +2,7 @@
     "urls": [
   
       {
-      "url": "http://hello.肥猫.com", "name": "肥猫"
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json", "name": "彥2"
     },   
       
         {
@@ -15,6 +15,9 @@
       "url": "http://tvbox.王二小放牛娃.top/", "name": "放牛娃" 
     },
    
+      {
+      "url": "http://hello.肥猫.com", "name": "肥猫"
+    },   
      { 
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/dodo.json", "name": "dodo"
     }, 
@@ -38,6 +41,7 @@
    ]
 
  }
+
 
 
 
