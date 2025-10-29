@@ -1,6 +1,18 @@
   {
     "urls": [
-    
+      { 
+      "name": "🎉彥1🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json"
+    },
+    { 
+      "name": "🎉彥2🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json"
+    },
+    { 
+      "name": "🎉彥3🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json"
+    },
+
         { 
       "url": "https://zthaa.top/th/api.json", "name": "挺好" 
     },
@@ -21,4 +33,5 @@
       "url": "http://ok321.top/ok", "name": "OK佬" 
     }
    ]
+
  }
