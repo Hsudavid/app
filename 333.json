@@ -1,42 +1,43 @@
-    {
+     {
     "urls": [
-   
-    { 
-      "url": "http://www.饭太硬.net/tv", "name": "饭太硬" 
+      { 
+      "name": "🎉彥1🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json"
     },
     { 
+      "name": "🎉彥2🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json"
+    },
+    { 
+      "name": "🎉彥3🎉",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json"
+    },
+
+        { 
       "url": "https://zthaa.top/th/api.json", "name": "挺好" 
     },
-     {
-      "url": "http://hello.肥猫.com", "name": "肥猫"
-    },      
     { 
       "url": "http://tvbox.王二小放牛娃.top/", "name": "放牛娃" 
     },
-
-    { 
-      "url": "https://tv.菜妮丝.top/", "name": "菜妮丝" 
-    },
-
-    { 
+     { 
       "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技"
     },
+    {
+      "url": "http://肥猫.com", "name": "肥猫"
+    },  
     { 
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/li.json", "name": "李根"
     },   
-      { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/9877.json", "name": "9877"
-    },     
-     { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/xc.json", "name": "xc"
-    },       
+       
     { 
       "url": "http://ok321.top/ok", "name": "OK佬" 
     }
    ]
+
  }
 
    
+
 
 
 
