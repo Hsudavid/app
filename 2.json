@@ -21,15 +21,6 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/jackTV.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "tv",
-      "type": 0,
-      "url": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/tv/?ou=405",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
-      "playerType": 2,
-      "timeout": 10
     }
   ],
   "sites": [
@@ -913,6 +904,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
