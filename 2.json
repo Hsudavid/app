@@ -16,7 +16,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
+{
+      "name": "jackTV",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/jackTV.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "tv",
       "type": 0,
@@ -908,6 +913,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
