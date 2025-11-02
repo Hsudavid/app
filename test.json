@@ -51,23 +51,7 @@
       "changeable": 0,
       "indexs": 0
     },
-       {
-      "key": "Wexhanxiaoquan",
-      "name": "💥韩剧┃秒播💥",
-      "type": 3,
-      "api": "csp_WexhanxiaoquanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexrenrenyingshi",
-      "name": "💥人人┃秒播💥",
-      "type": 3,
-      "api": "csp_WexrenrenyingshiGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
+{
       "key": "賤賤",
       "name": "💥賤片┃p2p💥",
       "type": 3,
@@ -75,39 +59,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "WexkuihuatvGuard",
-      "name": "💥葵花┃影视💥",
-      "type": 3,
-      "api": "csp_WexkuihuatvGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexwencai",
-      "name": "🌺文才┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexwencaiGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexxpgtv",
-      "name": "🌺苹果┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexxpgtvGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexshandian",
-      "name": "🌺闪电┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexshandianGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
+      {
       "key": "Wexbaozitv",
       "name": "🎇包子┃秒播🎇",
       "type": 3,
@@ -163,130 +115,7 @@
       "searchable": 1,
       "changeable": 0
     },
-    {
-      "key": "Wexemby",
-      "name": "🀄️emby┃4K🀄️",
-      "type": 3,
-      "api": "csp_WexembyGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexNewHuYa",
-      "name": "🐯‍虎牙┃直播🐯‍",
-      "type": 3,
-      "api": "csp_WexNewHuYaGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexNewDouYu",
-      "name": "🐳斗鱼┃直播🐳",
-      "type": 3,
-      "api": "csp_WexNewDouYuGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexNewBiLiLive",
-      "name": "🅱️哔哩┃直播🅱️",
-      "type": 3,
-      "api": "csp_WexNewBiLiLiveGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexduanjuquark",
-      "name": "🍉短剧┃夸克🍉",
-      "type": 3,
-      "api": "csp_WexduanjuquarkGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "Wexduanjuvip",
-      "name": "🍉短剧┃免费🍉",
-      "type": 3,
-      "api": "csp_WexduanjuvipGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexduanjuvop",
-      "name": "🍉短剧┃秒播🍉",
-      "type": 3,
-      "api": "csp_WexduanjuvopGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexduanjuhema",
-      "name": "🍉短剧┃仙品🍉",
-      "type": 3,
-      "api": "csp_WexduanjuhemaGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexduanju001",
-      "name": "🍉短剧┃神品🍉",
-      "type": 3,
-      "api": "csp_Wexduanju001Guard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexduanjuvmpGuard",
-      "name": "🍉短剧┃帝品🍉",
-      "type": 3,
-      "api": "csp_WexduanjuvmpGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-        {
-      "key": "Pandalivetv",
-      "name": "😍韩国┃直播😍",
-      "type": 3,
-      "api": "csp_WexPandalivetvGuard",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "Iktv",
-      "name": "🎤KTV┃音乐🎤",
-      "type": 3,
-      "api": "csp_WexIktvGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Wexxifan",
-      "name": "🤡稀饭┃动漫🤡",
-      "type": 3,
-      "api": "csp_WexxifanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexDm84",
-      "name": "🤡巴士┃动漫🤡",
-      "type": 3,
-      "api": "csp_WexDm84Guard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "WexYsj",
-      "name": "🤡异界┃动漫🤡",
-      "type": 3,
-      "api": "csp_WexYsjGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
+      {
       "key": "自定义",
       "name": "🥇全能┃DIY🥇",
       "type": 3,
@@ -498,6 +327,7 @@
 
   ]
 }
+
 
 
 
