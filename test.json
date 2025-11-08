@@ -271,7 +271,7 @@
     },
      ],
   "lives": [
-   "lives": [
+  
     {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
@@ -704,6 +704,7 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
