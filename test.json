@@ -1,31 +1,7 @@
 {
   "spider": "https://coss.yupoo.com/upchat/2025-09-25/1758799916045.jpg;md5;e0739e1404018d77ae4e039bf44094d7",
   "sites": [
-    {
-      "key": "T4-qingting",
-      "name": "音乐-蜻蜓(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/qingting.php"
-    },
-    {
-      "key": "T4-yugaopian",
-      "name": "影视-预告片(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/yugaopian.php"
-    },
-    {
-      "key": "T4-caiji",
-      "name": "影视-采集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/caiji.php"
-    },
-    {
-      "key": "T4-jianpian",
-      "name": "影视-荐片(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/jianpian.php"
-    },
-    {
+       {
       "key": "潮流",
       "name": "🏜┃潮流┃APP",
       "type": 3,
@@ -41,15 +17,7 @@
       "api": "csp_AppRJ",
       "ext": "http://v.lkuys.cn"
     },
-    {
-      "key": "星辉",
-      "name": "🦢┃星辉┃APP",
-      "type": 3,
-      "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
-      "api": "csp_AppRJ",
-      "ext": "http://tt.ysdqjs.cn"
-    },
-    {
+        {
       "key": "肥猫",
       "name": "🐼┃肥猫┃APP",
       "type": 3,
@@ -184,14 +152,7 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn"
     },
-    {
-      "key": "csp_KmeiJu",
-      "name": "🍐┃鸭梨┃影视",
-      "type": 3,
-      "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
-      "api": "csp_KmeiJu"
-    },
-    {
+      {
       "key": "csp_Xlys",
       "name": "🏔️┃修罗┃磁力",
       "type": 3,
@@ -296,14 +257,7 @@
       "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
       "api": "https://6296.kstore.vip/lingdu.py"
     },
-    {
-      "key": "csp_AppXY",
-      "name": "🎀️┃星牙┃短剧",
-      "type": 3,
-      "jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
-      "api": "csp_AppXY"
-    },
-    {
+       {
       "key": "河马短剧",
       "name": "🦛┃河马┃短剧",
       "type": 3,
@@ -315,330 +269,22 @@
       "filterable": 1,
       "playerType": 2
     },
-    {
-      "key": "T4-2024热门",
-      "name": "音乐-热门MV(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=2024"
-    },
-    {
-      "key": "T4-jijiu",
-      "name": "其他-急救(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/jijiu.php"
-    },
-    {
-      "key": "T4-cctv",
-      "name": "其他-央视(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/cctv.php"
-    },
-    {
-      "key": "T4-cntv",
-      "name": "其他-央视2(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/cntv.php"
-    },
-    {
-      "key": "T4-blh",
-      "name": "儿童-贝乐虎(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/beilehu.php"
-    },
-    {
-      "key": "T4-tangdou",
-      "name": "音乐-糖豆(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/tangdou.php"
-    },
-    {
-      "key": "T4-djuu",
-      "name": "音乐-DJUU(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/djuu.php"
-    },
-    {
-      "key": "T4-jieshuo",
-      "name": "B站-解说(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=影视解说"
-    },
-    {
-      "key": "T4-bmtv",
-      "name": "B站-MTV(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=bMTV"
-    },
-    {
-      "key": "T4-Blixs",
-      "name": "B站-相声(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=Blixs"
-    },
-    {
-      "key": "T4-Blixq",
-      "name": "B站-戏曲(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=Blixq"
-    },
-    {
-      "key": "T4-Bliych",
-      "name": "B站-演唱会(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=Bliych"
-    },
-    {
-      "key": "T4-mybili",
-      "name": "B站-mybili(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=我的哔哩"
-    },
-    {
-      "key": "T4-bili",
-      "name": "B站-哔哩(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php"
-    },
-    {
-      "key": "T4-waiyu",
-      "name": "B站-外语(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=waiyu"
-    },
-    {
-      "key": "T4-bili1",
-      "name": "B站-幼儿(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=少儿教育"
-    },
-    {
-      "key": "T4-bili2",
-      "name": "B站-小学(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=小学课堂"
-    },
-    {
-      "key": "T4-bili3",
-      "name": "B站-初中(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=初中课堂"
-    },
-    {
-      "key": "T4-bili4",
-      "name": "B站-高中(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=高中课堂"
-    },
-    {
-      "key": "T4-小灯塔科学",
-      "name": "B站-小灯塔科学(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔科学"
-    },
-    {
-      "key": "T4-小灯塔地理",
-      "name": "B站-小灯塔地理(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔地理"
-    },
-    {
-      "key": "T4-小灯塔百科",
-      "name": "B站-小灯塔百科(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔百科"
-    },
-    {
-      "key": "T4-小灯塔国学",
-      "name": "B站-小灯塔国学(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔国学"
-    },
-    {
-      "key": "T4-儿童口才",
-      "name": "B站-儿童口才(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童口才"
-    },
-    {
-      "key": "T4-儿童拼音",
-      "name": "B站-儿童拼音(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童拼音"
-    },
-    {
-      "key": "T4-儿童识字",
-      "name": "B站-儿童识字(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童识字"
-    },
-    {
-      "key": "T4-儿童思维",
-      "name": "B站-儿童思维(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童思维"
-    },
-    {
-      "key": "T4-儿童英语",
-      "name": "B站-儿童英语(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童英语"
-    },
-    {
-      "key": "T4-儿童硬笔",
-      "name": "B站-儿童硬笔(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童硬笔"
-    },
-    {
-      "key": "T4-儿童编程",
-      "name": "B站-儿童编程(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童编程"
-    },
-    {
-      "key": "T4-儿童武术",
-      "name": "B站-儿童武术(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=儿童武术"
-    },
-    {
-      "key": "T4-哔哩套餐1",
-      "name": "B站-哔哩套餐1(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=哔哩套餐1"
-    },
-    {
-      "key": "T4-哔哩套餐2",
-      "name": "B站-哔哩套餐2(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=哔哩套餐2"
-    },
-    {
-      "key": "T4-软件教程",
-      "name": "B站-软件教程(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=软件教程"
-    },
-    {
-      "key": "T4-合集",
-      "name": "B站-合集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=合集"
-    },
-    {
-      "key": "T4-美食",
-      "name": "B站-美食(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=美食"
-    },
-    {
-      "key": "T4-中医",
-      "name": "B站-中医(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=中医"
-    },
-    {
-      "key": "T4-球类合集",
-      "name": "B站-球类合集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=球类合集"
-    },
-    {
-      "key": "T4-球星合集",
-      "name": "B站-球星合集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/bili.php?id=球星合集"
-    },
-    {
-      "key": "xuexi",
-      "name": "线路|学习",
-      "type": 4,
-      "api": "https://catbox.n13.club/t9/xuexi.php"
-    }
-  ],
+     ],
   "lives": [
+   "lives": [
     {
-      "name": "live.ipv6",
-      "type": 0,
-      "url": "https://catbox.n13.club/jk/live",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
+      "name": "台灣酒店",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "live.ipv6.m3u",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
+      "name": "台灣綜合",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "live.ipv6.local",
-      "type": 0,
-      "url": "./lib/live.ipv6.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "live.fan",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "直播",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "TXT",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "Json",
-      "type": 1,
-      "playerType": 1,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "live.feimao",
-      "type": 0,
-      "playerType": 1,
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=live&proxy=&url="
-          ]
-        }
-      ]
     }
+
   ],
   "doh": [
     {
@@ -1058,6 +704,8 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
+
+
 
 
 
