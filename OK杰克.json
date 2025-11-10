@@ -1,5 +1,5 @@
 {
-  "spider": "https://pan.qingyuji.cn/f/Ev8qU7/o.png;md5;THISISMD5",
+  "spider": "https://pan.qingyuji.cn/f/DK4yi5/oo.png;md5;df0232e9865e819266630113a290610f",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -153,18 +153,7 @@
       "filterable": 1,
       "timeout": 10
     },
-    {
-      "key": "仓鼠",
-      "name": "🐹仓鼠┃App",
-      "type": 3,
-      "api": "csp_CangShuGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 10
-    },
-    {
+        {
       "key": "韩圈",
       "name": "🦄韩圈┃App",
       "type": 3,
@@ -178,7 +167,7 @@
     },
     {
       "key": "厂长",
-      "name": "🌸厂长┃直连",
+      "name": "📔厂长┃直连",
       "type": 3,
       "api": "csp_CzzyGuard",
       "searchable": 1,
@@ -187,7 +176,18 @@
       "filterable": 1,
       "timeout": 10
     },
-       {
+    {
+      "key": "荐片",
+      "name": "⚔️荐片┃手机",
+      "type": 3,
+      "api": "csp_JianpianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+        {
       "key": "️爱看Bot",
       "name": "⛅️爱看┃直连",
       "type": 3,
@@ -253,17 +253,6 @@
       "timeout": 10
     },
     {
-      "key": "csp_Ddys",
-      "name": "🍄低端┃在线",
-      "type": 3,
-      "api": "csp_DdysGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "timeout": 30
-    },
-    {
       "key": "yhdm",
       "name": "🌸樱花┃动漫",
       "type": 3,
@@ -295,17 +284,115 @@
       "changeable": 0,
       "timeout": 20
     },
-         {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
+    {
+      "key": "聚合直播",
+      "name": "📽️聚合┃直播",
       "type": 3,
-      "api": "csp_PushGuard",
+      "api": "csp_LivingGuard",
       "searchable": 0,
-      "filterable": 0,
+      "quickSearch": 0,
       "changeable": 0,
-      "timeout": 25
+      "filterable": 1,
+      "timeout": 10
+    },
+        {
+      "key": "世界听书",
+      "name": "🎸世界┃听书",
+      "type": 3,
+      "api": "csp_BookTingGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 10
+    },
+    {
+      "key": "bilimd",
+      "name": "🅱哔哩┃影视",
+      "type": 3,
+      "api": "csp_BilimdGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
+    },
+    {
+      "key": "bili",
+      "name": "🅱哔哩┃合集",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YJhVp-4r.bmp"
+      },
+      "timeout": 20
+    },
+    {
+      "key": "biliych",
+      "name": "🅱哔哩┃歌曲",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/DLYuzBTJ.bmp"
+      },
+      "timeout": 20
+    },
+    {
+      "key": "bilixs",
+      "name": "🅱哔哩┃相声",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1JTNmUos.bmp"
+      },
+      "timeout": 20
+    },
+    {
+      "key": "bilixp",
+      "name": "🅱哔哩┃小品",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/iO5IVxTF.bmp"
+      },
+      "timeout": 20
     }
-  ],
+      ],
   "parses": [
     {
       "name": "聚合1",
@@ -421,7 +508,7 @@
     "mozai.4gtv.tv"
   ],
   "lives": [
-    {
+  {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -432,8 +519,78 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
 
+    {
+      "name": "AI直播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "MIGU",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Ffy.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingchawusifengxian%26json%3Dtrue",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+      "name": "电视Live",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "timeout": 10
+    },
+    {
+      "name": "江苏移动",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_HuyaGuard",
+      "url": "yqk",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "肥羊虎牙一起看",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "肥羊B站直播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "肥羊斗鱼一起看",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "肥羊YY轮播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    }
   ],
   "ijk": [
     {
@@ -611,7 +768,8 @@
     "uhibo.com",
     ".*boku.*",
     ".*nivod.*",
-    ".*ulivetv.*"
+    ".*ulivetv.*",
+    "iill.top"
   ],
   "rules": [
     {
