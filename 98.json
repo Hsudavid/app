@@ -1,7 +1,23 @@
 {
-  "spider": "https://www.lequxiang.com.cn/down.php/40af81c860f9ae1f15e745a62a1e7834.txt;md5;40af81c860f9ae1f15e745a62a1e7834",
+  "spider": "https://raw.githubusercontent.com/Hsudavid/app/main/yen.txt;md5;40af81c860f9ae1f15e745a62a1e7834",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+ "lives": [
+    {
+      "name": "台灣酒店",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "台灣綜合",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+
+     ],
+
   "sites": [
     {
       "key": "豆瓣",
