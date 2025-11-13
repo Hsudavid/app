@@ -4,7 +4,9 @@
   {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.json", "name": "肥猫"
     },  
- 
+ {
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/98.json", "name": "自用"
+    },   
  {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/OK杰克.json", "name": "OK杰克"
     },  
@@ -34,4 +36,5 @@
    ]
 
  }
+
 
