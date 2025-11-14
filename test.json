@@ -1,5 +1,5 @@
    {
-    "spider": "https://raw.githubusercontent.com/Hsudavid/app/main/yen.txt;md5;40af81c860f9ae1f15e745a62a1e7834",
+    "spider": "https://raw.githubusercontent.com/Hsudavid/app/main/cus.jar;md5;c77efde41ebab1daf37308a1153d3f85",
     "logo": "./logo.gif",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
@@ -497,6 +497,7 @@
         }
     ]
 }
+
 
 
 
