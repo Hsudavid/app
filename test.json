@@ -1,5 +1,5 @@
    {
-    "spider": "https://raw.githubusercontent.com/Hsudavid/app/main/cus.jar;md5;c77efde41ebab1daf37308a1153d3f85",
+  "spider": "https://raw.githubusercontent.com/Hsudavid/app/main/yen.txt;md5;40af81c860f9ae1f15e745a62a1e7834",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
  "lives": [
@@ -1856,6 +1856,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
