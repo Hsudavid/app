@@ -323,6 +323,23 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "宝盒",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+      "ua": "bingcha/1.1(mianfeifenxiang)"
+    },
+    {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "https://3043.kstore.space/bhvip/bh/python/live_smt.py",
+      "ext": {},
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
     }
 
   ]
