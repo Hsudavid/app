@@ -12,12 +12,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-{
-      "name": "MTVS",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+
     {
       "name": "宝盒",
       "type": 0,
@@ -28,6 +23,7 @@
       ]
 
 }
+
 
 
 
