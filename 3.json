@@ -23,16 +23,7 @@
       "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
       "ua": "bingcha/1.1(mianfeifenxiang)"
     },
-     {
-      "name": "【光歌软件分享】",
-      "type": 0,
-      "url": "https://111.v.nxog.top/m/tv/?ou=402",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
-      "playerType": 2,
-      "timeout": 10
-  },
-
+   
     {
       "name": "SMT直播(python)",
       "type": 3,
@@ -643,6 +634,7 @@
     }
   ]
 }
+
 
 
 
