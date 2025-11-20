@@ -6,7 +6,7 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞" tvg-logo="https://logo.doube.eu.org/東森新聞台.png" group-title="台灣頻道",東森新聞
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
 #EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣頻道",年代新聞
-http://smt.iptv543.com/Smart.php?id=niandainews_twn
+https://live.catvod.com/live.php?id=niandainews_twn&token=f64f7724d651851b4776f1069a87b67d55c6c51046af6a66d1f73b1c661030c2%3A1763640950%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="台灣頻道",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://logo.doube.eu.org/民視新聞台.png" group-title="台灣頻道",民視新聞台
@@ -1940,6 +1940,7 @@ https://mt02.utako.moe/tabi/index.m3u8
 https://mt02.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 tvg-name="V Paradise (NSFW)" tvg-logo="https://logo.catvod.com/V Paradise (NSFW).png" group-title="日本",V Paradise (NSFW)
 https://mt02.utako.moe/v_paradise/index.m3u8
+
 
 
 
