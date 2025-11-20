@@ -24,7 +24,7 @@
     {
       "name": "SMT直播(python)",
       "type": 3,
-      "api": "https://3043.kstore.space/bhvip/bh/python/live_smt.py",
+      "api": "https://raw.githubusercontent.com/Hsudavid/app/main/live_smt.py",
       "ext": {},
       "header": {
         "CLIENT-IP": "127.0.0.1",
@@ -518,6 +518,7 @@
     "43.248.128.138"
   ]
 }
+
 
 
 
