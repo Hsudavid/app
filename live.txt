@@ -12,6 +12,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+{
+      "name": "SMT",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/smt.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "宝盒",
       "type": 0,
@@ -22,4 +28,5 @@
       ]
 
 }
+
 
