@@ -10,7 +10,7 @@
     },
     {
       "name": "台灣綜合",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -524,6 +524,7 @@
     "43.248.128.138"
   ]
 }
+
 
 
 
