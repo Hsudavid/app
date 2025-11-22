@@ -10,11 +10,25 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "台灣綜合",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "name": "全球綜合",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+   {
+      "name": "四季",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "MTV",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVs.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
     {
       "name": "宝盒",
       "type": 0,
@@ -1485,4 +1499,5 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
