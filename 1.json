@@ -14,6 +14,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+     {
+      "name": "4gtv",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "宝盒",
       "type": 0,
@@ -518,6 +524,7 @@
     "43.248.128.138"
   ]
 }
+
 
 
 
