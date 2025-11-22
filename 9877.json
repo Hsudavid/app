@@ -2,6 +2,51 @@
   "spider": "https://www.lequxiang.com.cn/down.php/987bee98a7b0f0d0f42c91264ba1b02c.txt;md5;987bee98a7b0f0d0f42c91264ba1b02c",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+   "lives": [
+    {
+      "name": "台灣酒店",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "全球綜合",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.php",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "四季",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "MTV",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVs.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
+    {
+      "name": "宝盒",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
+      "ua": "bingcha/1.1(mianfeifenxiang)"
+    },
+    {
+      "name": "SMT直播(python)",
+      "type": 3,
+      "api": "https://3043.kstore.space/bhvip/bh/python/live_smt.py",
+      "ext": {},
+      "header": {
+        "CLIENT-IP": "127.0.0.1",
+        "X-FORWARDED-FOR": "127.0.0.1"
+      }
+    }
+     ],
   "sites": [
     {
       "key": "豆瓣",
@@ -2391,4 +2436,5 @@
   "ads": [
     "static-mozai.4gtv.tv"
   ]
+
 }
