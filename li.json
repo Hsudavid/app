@@ -493,8 +493,14 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "台灣綜合",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.m3u",
+      "name": "綜合頻道",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/543.PHP",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "四季",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -508,7 +514,7 @@
     {
       "name": "SMT直播(python)",
       "type": 3,
-      "api": "https://3043.kstore.space/bhvip/bh/python/live_smt.py",
+      "api": "https://raw.githubusercontent.com/Hsudavid/app/main/live_smt.py",
       "ext": {},
       "header": {
         "CLIENT-IP": "127.0.0.1",
@@ -518,6 +524,7 @@
 
   ]
 }
+
 
 
 
