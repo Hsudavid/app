@@ -14,6 +14,12 @@
     },
  {
       "name": "MTVS",
+      "url": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
+      "name": "月光宝盒",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -34,6 +40,7 @@
       ]
 
 }
+
 
 
 
