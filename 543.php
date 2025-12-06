@@ -3811,12 +3811,248 @@
 <br />
 <b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
 <br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
+<b>Warning</b>:  Undefined variable $newGroup in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>82</b><br />
+<br />
 <b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/wwwroot/tv543.cc/list.php:82) in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>106</b><br />
 <br />
 <b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/wwwroot/tv543.cc/list.php:82) in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>107</b><br />
 #EXTM3U
 
-ff#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 group-title="台灣備用",AMC 電影台
+
+http://220.134.196.147:8521/http/61.219.99.20:8092/upload/115/AMC_TS-1111_1.m3u8
+
+#EXTINF:-1 group-title="台灣備用",AXN
+
+http://220.134.196.147:8526/http/61.219.99.20:8081/hls/71/813/ch43.m3u8
+
+#EXTINF:-1 group-title="台灣備用",CINEMAX HD
+
+http://220.134.196.147:8535/http/61.219.99.20:8081/hls/71/813/ch42.m3u8
+
+#EXTINF:-1 group-title="台灣備用",DAZN 1
+
+http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+
+#EXTINF:-1 group-title="台灣備用",DAZN 2
+
+http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+
+#EXTINF:-1 group-title="台灣備用",DISCOVERY
+
+http://220.134.196.147:8516/http/61.219.99.20:8081/hls/71/813/ch44.m3u8
+
+#EXTINF:-1 group-title="台灣備用",momo綜合台
+
+http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+
+#EXTINF:-1 group-title="台灣備用",MUCH TV
+
+http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+
+#EXTINF:-1 group-title="台灣備用",TVBS HD
+
+http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+
+#EXTINF:-1 group-title="台灣備用",TVBS新聞HD
+
+http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+
+#EXTINF:-1 group-title="台灣備用",TVBS歡樂HD
+
+http://220.134.196.147:8522/http/61.219.99.20:8081/hls/65/807/ch17.m3u8
+
+#EXTINF:-1 group-title="台灣備用",八大第一HD
+
+http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+
+#EXTINF:-1 group-title="台灣備用",八大綜合HD
+
+http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+
+#EXTINF:-1 group-title="台灣備用",八大戲劇HD
+
+http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+
+#EXTINF:-1 group-title="台灣備用",三立台灣HD
+
+http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+
+#EXTINF:-1 group-title="台灣備用",三立都會HD
+
+http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+
+#EXTINF:-1 group-title="台灣備用",三立新聞HD
+
+http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+
+#EXTINF:-1 group-title="台灣備用",中天娛樂HD
+
+http://220.134.196.147:8509/http/61.219.99.20:8081/hls/67/809/ch26.m3u8
+
+#EXTINF:-1 group-title="台灣備用",中天綜合HD
+
+http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+
+#EXTINF:-1 group-title="台灣備用",中視HD
+
+http://220.134.196.147:8510/http/61.219.99.20:8081/hls/88/80/Ctv4max.m3u8
+
+#EXTINF:-1 group-title="台灣備用",公視
+
+http://220.134.196.147:8554/http/61.219.99.20:8081/hls/87/80/Pts4max.m3u8
+
+#EXTINF:-1 group-title="台灣備用",好萊塢電影HD
+
+http://220.134.196.147:8543/http/61.219.99.20:8081/hls/74/816/ch55.m3u8
+
+#EXTINF:-1 group-title="台灣備用",東風衛視
+
+http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+
+#EXTINF:-1 group-title="台灣備用",東森綜合HD
+
+http://220.134.196.147:9553/http/61.219.99.20:8081/hls/63/805/ch12.m3u8
+
+#EXTINF:-1 group-title="台灣備用",東森戲劇HD
+
+http://220.134.196.147:8536/http/61.219.99.20:8081/hls/64/806/ch13.m3u8
+
+#EXTINF:-1 group-title="台灣備用",緯來日本HD
+
+http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+
+#EXTINF:-1 group-title="台灣備用",緯來育樂HD
+
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+
+#EXTINF:-1 group-title="台灣備用",緯來綜合HD
+
+http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+
+#EXTINF:-1 group-title="台灣備用",緯來體育HD
+
+http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+
+#EXTINF:-1 group-title="測試頻道",緯來體育HD
+
+http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 
 #EXTINF:-1 tvg-name="中視HD" tvg-logo="https://logo.catvod.com/中視HD.png" group-title="台灣備用",中視HD
 
