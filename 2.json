@@ -4,7 +4,7 @@
   "spider": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
   "warningText": "tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
   "lives": [
-  {
+   {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -22,7 +22,20 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-  
+    {
+      "name": "MTV",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+   {
+      "name": "smpd",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/smpd.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
     {
       "name": "宝盒",
       "type": 0,
@@ -40,6 +53,8 @@
         "X-FORWARDED-FOR": "127.0.0.1"
       }
     }
+
+
 
   ],
   "sites": [
@@ -923,6 +938,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
