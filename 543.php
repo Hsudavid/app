@@ -3932,9 +3932,6 @@
 <b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/wwwroot/tv543.cc/list.php:82) in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>106</b><br />
 <br />
 <b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /www/wwwroot/tv543.cc/list.php:82) in <b>/www/wwwroot/tv543.cc/list.php</b> on line <b>107</b><br />
-#EXTM3U
-
-
 
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 
@@ -7453,4 +7450,5 @@ p3p://fccsen.dyndns.tv:29706/615a5de90005f456b9d07d491f60478b
 p3p://fccsen.dyndns.tv:29706/615a5c4f0003cfabb9ca3b2a23026f71
 
 #EXTINF:-1 tvg-name="MOM TEACH SEX" tvg-logo="https://logo.catvod.com/MOM TEACH SEX.png" group-title="私人频道_543",MOM TEACH SEX
+
 
