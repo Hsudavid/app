@@ -1,129 +1,4 @@
-#EXTINF:-1 group-title="歐飛",台視
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",台視新聞
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",中視
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",中視新聞
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",華視
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",華視新聞
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",三立新聞iNEWS
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",中天新聞台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",寰宇新聞台灣台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",寰宇新聞台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",寰宇財經台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",倪珍播新聞
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",倪珍英語新聞
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",倪珍越南語新聞
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",好消息
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",好消息2台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",第1商業台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",國會頻道1台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",國會頻道2台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",ELTV生活英語台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",Smart知識台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",亞洲旅遊台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",台灣戲劇台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",龍華卡通台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",龍華戲劇台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",龍華偶像台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",龍華日韓台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",龍華經典台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",龍華電影台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",龍華洋片台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",東森購物1台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
-#EXTINF:-1 group-title="歐飛",東森購物2台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
-#EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="ofiii直播",台視
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=Doubebly
 
-#EXTINF:-1 tvg-id="4gtv-4gtv051" tvg-name="台視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="ofiii直播",台視新聞
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="ofiii直播",中視
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="ofiii直播",中視新聞
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="ofiii直播",華視
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="ofiii直播",華視新聞
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="ofiii直播",三立新聞iNEWS
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="ofiii直播",中天新聞台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv156" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="ofiii直播",寰宇新聞台灣台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="ofiii直播",寰宇新聞台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv158" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="ofiii直播",寰宇財經台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="nnews-zh" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍播新聞
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-zh&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="nnews-en" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍英語新聞
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-en&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="nnews-vn" tvg-name="倪珍越南語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍越南語新聞
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-vn&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="ofiii直播",好消息
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="ofiii直播",好消息2台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv104" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="ofiii直播",第1商業台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="國會頻道1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="ofiii直播",國會頻道1台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="國會頻道2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="ofiii直播",國會頻道2台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="ofiii直播",ELTV生活英語台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false&token=Doubebly
-
-#EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii直播",Smart知識台
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
 #EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://logo.doube.eu.org/中天新聞.png" group-title="直播TAIWAN",中天新聞(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞台" tvg-logo="https://logo.doube.eu.org/TVBS新聞.png" group-title="直播TAIWAN",TVBS新聞台(LiTV)
@@ -298,6 +173,121 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="生活英語台" tvg-logo="https://logo.doube.eu.org/ELTV生活英語台.png" group-title="直播TAIWAN",生活英語台(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
+ #EXTINF:-1 group-title="台灣酒店",DAZN 1
+http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+#EXTINF:-1 group-title="台灣酒店",DAZN 2
+http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="" group-title="台灣酒店",爱尔达体育1台
+https://tzh911.qzz.io/play-smt.php?id=eltasport1_twn
+#EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="" group-title="台灣酒店",爱尔达体育2台
+https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
+#EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="" group-title="台灣酒店",爱尔达体育3台
+https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
+#EXTINF:-1 tvg-id="爱尔达体育4台" tvg-name="爱尔达体育4台" tvg-logo="" group-title="台灣酒店",爱尔达体育4台
+https://tzh911.qzz.io/play-smt.php?id=eltasports4_twn
+
+#EXTINF:-1 group-title="台灣酒店",momo綜合台
+http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+#EXTINF:-1 group-title="台灣酒店",MUCH TV
+http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="台灣酒店",TVBS HD
+http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="台灣酒店",TVBS新聞HD
+http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+#EXTINF:-1 group-title="台灣酒店",八大第一HD
+http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="台灣酒店",八大綜合HD
+http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="台灣酒店",八大戲劇HD
+http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="台灣酒店",三立台灣HD
+http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="台灣酒店",三立都會HD
+http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="台灣酒店",三立新聞HD
+http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 group-title="台灣酒店",中天娛樂HD
+http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="台灣酒店",中天綜合HD
+http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="台灣酒店",東風衛視
+http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="台灣酒店",旅遊生活
+http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 group-title="台灣酒店",動物星球
+http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="台灣酒店",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="台灣酒店",超視HD
+http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="台灣酒店",緯來育樂HD
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="台灣酒店",緯來綜合HD
+http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="台灣酒店",緯來戲劇
+http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="台灣酒店",緯來體育HD
+http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+#EXTINF:-1 group-title="台灣酒店",寰宇新聞
+http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+#EXTINF:-1 group-title="台灣酒店",寵物頻道
+http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+#EXTINF:-1 group-title="台灣酒店",鏡電視新聞台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 group-title="台灣酒店",鳯凰衛視資訊
+http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="台灣酒店",鳯凰衛視中文
+http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="台灣酒店",中天新闻
+http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
+#EXTINF:-1 group-title="台灣酒店",中天新闻
+http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
+#EXTINF:-1 group-title="台灣酒店",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="台灣酒店",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="台灣酒店",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="台灣酒店",亞太電視綜合台
+http://play2.one-tv.com/live/onetv.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店",澳門蓮花
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店",澳門蓮花衛視
+https://fenghuang.tv12.xyz/187.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店", C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店", C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店", C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店", imode TV全球時尚
+http://player.juyun.tv/camera/137932133.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店", EZTV-1(義大利歐洲華文電視台)
+http://oh.eztv.vip/live/eztv1.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="台灣酒店", VOA中文台(美國VOA衛視華語頻道)
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="台灣酒店",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="台灣酒店",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="龍祥時代電影台" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="台灣酒店",龍祥時代電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=ffmking
+#EXTINF:-1 tvg-name="台灣美亞電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="台灣酒店",台灣美亞電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=meiyamovie_twn&token=ffmking
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="台灣酒店",CINEMAX
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=ffmking
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="台灣酒店",好萊塢電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=ffmking
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="台灣酒店",東森電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=ffmking
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="台灣酒店",東森洋片台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=ffmking
+#EXTINF:-1 tvg-name="Catchplay電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="台灣酒店",Catchplay電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
+#EXTINF:-1 tvg-name="AXN台灣台" tvg-logo="https://logo.catvod.com/AXN.png" group-title="台灣酒店",AXN台灣台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=ffmking
+#EXTINF:-1 tvg-name="HBO亞洲" tvg-logo="https://logo.catvod.com/HBO.png" group-title="台灣酒店",HBO亞洲
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
 #EXTINF:-1 tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_mobile.png" group-title="台湾立視",台視
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv066
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_mobile.png" group-title="台湾立視",中視
@@ -1077,6 +1067,537 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 #EXTINF:-1 group-title="TAIWAN LITV",寰宇財經台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
+#EXTINF:-1 group-title="歐飛",台視
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",台視新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",中視
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",中視新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",華視
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",華視新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",三立新聞iNEWS
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",中天新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",寰宇新聞台灣台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",寰宇新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",寰宇財經台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",倪珍播新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",倪珍英語新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",倪珍越南語新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",好消息
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",好消息2台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",第1商業台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",國會頻道1台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",國會頻道2台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",ELTV生活英語台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",Smart知識台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",亞洲旅遊台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",台灣戲劇台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華卡通台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華戲劇台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華偶像台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華日韓台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華經典台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華電影台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",龍華洋片台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",東森購物1台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
+#EXTINF:-1 group-title="歐飛",東森購物2台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
+#EXTINF:-1 tvg-id="4gtv-4gtv066" tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="ofiii直播",台視
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv051" tvg-name="台視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="ofiii直播",台視新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="ofiii直播",中視
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="ofiii直播",中視新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="ofiii直播",華視
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="ofiii直播",華視新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="ofiii直播",三立新聞iNEWS
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" group-title="ofiii直播",中天新聞台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv156" tvg-name="寰宇新聞台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="ofiii直播",寰宇新聞台灣台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="ofiii直播",寰宇新聞台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv158" tvg-name="寰宇財經台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" group-title="ofiii直播",寰宇財經台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="nnews-zh" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍播新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-zh&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="nnews-en" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍英語新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-en&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="nnews-vn" tvg-name="倪珍越南語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="ofiii直播",倪珍越南語新聞
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=nnews-vn&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" group-title="ofiii直播",好消息
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" group-title="ofiii直播",好消息2台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv104" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="ofiii直播",第1商業台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="國會頻道1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="ofiii直播",國會頻道1台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="國會頻道2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="ofiii直播",國會頻道2台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" group-title="ofiii直播",ELTV生活英語台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii直播",Smart知識台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
+
+#EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="GLOBE 體育",Astro Premier League 1
+https://3065.koyeb.app/smt.php?id=go_assp1
+#EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="GLOBE 體育",Astro EPL 1 backup
+https://3065.koyeb.app/smt.php?id=go_assp1x
+#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="GLOBE 體育",Astro Premier League 2
+https://3065.koyeb.app/smt.php?id=go_assp2
+#EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="GLOBE 體育",Astro Grandstand
+https://3065.koyeb.app/smt.php?id=go_assp3
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="GLOBE 體育",Astro Football
+https://3065.koyeb.app/smt.php?id=go_assp4
+#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="GLOBE 體育",Astro Sports Plus
+https://3065.koyeb.app/smt.php?id=go_sportsplus
+#EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="GLOBE 體育",Astro Badminton 1
+https://3065.koyeb.app/smt.php?id=go_badminton1
+#EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="GLOBE 體育",Astro Badminton 2
+https://3065.koyeb.app/smt.php?id=go_badminton2
+#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="GLOBE 體育",Astro W-Sports
+https://3065.koyeb.app/smt.php?id=go_assp5
+#EXTINF:-1 tvg-id="Supersports 1" tvg-name="Supersports 1" tvg-logo="" group-title="GLOBE 體育",Supersports 1
+https://3065.koyeb.app/smt.php?id=Assp1
+#EXTINF:-1 tvg-id="Supersports 2" tvg-name="Supersports 2" tvg-logo="" group-title="GLOBE 體育",Supersports 2
+https://3065.koyeb.app/smt.php?id=Assp2
+#EXTINF:-1 tvg-id="Supersports 3" tvg-name="Supersports 3" tvg-logo="" group-title="GLOBE 體育",Supersports 3
+https://3065.koyeb.app/smt.php?id=Assp3
+#EXTINF:-1 tvg-id="Supersports 4" tvg-name="Supersports 4" tvg-logo="" group-title="GLOBE 體育",Supersports 4
+https://3065.koyeb.app/smt.php?id=Assp4
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="" group-title="GLOBE 體育",WWE
+https://3065.koyeb.app/smt.php?id=Wwe
+#EXTINF:-1 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-logo="" group-title="GLOBE 體育",Fight Sports
+https://3065.koyeb.app/smt.php?id=Fs
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="" group-title="GLOBE 體育",NBA TV
+https://3065.koyeb.app/smt.php?id=Nba
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-name="Astro Cricket" tvg-logo="" group-title="GLOBE 體育",Astro Cricket
+https://3065.koyeb.app/smt.php?id=Acricket
+#EXTINF:-1 tvg-id="Astro Golf" tvg-name="Astro Golf" tvg-logo="" group-title="GLOBE 體育",Astro Golf
+https://3065.koyeb.app/smt.php?id=Agolf
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="TNT Sports 1" tvg-logo="" group-title="GLOBE 體育",TNT Sports 1
+https://3065.koyeb.app/smt.php?id=6fac0aaead
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNT Sports 2" tvg-logo="" group-title="GLOBE 體育",TNT Sports 2
+https://3065.koyeb.app/smt.php?id=d9a76a79cc
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNT Sports 3" tvg-logo="" group-title="GLOBE 體育",TNT Sports 3
+https://3065.koyeb.app/smt.php?id=5fea4d73db
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNT Sports 4" tvg-logo="" group-title="GLOBE 體育",TNT Sports 4
+https://3065.koyeb.app/smt.php?id=tntsport4
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="" group-title="GLOBE 體育",Sony Ten 1
+https://3065.koyeb.app/smt.php?id=ten1_raj
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="" group-title="GLOBE 體育",Sony Ten 2
+https://3065.koyeb.app/smt.php?id=ten2_raj
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="" group-title="GLOBE 體育",Sony Ten 3
+https://3065.koyeb.app/smt.php?id=ten3_raj
+#EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV 1 HD" tvg-logo="" group-title="GLOBE 體育",SPOTV 1 HD
+https://3065.koyeb.app/smt.php?id=go_spotv
+#EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPO TV 2" tvg-logo="" group-title="GLOBE 體育",SPOTV 2
+https://3065.koyeb.app/smt.php?id=go_spotv2
+#EXTINF:-1 tvg-id="Skysports F1" tvg-name="Skysports F1" tvg-logo="" group-title="GLOBE 體育",Skysports F1
+https://3065.koyeb.app/smt.php?id=tiankongf1
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="Skysports Cricket" tvg-logo="" group-title="GLOBE 體育",Skysports Cricket
+https://3065.koyeb.app/smt.php?id=tiankongcricket
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-name="Skysports EPL" tvg-logo="" group-title="GLOBE 體育",Skysports EPL
+https://3065.koyeb.app/smt.php?id=tiankongepl
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-name="Skysports Main Event" tvg-logo="" group-title="GLOBE 體育",Skysports Main Event
+https://3065.koyeb.app/smt.php?id=tiankongmain
+#EXTINF:-1 tvg-id="Skysports News" tvg-name="Skysports News" tvg-logo="" group-title="GLOBE 體育",Skysports News
+https://3065.koyeb.app/smt.php?id=tiankongnews
+#EXTINF:-1 tvg-id="Skysports Mix" tvg-name="Skysports Mix" tvg-logo="" group-title="GLOBE 體育",Skysports Mix
+https://3065.koyeb.app/smt.php?id=tiankongmix
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育1台
+https://3065.koyeb.app/smt.php?id=eltasport1_twn
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育2台
+https://3065.koyeb.app/smt.php?id=eltasport2_twn
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育3台
+https://3065.koyeb.app/smt.php?id=eltasport3_twn
+#EXTINF:-1 tvg-id="愛爾達體育4台" tvg-name="愛爾達體育4台" tvg-logo="" group-title="GLOBE 體育",愛爾達體育4台
+https://3065.koyeb.app/smt.php?id=natgeowild_twn
+#EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="Rugby Pass TV" tvg-logo="" group-title="GLOBE 體育",Rugby Pass TV
+https://3065.koyeb.app/smt.php?id=Rugbypasstv
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="GLOBE 體育",RTM Sports HD
+https://3065.koyeb.app/smt.php?id=Rtmsport
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="GLOBE 體育",Arena
+https://3065.koyeb.app/smt.php?id=Arena
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="GLOBE 體育",Arena 2
+https://3065.koyeb.app/smt.php?id=Arena2
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="GLOBE 體育",BolaArena 1
+https://3065.koyeb.app/smt.php?id=Bolaarena1
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="GLOBE 體育",BolaArena 2
+https://3065.koyeb.app/smt.php?id=Bolaarena2
+#EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="Astro Beinsports 1" tvg-logo="" group-title="GLOBE 體育",Astro Beinsports 1
+https://3065.koyeb.app/smt.php?id=Astrobein1
+#EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="Astro Beinsports 2" tvg-logo="" group-title="GLOBE 體育",Astro Beinsports 2
+https://3065.koyeb.app/smt.php?id=Astrobein2
+#EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="Astro Beinsports 3" tvg-logo="" group-title="GLOBE 體育",Astro Beinsports 3
+https://3065.koyeb.app/smt.php?id=Astrobein3
+#EXTINF:-1 tvg-id="TVBS News 新聞台" tvg-name="TVBS News 新聞台" tvg-logo="" group-title="GLOBE 台灣",TVBS News 新聞台
+https://3065.koyeb.app/smt.php?id=tvbs_n
+#EXTINF:-1 tvg-id="TVBS 歡樂台 （備份）" tvg-name="TVBS 歡樂台 （備份）" tvg-logo="" group-title="GLOBE 台灣",TVBS 歡樂台 （備份）
+https://3065.koyeb.app/smt.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="GLOBE 台灣",TVBS HD
+https://3065.koyeb.app/smt.php?id=tvbs
+#EXTINF:-1 tvg-id="中天新聞 HD" tvg-name="中天新聞 HD" tvg-logo="" group-title="GLOBE 台灣",中天新聞 HD
+https://3065.koyeb.app/smt.php?id=ctinews
+#EXTINF:-1 tvg-id="中天娛樂 CTI Entertaiment" tvg-name="中天娛樂 CTI Entertaiment" tvg-logo="" group-title="GLOBE 台灣",中天娛樂 CTI Entertaiment
+https://3065.koyeb.app/smt.php?id=ctient
+#EXTINF:-1 tvg-id="中天綜合 CTI Metro" tvg-name="中天綜合 CTI Metro" tvg-logo="" group-title="GLOBE 台灣",中天綜合 CTI Metro
+https://3065.koyeb.app/smt.php?id=ctizhonghe
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="" group-title="GLOBE 台灣",中天亞洲台
+https://3065.koyeb.app/smt.php?id=ctiasia_twn
+#EXTINF:-1 tvg-id="台視 TTV HD" tvg-name="台視 TTV HD" tvg-logo="" group-title="GLOBE 台灣",台視 TTV HD
+https://3065.koyeb.app/smt.php?id=ttv_taiwan
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="" group-title="GLOBE 台灣",台視新聞台
+https://3065.koyeb.app/smt.php?id=ttvnews_twn
+#EXTINF:-1 tvg-id="台視綜合台" tvg-name="台視綜合台" tvg-logo="" group-title="GLOBE 台灣",台視綜合台
+https://3065.koyeb.app/smt.php?id=ttvzhonghe
+#EXTINF:-1 tvg-id="中視 HD" tvg-name="中視 HD" tvg-logo="" group-title="GLOBE 台灣",中視 HD
+https://3065.koyeb.app/smt.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="" group-title="GLOBE 台灣",中視新聞台
+https://3065.koyeb.app/smt.php?id=zhongshinews_twn
+#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="" group-title="GLOBE 台灣",民視 HD
+https://3065.koyeb.app/smt.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-id="民視新聞台 FTV News" tvg-name="民視新聞台 FTV News" tvg-logo="" group-title="GLOBE 台灣",民視新聞台 FTV News
+https://3065.koyeb.app/smt.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="" group-title="GLOBE 台灣",民視台灣台
+https://3065.koyeb.app/smt.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-id="華視 CTS HD" tvg-name="華視 CTS HD" tvg-logo="" group-title="GLOBE 台灣",華視 CTS HD
+https://3065.koyeb.app/smt.php?id=ctshd_twn
+#EXTINF:-1 tvg-id="公視 CTV" tvg-name="公視 CTV" tvg-logo="" group-title="GLOBE 台灣",公視 CTV
+https://3065.koyeb.app/smt.php?id=ctv18_twn
+#EXTINF:-1 tvg-id="八大第一 GTV First" tvg-name="八大第一 GTV First" tvg-logo="" group-title="GLOBE 台灣",八大第一 GTV First
+https://3065.koyeb.app/smt.php?id=badafirst
+#EXTINF:-1 tvg-id="八大綜合 GTV Metro" tvg-name="八大綜合 GTV Metro" tvg-logo="" group-title="GLOBE 台灣",八大綜合 GTV Metro
+https://3065.koyeb.app/smt.php?id=badazhonghe
+#EXTINF:-1 tvg-id="八大戲劇 GTV Drama" tvg-name="八大戲劇 GTV Drama" tvg-logo="" group-title="GLOBE 台灣",八大戲劇 GTV Drama
+https://3065.koyeb.app/smt.php?id=badadrama
+#EXTINF:-1 tvg-id="八大娛樂 GTV Entertainment" tvg-name="八大娛樂 GTV Entertainment" tvg-logo="" group-title="GLOBE 台灣",八大娛樂 GTV Entertainment
+https://3065.koyeb.app/smt.php?id=badaentertain
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="GLOBE 台灣",HBO_HD
+https://3065.koyeb.app/smt.php?id=hbohd_twn
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="GLOBE 台灣",HBO_HITS
+https://3065.koyeb.app/smt.php?id=hbohit_twn
+#EXTINF:-1 tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="" group-title="GLOBE 台灣",Hollywood Movies
+https://3065.koyeb.app/smt.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-id="三立台灣 Sanli Taiwan" tvg-name="三立台灣 Sanli Taiwan" tvg-logo="" group-title="GLOBE 台灣",三立台灣 Sanli Taiwan
+https://3065.koyeb.app/smt.php?id=sanlitaiwan
+#EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="" group-title="GLOBE 台灣",三立戲劇台
+https://3065.koyeb.app/smt.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-id="三立綜合 Sanli Metro" tvg-name="三立綜合 Sanli Metro" tvg-logo="" group-title="GLOBE 台灣",三立綜合 Sanli Metro
+https://3065.koyeb.app/smt.php?id=sanlizhonghe
+#EXTINF:-1 tvg-id="三立都會台" tvg-name="三立都會台" tvg-logo="" group-title="GLOBE 台灣",三立都會台
+https://3065.koyeb.app/smt.php?id=sanlidouhui
+#EXTINF:-1 tvg-id="東森新聞 ETTV News" tvg-name="東森新聞 ETTV News" tvg-logo="" group-title="GLOBE 台灣",東森新聞 ETTV News
+https://3065.koyeb.app/smt.php?id=ettvnews
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="GLOBE 台灣",CINEMAX
+https://3065.koyeb.app/smt.php?id=cinemax_twn
+#EXTINF:-1 tvg-id="東森綜合 ETTV Metro" tvg-name="東森綜合 ETTV Metro" tvg-logo="" group-title="GLOBE 台灣",東森綜合 ETTV Metro
+https://3065.koyeb.app/smt.php?id=ettvzhonghe
+#EXTINF:-1 tvg-id="東森戲劇 ETTV Drama" tvg-name="東森戲劇 ETTV Drama" tvg-logo="" group-title="GLOBE 台灣",東森戲劇 ETTV Drama
+https://3065.koyeb.app/smt.php?id=ettvdrama
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="" group-title="GLOBE 台灣",東森超視
+https://3065.koyeb.app/smt.php?id=ettvsuper
+#EXTINF:-1 tvg-id="東森財經新聞 ETTV Business" tvg-name="東森財經新聞 ETTV Business" tvg-logo="" group-title="GLOBE 台灣",東森財經新聞 ETTV Business
+https://3065.koyeb.app/smt.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-id="寰宇財經" tvg-name="寰宇財經" tvg-logo="" group-title="GLOBE 台灣",寰宇財經
+https://3065.koyeb.app/smt.php?id=huanyutaiwan_twn
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="GLOBE 台灣",寰宇新聞台
+https://3065.koyeb.app/smt.php?id=huanyuxinwen_twn
+#EXTINF:-1 tvg-id="公視2" tvg-name="公視2" tvg-logo="" group-title="GLOBE 台灣",公視2
+https://3065.koyeb.app/smt.php?id=ctv2_twn
+#EXTINF:-1 tvg-id="大愛1台" tvg-name="大愛1台" tvg-logo="" group-title="GLOBE 台灣",大愛1台
+https://3065.koyeb.app/smt.php?id=daai_twn
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="" group-title="GLOBE 台灣",非凡新聞台
+https://3065.koyeb.app/smt.php?id=feifannews_twn
+#EXTINF:-1 tvg-id="龍華戲劇 Lunghua Drama" tvg-name="龍華戲劇 Lunghua Drama" tvg-logo="" group-title="GLOBE 台灣",龍華戲劇 Lunghua Drama
+https://3065.koyeb.app/smt.php?id=lunghuaxiju_twn
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="" group-title="GLOBE 台灣",龍華經典台
+https://3065.koyeb.app/smt.php?id=lunghuajingdian_twn
+#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="" group-title="GLOBE 台灣",龍華偶像
+https://3065.koyeb.app/smt.php?id=lunghuaidol_twn
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="GLOBE 台灣",AXN Taiwan
+https://3065.koyeb.app/smt.php?id=axn_twn
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="" group-title="GLOBE 台灣",靖天國際台
+https://3065.koyeb.app/smt.php?id=jingtianintl_twn
+#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="" group-title="GLOBE 台灣",年代新聞
+https://3065.koyeb.app/smt.php?id=niandainews_twn
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="" group-title="GLOBE 台灣",緯來日本台
+https://3065.koyeb.app/smt.php?id=videolandjapan
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="" group-title="GLOBE 台灣",緯來電影台
+https://3065.koyeb.app/smt.php?id=videolandmovie
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="" group-title="GLOBE 台灣",緯來體育台
+https://3065.koyeb.app/smt.php?id=videolandsport
+#EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="" group-title="GLOBE 台灣",緯來綜合台
+https://3065.koyeb.app/smt.php?id=videolandzonghe
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="" group-title="GLOBE 台灣",緯來育樂
+https://3065.koyeb.app/smt.php?id=videolandyule
+#EXTINF:-1 tvg-id="緯來精彩" tvg-name="緯來精彩" tvg-logo="" group-title="GLOBE 台灣",緯來精彩
+https://3065.koyeb.app/smt.php?id=videolandspecial_twn
+#EXTINF:-1 tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="" group-title="GLOBE 台灣",好消息 2
+https://3065.koyeb.app/smt.php?id=good2_twn
+#EXTINF:-1 tvg-id="大愛2台" tvg-name="大愛2台" tvg-logo="" group-title="GLOBE 台灣",大愛2台
+https://3065.koyeb.app/smt.php?id=daai2_twn
+#EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="GLOBE 台灣",亞洲美食
+https://3065.koyeb.app/smt.php?id=afc_twn
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="GLOBE 台灣",美食星球
+https://3065.koyeb.app/smt.php?id=foodplanet_twn
+#EXTINF:-1 tvg-id="亞洲旅遊 TLC Asia" tvg-name="亞洲旅遊 TLC Asia" tvg-logo="" group-title="GLOBE 台灣",亞洲旅遊 TLC Asia
+https://3065.koyeb.app/smt.php?id=tlc_twn
+#EXTINF:-1 tvg-id="東森電影 ETTV Movie" tvg-name="東森電影 ETTV Movie" tvg-logo="" group-title="GLOBE 台灣",東森電影 ETTV Movie
+https://3065.koyeb.app/smt.php?id=ettvmovie
+#EXTINF:-1 tvg-id="阿裡郎 Arirang" tvg-name="阿裡郎 Arirang" tvg-logo="" group-title="GLOBE 台灣",阿里郎 Arirang
+https://3065.koyeb.app/smt.php?id=arirang_twn
+#EXTINF:-1 tvg-id="博斯運動 1" tvg-name="博斯運動 1" tvg-logo="" group-title="GLOBE 台灣",博斯運動 1
+https://3065.koyeb.app/smt.php?id=bosisport1_twn
+#EXTINF:-1 tvg-id="博斯運動 2" tvg-name="博斯運動 2" tvg-logo="" group-title="GLOBE 台灣",博斯運動 2
+https://3065.koyeb.app/smt.php?id=bosisport2_twn
+#EXTINF:-1 tvg-id="博斯高球1 HD" tvg-name="博斯高球1 HD" tvg-logo="" group-title="GLOBE 台灣",博斯高球1 HD
+https://3065.koyeb.app/smt.php?id=bosigolf1_twn
+#EXTINF:-1 tvg-id="博斯高球2 HD" tvg-name="博斯高球2 HD" tvg-logo="" group-title="GLOBE 台灣",博斯高球2 HD
+https://3065.koyeb.app/smt.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-id="博斯網球 HD" tvg-name="博斯網球 HD" tvg-logo="" group-title="GLOBE 台灣",博斯網球 HD
+https://3065.koyeb.app/smt.php?id=bositennis_twn
+#EXTINF:-1 tvg-id="東森洋片 ETTV Western" tvg-name="東森洋片 ETTV Western" tvg-logo="" group-title="GLOBE 台灣",東森洋片 ETTV Western
+https://3065.koyeb.app/smt.php?id=ettvwestern
+#EXTINF:-1 tvg-id="龍華洋片 Lunghua Western" tvg-name="龍華洋片 Lunghua Western" tvg-logo="" group-title="GLOBE 台灣",龍華洋片 Lunghua Western
+https://3065.koyeb.app/smt.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-id="博斯無限" tvg-name="博斯無限" tvg-logo="" group-title="GLOBE 台灣",博斯無限
+https://3065.koyeb.app/smt.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GLOBE 台灣",MTV Live
+https://3065.koyeb.app/smt.php?id=mtvhd_twn
+#EXTINF:-1 tvg-id="龍詳時代" tvg-name="龍詳時代" tvg-logo="" group-title="GLOBE 台灣",龍詳時代
+https://3065.koyeb.app/smt.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-id="EYETV 旅遊" tvg-name="EYETV 旅遊" tvg-logo="" group-title="GLOBE 台灣",EYETV 旅遊
+https://3065.koyeb.app/smt.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="" group-title="GLOBE 台灣",靖天卡通台
+https://3065.koyeb.app/smt.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-id="EYETV 戲劇" tvg-name="EYETV 戲劇" tvg-logo="" group-title="GLOBE 台灣",EYETV 戲劇
+https://3065.koyeb.app/smt.php?id=eyetvxiju_twn
+#EXTINF:-1 tvg-id="衛視中文台 Star Movies Chinese" tvg-name="衛視中文台 Star Movies Chinese" tvg-logo="" group-title="GLOBE 台灣",衛視中文台 Star Movies Chinese
+https://3065.koyeb.app/smt.php?id=weishichinese_twn
+#EXTINF:-1 tvg-id="東森幼幼 Yoyo TV" tvg-name="東森幼幼 Yoyo TV" tvg-logo="" group-title="GLOBE 台灣",東森幼幼 Yoyo TV
+https://3065.koyeb.app/smt.php?id=yoyo_twn
+#EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="GLOBE 台灣",衛視電影台
+https://3065.koyeb.app/smt.php?id=weishimovie_twn
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="GLOBE 台灣",美亞電影
+https://3065.koyeb.app/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="" group-title="GLOBE 台灣",愛爾達影劇台
+https://3065.koyeb.app/smt.php?id=eltayingju_twn
+#EXTINF:-1 tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="" group-title="GLOBE 台灣",愛爾達綜合台
+https://3065.koyeb.app/smt.php?id=eltazonghe_twn
+#EXTINF:-1 tvg-id="星衛電影" tvg-name="星衛電影" tvg-logo="" group-title="GLOBE 台灣",星衛電影
+https://3065.koyeb.app/smt.php?id=xingwei_movie
+#EXTINF:-1 tvg-id="AFC 亞洲旅遊台" tvg-name="AFC 亞洲旅遊台" tvg-logo="" group-title="GLOBE 台灣",AFC 亞洲旅遊台
+https://3065.koyeb.app/smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="GLOBE 電影",Cinemax
+https://3065.koyeb.app/smt.php?id=Cinemax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="GLOBE 電影",Animax
+https://3065.koyeb.app/smt.php?id=Animax
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="GLOBE 電影",Movies Now HD
+https://3065.koyeb.app/smt.php?id=moviesnow_raj
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="GLOBE 電影",Star Movies HD
+https://3065.koyeb.app/smt.php?id=starmovies_raj
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="GLOBE 電影",HBO Family
+https://3065.koyeb.app/smt.php?id=Hbofamily
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="GLOBE 電影",Hits
+https://3065.koyeb.app/smt.php?id=Hits
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="GLOBE 電影",Warner TV
+https://3065.koyeb.app/smt.php?id=WarnerTV
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="GLOBE 電影",HBO HD
+https://3065.koyeb.app/smt.php?id=Hbo
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="GLOBE 電影",HBO Signature
+https://3065.koyeb.app/smt.php?id=Hbosignature
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="GLOBE 電影",HBO Hits
+https://3065.koyeb.app/smt.php?id=Hbohitshd
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="GLOBE 電影",SCM
+https://3065.koyeb.app/smt.php?id=Weishimovie
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="GLOBE 電影",Dreamworks
+https://3065.koyeb.app/smt.php?id=Dreamworks
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="GLOBE 電影",Thrill
+https://3065.koyeb.app/smt.php?id=Thrill
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="GLOBE 電影",Hits Movie
+https://3065.koyeb.app/smt.php?id=Hitsmovie
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="GLOBE 電影",One
+https://3065.koyeb.app/smt.php?id=One
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="GLOBE 電影",tvN Movie
+https://3065.koyeb.app/smt.php?id=Tvnmovie
+#EXTINF:-1 tvg-id="Celestial Classic" tvg-name="Celestial Classic" tvg-logo="" group-title="GLOBE 電影",Celestial Classic
+https://3065.koyeb.app/smt.php?id=Celestial2
+#EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="Celestial Movies HD" tvg-logo="" group-title="GLOBE 電影",Celestial Movies HD
+https://3065.koyeb.app/smt.php?id=Celestialindo
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="GLOBE 電影",Axn HD
+https://3065.koyeb.app/smt.php?id=Axn
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="GLOBE 電影",Paramount Network
+https://3065.koyeb.app/smt.php?id=Paramountnetwork
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="GLOBE 電影",Astrol Kplus
+https://3065.koyeb.app/smt.php?id=Kplus
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="GLOBE 電影",Rock Actions
+https://3065.koyeb.app/smt.php?id=Rockaction
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="GLOBE 電影",Rock Entertainment
+https://3065.koyeb.app/smt.php?id=Rockentertain
+#EXTINF:-1 tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="" group-title="GLOBE 記錄",Natgeo_HD
+https://3065.koyeb.app/smt.php?id=natgeohd_twn
+#EXTINF:-1 tvg-id="NatGeo_Wild HD" tvg-name="NatGeo_Wild HD" tvg-logo="" group-title="GLOBE 記錄",NatGeo_Wild HD
+https://3065.koyeb.app/smt.php?id=natgeowild_twn
+#EXTINF:-1 tvg-id="Animal_Planet" tvg-name="Animal_Planet" tvg-logo="" group-title="GLOBE 記錄",Animal_Planet
+https://3065.koyeb.app/smt.php?id=animalplanet_twn
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="" group-title="GLOBE 記錄",Discovery Asia
+https://3065.koyeb.app/smt.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-id="CI" tvg-name="CI" tvg-logo="" group-title="GLOBE 記錄",CI
+https://3065.koyeb.app/smt.php?id=ci_twn
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="" group-title="GLOBE 記錄",Discovery HD
+https://3065.koyeb.app/smt.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-name="NatGeo HD" tvg-logo="" group-title="GLOBE 記錄",NatGeo HD
+https://3065.koyeb.app/smt.php?id=Natgeo
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="Fashion TV" tvg-logo="" group-title="GLOBE 記錄",Fashion TV
+https://3065.koyeb.app/smt.php?id=fashiontv_twn
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="" group-title="GLOBE 記錄",History
+https://3065.koyeb.app/smt.php?id=History
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="" group-title="GLOBE 記錄",BBC Earth HD
+https://3065.koyeb.app/smt.php?id=bbcearth_twn
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBC Earth Lifestyle" tvg-logo="" group-title="GLOBE 記錄",BBC Earth Lifestyle
+https://3065.koyeb.app/smt.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="" group-title="GLOBE 記錄",NatGeo Wild HD
+https://3065.koyeb.app/smt.php?id=Natgeowild
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-name="Animal Planet (Eng)" tvg-logo="" group-title="GLOBE 記錄",Animal Planet (Eng)
+https://3065.koyeb.app/smt.php?id=AnimalPlanet
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="" group-title="GLOBE 記錄",TLC
+https://3065.koyeb.app/smt.php?id=Tlc
+#EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-name="Foodnetwork Hd" tvg-logo="" group-title="GLOBE 記錄",Foodnetwork Hd
+https://3065.koyeb.app/smt.php?id=Foodnetwork
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="" group-title="GLOBE 記錄",HGTV
+https://3065.koyeb.app/smt.php?id=HGTV
+#EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" tvg-logo="" group-title="GLOBE 新聞",Skynews
+https://3065.koyeb.app/smt.php?id=skynews_twn
+#EXTINF:-1 tvg-id="ABC News" tvg-name="ABC News" tvg-logo="" group-title="GLOBE 新聞",ABC News
+https://3065.koyeb.app/smt.php?id=abcnews_glo
+#EXTINF:-1 tvg-id="CBS HD" tvg-name="CBS HD" tvg-logo="" group-title="GLOBE 新聞",CBS HD
+https://3065.koyeb.app/smt.php?id=cbshd_glo
+#EXTINF:-1 tvg-id="CBSN HD" tvg-name="CBSN HD" tvg-logo="" group-title="GLOBE 新聞",CBSN HD
+https://3065.koyeb.app/smt.php?id=cbsn_glo
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="" group-title="GLOBE 新聞",France 24
+https://3065.koyeb.app/smt.php?id=france24_twn
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW (Deutsch)" tvg-logo="" group-title="GLOBE 新聞",DW (Deutsch)
+https://3065.koyeb.app/smt.php?id=dw_twn
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHK World" tvg-logo="" group-title="GLOBE 新聞",NHK World
+https://3065.koyeb.app/smt.php?id=nhkworld_japan
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="" group-title="GLOBE 新聞",Fox News
+https://3065.koyeb.app/smt.php?id=foxnews_twn
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="" group-title="GLOBE 新聞",CNN International
+https://3065.koyeb.app/smt.php?id=Cnn
+#EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN backup" tvg-logo="" group-title="GLOBE 新聞",CNN backup
+https://3065.koyeb.app/smt.php?id=cnn_twn
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="" group-title="GLOBE 新聞",CNBC
+https://3065.koyeb.app/smt.php?id=cnbc_twn
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="" group-title="GLOBE 新聞",CNA
+https://3065.koyeb.app/smt.php?id=cna
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GLOBE 新聞",BBC World News
+https://3065.koyeb.app/smt.php?id=bbcnews_twn
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="" group-title="GLOBE 新聞",BBC World News
+https://3065.koyeb.app/smt.php?id=Bbcnews
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-logo="" group-title="GLOBE 新聞",Bloomberg News
+https://3065.koyeb.app/smt.php?id=bloomberg_twn
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al-Jazeera" tvg-logo="" group-title="GLOBE 新聞",Al-Jazeera
+https://3065.koyeb.app/smt.php?id=aljazeera_twn
+#EXTINF:-1 tvg-id="Baby TV Eng" tvg-name="Baby TV Eng" tvg-logo="" group-title="GLOBE 兒童",Baby TV Eng
+https://3065.koyeb.app/smt.php?id=Babytv
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="" group-title="GLOBE 兒童",CBeebies
+https://3065.koyeb.app/smt.php?id=Cbeebies
+#EXTINF:-1 tvg-id="Kids TV" tvg-name="Kids TV" tvg-logo="" group-title="GLOBE 兒童",Kids TV
+https://3065.koyeb.app/smt.php?id=KidsTV
+#EXTINF:-1 tvg-id="Momo TV" tvg-name="Momo TV" tvg-logo="" group-title="GLOBE 兒童",Momo TV
+https://3065.koyeb.app/smt.php?id=momo1_twn
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="" group-title="GLOBE 兒童",Baby TV
+https://3065.koyeb.app/smt.php?id=babytv_twn
+#EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" tvg-logo="" group-title="GLOBE 兒童",MiaoMi
+https://3065.koyeb.app/smt.php?id=MiaoMi
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="" group-title="GLOBE 兒童",Cartoon Network
+https://3065.koyeb.app/smt.php?id=Cn
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="" group-title="GLOBE 兒童",Nickelodeon
+https://3065.koyeb.app/smt.php?id=Nickelodeon
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="GLOBE 兒童",Nick Jr
+https://3065.koyeb.app/smt.php?id=Nickjr
+#EXTINF:-1 tvg-id="NHK-総合-2" tvg-name="NHK-総合-2" tvg-logo="" group-title="GLOBE 日本",NHK-総合-2
+https://3065.koyeb.app/smt.php?id=nhkg_japan
+#EXTINF:-1 tvg-id="NHK-E" tvg-name="NHK-E" tvg-logo="" group-title="GLOBE 日本",NHK-E
+https://3065.koyeb.app/smt.php?id=nhke_japan
+#EXTINF:-1 tvg-id="テレビ朝日 Asahi TV" tvg-name="テレビ朝日 Asahi TV" tvg-logo="" group-title="GLOBE 日本",テレビ朝日 Asahi TV
+https://3065.koyeb.app/smt.php?id=asahitv_japan
+#EXTINF:-1 tvg-id="JET 綜合" tvg-name="JET 綜合" tvg-logo="" group-title="GLOBE 日本",JET 綜合
+https://3065.koyeb.app/smt.php?id=jettv_japan
+#EXTINF:-1 tvg-id="テレビ東京 Tokyo TV" tvg-name="テレビ東京 Tokyo TV" tvg-logo="" group-title="GLOBE 日本",テレビ東京 Tokyo TV
+https://3065.koyeb.app/smt.php?id=tokyotv_japan
+#EXTINF:-1 tvg-id="TOKYOMX" tvg-name="TOKYOMX" tvg-logo="" group-title="GLOBE 日本",TOKYOMX
+https://3065.koyeb.app/smt.php?id=tokyomx_japan
+#EXTINF:-1 tvg-id="NHKBS1" tvg-name="NHKBS1" tvg-logo="" group-title="GLOBE 日本",NHKBS1
+https://3065.koyeb.app/smt.php?id=nhkbs1_japan
+#EXTINF:-1 tvg-id="NHKBSプレミア Premium" tvg-name="NHKBSプレミア Premium" tvg-logo="" group-title="GLOBE 日本",NHKBSプレミア Premium
+https://3065.koyeb.app/smt.php?id=nhkpremium_japan
+#EXTINF:-1 tvg-id="BSジャパン 181" tvg-name="BSジャパン 181" tvg-logo="" group-title="GLOBE 日本",BSジャパン 181
+https://3065.koyeb.app/smt.php?id=bs181_japan
+#EXTINF:-1 tvg-id="BSフジ BS Fuji" tvg-name="BSフジ BS Fuji" tvg-logo="" group-title="GLOBE 日本",BSフジ BS Fuji
+https://3065.koyeb.app/smt.php?id=bsfuji_japan
+#EXTINF:-1 tvg-id="CNA Japan" tvg-name="CNA Japan" tvg-logo="" group-title="GLOBE 日本",CNA Japan
+https://3065.koyeb.app/smt.php?id=cna_japan
+#EXTINF:-1 tvg-id="BS-TBS" tvg-name="BS-TBS" tvg-logo="" group-title="GLOBE 日本",BS-TBS
+https://3065.koyeb.app/smt.php?id=bstbs_japan
+#EXTINF:-1 tvg-id="NHK Oaska" tvg-name="NHK Oaska" tvg-logo="" group-title="GLOBE 日本",NHK Oaska
+https://3065.koyeb.app/smt.php?id=nhkosaka_japan
 
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
 http://4gtv.korice.eu.org/4gtv-4gtv003/index.m3u8
@@ -1555,1223 +2076,161 @@ http://4gtv.korice.eu.org/nnews-vn/index.m3u8
 #EXTINF:-1 tvg-id="倪珍報氣象" tvg-name="倪珍報氣象" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍報氣象
 http://4gtv.korice.eu.org/nnews-wf/index.m3u8
 
-#EXTINF:-1 tvg-id="公視金獎台" tvg-name="公視金獎台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3068_ofiii13_tv_20230920.png" group-title="歐飛點播",公視金獎台
-http://4gtv.korice.eu.org/ofiii13/index.m3u8
-#EXTINF:-1 tvg-id="空中英語教室HD頻道" tvg-name="空中英語教室HD頻道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3720_ofiii16_tv_20250506.png" group-title="歐飛點播",空中英語教室HD頻道
-http://4gtv.korice.eu.org/ofiii16/index.m3u8
-#EXTINF:-1 tvg-id="哆啦Ａ夢台" tvg-name="哆啦Ａ夢台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png" group-title="歐飛點播",哆啦Ａ夢台
-http://4gtv.korice.eu.org/ofiii22/index.m3u8
-#EXTINF:-1 tvg-id="新哆啦A夢(中文版)" tvg-name="新哆啦A夢(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3386_ofiii23_tv_20240709.png" group-title="歐飛點播",新哆啦A夢(中文版)
-http://4gtv.korice.eu.org/ofiii23/index.m3u8
-#EXTINF:-1 tvg-id="TVBS食尚玩家" tvg-name="TVBS食尚玩家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2984_ofiii31_tv_20230720.png" group-title="歐飛點播",TVBS食尚玩家
-http://4gtv.korice.eu.org/ofiii31/index.m3u8
-#EXTINF:-1 tvg-id="東森娛樂台" tvg-name="東森娛樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2985_ofiii32_tv_20230720.png" group-title="歐飛點播",東森娛樂台
-http://4gtv.korice.eu.org/ofiii32/index.m3u8
-#EXTINF:-1 tvg-id="中天亞洲精采台" tvg-name="中天亞洲精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3069_ofiii36_tv_20230920.png" group-title="歐飛點播",中天亞洲精采台
-http://4gtv.korice.eu.org/ofiii36/index.m3u8
-#EXTINF:-1 tvg-id="經典劇場" tvg-name="經典劇場" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3559_ofiii38_tv_20241202.png" group-title="歐飛點播",經典劇場
-http://4gtv.korice.eu.org/ofiii38/index.m3u8
-#EXTINF:-1 tvg-id="Yes娛樂" tvg-name="Yes娛樂" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="歐飛點播",Yes娛樂
-http://4gtv.korice.eu.org/ofiii47/index.m3u8
-#EXTINF:-1 tvg-id="Focus風采戲劇台" tvg-name="Focus風采戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout951_tv_20180522.png" group-title="歐飛點播",Focus風采戲劇台
-http://4gtv.korice.eu.org/ofiii1048/index.m3u8
-#EXTINF:-1 tvg-id="掏掏新聞" tvg-name="掏掏新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png" group-title="歐飛點播",掏掏新聞
-http://4gtv.korice.eu.org/ofiii50/index.m3u8
-#EXTINF:-1 tvg-id="國際大小事" tvg-name="國際大小事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3560_ofiii55_tv_20241202.png" group-title="歐飛點播",國際大小事
-http://4gtv.korice.eu.org/ofiii55/index.m3u8
-#EXTINF:-1 tvg-id="全國大罷免" tvg-name="全國大罷免" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3660_ofiii56_tv_20250311.png" group-title="歐飛點播",全國大罷免
-http://4gtv.korice.eu.org/ofiii56/index.m3u8
-#EXTINF:-1 tvg-id="第1財經" tvg-name="第1財經" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii64_tv_20221110.png" group-title="歐飛點播",第1財經
-http://4gtv.korice.eu.org/ofiii64/index.m3u8
-#EXTINF:-1 tvg-id="Golden 強片台" tvg-name="Golden 強片台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3562_ofiii70_tv_20241203.png" group-title="歐飛點播",Golden 強片台
-http://4gtv.korice.eu.org/ofiii70/index.m3u8
-#EXTINF:-1 tvg-id="周星馳台" tvg-name="周星馳台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3202_ofiii73_tv_20240105.png" group-title="歐飛點播",周星馳台
-http://4gtv.korice.eu.org/ofiii73/index.m3u8
-#EXTINF:-1 tvg-id="歐飛電影台" tvg-name="歐飛電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2748_ofiii74_tv_20240315.png" group-title="歐飛點播",歐飛電影台
-http://4gtv.korice.eu.org/ofiii74/index.m3u8
-#EXTINF:-1 tvg-id="歐飛動作電影台" tvg-name="歐飛動作電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3203_ofiii75_tv_20240315.png" group-title="歐飛點播",歐飛動作電影台
-http://4gtv.korice.eu.org/ofiii75/index.m3u8
-#EXTINF:-1 tvg-id="Focus探索新知台" tvg-name="Focus探索新知台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii82_tv_20221213.png" group-title="歐飛點播",Focus探索新知台
-http://4gtv.korice.eu.org/ofiii82/index.m3u8
-#EXTINF:-1 tvg-id="鄉民大學問" tvg-name="鄉民大學問" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3407_ofiii83_tv_20240731.png" group-title="歐飛點播",鄉民大學問
-http://4gtv.korice.eu.org/ofiii83/index.m3u8
-#EXTINF:-1 tvg-id="野球名人房" tvg-name="野球名人房" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3408_ofiii84_tv_20240731.png" group-title="歐飛點播",野球名人房
-http://4gtv.korice.eu.org/ofiii84/index.m3u8
-#EXTINF:-1 tvg-id="社會NOW什麼" tvg-name="社會NOW什麼" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3409_ofiii85_tv_20240731.png" group-title="歐飛點播",社會NOW什麼
-http://4gtv.korice.eu.org/ofiii85/index.m3u8
-#EXTINF:-1 tvg-id="啦啦隊獨家專訪" tvg-name="啦啦隊獨家專訪" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3565_ofiii88_tv_20241205.png" group-title="歐飛點播",啦啦隊獨家專訪
-http://4gtv.korice.eu.org/ofiii88/index.m3u8
-#EXTINF:-1 tvg-id="泰可愛旋風" tvg-name="泰可愛旋風" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3526_ofiii89_tv_20241114.png" group-title="歐飛點播",泰可愛旋風
-http://4gtv.korice.eu.org/ofiii89/index.m3u8
-#EXTINF:-1 tvg-id="演唱會直擊" tvg-name="演唱會直擊" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3525_ofiii91_tv_20241108.png" group-title="歐飛點播",演唱會直擊
-http://4gtv.korice.eu.org/ofiii91/index.m3u8
-#EXTINF:-1 tvg-id="健康問良醫" tvg-name="健康問良醫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3411_ofiii92_tv_20240731.png" group-title="歐飛點播",健康問良醫
-http://4gtv.korice.eu.org/ofiii92/index.m3u8
-#EXTINF:-1 tvg-id="ASMR行車紀錄" tvg-name="ASMR行車紀錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3691_ofiii94_tv_20250328.png" group-title="歐飛點播",ASMR行車紀錄
-http://4gtv.korice.eu.org/ofiii94/index.m3u8
-#EXTINF:-1 tvg-id="Freeman @台灣" tvg-name="Freeman @台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3204_ofiii111_tv_20240105.png" group-title="歐飛點播",Freeman @台灣
-http://4gtv.korice.eu.org/ofiii95/index.m3u8
-#EXTINF:-1 tvg-id="饕客揪愛吃" tvg-name="饕客揪愛吃" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2989_ofiii96_tv_20230906.png" group-title="歐飛點播",饕客揪愛吃
-http://4gtv.korice.eu.org/ofiii96/index.m3u8
-#EXTINF:-1 tvg-id="人氣動漫預告" tvg-name="人氣動漫預告" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2990_ofiii97_tv_20230814.png" group-title="歐飛點播",人氣動漫預告
-http://4gtv.korice.eu.org/ofiii97/index.m3u8
-#EXTINF:-1 tvg-id="銀髮聚樂部" tvg-name="銀髮聚樂部" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii99_tv_20221110.png" group-title="歐飛點播",銀髮聚樂部
-http://4gtv.korice.eu.org/ofiii99/index.m3u8
-#EXTINF:-1 tvg-id="錦繡安寧" tvg-name="錦繡安寧" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3564_ofiii100_tv_20241202.png" group-title="歐飛點播",錦繡安寧
-http://4gtv.korice.eu.org/ofiii100/index.m3u8
-#EXTINF:-1 tvg-id="琅琊榜" tvg-name="琅琊榜" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii101_tv_20230329.png" group-title="歐飛點播",琅琊榜
-http://4gtv.korice.eu.org/ofiii101/index.m3u8
-#EXTINF:-1 tvg-id="扶搖" tvg-name="扶搖" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3355_ofiii102_tv_20240531.png" group-title="歐飛點播",扶搖
-http://4gtv.korice.eu.org/ofiii102/index.m3u8
-#EXTINF:-1 tvg-id="三國" tvg-name="三國" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3383_ofiii103_tv_20240626.png" group-title="歐飛點播",三國
-http://4gtv.korice.eu.org/ofiii103/index.m3u8
-#EXTINF:-1 tvg-id="武媚娘傳奇" tvg-name="武媚娘傳奇" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3412_ofiii104_tv_20240731.png" group-title="歐飛點播",武媚娘傳奇
-http://4gtv.korice.eu.org/ofiii104/index.m3u8
-#EXTINF:-1 tvg-id="長樂曲" tvg-name="長樂曲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3476_ofiii105_tv_20240930.png" group-title="歐飛點播",長樂曲
-http://4gtv.korice.eu.org/ofiii105/index.m3u8
-#EXTINF:-1 tvg-id="軍師聯盟" tvg-name="軍師聯盟" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3070_ofiii106_tv_20230920.png" group-title="歐飛點播",軍師聯盟
-http://4gtv.korice.eu.org/ofiii106/index.m3u8
-#EXTINF:-1 tvg-id="軍師聯盟2 虎嘯龍吟" tvg-name="軍師聯盟2 虎嘯龍吟" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3071_ofiii107_tv_20230920.png" group-title="歐飛點播",軍師聯盟2 虎嘯龍吟
-http://4gtv.korice.eu.org/ofiii107/index.m3u8
-#EXTINF:-1 tvg-id="東宮(完整版)" tvg-name="東宮(完整版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3264_ofiii108_tv_20240301.png" group-title="歐飛點播",東宮(完整版)
-http://4gtv.korice.eu.org/ofiii108/index.m3u8
-#EXTINF:-1 tvg-id="國色芳華" tvg-name="國色芳華" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3692_ofiii108_tv_20250331.png" group-title="歐飛點播",國色芳華
-http://4gtv.korice.eu.org/ofiii109/index.m3u8
-#EXTINF:-1 tvg-id="楚喬傳" tvg-name="楚喬傳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3113_ofiii110_tv_20231019.png" group-title="歐飛點播",楚喬傳
-http://4gtv.korice.eu.org/ofiii110/index.m3u8
-#EXTINF:-1 tvg-id="倚天屠龍記 2019" tvg-name="倚天屠龍記 2019" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3206_ofiii111_tv_20240105.png" group-title="歐飛點播",倚天屠龍記 2019
-http://4gtv.korice.eu.org/ofiii111/index.m3u8
-#EXTINF:-1 tvg-id="鳳囚凰" tvg-name="鳳囚凰" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3511_ofiii112_tv_20241104.png" group-title="歐飛點播",鳳囚凰
-http://4gtv.korice.eu.org/ofiii112/index.m3u8
-#EXTINF:-1 tvg-id="步步驚心" tvg-name="步步驚心" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3443_ofiii113_tv_20240906.png" group-title="歐飛點播",步步驚心
-http://4gtv.korice.eu.org/ofiii113/index.m3u8
-#EXTINF:-1 tvg-id="九重紫" tvg-name="九重紫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3630_ofiii114_tv_20250221.png" group-title="歐飛點播",九重紫
-http://4gtv.korice.eu.org/ofiii114/index.m3u8
-#EXTINF:-1 tvg-id="私藏浪漫" tvg-name="私藏浪漫" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3444_ofiii115_tv_20240906.png" group-title="歐飛點播",私藏浪漫
-http://4gtv.korice.eu.org/ofiii115/index.m3u8
-#EXTINF:-1 tvg-id="去有風的地方" tvg-name="去有風的地方" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png" group-title="歐飛點播",去有風的地方
-http://4gtv.korice.eu.org/ofiii116/index.m3u8
-#EXTINF:-1 tvg-id="以愛為營" tvg-name="以愛為營" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3167_ofiii117_tv_20231213.png" group-title="歐飛點播",以愛為營
-http://4gtv.korice.eu.org/ofiii117/index.m3u8
-#EXTINF:-1 tvg-id="向風而行" tvg-name="向風而行" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3022_ofiii118_tv_20230823.png" group-title="歐飛點播",向風而行
-http://4gtv.korice.eu.org/ofiii118/index.m3u8
-#EXTINF:-1 tvg-id="以家人之名" tvg-name="以家人之名" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3023_ofiii119_tv_20230823.png" group-title="歐飛點播",以家人之名
-http://4gtv.korice.eu.org/ofiii119/index.m3u8
-#EXTINF:-1 tvg-id="有你的時光裡" tvg-name="有你的時光裡" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3524_ofiii120_tv_20241104.png" group-title="歐飛點播",有你的時光裡
-http://4gtv.korice.eu.org/ofiii120/index.m3u8
-#EXTINF:-1 tvg-id="好運家" tvg-name="好運家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3599_ofiii121_tv_20250221.png" group-title="歐飛點播",好運家
-http://4gtv.korice.eu.org/ofiii121/index.m3u8
-#EXTINF:-1 tvg-id="請叫我總監" tvg-name="請叫我總監" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3445_ofiii122_tv_20240906.png" group-title="歐飛點播",請叫我總監
-http://4gtv.korice.eu.org/ofiii122/index.m3u8
-#EXTINF:-1 tvg-id="三十而已" tvg-name="三十而已" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3748_ofiii123_tv_20250529.png" group-title="歐飛點播",三十而已
-http://4gtv.korice.eu.org/ofiii123/index.m3u8
-#EXTINF:-1 tvg-id="月嫂先生" tvg-name="月嫂先生" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3693_ofiii124_tv_20250331.png" group-title="歐飛點播",月嫂先生
-http://4gtv.korice.eu.org/ofiii124/index.m3u8
-#EXTINF:-1 tvg-id="豬哥壹級棒" tvg-name="豬哥壹級棒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3356_ofiii126_tv_20250221.png" group-title="歐飛點播",豬哥壹級棒
-http://4gtv.korice.eu.org/ofiii126/index.m3u8
-#EXTINF:-1 tvg-id="醫師好辣" tvg-name="醫師好辣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3633_ofiii128_tv_20250221.png" group-title="歐飛點播",醫師好辣
-http://4gtv.korice.eu.org/ofiii128/index.m3u8
-#EXTINF:-1 tvg-id="WTO姐妹會" tvg-name="WTO姐妹會" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3301_ofiii129_tv_20240327.png" group-title="歐飛點播",WTO姐妹會
-http://4gtv.korice.eu.org/ofiii129/index.m3u8
-#EXTINF:-1 tvg-id="綜藝玩很大" tvg-name="綜藝玩很大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii130_tv_20230329.png" group-title="歐飛點播",綜藝玩很大
-http://4gtv.korice.eu.org/ofiii130/index.m3u8
-#EXTINF:-1 tvg-id="全民星攻略" tvg-name="全民星攻略" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png" group-title="歐飛點播",全民星攻略
-http://4gtv.korice.eu.org/ofiii131/index.m3u8
-#EXTINF:-1 tvg-id="健康2.0" tvg-name="健康2.0" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3600_ofiii132_tv_20250221.png" group-title="歐飛點播",健康2.0
-http://4gtv.korice.eu.org/ofiii132/index.m3u8
-#EXTINF:-1 tvg-id=台灣啟示錄" tvg-name="台灣啟示錄" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2595_ofiii133_tv_20250221.png" group-title="歐飛點播",台灣啟示錄
-http://4gtv.korice.eu.org/ofiii133/index.m3u8
-#EXTINF:-1 tvg-id="法眼黑與白" tvg-name="法眼黑與白" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii134_tv_20230707.png" group-title="歐飛點播",法眼黑與白
-http://4gtv.korice.eu.org/ofiii134/index.m3u8
-#EXTINF:-1 tvg-id="天才衝衝衝" tvg-name="天才衝衝衝" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii135_tv_20230707.png" group-title="歐飛點播",天才衝衝衝
-http://4gtv.korice.eu.org/ofiii135/index.m3u8
-#EXTINF:-1 tvg-id="一步一腳印 發現新台灣" tvg-name="一步一腳印 發現新台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3601_ofiii136_tv_20250221.png" group-title="歐飛點播",一步一腳印 發現新台灣
-http://4gtv.korice.eu.org/ofiii136/index.m3u8
-#EXTINF:-1 tvg-id="女人我最大" tvg-name="女人我最大" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3571_ofiii137_tv_20241211.png" group-title="歐飛點播",女人我最大
-http://4gtv.korice.eu.org/ofiii137/index.m3u8
-#EXTINF:-1 tvg-id="看板人物" tvg-name="看板人物" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3602_ofiii138_tv_20250221.png" group-title="歐飛點播",看板人物
-http://4gtv.korice.eu.org/ofiii138/index.m3u8
-#EXTINF:-1 tvg-id="威廉沈歡樂送" tvg-name="威廉沈歡樂送" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3603_ofiii139_tv_20250221.png" group-title="歐飛點播",威廉沈歡樂送
-http://4gtv.korice.eu.org/ofiii139/index.m3u8
-#EXTINF:-1 tvg-id=木曜4超玩 一日系列" tvg-name="木曜4超玩 一日系列" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3694_ofiii140_tv_20250331.png" group-title="歐飛點播",木曜4超玩 一日系列
-http://4gtv.korice.eu.org/ofiii140/index.m3u8
-#EXTINF:-1 tvg-id=一字千金" tvg-name="一字千金" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3168_ofiii142_tv_20250221.png" group-title="歐飛點播",一字千金
-http://4gtv.korice.eu.org/ofiii142/index.m3u8
-#EXTINF:-1 tvg-id="11點熱吵店" tvg-name="11點熱吵店" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3234_ofiii143_tv_20240131.png" group-title="歐飛點播",11點熱吵店
-http://4gtv.korice.eu.org/ofiii143/index.m3u8
-#EXTINF:-1 tvg-id="麥卡貝網路電視" tvg-name="麥卡貝網路電視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3750_ofiii144_tv_20250529.png" group-title="歐飛點播",麥卡貝網路電視
-http://4gtv.korice.eu.org/ofiii144/index.m3u8
-#EXTINF:-1 tvg-id="回到20歲" tvg-name="回到20歲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3661_ofiii145_tv_20250305.png" group-title="歐飛點播",回到20歲
-http://4gtv.korice.eu.org/ofiii145/index.m3u8
-#EXTINF:-1 tvg-id="白雪公主非死不可" tvg-name="白雪公主非死不可" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3515_ofiii146_tv_20250225.png" group-title="歐飛點播",白雪公主非死不可
-http://4gtv.korice.eu.org/ofiii146/index.m3u8
-#EXTINF:-1 tvg-id="好搭檔" tvg-name="好搭檔" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3516_ofiii147_tv_20250225.png" group-title="歐飛點播",好搭檔
-http://4gtv.korice.eu.org/ofiii147/index.m3u8
-#EXTINF:-1 tvg-id="頭腦共助" tvg-name="頭腦共助" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2886_ofiii148_tv_20250225.png" group-title="歐飛點播",頭腦共助
-http://4gtv.korice.eu.org/ofiii148/index.m3u8
-#EXTINF:-1 tvg-id="凌晨兩點的灰姑娘" tvg-name="凌晨兩點的灰姑娘" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3517_ofiii149_tv_20250225.png" group-title="歐飛點播",凌晨兩點的灰姑娘
-http://4gtv.korice.eu.org/ofiii149/index.m3u8
-#EXTINF:-1 tvg-id="台灣靈異事件" tvg-name="台灣靈異事件" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3385_ofiii150_tv_20250221.png" group-title="歐飛點播",台灣靈異事件
-http://4gtv.korice.eu.org/ofiii150/index.m3u8
-#EXTINF:-1 tvg-id="包青天 1993版" tvg-name="包青天 1993版" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3235_ofiii151_tv_20250221.png" group-title="歐飛點播",包青天 1993版
-http://4gtv.korice.eu.org/ofiii151/index.m3u8
-#EXTINF:-1 tvg-id="我的婆婆怎麼那麼可愛" tvg-name="我的婆婆怎麼那麼可愛" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3027_ofiii152_tv_20250221.png" group-title="歐飛點播",我的婆婆怎麼那麼可愛
-http://4gtv.korice.eu.org/ofiii152/index.m3u8
-#EXTINF:-1 tvg-id="村裡來了個暴走女外科" tvg-name="村裡來了個暴走女外科" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3028_ofiii153_tv_20250221.png" group-title="歐飛點播",村裡來了個暴走女外科
-http://4gtv.korice.eu.org/ofiii153/index.m3u8
-#EXTINF:-1 tvg-id="一把青" tvg-name="一把青" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3077_ofiii154_tv_20250221.png" group-title="歐飛點播",一把青
-http://4gtv.korice.eu.org/ofiii154/index.m3u8
-#EXTINF:-1 tvg-id="茶金" tvg-name="茶金" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3119_ofiii155_tv_20250221.png" group-title="歐飛點播",茶金
-http://4gtv.korice.eu.org/ofiii155/index.m3u8
-#EXTINF:-1 tvg-id="苦力" tvg-name="苦力" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3478_ofiii156_tv_20250221.png" group-title="歐飛點播",苦力
-http://4gtv.korice.eu.org/ofiii156/index.m3u8
-#EXTINF:-1 tvg-id="俗女養成記" tvg-name="俗女養成記" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3358_ofiii157_tv_20250221.png" group-title="歐飛點播",俗女養成記
-http://4gtv.korice.eu.org/ofiii157/index.m3u8
-#EXTINF:-1 tvg-id="麻醉風暴" tvg-name="麻醉風暴" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3415_ofiii158_tv_20250221.png" group-title="歐飛點播",麻醉風暴
-http://4gtv.korice.eu.org/ofiii158/index.m3u8
-#EXTINF:-1 tvg-id="雖然等級只有1級但固有技能是最強的" tvg-name="雖然等級只有1級但固有技能是最強的" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3359_ofiii159_tv_20250221.png" group-title="歐飛點播",雖然等級只有1級但固有技能是最強的
-http://4gtv.korice.eu.org/ofiii159/index.m3u8
-#EXTINF:-1 tvg-id="擁有超常技能的異世界流浪美食家" tvg-name="擁有超常技能的異世界流浪美食家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3331_ofiii160_tv_20250221.png" group-title="歐飛點播",擁有超常技能的異世界流浪美食家
-http://4gtv.korice.eu.org/ofiii160/index.m3u8
-#EXTINF:-1 tvg-id="WIND BREAKER—防風少年—" tvg-name="WIND BREAKER—防風少年—" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3446_ofiii161_tv_20250221.png" group-title="歐飛點播",WIND BREAKER—防風少年—
-http://4gtv.korice.eu.org/ofiii161/index.m3u8
-#EXTINF:-1 tvg-id="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-name="在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3303_ofiii162_tv_20250221.png" group-title="歐飛點播",在異世界獲得超強能力的我，在現實世界照樣無敵～等級提升改變人生命運～
-http://4gtv.korice.eu.org/ofiii162/index.m3u8
-#EXTINF:-1 tvg-id="第一神拳" tvg-name="第一神拳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3266_ofiii163_tv_20250221.png" group-title="歐飛點播",第一神拳
-http://4gtv.korice.eu.org/ofiii163/index.m3u8
-#EXTINF:-1 tvg-id="刀劍神域(中文版)" tvg-name="刀劍神域(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3267_ofiii164_tv_20250221.png" group-title="歐飛點播",刀劍神域(中文版)
-http://4gtv.korice.eu.org/ofiii164/index.m3u8
-#EXTINF:-1 tvg-id="蠟筆小新(中文版)" tvg-name="蠟筆小新(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3079_ofiii165_tv_20250221.png" group-title="歐飛點播",蠟筆小新(中文版)
-http://4gtv.korice.eu.org/ofiii165/index.m3u8
-#EXTINF:-1 tvg-id="我們這一家" tvg-name="我們這一家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3121_ofiii166_tv_20250221.png" group-title="歐飛點播",我們這一家
-http://4gtv.korice.eu.org/ofiii166/index.m3u8
-#EXTINF:-1 tvg-id="獵人(中文版)" tvg-name="獵人(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3122_ofiii167_tv_20250221.png" group-title="歐飛點播",獵人(中文版)
-http://4gtv.korice.eu.org/ofiii167/index.m3u8
-#EXTINF:-1 tvg-id="中華一番(中文版)" tvg-name="中華一番(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3124_ofiii168_tv_20250221.png" group-title="歐飛點播",中華一番(中文版)
-http://4gtv.korice.eu.org/ofiii168/index.m3u8
-#EXTINF:-1 tvg-id="隊長小翼(中文版)" tvg-name="隊長小翼(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3125_ofiii169_tv_20250221.png" group-title="歐飛點播",隊長小翼(中文版)
-http://4gtv.korice.eu.org/ofiii169/index.m3u8
-#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒" tvg-name="SPY X FAMILY 間諜家家酒" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3304_ofiii170_tv_20250221.png" group-title="歐飛點播",SPY X FAMILY 間諜家家酒
-http://4gtv.korice.eu.org/ofiii170/index.m3u8
-#EXTINF:-1 tvg-id="SPY X FAMILY 間諜家家酒(中文版)" tvg-name="SPY X FAMILY 間諜家家酒(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3127_ofiii171_tv_20250221.png" group-title="歐飛點播",SPY X FAMILY 間諜家家酒(中文版)
-http://4gtv.korice.eu.org/ofiii171/index.m3u8
-#EXTINF:-1 tvg-id="無職轉生，到了異世界就拿出真本事" tvg-name="無職轉生，到了異世界就拿出真本事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3128_ofiii172_tv_20250221.png" group-title="歐飛點播",無職轉生，到了異世界就拿出真本事
-http://4gtv.korice.eu.org/ofiii172/index.m3u8
-#EXTINF:-1 tvg-id="關於我轉生變成史萊姆這檔事(國)" tvg-name="關於我轉生變成史萊姆這檔事(國)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3170_ofiii173_tv_20250221.png" group-title="歐飛點播",關於我轉生變成史萊姆這檔事(國)
-http://4gtv.korice.eu.org/ofiii173/index.m3u8
-#EXTINF:-1 tvg-id="夏目友人帳" tvg-name="夏目友人帳" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3171_ofiii174_tv_20250221.png" group-title="歐飛點播",夏目友人帳
-http://4gtv.korice.eu.org/ofiii174/index.m3u8
-#EXTINF:-1 tvg-id="家庭教師HITMAN REBORN!(中文版)" tvg-name="家庭教師HITMAN REBORN!(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3205_ofiii175_tv_20250221.png" group-title="歐飛點播",家庭教師HITMAN REBORN!(中文版)
-http://4gtv.korice.eu.org/ofiii175/index.m3u8
-#EXTINF:-1 tvg-id="烘焙王(中文版)" tvg-name="烘焙王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png" group-title="歐飛點播",烘焙王(中文版)
-http://4gtv.korice.eu.org/ofiii176/index.m3u8
-#EXTINF:-1 tvg-id="鋼之鍊金術師" tvg-name="鋼之鍊金術師" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3237_ofiii177_tv_20250221.png" group-title="歐飛點播",鋼之鍊金術師
-http://4gtv.korice.eu.org/ofiii177/index.m3u8
-#EXTINF:-1 tvg-id="JOJO 的奇妙冒險" tvg-name="JOJO 的奇妙冒險" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3238_ofiii178_tv_20250221.png" group-title="歐飛點播",JOJO 的奇妙冒險
-http://4gtv.korice.eu.org/ofiii178/index.m3u8
-#EXTINF:-1 tvg-id="葬送的芙莉蓮" tvg-name="葬送的芙莉蓮" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3268_ofiii179_tv_20250221.png" group-title="歐飛點播",葬送的芙莉蓮
-http://4gtv.korice.eu.org/ofiii179/index.m3u8
-#EXTINF:-1 tvg-id="史上最強弟子兼一(中文版)" tvg-name="史上最強弟子兼一(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="歐飛點播",史上最強弟子兼一(中文版)
-http://4gtv.korice.eu.org/ofiii180/index.m3u8
-#EXTINF:-1 tvg-id="爆漫王(中文版)" tvg-name="爆漫王(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="歐飛點播",爆漫王(中文版)
-http://4gtv.korice.eu.org/ofiii181/index.m3u8
-#EXTINF:-1 tvg-id="忍者亂太郎(中文版)" tvg-name="忍者亂太郎(中文版)" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_2991_ofiii165_tv_20230802.png" group-title="歐飛點播",忍者亂太郎(中文版)
-http://4gtv.korice.eu.org/ofiii182/index.m3u8
-#EXTINF:-1 tvg-id="膽大黨" tvg-name="膽大黨" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3604_ofiii183_tv_20250221.png" group-title="歐飛點播",膽大黨
-http://4gtv.korice.eu.org/ofiii183/index.m3u8
-#EXTINF:-1 tvg-id="新忍者哈特利" tvg-name="新忍者哈特利" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3634_ofiii184_tv_20250221.png" group-title="歐飛點播",新忍者哈特利
-http://4gtv.korice.eu.org/ofiii184/index.m3u8
-#EXTINF:-1 tvg-id="凡爾賽玫瑰" tvg-name="凡爾賽玫瑰" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3723_ofiii185_tv_20250508.png" group-title="歐飛點播",凡爾賽玫瑰
-http://4gtv.korice.eu.org/ofiii185/index.m3u8
-#EXTINF:-1 tvg-id="生命的贏家" tvg-name="生命的贏家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii192_tv_20230329.png" group-title="歐飛點播",生命的贏家
-http://4gtv.korice.eu.org/ofiii192/index.m3u8
-#EXTINF:-1 tvg-id="海派甜心" tvg-name="海派甜心" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3605_ofiii195_tv_20250225.png" group-title="歐飛點播",海派甜心
-http://4gtv.korice.eu.org/ofiii195/index.m3u8
-#EXTINF:-1 tvg-id="不良笑花" tvg-name="不良笑花" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3631_ofiii196_tv_20250225.png" group-title="歐飛點播",不良笑花
-http://4gtv.korice.eu.org/ofiii196/index.m3u8
-#EXTINF:-1 tvg-id="戰神" tvg-name="戰神" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3236_ofiii176_tv_20250221.png" group-title="歐飛點播",戰神
-http://4gtv.korice.eu.org/ofiii197/index.m3u8
-#EXTINF:-1 tvg-id="王子看見二公主" tvg-name="王子看見二公主" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3662_ofiii198_tv_20250305.png" group-title="歐飛點播",王子看見二公主
-http://4gtv.korice.eu.org/ofiii198/index.m3u8
-#EXTINF:-1 tvg-id="呼叫大明星" tvg-name="呼叫大明星" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3663_ofiii199_tv_20250305.png" group-title="歐飛點播",呼叫大明星
-http://4gtv.korice.eu.org/ofiii199/index.m3u8
-#EXTINF:-1 tvg-id="大新聞大爆卦" tvg-name="大新聞大爆卦" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii201_tv_20230707.png" group-title="歐飛點播",大新聞大爆卦
-http://4gtv.korice.eu.org/ofiii201/index.m3u8
-#EXTINF:-1 tvg-id="新聞大白話" tvg-name="新聞大白話" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3239_ofiii202_tv_20240131.png" group-title="歐飛點播",新聞大白話
-http://4gtv.korice.eu.org/ofiii202/index.m3u8
-#EXTINF:-1 tvg-id="文茜的世界周報" tvg-name="文茜的世界周報" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3269_ofiii203_tv_20240301.png" group-title="歐飛點播",文茜的世界周報
-http://4gtv.korice.eu.org/ofiii203/index.m3u8
-#EXTINF:-1 tvg-id="寰宇全視界" tvg-name="寰宇全視界" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii204_tv_20230707.png" group-title="歐飛點播",寰宇全視界
-http://4gtv.korice.eu.org/ofiii204/index.m3u8
-#EXTINF:-1 tvg-id="文茜的世界財經周報" tvg-name="文茜的世界財經周報" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3480_ofiii205_tv_20240930.png" group-title="歐飛點播",文茜的世界財經周報
-http://4gtv.korice.eu.org/ofiii205/index.m3u8
-#EXTINF:-1 tvg-id="環球大戰線" tvg-name="環球大戰線" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3519_ofiii206_tv_20241104.png" group-title="歐飛點播",環球大戰線
-http://4gtv.korice.eu.org/ofiii206/index.m3u8
-#EXTINF:-1 tvg-id="少康戰情室" tvg-name="少康戰情室" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3520_ofiii207_tv_20241104.png" group-title="歐飛點播",少康戰情室
-http://4gtv.korice.eu.org/ofiii207/index.m3u8
-#EXTINF:-1 tvg-id="國民大會" tvg-name="國民大會" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3573_ofiii208_tv_20241211.png" group-title="歐飛點播",國民大會
-http://4gtv.korice.eu.org/ofiii208/index.m3u8
-#EXTINF:-1 tvg-id="電動車時代" tvg-name="電動車時代" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3475_ofiii215_tv_20240930.png" group-title="歐飛點播",電動車時代
-http://4gtv.korice.eu.org/ofiii215/index.m3u8
-#EXTINF:-1 tvg-id="SiCAR愛車酷" tvg-name="SiCAR愛車酷" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3521_ofiii216_tv_20241104.png" group-title="歐飛點播",SiCAR愛車酷
-http://4gtv.korice.eu.org/ofiii216/index.m3u8
-#EXTINF:-1 tvg-id="狂人日誌" tvg-name="狂人日誌" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3522_ofiii217_tv_20241104.png" group-title="歐飛點播",狂人日誌
-http://4gtv.korice.eu.org/ofiii217/index.m3u8
-#EXTINF:-1 tvg-id="脖子解說 Mr. Neck" tvg-name="脖子解說 Mr. Neck" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3523_ofiii218_tv_20241104.png" group-title="歐飛點播",脖子解說 Mr. Neck
-http://4gtv.korice.eu.org/ofiii218/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-Hello腹餓代" tvg-name="食尚玩家-Hello腹餓代" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3574_ofiii225_tv_20241211.png" group-title="歐飛點播",食尚玩家-Hello腹餓代
-http://4gtv.korice.eu.org/ofiii225/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-天菜就醬吃" tvg-name="食尚玩家-天菜就醬吃" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3575_ofiii226_tv_20241211.png" group-title="歐飛點播",食尚玩家-天菜就醬吃
-http://4gtv.korice.eu.org/ofiii226/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-2天1夜go" tvg-name="食尚玩家-2天1夜go" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3554_ofiii227_tv_20241202.png" group-title="歐飛點播",食尚玩家-2天1夜go
-http://4gtv.korice.eu.org/ofiii227/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-熱血48小時" tvg-name="食尚玩家-熱血48小時" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3558_ofiii228_tv_20241202.png" group-title="歐飛點播",食尚玩家-熱血48小時
-http://4gtv.korice.eu.org/ofiii228/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-魚肉鄉民" tvg-name="食尚玩家-魚肉鄉民" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3556_ofiii229_tv_20250221.png" group-title="歐飛點播",食尚玩家-魚肉鄉民
-http://4gtv.korice.eu.org/ofiii229/index.m3u8
-#EXTINF:-1 tvg-id="食尚玩家-瘋狂總部" tvg-name="食尚玩家-瘋狂總部" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3557_ofiii230_tv_20241202.png" group-title="歐飛點播",食尚玩家-瘋狂總部
-http://4gtv.korice.eu.org/ofiii230/index.m3u8
-#EXTINF:-1 tvg-id="非凡大探索" tvg-name="非凡大探索" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3553_ofiii234_tv_20241202.png" group-title="歐飛點播",非凡大探索
-http://4gtv.korice.eu.org/ofiii234/index.m3u8
-#EXTINF:-1 tvg-id="台灣1001個故事" tvg-name="台灣1001個故事" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3555_ofiii235_tv_20241202.png" group-title="歐飛點播",台灣1001個故事
-http://4gtv.korice.eu.org/ofiii235/index.m3u8
-#EXTINF:-1 tvg-id="詹姆士出走料理" tvg-name="詹姆士出走料理" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3566_ofiii236_tv_20241211.png" group-title="歐飛點播",詹姆士出走料理
-http://4gtv.korice.eu.org/ofiii236/index.m3u8
-#EXTINF:-1 tvg-id="進擊的台灣" tvg-name="進擊的台灣" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3568_ofiii237_tv_20241211.png" group-title="歐飛點播",進擊的台灣
-http://4gtv.korice.eu.org/ofiii237/index.m3u8
-#EXTINF:-1 tvg-id="世界第一等" tvg-name="世界第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3567_ofiii238_tv_20241211.png" group-title="歐飛點播",世界第一等
-http://4gtv.korice.eu.org/ofiii238/index.m3u8
-#EXTINF:-1 tvg-id="台灣第一等" tvg-name="台灣第一等" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3569_ofiii239_tv_20241211.png" group-title="歐飛點播",台灣第一等
-http://4gtv.korice.eu.org/ofiii239/index.m3u8
-#EXTINF:-1 tvg-id="溢遊未盡" tvg-name="溢遊未盡" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3570_ofiii240_tv_20241211.png" group-title="歐飛點播",溢遊未盡
-http://4gtv.korice.eu.org/ofiii240/index.m3u8
-#EXTINF:-1 tvg-id="台灣真善美" tvg-name="台灣真善美" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3635_ofiii241_tv_20250221.png" group-title="歐飛點播",台灣真善美
-http://4gtv.korice.eu.org/ofiii241/index.m3u8
-#EXTINF:-1 tvg-id="請問今晚住誰家" tvg-name="請問今晚住誰家" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3636_ofiii242_tv_20250221.png" group-title="歐飛點播",請問今晚住誰家
-http://4gtv.korice.eu.org/ofiii242/index.m3u8
-#EXTINF:-1 tvg-id="早餐中國" tvg-name="早餐中國" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3664_ofiii243_tv_20250305.png" group-title="歐飛點播",早餐中國
-http://4gtv.korice.eu.org/ofiii243/index.m3u8
-#EXTINF:-1 tvg-id="溢起趣打卡" tvg-name="溢起趣打卡" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3665_ofiii244_tv_20250305.png" group-title="歐飛點播",溢起趣打卡
-http://4gtv.korice.eu.org/ofiii244/index.m3u8
-#EXTINF:-1 tvg-id="台灣壹百種味道" tvg-name="台灣壹百種味道" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3666_ofiii245_tv_20250305.png" group-title="歐飛點播",台灣壹百種味道
-http://4gtv.korice.eu.org/ofiii245/index.m3u8
-#EXTINF:-1 tvg-id="紓壓雷雨聲" tvg-name="紓壓雷雨聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3437_ofiii250_tv_20240816.png" group-title="歐飛點播",紓壓雷雨聲
-http://4gtv.korice.eu.org/ofiii250/index.m3u8
-#EXTINF:-1 tvg-id="療癒下雨聲" tvg-name="療癒下雨聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",療癒下雨聲
-http://4gtv.korice.eu.org/ofiii251/index.m3u8
-#EXTINF:-1 tvg-id="放鬆的爵士午後" tvg-name="放鬆的爵士午後" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",放鬆的爵士午後
-http://4gtv.korice.eu.org/ofiii252/index.m3u8
-#EXTINF:-1 tvg-id="外燒柴火聲" tvg-name="外燒柴火聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",野外燒柴火聲
-http://4gtv.korice.eu.org/ofiii253/index.m3u8
-#EXTINF:-1 tvg-id="夏日陽光海浪聲" tvg-name="夏日陽光海浪聲" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_3438_ofiii251_tv_20240816.png" group-title="歐飛點播",夏日陽光海浪聲
-http://4gtv.korice.eu.org/ofiii254/index.m3u8
 
 
-#EXTINF:-1 group-title="抖音K歌",朴彩英/APT
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v02f52g10003css23uiljht5d6b6mnq0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",wonder girls-Nobody
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c6loblbc77u7hd3mel20&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",街道辦GDC/歐陽耀瑩-春嬌與志明
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000chcm34rc77u9287g2210&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",handsome lau/HYPEEZY/馮泳-夢醒
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6jsnkbc77u71r5rs1ig&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",王心淩-第一次愛的人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ca8d8rbc77u376afq590&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",王心淩-當你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c567p8bc77u8uc3sp0lg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳冠希-戰爭
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ch5hv2jc77udla7jom10&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蔡依林-日不落
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ch00eijc77u0akslavig&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蔡依林/陶喆-今天你要嫁給我
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cj0h9mrc77ubbgnamamg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鐘嘉欣-我結婚了
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2utibbc77u7pgisaep0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛蘭/24味-Wonderlanad
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ce1gm2jc77u9vqku0lk0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛蘭-大哥
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cc50gabc77ue2vb9akd0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛蘭-殘酷遊戲
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfhlbnrc77u33819un70&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛蘭-my cokie can
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ckpa68bc77u0e09rgs6g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛蘭-離家出走
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cj9nctrc77u9f26arls0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛蘭-心有不甘
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ch5k663c77u3qu84l3t0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛蘭-就算世界無童話
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000chnenb3c77u2moocu08g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",衛詩-寧願你永不知道
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c8ehvsbc77ue6b6p56hg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",謝安琪-喜帖街
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f580000bqulipikgg1hr4eidvvg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",謝安琪-鐘無豔
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000chq2bsjc77uc3k8tcp5g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鄭欣宜-上心
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmvk5cnog65judt62tcg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",阿細-細界
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ck02v0rc77u87sj16lcg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林奕匡-高山低谷
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cms7f7nog65tv408a84g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周柏豪-我的宣言
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7sm6u3c77uace3houd0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周柏豪-夠鐘
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cmbebvbc77u6p4blmqtg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周柏豪-傳聞
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c9d38o3c77u1jf2r3r6g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周柏豪-小白
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c9go7bjc77u3qv0480gg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周柏豪/鄭融-一事無成
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cbcbg2jc77u4rikmlblg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周柏豪-還記得
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ca9qcubc77u3d3jrsp9g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",CAllStar-天梯
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cisenvvog65r87k65dr0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",黃凱芹-雨中的戀人們
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjli7rfog65o4vh2p4ug&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",謝霆鋒-活著viva
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ccdmdsbc77u0hvhjiuc0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",潘瑋柏/弦子-不得不愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct4mq2vog65i8p1hflg0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",葛東琪-懸溺
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cg7gf7rc77ufgvikae50&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-七裡香
-https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search_app&ratio=720p&video_id=v0200fg10000cpbvhp7og65tm36f7f9g
-#EXTINF:-1 group-title="抖音K歌",周杰倫-說好的幸福呢
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cssvfd7og65s05l6fb30&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-珊瑚海
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cu53j17og65mdmh6uuvg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-退後
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cu4gqmvog65ugg1to2qg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-說好不哭
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cu1rh9vog65imnpbre70&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-等你下課
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cu1nfonog65trp6p79ug&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-蒲公英的約定
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cu16plvog65nf0t5gj8g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-我落淚情緒零碎
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctt2hmvog65usvfqcpf0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-晴天
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctrtl67og65qlnn3p6q0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-一路向北
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctdf26vog65kmvqmvk1g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-我不配
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctckvvnog65m6b34rft0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-花海
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ct25167og65te5cdbhj0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-青花瓷
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cslnpcnog65tu8njd7pg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-稻香
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctlmcvvog65o5ds0167g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-龍捲風
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000crd9uj7og65v04u0dc7g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-簡單愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000csnbkmqljht17n76quv0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-告白氣球
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ci86emrc77ualbim8bv0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-不能說的秘密
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cum99unog65osqdmttig&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周杰倫-擱淺
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cuflqnvog65rdj8jqpc0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",光良-童話
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmhcjp3c77u6lekc7am0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",江語晨-最後一頁
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cn5q3rbc77ubqm4m4jsg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",江語晨-浪漫愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fd80000bqt2lkroe0ndof6sf6d0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陶喆-就是愛你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2j1oprc77u04674qfu0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",郭靜-心牆
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cjb9s3bc77u14r09k960&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",SHE-67首合集
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cp7v5hvog65pib9gvgr0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-當你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7kn3mjc77u760cntbs0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-可惜沒如果
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cc04j43c77ucueo1ls5g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-不為誰而做的歌
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cfrkaljc77ue6grom5qg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-她說
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7kn4r3c77u8dq4r1vo0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-背對背擁抱
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c5a6qjbc77u4nhrr8s0g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-修煉愛情
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000chdi71rc77u1eim5a4t0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-手心的薔薇
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c4p3rrbc77u5vns816r0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-江南
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c8t5ac3c77u822ppftmg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-小酒窩
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cg5ghijc77ud4ehka23g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-Always Online
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ck65c1rc77ucdedd9tpg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林俊傑-不潮不用花錢
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7kn32bc77u538kgoopg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",by2-愛丫愛丫
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000croe187og65pl22ksg00&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",by2-我知道
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000citn8ivog65usodfhif0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",by2-我知道
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct0ushnog65rec0oavug&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",by2-你並不懂我
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000crhpin7og65vnbko3vm0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",by2-你並不懂我
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c8bids3c77ufr1d2duag&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",by2/汪蘇瀧-有點甜
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cb5bsu3c77ucgqht5pj0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",關淑怡-難得有情人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cockvfrc77uecmqmqq40&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",劉小慧-初戀情人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cc9cli3c77u4vdavpd70&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",李克勤-紅日
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co87rbjc77ueeb2bpbbg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",李克勤-護花使者
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cit40pbc77uae67r96cg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",徐小鳳-風的季節
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c9v0f3bc77u2pia8a8vg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",羅文-幾許風雨
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000co6fijvog65rloj3i5n0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",周慧敏-最愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cihdb9rc77uaaibdjvl0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳百強-偏偏喜歡你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c4sd0hjc77uadn62vdpg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳百強-一生何求
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c62hppbc77u6phu370hg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳慧嫻-千千闕歌
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cobq6e3c77udq71olmb0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳慧嫻-夜半小夜曲
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fc30000bu3s66l91uupo5jllq40&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳慧嫻-人生何處不相逢
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000chrn8sjc77u9t0ofndkg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳慧嫻-情意結
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c7mte0bc77u646crfqj0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳慧嫻-傻女
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ccg7jsrc77u3n0hmrrn0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林憶蓮-假如讓你吻下去
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cm13h63c77u825g1pq90&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",張國榮-沉默是金
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cgjuqvbc77uc1cnf47ag&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鐘鎮濤-讓一切隨風
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000clvs8cjc77u7555h0er0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",劉德華-暗裡著迷
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c8rv9cjc77u58p5sd07g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",劉德華-一起走過的日子
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cl9255rc77uagabjkqkg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",譚詠麟-講不出再見
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000co5ch8rc77u2dtata9sg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",譚詠麟-一生中最愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cni9357og65hefir2gf0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",王傑-誰明浪子心
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c5knm9rc77uboe0h3rgg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",王傑-不浪漫罪名
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c9bvck3c77ucqkhpnfd0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",呂方-你的淺笑
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmp585fog65v3t4i0v80&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",張學友-餓狼傳說
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cfapr43c77u621266pjg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",張學友-只想一生跟你走
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ci8ljnbc77u7qp8pt7cg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鄧麗君-漫步人生路
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cgg6rljc77ub1k9u4dug&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鄧麗欣-電燈膽
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cmhsnt3c77u2ra2n3e2g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鄧麗欣/傅穎-親朋勿友
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ccs4uirc77u12f0g60vg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Beyond-光輝歲月
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ccu4ldjc77u4nmf3f54g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Beyond-真的愛你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ceksa4bc77u77da91tfg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Beyond-大地
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cojstabc77uerhn878qg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Beyond-冷雨夜
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdqcbe3c77ucgubud6i0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Beyond-海闊天空
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000chfntjrc77uf4o64t5qg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Beyond-歲月無聲
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cfhoeq3c77u4flt6fni0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",葉蒨文-情人知己
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cmcmv33c77uer3e2mdag&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",葉蒨文-祝福
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c8rfd1bc77u0gvo4f8b0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",葉麗儀-上海灘
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c56uiubc77uc6dubb3q0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",甄妮-友誼太陽
-https://m.douyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c7dm1ojc77udvrshcceg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",甄妮-我曾用心愛著你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c61mgpjc77u30e9dfqa0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",王菲-容易受傷的女人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000coul6kjc77u020n5vnvg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鄭中基-無賴
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cmaj7d7og65vg4bdm0h0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",孫耀威-愛的故上集
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c60cbq3c77u4kbdnbc3g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林子祥-男兒當自強
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300f4a0000bt4chkq5lp9jpvrs4u0g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",梁詠琪-灰姑娘
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c3r9krjc77u4v5e0hcig&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",梁詠琪/李榮浩-紫荊花盛開
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cs9se97og65n0tue68vg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",容祖兒-心淡
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cep4bprc77u0o4umqlt0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",容祖兒-習慣失戀
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cdhtuo3c77u4qg4mdmq0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",容祖兒-續集
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cdaap5bc77u0ioga7ah0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",容祖兒-怯
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c383g33c77u99amrpkl0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",容祖兒-16號愛人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ckl4ehrc77u5t25hkci0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",容祖兒-連續劇
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm5avjbc77u543s8e3b0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳奕迅-落花流水
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cngumojc77ubsn73764g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳奕迅-富士山下
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnu3p4jc77u9i1pe18qg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳奕迅-明年今日
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ccqqbarc77u3c0tjm46g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳奕迅-單車
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ctpv5tvog65qksofvds0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳奕迅-十面埋伏
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csjohunog65ideqnh670&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",楊千嬅-少年的祈禱
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c5ju2krc77u41p3mgv50&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",楊千嬅-處處吻
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000crdghifog65nm151qkh0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",楊千嬅-野孩子
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000co0lujbc77ub5fefi6p0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",楊千嬅-可惜我是水瓶座
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ce88qmbc77uem4d0e4bg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Twins-下一站天后
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c9hsmhrc77u8bcep14rg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Twins-戀愛大過天
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cfvdrjrc77ud5nlujjag&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Twins/boyz-死性不改
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cfvjrkbc77u74v6btr50&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Twins-風箏與風
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fda0000bshv5b74vs5fah61kna0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Twins-朋友仔
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdsbamrc77u2p0aq3a00&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",側田-命硬
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000clpvvpbc77udpkv629d0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",側田-kong
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000clc94u3c77uf0uv06v80&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",連詩雅-好好過
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000chjmaarc77u1lp7ig8c0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",連詩雅-到此為止
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cf3vrrjc77uc2imn4ad0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳柏宇-你瞞我瞞
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ccrgjdrc77ua76fkf6sg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",AGA-孤雛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cp22lt3c77u3sp4g96u0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳雨霏-吳哥窿
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cp8v8l7og65vel2a1ls0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳雨霏-明知做戲
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce0r8hjc77u3c0th1spg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳雨霏-留不低
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cae08n3c77u2lghi4a9g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳雨霏-我本人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cpk55svog65tsdrf872g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳雨霏-座右銘
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csgeobvog65skv513bv0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",梁漢文-纏綿遊戲
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjo6odrc77u9f4if7ub0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林峯-愛在記憶中找你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cbidlubc77u4luk3uth0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林峯-愛不疚
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cbi9p5rc77u8fordilm0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林峯-幼稚完
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c3c8tolfurq0t8hl20cg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林峯/泳兒-明天以後
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000clg15bnog65otdhtama0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",泳兒-無心戀唱
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cd72dobc77u85rlotlp0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",泳兒-24首合集
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000celom73c77u7maj81qo0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",海明威/泳兒-我的回憶不是我的
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000crob83nog65jioid2pv0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",許廷鏗-面具
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200ffe0000bsma66222nggd3hrnnrg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",古巨基-必殺技
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cekv06jc77udpp4ltm90&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",古巨基-愛與誠
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cq20gevog65vbni5bjpg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",黎瑞恩-一人有一個的夢想
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ce4s2g3c77ub64mff9qg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳文緩-時光中飛舞
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cab99tbc77u5slfids90&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳僖儀-忘川
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ca6gn83c77ufug96j7cg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",張敬軒-酷愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ck1q5v3c77ucqtq44b4g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蔣小呢-for ya
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c4k69ujc77u3f5l37i50&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",李玖哲-夏天
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cjhde3fog65upiashhr0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",南征北戰-我的天空
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fbf0000bt8nuaevamb718qchkt0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",mr-森林
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c2ofpk3c77u6arm34eeg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",林韻喬/葉梓晴-機場北
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cp32qpjc77uf5eu3igtg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",麥浚龍-耿耿於懷
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cf2gn93c77uam6kuerdg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",菊梓喬-忘掉我自己
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cr7ia6vog65n4msgpru0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳若希-越難越愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000chcdhdfog65g2p9hdi7g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳若希-愛要撐下去
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cdm727rc77u3lnlca32g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",吳若希-錯過了
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cton3mvog65nv5hqgf50&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",區文詩-不只愛情
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csl1fqnog65lrb9gntd0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鄧岳章-不做情人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cfrhffjc77ua9ospmb0g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",何仟仟-魔鬼邂逅
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c9i1th3c77u5pdfcatng&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",鄧紫棋-17首合集
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cucbtmfog65l35tmqu7g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",陳婉箐-不負眾望
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cu95487og65l3i02957g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",飛兒樂團-月牙灣
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000c4tmklbc77u4upig9730&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",飛兒樂團-lydia
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000cu0hhh7og65rn9pfdt0g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",飛兒樂團-我們的愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c895oo3c77ud27p9ic50&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",飛兒樂團-你的微笑
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c9t0f8rc77u1ksr5jbj0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",飛兒樂團/彭佳慧-心之火
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvhd32vog65lgnkfuh30&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",任然-飛鳥和蟬
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000chgciibc77u4m8k4edog&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",sweety-櫻花草
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c9rreibc77u0n5mpg0o0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",許紹洋-花香
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f290000bt10bsspfrfvn0rsvfhg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",F4-流星雨
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ctps9ffog65q3ledq7i0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",F4-決不能失去你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000clpfsjbc77u46m77t630&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",王藍茵-惡作劇
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000ciocl7jc77u2jkq998s0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",楊丞琳-曖昧
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cncatmbc77ufr0d46jsg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",楊丞琳-雨愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c25llp3c77uemntbq6o0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蔡旻佑-我可以
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c70vjubc77u9ubc7ofdg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",羅志祥-愛轉角
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cjn0p03c77u6rj0bkt80&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",羅志祥-愛不單行
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ck0eshjc77uf7o7ivnpg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蕭亞軒-愛的主打歌
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ca3eb8rc77ub0tj3kl2g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蕭亞軒-遺失的心跳
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ck491ufog65vq1gb76i0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蕭亞軒-突然想起你
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cr2kg7vog65lkksge090&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",蕭亞軒-錯的人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fd00000br0711gi8qol0f2n3720&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",藍又時-孤單心事
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cr897onog65sgcniupd0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",梁靜茹-沒有如果
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000crofuu7og65j64cj0thg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",青山黛瑪-留在我身邊
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000caf9b1jc77u3vnrog8mg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",卓文萱/曹格-梁山伯與茱麗葉
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ckd02j3c77uc41nk2co0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",何潤東-我記得我愛過
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cm12qa3c77u3pbdnrr00&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",張芸京-偏愛
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000csmuo9fog65j08392110&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",張韶涵-無名的人
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ctari87og65ksgs0rnpg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",張韶涵-12首合集
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ct7cdovog65o09j282vg&ratio=720p&line=0
-
-
-#EXTINF:-1 group-title="抖音K歌",李圣杰-痴心绝对
-http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
-#EXTINF:-1 group-title="抖音K歌",梁静茹-勇气
-http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="湾湾频道",民視第一台
+https://cmtv.netlib.re/channel/n1a471266/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="湾湾频道",民視台灣台
+https://cmtv.netlib.re/channel/n1ad630a5/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="湾湾频道",大愛電視
+https://cmtv.netlib.re/channel/n43d4dfd4/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="湾湾频道",中視
+https://cmtv.netlib.re/channel/n279055a/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv080_mobile.png" group-title="湾湾频道",中視經典台
+https://cmtv.netlib.re/channel/408bd1e5/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="湾湾频道",華視
+https://cmtv.netlib.re/channel/n27282dc/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="湾湾频道",三立綜合台
+https://cmtv.netlib.re/channel/37d77ba5/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="湾湾频道",八大綜藝台
+https://cmtv.netlib.re/channel/583e3af6/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" group-title="湾湾频道",中視菁采台
+https://cmtv.netlib.re/channel/40aace24/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="湾湾频道",TVBS精采台
+https://cmtv.netlib.re/channel/n9663e69/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv070_mobile.png" group-title="湾湾频道",愛爾達娛樂台
+https://cmtv.netlib.re/channel/n21ffd92b/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="湾湾频道",靖天綜合台
+https://cmtv.netlib.re/channel/317e7354/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="湾湾频道",靖天日本台
+https://cmtv.netlib.re/channel/3127beb9/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="湾湾频道",新唐人亞太台
+https://cmtv.netlib.re/channel/n98c6959/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="湾湾频道",ARIRANG阿里郎頻道
+https://cmtv.netlib.re/channel/62056d36/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-88" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="湾湾频道",Global Trekker
+https://cmtv.netlib.re/channel/3134fed4/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="湾湾频道",東森購物四台
+https://cmtv.netlib.re/channel/296d925c/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="湾湾频道",達文西頻道
+https://cmtv.netlib.re/channel/n2b6df619/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="湾湾频道",ELTV生活英語台
+https://cmtv.netlib.re/channel/3a6f9a41/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-135" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="湾湾频道",Nick Jr. 兒童頻道
+https://cmtv.netlib.re/channel/n68ff331b/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live105_mobile.png" group-title="湾湾频道",尼克兒童頻道
+https://cmtv.netlib.re/channel/n5e5ed549/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="湾湾频道",DreamWorks 夢工廠動畫
+https://cmtv.netlib.re/channel/nf050af1/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="湾湾频道",靖天卡通台
+https://cmtv.netlib.re/channel/30e73207/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="湾湾频道",靖洋卡通Nice Bingo
+https://cmtv.netlib.re/channel/n1e8261a9/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="湾湾频道",MOMO親子台
+https://cmtv.netlib.re/channel/791f5109/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="湾湾频道",東森購物一台
+https://cmtv.netlib.re/channel/296c7fd7/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="湾湾频道",東森新聞台
+https://cmtv.netlib.re/channel/n6a969278/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="湾湾频道",華視新聞
+https://cmtv.netlib.re/channel/n2fd06b2e/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="湾湾频道",東森財經新聞台
+https://cmtv.netlib.re/channel/492edb6/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="湾湾频道",中視新聞
+https://cmtv.netlib.re/channel/n4840462c/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="湾湾频道",中天新聞台
+https://cmtv.netlib.re/channel/2a347829/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-41" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="湾湾频道",Bloomberg TV
+https://cmtv.netlib.re/channel/4439a004/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="湾湾频道",寰宇新聞台
+https://cmtv.netlib.re/channel/n12ca9ab2/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="湾湾频道",寰宇新聞台灣台
+https://cmtv.netlib.re/channel/757f39bb/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="湾湾频道",SBN全球財經台
+https://cmtv.netlib.re/channel/n263364ff/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-20919" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="湾湾频道",TVBS
+https://cmtv.netlib.re/channel/n6db37f50/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="湾湾频道",東森購物二台
+https://cmtv.netlib.re/channel/296c90cb/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="湾湾频道",民視綜藝台
+https://cmtv.netlib.re/channel/n1a372833/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="湾湾频道",豬哥亮歌廳秀
+https://cmtv.netlib.re/channel/d7360a1/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="湾湾频道",靖天育樂台
+https://cmtv.netlib.re/channel/318cb230/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="湾湾频道",KLT-靖天國際台
+https://cmtv.netlib.re/channel/4676c016/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-841" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="湾湾频道",Nice TV 靖天歡樂台
+https://cmtv.netlib.re/channel/6127e044/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="湾湾频道",TVBS歡樂台
+https://cmtv.netlib.re/channel/n9ac3d61/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="湾湾频道",韓國娛樂台 KMTV
+https://cmtv.netlib.re/channel/n5b1ffa30/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="湾湾频道",東森購物三台
+https://cmtv.netlib.re/channel/296c80ee/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png" group-title="湾湾频道",INULTRA
+https://cmtv.netlib.re/channel/n5dcdf9f6/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="湾湾频道",智林體育台
+https://cmtv.netlib.re/channel/n7803a4e8/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="湾湾频道",時尚運動X
+https://cmtv.netlib.re/channel/7f80e1d9/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="湾湾频道",車迷TV
+https://cmtv.netlib.re/channel/n2ad5fbf4/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="湾湾频道",民視旅遊台
+https://cmtv.netlib.re/channel/n1a8f6317/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="湾湾频道",滾動力rollor
+https://cmtv.netlib.re/channel/7a4bd5c7/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="湾湾频道",亞洲旅遊台
+https://cmtv.netlib.re/channel/398a97da/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="湾湾频道",fun探索娛樂台
+https://cmtv.netlib.re/channel/54399d87/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.png" group-title="湾湾频道",幸福空間居家台
+https://cmtv.netlib.re/channel/n35fc1a2e/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="湾湾频道",愛爾達生活旅遊台
+https://cmtv.netlib.re/channel/n22ef7dc5/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-105" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="湾湾频道",LUXE TV Channel
+https://cmtv.netlib.re/channel/n1b11f50e/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-54947" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="湾湾频道",TV5MONDE STYLE HD 生活時尚
+https://cmtv.netlib.re/channel/5799ca00/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="湾湾频道",MagellanTV頻道 (麥哲倫頻道)
+https://cmtv.netlib.re/channel/66700db1/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="湾湾频道",民視影劇台
+https://cmtv.netlib.re/channel/n1aae9f08/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="湾湾频道",影迷數位紀實台
+https://cmtv.netlib.re/channel/32888672/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="湾湾频道",amc電影台
+https://cmtv.netlib.re/channel/4af2a0e0/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="湾湾频道",My Cinema Europe HD 我的歐洲電影
+https://cmtv.netlib.re/channel/n1f83c777/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="湾湾频道",好消息2台
+https://cmtv.netlib.re/channel/n2d42479b/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="湾湾频道",人間衛視
+https://cmtv.netlib.re/channel/n47cef12f/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-126" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="湾湾频道",NHK WORLD-JAPAN
+https://cmtv.netlib.re/channel/7741db7f/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="hlsproxy-85" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="湾湾频道",FRANCE24 英文台
+https://cmtv.netlib.re/channel/n1fde1fac/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="湾湾频道",半島國際新聞台
+https://cmtv.netlib.re/channel/n5b606cd7/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="湾湾频道",國會頻道1
+https://cmtv.netlib.re/channel/n51cbdb5c/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="湾湾频道",國會頻道2
+https://cmtv.netlib.re/channel/n51cbdb5b/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS綜藝台_mobile-.png" group-title="湾湾频道",TVBS綜藝台
+https://cmtv.netlib.re/channel/n9646e61/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS台劇台_mobile-.png" group-title="湾湾频道",TVBS台劇台
+https://cmtv.netlib.re/channel/na071477/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="湾湾频道",經典電影台
+https://cmtv.netlib.re/channel/n3ca77c48/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="湾湾频道",經典卡通台
+https://cmtv.netlib.re/channel/n3d9f5ceb/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="湾湾频道",精選動漫台
+https://cmtv.netlib.re/channel/n2cbb94bd/index.m3u8?q=1763801745704
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live010_mobile.png" group-title="湾湾频道",戲劇免費看 1台
+https://cmtv.netlib.re/channel/240febd4/index.m3u8?q=1763801745704
 
 
 
-
-#EXTINF:-1 group-title="抖音K歌",Baby
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000ctq63sfog65oesmmlnfg&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Faded
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ctbhakfog65pugm8msu0&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Something just like this
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cs4hhsvog65kgk2fa28g&ratio=720p&line=0
-#EXTINF:-1 group-title="抖音K歌",Nothing's gonna change my love for you
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200f680000btisjnvh3f2dgbhasf6g&ratio=720p&line=0
-
-
-#EXTINF:-1 group-title="抖音K歌",翁立友-坚持
-http://vd2.bdstatic.com/mda-ji4uxxfqu5tgr7c3/mda-ji4uxxfqu5tgr7c3.mp4
-
-#EXTINF:-1 group-title="抖音K歌",巫启贤-太傻
-http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/video.m3u8
-
-#EXTINF:-1 group-title="抖音K歌",辛晓琪-领悟
-http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
-#EXTINF:-1 group-title="抖音K歌",辛晓琪-味道
-http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
-
-#EXTINF:-1 group-title="抖音K歌",许茹芸-独角戏
-http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
-#EXTINF:-1 group-title="抖音K歌",许茹芸-泪海
-http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
-#EXTINF:-1 group-title="抖音K歌",许茹芸-如果云知道
-http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
-#EXTINF:-1 group-title="抖音K歌",周杰倫-即興曲
-https://cfss.cc/api/kg/13559898.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-夜曲
-https://cfss.cc/api/kg/596344.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-傻笑
-https://cfss.cc/api/kg/596984.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-楓
-https://cfss.cc/api/kg/2808.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-園遊會
-https://cfss.cc/api/kg/592679.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-浪漫手機
-https://cfss.cc/api/kg/756738.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-白色風車
-https://cfss.cc/api/kg/3022748.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-藉口
-https://cfss.cc/api/kg/29375.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-擱淺
-https://cfss.cc/api/kg/756760.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-七裡香
-https://cfss.cc/api/kg/756969.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-發如雪
-https://cfss.cc/api/kg/2761.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-聽媽媽的話
-https://cfss.cc/api/kg/578726.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-聽見下雨的聲音
-https://cfss.cc/api/kg/174237.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-愛你沒差
-https://cfss.cc/api/kg/601548.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-退後
-https://cfss.cc/api/kg/179586.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-安靜
-https://cfss.cc/api/kg/756685.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-彩虹
-https://cfss.cc/api/kg/355.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-說好的幸福呢
-https://cfss.cc/api/kg/158898.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-一點點
-https://cfss.cc/api/kg/612883.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-黑色幽默
-https://cfss.cc/api/kg/53399.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-晴天
-https://cfss.cc/api/kg/117613.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-告白氣球
-https://cfss.cc/api/kg/589001.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-說好不哭
-https://cfss.cc/api/kg/1485652.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-一路向北
-https://cfss.cc/api/kg/32776.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-花海
-https://cfss.cc/api/kg/29532.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-簡單愛
-https://cfss.cc/api/kg/596381.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-蒲公英的約定
-https://cfss.cc/api/kg/158907.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-不能說的秘密
-https://cfss.cc/api/kg/159059.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-龍捲風
-https://cfss.cc/api/kg/159057.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-反方向的鐘
-https://cfss.cc/api/kg/52705.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-愛在西元前
-https://cfss.cc/api/kg/596904.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-最長的電影
-https://cfss.cc/api/kg/756444.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-明明就
-https://cfss.cc/api/kg/596504.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-軌跡
-https://cfss.cc/api/kg/1129.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-半島鐵盒
-https://cfss.cc/api/kg/608135.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-以父之名
-https://cfss.cc/api/kg/758240.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-東風破
-https://cfss.cc/api/kg/158899.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-說了再見
-https://cfss.cc/api/kg/596406.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-暗號
-https://cfss.cc/api/kg/60749.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-菊花台
-https://cfss.cc/api/kg/37575.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-稻香
-https://cfss.cc/api/kg/592103.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-給我一首歌的時間
-https://cfss.cc/api/kg/28273.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-手寫的從前
-https://cfss.cc/api/kg/165667.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-我是如此相信
-https://cfss.cc/api/kg/1643256.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-最偉大的作品
-https://cfss.cc/api/kg/6725099.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-我不配
-https://cfss.cc/api/kg/596434.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-開不了口
-https://cfss.cc/api/kg/596426.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-你聽得到
-https://cfss.cc/api/kg/592430.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-等你下課
-https://cfss.cc/api/kg/647748.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-我落淚情緒零碎
-https://cfss.cc/api/kg/91188.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-星晴
-https://cfss.cc/api/kg/756472.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-黑色毛衣
-https://cfss.cc/api/kg/756572.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-回到過去
-https://cfss.cc/api/kg/5030038.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-斷了的弦
-https://cfss.cc/api/kg/756412.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-甜甜的
-https://cfss.cc/api/kg/758285.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-珊瑚海
-https://cfss.cc/api/kg/93469.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-不該
-https://cfss.cc/api/kg/581244.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-千里之外
-https://cfss.cc/api/kg/34453.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-倒帶
-https://cfss.cc/api/kg/57894.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-心雨
-https://cfss.cc/api/kg/596313.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-分裂
-https://cfss.cc/api/kg/758257.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-陽光宅男
-https://cfss.cc/api/kg/6334.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-超人不會飛
-https://cfss.cc/api/kg/756588.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-大笨鐘
-https://cfss.cc/api/kg/598167.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-哪裡都是你
-https://cfss.cc/api/kg/3539844.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-四面楚歌
-https://cfss.cc/api/kg/2762.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-千山萬水
-https://cfss.cc/api/kg/237276.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-算什麼男人
-https://cfss.cc/api/kg/163323.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-我要夏天
-https://cfss.cc/api/kg/181124.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-青花瓷
-https://cfss.cc/api/kg/592096.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-可愛女人
-https://cfss.cc/api/kg/596815.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-上海一九四三
-https://cfss.cc/api/kg/598114.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-雙截棍
-https://cfss.cc/api/kg/158894.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-蝸牛
-https://cfss.cc/api/kg/616227.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-愛我別走
-https://cfss.cc/api/kg/34680.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-愛情懸崖
-https://cfss.cc/api/kg/1128.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-愛的飛行日記
-https://cfss.cc/api/kg/91179.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-霍元甲
-https://cfss.cc/api/kg/596581.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-你好嗎
-https://cfss.cc/api/kg/758247.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-黃金甲
-https://cfss.cc/api/kg/756761.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-龍拳
-https://cfss.cc/api/kg/759385.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-蘭亭序
-https://cfss.cc/api/kg/756476.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-畫沙
-https://cfss.cc/api/kg/1049660.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-紅塵客棧
-https://cfss.cc/api/kg/596097.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-漂移
-https://cfss.cc/api/kg/3770369.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-本草綱目
-https://cfss.cc/api/kg/756630.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-我的地盤
-https://cfss.cc/api/kg/1261.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-瓦解
-https://txmov2.a.kwimgs.com/upic/2025/05/18/18/BMjAyNTA1MTgxODM3NDdfMTA1MDEwOTk4Ml8xNjQ2MDE0MjY0NjVfMl8z_b_Bbfb62e6b9d724cd45a3ed462e4c16f39.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫-分裂
-https://alimov2.a.kwimgs.com/upic/2024/10/09/09/BMjAyNDEwMDkwOTA4NDFfMTMxNzAwMDUwNV8xNDU2Nzg0MDk5MDdfMl8z_b_Bf4bc983e2d5804ab066c988ba7652ec5.mp4
-#EXTINF:-1 group-title="抖音K歌",2002THEONE演唱會完整版
-https://vd3.bdstatic.com/mda-nmgdfvsm9kc46pcz/576p/h264/1671270120913302151/mda-nmgdfvsm9kc46pcz.mp4
-#EXTINF:-1 group-title="抖音K歌",2004無與倫比演唱會完整版
-https://vd4.bdstatic.com/mda-nmbpre7yr8iug4m1/576p/h264/1670863877948761917/mda-nmbpre7yr8iug4m1.mp4
-#EXTINF:-1 group-title="抖音K歌",2007年世界巡迴演唱會完整版
-https://vd4.bdstatic.com/mda-nmbgya8v797emg7u/576p/h264/1670847005358747234/mda-nmbgya8v797emg7u.mp4
-#EXTINF:-1 group-title="抖音K歌",2010超時代演唱會完整版
-https://vd2.bdstatic.com/mda-nmc4khkjnn0k62bn/360p/h264/1670901524505595792/mda-nmc4khkjnn0k62bn.mp4
-#EXTINF:-1 group-title="抖音K歌",2013摩天輪演唱會完整版
-https://vd4.bdstatic.com/mda-nmcex5u2u9puxz6d/576p/h264/1670928165588976698/mda-nmcex5u2u9puxz6d.mp4
-#EXTINF:-1 group-title="抖音K歌",2016地表最強演唱會完整版
-https://vd2.bdstatic.com/mda-nmd5ujxqrmxh59qj/576p/h264/1670992604552514459/mda-nmd5ujxqrmxh59qj.mp4
-#EXTINF:-1 group-title="抖音K歌",周杰倫24小時電臺抓取
-https://stream.zeno.fm/zibntg5gtr7vv
-
-#EXTINF:-1 group-title="演唱會",臺灣民歌記錄片：四十年
-https://vip.dytt-live.com/20250506/5880_055e31fa/index.m3u8
-#EXTINF:-1 group-title="演唱會",2025大灣區電影音樂晚會
-https://vip.dytt-kan.com/20251002/7177_2723ad49/index.m3u8
-#EXTINF:-1 group-title="演唱會",《周傑倫2002THE ONE臺北演唱會 完整版》金曲版
-https://vd3.bdstatic.com/mda-nmgdfvsm9kc46pcz/576p/h264/1671270120913302151/mda-nmgdfvsm9kc46pcz.mp4
-#EXTINF:-1 group-title="演唱會",《周傑倫2004無與倫比演唱會完整版》
-https://vd4.bdstatic.com/mda-nmbpre7yr8iug4m1/576p/h264/1670863877948761917/mda-nmbpre7yr8iug4m1.mp4
-#EXTINF:-1 group-title="演唱會",《周傑倫2007年世界巡迴演唱會完整版》
-https://vd4.bdstatic.com/mda-nmbgya8v797emg7u/576p/h264/1670847005358747234/mda-nmbgya8v797emg7u.mp4
-#EXTINF:-1 group-title="演唱會",《周傑倫2010超時代演唱會高清完整版》
-https://vd2.bdstatic.com/mda-nmc4khkjnn0k62bn/360p/h264/1670901524505595792/mda-nmc4khkjnn0k62bn.mp4
-#EXTINF:-1 group-title="演唱會",《周傑倫2013年摩天輪世界巡迴演唱會完整版》
-https://vd4.bdstatic.com/mda-nmcex5u2u9puxz6d/576p/h264/1670928165588976698/mda-nmcex5u2u9puxz6d.mp4
-#EXTINF:-1 group-title="演唱會",《周傑倫2016年地表最強世界巡迴演唱會完整版》
-https://vd2.bdstatic.com/mda-nmd5ujxqrmxh59qj/576p/h264/1670992604552514459/mda-nmd5ujxqrmxh59qj.mp4
-#EXTINF:-1 group-title="演唱會",《林俊傑2015時線新地球 巡迴演唱會 完整版》
-https://vd3.bdstatic.com/mda-nms50i1sia113r2r/576p/h264/1672112770324111320/mda-nms50i1sia113r2r.mp4
-#EXTINF:-1 group-title="演唱會",《郭富城2013年回演唱會香港站 完整版》
-https://vd4.bdstatic.com/mda-nmdfbhu809ktgnuh/360p/h264/1671015249590151746/mda-nmdfbhu809ktgnuh.mp4
-#EXTINF:-1 group-title="演唱會",梅豔芳《2003年經典金曲演唱會完整版》
-https://vd4.bdstatic.com/mda-nmegba7fpnyzhds1/576p/h264/1671104210184413087/mda-nmegba7fpnyzhds1.mp4
-#EXTINF:-1 group-title="演唱會",刀郎《2007 烏魯木齊十周年演唱會 完整版》
-https://vd4.bdstatic.com/mda-nmsk6gmfyex21hr1/360p/h264/1672150647837878589/mda-nmsk6gmfyex21hr1.mp4
-#EXTINF:-1 group-title="演唱會",謝霆鋒2000年viva演唱會高清完整版》鋒迷必看！
-https://vd2.bdstatic.com/mda-nmcj7tziypfkmubu/360p/h264/1670938894231640080/mda-nmcj7tziypfkmubu.mp4
-#EXTINF:-1 group-title="演唱會",王心淩《2021 臺北小巨蛋演唱會 高清完整版》
-https://vd2.bdstatic.com/mda-pa2cpund9weddj58/576p/h264/1672736536177563955/mda-pa2cpund9weddj58.mp4
-#EXTINF:-1 group-title="演唱會",葉倩文演唱會
-https://alimov2.a.kwimgs.com/upic/2020/10/01/20/BMjAyMDEwMDEyMDMzNDlfMTE0Mzc4ODk3OF8zNjk0Njc4ODI3OF8yXzM=_b_B77b9c6c66d5b6dafbe520a286bb6e6b9.mp4
-#EXTINF:-1 group-title="演唱會",邁克傑克遜《危險之旅演唱會 完整版 珍藏版》
-https://vd2.bdstatic.com/mda-nmu42idx0zwhihq8/576p/h264/1672282865450326183/mda-nmu42idx0zwhihq8.mp4
-#EXTINF:-1 group-title="演唱會",周華健《2015今天唱什麼 巡迴演唱會完整版》
-https://vd2.bdstatic.com/mda-pa3cxmj5kz5viwwq/576p/h264/1672824310339702670/mda-pa3cxmj5kz5viwwq.mp4
-#EXTINF:-1 group-title="演唱會",周華健《2016 出道30年演唱會 完整版》
-https://vd3.bdstatic.com/mda-pa3ecnd7aukyaf4a/576p/h264/1672827636953342632/mda-pa3ecnd7aukyaf4a.mp4
-#EXTINF:-1 group-title="演唱會",張信哲《2016年 還愛光年演唱會 完整版》經典之作！
-https://vd2.bdstatic.com/mda-nmh7q2cm8dwjnum3/576p/h264/1671341864394610629/mda-nmh7q2cm8dwjnum3.mp4
-#EXTINF:-1 group-title="演唱會",張信哲《2018年歌時代II 演唱會 完整版》非常好看
-https://vd3.bdstatic.com/mda-nmh90x7nebc5706t/576p/h264/1671345460202595301/mda-nmh90x7nebc5706t.mp4
-#EXTINF:-1 group-title="演唱會",劉若英《2016 Renext 臺北我敢世界巡迴演唱會 完整版》
-https://vd4.bdstatic.com/mda-nmq4kv7nj8fisyyu/576p/h264/1671939594909809041/mda-nmq4kv7nj8fisyyu.mp4
-#EXTINF:-1 group-title="演唱會",劉若英《2018跟我走 烏鎮英小姐限定版演唱會 完整版》
-https://vd3.bdstatic.com/mda-nmq65j4uv5s0beu7/hd/cae_h264/1673248606002110391/mda-nmq65j4uv5s0beu7.mp4
-#EXTINF:-1 group-title="演唱會",周慧敏《2006與愛長流演唱會 高清完整版》
-https://vd3.bdstatic.com/mda-paf2ni0c5ys3hqtx/576p/h264/1673834172840368674/mda-paf2ni0c5ys3hqtx.mp4
-#EXTINF:-1 group-title="演唱會",周慧敏《DeepV25周年演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmji71xik2a94i0p/576p/h264/1671540995626474873/mda-nmji71xik2a94i0p.mp4
-#EXTINF:-1 group-title="演唱會",周慧敏《30周年 演唱會高清 完整版》
-https://vd3.bdstatic.com/mda-nmk3vfc49zsei6ek/576p/h264/1671591746174731071/mda-nmk3vfc49zsei6ek.mp4
-#EXTINF:-1 group-title="演唱會",鄧紫棋《2015年XXX北京演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmmdn9c6wfb058fg/576p/h264/1671702121121048555/mda-nmmdn9c6wfb058fg.mp4
-#EXTINF:-1 group-title="演唱會",鄧紫棋《2017 世界巡迴演唱會 完整版》
-https://vd4.bdstatic.com/mda-nmme7ggr3353yfce/360p/h264/1671703414902151326/mda-nmme7ggr3353yfce.mp4
-#EXTINF:-1 group-title="演唱會",任賢齊《2015年 落跑吧 愛情演唱會高清完整版》
-https://vd2.bdstatic.com/mda-nmfghew2rp3wcqp5/hd/cae_h264/1671202143575146017/mda-nmfghew2rp3wcqp5.mp4
-#EXTINF:-1 group-title="演唱會",任賢齊《2020年齊跡演唱會 臺北站 完整版 藍光字幕》
-https://vd3.bdstatic.com/mda-nmfkavww2vps91pz/hd/cae_h264/1671209200204248516/mda-nmfkavww2vps91pz.mp4
-#EXTINF:-1 group-title="演唱會",陳奕迅《2007紅磡體育館演唱會 4K高清 完整版》
-https://vd4.bdstatic.com/mda-paw7k4hdfnz4xyry/576p/h264/1675143278817711982/mda-paw7k4hdfnz4xyry.mp4
-#EXTINF:-1 group-title="演唱會",陳奕迅《2010“DUO”演唱會高清完整版》神級現場！
-https://vd4.bdstatic.com/mda-nmfac23y1z5zr3mn/hd/cae_h264/1671183014510079803/mda-nmfac23y1z5zr3mn.mp4
-#EXTINF:-1 group-title="演唱會",陳奕迅《Eason’s Life 2013香港演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmn90etbajxggvpb/576p/h264/1671777371048275385/mda-nmn90etbajxggvpb.mp4
-#EXTINF:-1 group-title="演唱會",伍佰2018年China.Blue.透南風演唱會高清完整版》
-https://vd2.bdstatic.com/mda-nmeb54vh3bws7c4c/576p/h264/1671091096057328271/mda-nmeb54vh3bws7c4c.mp4
-#EXTINF:-1 group-title="演唱會",伍佰生命現場演唱會全集》
-https://vd2.bdstatic.com/mda-nmbk1dc1rd2h9m1t/576p/h264/1670854626527512118/mda-nmbk1dc1rd2h9m1t.mp4
-#EXTINF:-1 group-title="演唱會",伍佰演唱會
-https://txmov2.a.kwimgs.com/upic/2021/01/07/22/BMjAyMTAxMDcyMjU0MzRfODI4NTk1NTQ0XzQyMDMwMTYyOTIwXzJfMw==_b_Bf5420efd42bfae1dca666d543730fbda.mp4
-#EXTINF:-1 group-title="演唱會",周傳雄演唱會
-https://vd2.bdstatic.com/mda-nmgc0ms3fm9b3bu3/576p/h264/1671266481202765955/mda-nmgc0ms3fm9b3bu3.mp4
-#EXTINF:-1 group-title="演唱會",張學友91年每天愛你多一些演唱會高清完整版》
-https://vd2.bdstatic.com/mda-nmc6bf7vqqtxnjs6/hd/cae_h264/1670912304665334108/mda-nmc6bf7vqqtxnjs6.mp4
-#EXTINF:-1 group-title="演唱會",張學友《1993年 學與友經典演唱會 完整版》
-https://vd4.bdstatic.com/mda-nmbjevniypk396e3/576p/h264/1670853087045956378/mda-nmbjevniypk396e3.mp4
-#EXTINF:-1 group-title="演唱會",張學友《1995年友學友 經典演唱會 完整版》
-https://vd3.bdstatic.com/mda-nmf3ms2fzrxski1f/hd/cae_h264/1671162288536760512/mda-nmf3ms2fzrxski1f.mp4
-#EXTINF:-1 group-title="演唱會",張學友《1999 友個人演唱會 高清完整版》
-https://vd2.bdstatic.com/mda-pb36w8b6rnc0z5hj/576p/h264/1675486718975622631/mda-pb36w8b6rnc0z5hj.mp4
-#EXTINF:-1 group-title="演唱會",張學友《2007年 光年巡迴 演唱會 完整版》
-https://vd4.bdstatic.com/mda-nmek3yr26v0mmia8/360p/h264/1671114180615380093/mda-nmek3yr26v0mmia8.mp4
-#EXTINF:-1 group-title="演唱會",張學友《2016年學友經典臺北演唱會 完整版》
-https://vd4.bdstatic.com/mda-nmn72w34juavvyx6/576p/h264/1671772109003214938/mda-nmn72w34juavvyx6.mp4
-#EXTINF:-1 group-title="演唱會",張學友演唱會
-https://alimov2.a.kwimgs.com/upic/2020/05/11/04/BMjAyMDA1MTEwNDE3NTRfMTA4ODgyMjg1OF8yODM1OTM2NTkxMl8yXzM=_b_Bf2cbd177f1349dcfc12d89443cf374af.mp4
-#EXTINF:-1 group-title="演唱會",《譚詠麟94年純金曲演唱會高清完整版》
-https://vd2.bdstatic.com/mda-nmcb4ycjrf5qhjaw/hd/cae_h264/1670924774390584075/mda-nmcb4ycjrf5qhjaw.mp4
-#EXTINF:-1 group-title="演唱會",《2005 歌者戀歌濃情30年 演唱會 完整字幕版》
-https://vd3.bdstatic.com/mda-pb288z52kkp24j7d/hd/cae_h264/1675405760149439666/mda-pb288z52kkp24j7d.mp4
-#EXTINF:-1 group-title="演唱會",《2010 再度感動香港演唱會 高清完整版》
-https://vd4.bdstatic.com/mda-pb34i0fpkj0m4cps/hd/cae_h264/1675494022570178771/mda-pb34i0fpkj0m4cps.mp4
-#EXTINF:-1 group-title="演唱會",《譚詠麟2015年銀河歲月40載演唱會 完整版》
-https://vd4.bdstatic.com/mda-nmdgivr6da7bqpqs/hd/cae_h264/1671028643276847054/mda-nmdgivr6da7bqpqs.mp4
-#EXTINF:-1 group-title="演唱會",劉德華1994演唱會,https://alimov2.a.kwimgs.com/upic/2020/11/21/21/BMjAyMDExMjEyMTA2NDdfODI4NTk1NTQ0XzM5NTk1NzIyODQ0XzJfMw==_b_Bd2a633720f4eb58f50fcf669ac9f6481.mp4
-#EXTINF:-1 group-title="演唱會",劉德華1996演唱會
-https://txmov2.a.kwimgs.com/upic/2020/11/24/04/BMjAyMDExMjQwNDAwMzFfODI4NTk1NTQ0XzM5NzA5NDUwNzEyXzJfMw==_b_B5b8c14b2ba01d46f3c1f12fbeba49c43.mp4
-#EXTINF:-1 group-title="演唱會",劉德華1999演唱會
-https://alimov2.a.kwimgs.com/upic/2020/11/18/21/BMjAyMDExMTgyMTQ0NDlfODI4NTk1NTQ0XzM5NDM1NzU0Njc0XzJfMw==_b_B98fc4057c592f311f03825bd7f3bb05c.mp4
-#EXTINF:-1 group-title="演唱會",劉德華2001演唱會
-https://alimov2.a.kwimgs.com/upic/2020/11/18/21/BMjAyMDExMTgyMTA3MjdfODI4NTk1NTQ0XzM5NDMzNDM3OTI0XzJfMw==_b_B52993094a9f0b4a854478aca541a9a58.mp4
-#EXTINF:-1 group-title="演唱會",劉德華《2007香港紅磡 演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmbnvt4myvg0x26d/576p/h264/1670861624347655626/mda-nmbnvt4myvg0x26d.mp4
-#EXTINF:-1 group-title="演唱會",劉德華2007演唱會
-https://alimov2.a.kwimgs.com/upic/2020/02/28/13/BMjAyMDAyMjgxMzMwNDFfMTU5NTU2MTY2OV8yNDE4ODE5MDc1Ml8yXzM=_b_B48ce4518e73458e04dec4771e0deb6a4.mp4
-#EXTINF:-1 group-title="演唱會",劉德華《2010Unforgettable香港紅館演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmj6k2bc3adyg21b/576p/h264/1671511395304150666/mda-nmj6k2bc3adyg21b.mp4
-#EXTINF:-1 group-title="演唱會",劉德華《2011年中國巡迴演唱會 上海站 完整版》
-https://vd4.bdstatic.com/mda-pa4a49uy4h0r7wn4/576p/h264/1672903079005864993/mda-pa4a49uy4h0r7wn4.mp4
-#EXTINF:-1 group-title="演唱會",劉德華《巡迴演唱會上海站 高清完整版》八萬人大合唱
-https://vd2.bdstatic.com/mda-nmedfmpuhx9k86xn/576p/h264/1671098620160374576/mda-nmedfmpuhx9k86xn.mp4
-#EXTINF:-1 group-title="演唱會",黎明《2005 紅磡經典金曲演唱會 完整版》
-https://vd3.bdstatic.com/mda-nmpe78rgx4gw838q/hd/cae_h264/1671883745043789332/mda-nmpe78rgx4gw838q.mp4
-#EXTINF:-1 group-title="演唱會",黎明《2011 Leon XU 紅館 Live演唱會高清 完整版》
-https://vd4.bdstatic.com/mda-nmcde2gcrk3fjt5z/576p/h264/1670925006665758590/mda-nmcde2gcrk3fjt5z.mp4
-#EXTINF:-1 group-title="演唱會",李克勤《2002情情塔塔演唱會 修復版 完整版》
-https://vd2.bdstatic.com/mda-pae7c6xjaeg7xer5/hd/cae_h264/1673762904075484432/mda-pae7c6xjaeg7xer5.mp4
-#EXTINF:-1 group-title="演唱會",李克勤《2011香港小交響樂團演奏廳演唱會 完整版》
-https://vd4.bdstatic.com/mda-pae4mwxatd5nz24c/576p/h264/1673753222612308469/mda-pae4mwxatd5nz24c.mp4
-#EXTINF:-1 group-title="演唱會",《李克勤2017年慶祝成立30周年演唱會高清完整版》
-https://vd3.bdstatic.com/mda-nmcism1928599nu6/576p/h264/1670937708736425187/mda-nmcism1928599nu6.mp4
-#EXTINF:-1 group-title="演唱會",容祖兒《2008 starlight 演唱會,經典,完整版》
-https://vd2.bdstatic.com/mda-pa85gkrwgjkixnyp/576p/h264/1673236888580394574/mda-pa85gkrwgjkixnyp.mp4
-#EXTINF:-1 group-title="演唱會",容祖兒《2010 Coccert Number 6演唱會 完整版
-https://vd3.bdstatic.com/mda-pa86mtej4sz5n2vr/576p/h264/1673240260923662881/mda-pa86mtej4sz5n2vr.mp4
-#EXTINF:-1 group-title="演唱會",蔡依林《2007地才演唱會 4K高清完整版》
-https://vd2.bdstatic.com/mda-nmu8j2k2rri1jsjb/hd/cae_h264/1672365159332310914/mda-nmu8j2k2rri1jsjb.mp4
-#EXTINF:-1 group-title="演唱會",蔡依林《2013Myself 臺北演唱會完整版》
-https://vd2.bdstatic.com/mda-nmuh0hr8u0u6cte0/576p/h264/1672315785506572864/mda-nmuh0hr8u0u6cte0.mp4
-#EXTINF:-1 group-title="演唱會",蔡依林《2014 Play 呸 演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmv6mkd1h1nadgd2/576p/h264/1672376027911881335/mda-nmv6mkd1h1nadgd2.mp4
-#EXTINF:-1 group-title="演唱會",蔡依林《2015 世界巡迴演唱會 完整版》
-https://vd3.bdstatic.com/mda-nmv7p5ckgd1y0q4r/576p/h264/1672378806357641364/mda-nmv7p5ckgd1y0q4r.mp4
-#EXTINF:-1 group-title="演唱會",蔡依林演唱會
-https://alimov2.a.kwimgs.com/upic/2020/07/13/17/BMjAyMDA3MTMxNzEyMzZfODY2NDU4ODQ1XzMyMjk2MDQ4MzQ4XzJfMw==_b_B8f6ffb1ac85e8c6f0363ee3c3076d8df.mp4
-#EXTINF:-1 group-title="演唱會",蕭亞軒《2001 夏日精彩 演唱會 完整版》
-https://vd3.bdstatic.com/mda-nmva6i471kzy4s4w/576p/h264/1672384680417583405/mda-nmva6i471kzy4s4w.mp4
-#EXTINF:-1 group-title="演唱會",蕭亞軒《2003年 Up2U 演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmv9c6vf0gmdvtcm/576p/h264/1672382727349291441/mda-nmv9c6vf0gmdvtcm.mp4
-#EXTINF:-1 group-title="演唱會",蕭亞軒《2009 WOW3 LIVE 演唱會 完整版》
-https://vd3.bdstatic.com/mda-pa3kh2zwascgw2c2/576p/h264/1672843937904836811/mda-pa3kh2zwascgw2c2.mp4
-#EXTINF:-1 group-title="演唱會",張惠妹《2010阿密特演唱會 高清完整版》
-https://vd2.bdstatic.com/mda-pa4ggwqkg1hknakr/576p/h264/1672919548156014099/mda-pa4ggwqkg1hknakr.mp4
-#EXTINF:-1 group-title="演唱會",張惠妹《2013世界巡迴演唱會完整版》
-https://vd2.bdstatic.com/mda-pa59wsxnp6hvw6cd/576p/h264/1672989122541301764/mda-pa59wsxnp6hvw6cd.mp4
-#EXTINF:-1 group-title="演唱會",李宗盛《2006理性與感性演唱會 完整版》
-https://vd4.bdstatic.com/mda-pb24ivm6mtvf47cw/hd/cae_h264/1675401338311630042/mda-pb24ivm6mtvf47cw.mp4
-#EXTINF:-1 group-title="演唱會",李宗盛《2016既然青春留不住演唱會完整版》
-https://vd2.bdstatic.com/mda-nmm5d7310djqaw0d/576p/h264/1671681105695580161/mda-nmm5d7310djqaw0d.mp4
-#EXTINF:-1 group-title="演唱會",莫文蔚《2001好莫文蔚演唱會 4K高清修復 完整版》
-https://vd3.bdstatic.com/mda-pb648pb8uqranzvw/hd/cae_h264/1675746234053274788/mda-pb648pb8uqranzvw.mp4
-#EXTINF:-1 group-title="演唱會",莫文蔚《2011回蔚 臺北小巨蛋演唱會 完整版》
-https://vd3.bdstatic.com/mda-pb658x0xe19hqdpp/360p/h264/1675741571130020178/mda-pb658x0xe19hqdpp.mp4
-#EXTINF:-1 group-title="演唱會",梁靜茹《2001年 七夕勇氣演唱會&完整版》
-https://vd2.bdstatic.com/mda-pa97ypqyc6wu0zk8/576p/h264/1673329490406586933/mda-pa97ypqyc6wu0zk8.mp4
-#EXTINF:-1 group-title="演唱會",梁靜茹《2002 Time&Love演唱會 完整版》
-https://vd3.bdstatic.com/mda-pa98qb25xtnnbn8x/576p/h264/1673331155408906723/mda-pa98qb25xtnnbn8x.mp4
-#EXTINF:-1 group-title="演唱會",鄭秀文《2015 touch mi巡迴演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmpj84w16e73taxy/576p/h264/1671889503106158757/mda-nmpj84w16e73taxy.mp4
-#EXTINF:-1 group-title="演唱會",鄭秀文《2018 生日演唱會,高清完整版》
-https://vd2.bdstatic.com/mda-pa4ctrwhn61hjjgw/576p/h264/1672910025213887371/mda-pa4ctrwhn61hjjgw.mp4
-#EXTINF:-1 group-title="演唱會",楊千嬅《2010世界巡迴演唱會 完整版》
-https://vd2.bdstatic.com/mda-pa5egbg196xxmt2d/576p/h264/1673001655021314889/mda-pa5egbg196xxmt2d.mp4
-#EXTINF:-1 group-title="演唱會",楊千嬅《2015Lets Begin演唱會 完整版》
-https://vd4.bdstatic.com/mda-pa5dji395y8xmq6z/576p/h264/1672999545437013514/mda-pa5dji395y8xmq6z.mp4
-#EXTINF:-1 group-title="演唱會",王菲《98-99唱遊大世界 演唱會 完整版》
-https://vd4.bdstatic.com/mda-pa38b031238njta3/hd/cae_h264/1672923987187598030/mda-pa38b031238njta3.mp4
-#EXTINF:-1 group-title="演唱會",王菲《2016 幻樂一場 演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmu5mwp547ea2qqi/hd/cae_h264/1672354630123138948/mda-nmu5mwp547ea2qqi.mp4
-#EXTINF:-1 group-title="演唱會",陳慧嫻《1989幾時再見 告別歌壇 演唱會》
-https://vd3.bdstatic.com/mda-pa38zbarmey6ce76/360p/h264/1672813359525431064/mda-pa38zbarmey6ce76.mp4
-#EXTINF:-1 group-title="演唱會",陳慧嫻1996年演唱會
-https://alimov2.a.kwimgs.com/upic/2021/10/03/15/BMjAyMTEwMDMxNTUzNTFfMTE0Mzc4ODk3OF81ODM0NDAyOTMyMl8yXzM=_b_B85495f852ff71a0887f689798176cc08.mp4
-#EXTINF:-1 group-title="演唱會",陳慧嫻《2003重返歌壇演唱會 完整版》
-https://vd3.bdstatic.com/mda-pa2f7a9v7tx0rjcn/hd/cae_h264/1672852494712879502/mda-pa2f7a9v7tx0rjcn.mp4
-#EXTINF:-1 group-title="演唱會",陳慧嫻《2008活出生命演唱會,高清完整版》
-https://vd3.bdstatic.com/mda-pa36fvkb1bpnw5ca/576p/h264/1672807149098315689/mda-pa36fvkb1bpnw5ca.mp4
-#EXTINF:-1 group-title="演唱會",陳慧嫻《2014 30周年演唱會 高清完整 珍藏版》
-https://vd2.bdstatic.com/mda-nmkc1znfw4dz5tbj/576p/h264/1671612650824205354/mda-nmkc1znfw4dz5tbj.mp4
-#EXTINF:-1 group-title="演唱會",陳慧嫻《2016年Priscilla-ism演唱會完整版》
-https://vd2.bdstatic.com/mda-nmkdh8zu3b6jeur2/576p/h264/1671615353015464234/mda-nmkdh8zu3b6jeur2.mp4
-#EXTINF:-1 group-title="演唱會",陳慧嫻告別演唱會
-https://alimov2.a.kwimgs.com/upic/2021/01/06/20/BMjAyMTAxMDYyMDM3MDlfODI4NTk1NTQ0XzQxOTc4MTcyNTcwXzJfMw==_b_B433cd58306ccc133cade9d3cdcf0b0f1.mp4
-#EXTINF:-1 group-title="演唱會",陳慧琳《2002 飛天舞會演唱會 完整版》
-https://vd4.bdstatic.com/mda-panghz9yd2itiarg/576p/h264/1674474198720485545/mda-panghz9yd2itiarg.mp4
-#EXTINF:-1 group-title="演唱會",陳慧琳《2005紙醉金迷演唱會 完整版》
-https://vd2.bdstatic.com/mda-pani2ii7ab475aqv/576p/h264/1674478244611200996/mda-pani2ii7ab475aqv.mp4
-#EXTINF:-1 group-title="演唱會",陳慧琳《2008 演唱會 完整版》
-https://vd2.bdstatic.com/mda-pap5g5hdrs3a2f9n/hd/cae_h264/1674535115951758244/mda-pap5g5hdrs3a2f9n.mp4
-#EXTINF:-1 group-title="演唱會",李宇春《2014why me十周年 演唱會完整版》
-https://vd3.bdstatic.com/mda-pa657mq60fuufg2k/576p/h264/1673063716911647630/mda-pa657mq60fuufg2k.mp4
-#EXTINF:-1 group-title="演唱會",李宇春《2016野蠻生長演唱會 重慶站 完整版》
-https://vd2.bdstatic.com/mda-pa66z25sfybxrtnb/360p/h264/1673067794659521040/mda-pa66z25sfybxrtnb.mp4
-#EXTINF:-1 group-title="演唱會",李宇春《2018年 “流行”演唱會 北京站 完整版》
-https://vd4.bdstatic.com/mda-pa6ai2q6tnihvw1a/576p/h264/1673076887061763198/mda-pa6ai2q6tnihvw1a.mp4
-#EXTINF:-1 group-title="演唱會",張靚穎《2011 我的模樣演唱會 高清完整版》
-https://vd4.bdstatic.com/mda-pa6drcydexjxs77s/576p/h264/1673085018757516458/mda-pa6drcydexjxs77s.mp4
-#EXTINF:-1 group-title="演唱會",張靚穎《2012 “傾聽”演唱會 高清 完整版》
-https://vd4.bdstatic.com/mda-pa754jpi39ku61b2/576p/h264/1673149309487139562/mda-pa754jpi39ku61b2.mp4
-#EXTINF:-1 group-title="演唱會",張靚穎《2015 中國巡迴演唱會 北京站 完整版》
-https://vd2.bdstatic.com/mda-pa75yhuj2fm0mt8m/576p/h264/1673151621612626340/mda-pa75yhuj2fm0mt8m.mp4
-#EXTINF:-1 group-title="演唱會",小虎隊《1995 虎嘯龍騰演唱會》珍藏 完整版版
-https://vd3.bdstatic.com/mda-paa1pps10rftbfvu/hd/cae_h264/1673418256085401013/mda-paa1pps10rftbfvu.mp4
-#EXTINF:-1 group-title="演唱會",“第一天團”縱貫線《臺北2009「出發」演唱會致敬經典 完整版》
-https://vd3.bdstatic.com/mda-pac5q1he7r5wjykx/576p/h264/1673583274906869271/mda-pac5q1he7r5wjykx.mp4
-#EXTINF:-1 group-title="演唱會",“懷念家駒”《Be yond經典演唱會,重映超清修復版
-完整版》,https://vd2.bdstatic.com/mda-pa5g6jhqxd9n3n9x/hd/cae_h264/1673042101363579084/mda-pa5g6jhqxd9n3n9x.mp4
-#EXTINF:-1 group-title="演唱會",動力火車《2016年下一站臺北演唱會 高清 完整版》
-https://vd4.bdstatic.com/mda-nmh64c39b2ss5p7j/576p/h264/1671338273583946669/mda-nmh64c39b2ss5p7j.mp4
-#EXTINF:-1 group-title="演唱會",S H E《2014 世界巡迴演唱會 臺北站 完整版》
-https://vd2.bdstatic.com/mda-nmtebs1e731y7hfu/576p/h264/1672223127459067725/mda-nmtebs1e731y7hfu.mp4
-#EXTINF:-1 group-title="演唱會",S H E《2018 十七周年臺北演唱會 完整版》
-https://vd2.bdstatic.com/mda-nmtfbgevwx16brb0/576p/h264/1672224992649095576/mda-nmtfbgevwx16brb0.mp4
-#EXTINF:-1 group-title="演唱會",S H E《4EVER世界巡迴演唱會 完整版》珍藏版
-https://vd3.bdstatic.com/mda-nmkefmyd0arci215/576p/h264/1671618057578437373/mda-nmkefmyd0arci215.mp4
-#EXTINF:-1 group-title="演唱會",草蜢樂隊《2005我們的演唱會 高清修復完整版》
-https://vd4.bdstatic.com/mda-pab49n7eagcjyh3a/576p/h264/1673493039443053267/mda-pab49n7eagcjyh3a.mp4
-#EXTINF:-1 group-title="演唱會",草蜢樂隊《2010 年25載香港演唱會 完整版》
-https://vd2.bdstatic.com/mda-pabcjgycy75qd28g/576p/h264/1673514880213259882/mda-pabcjgycy75qd28g.mp4
-#EXTINF:-1 group-title="演唱會",寶麗金《成立20周年 1990群星演唱會完整版》
-https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/hd/cae_h264/1677214872094217006/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 group-title="演唱會",寶麗金《成立25周年 群星演唱會完整版》
-https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/hd/cae_h264/1677311810110678172/mda-pbq9cde2ii3ti6dc.mp4
-#EXTINF:-1 group-title="演唱會",寶麗金《成立30周年 群星演唱會完整版》
-https://vd2.bdstatic.com/mda-pbr4g2edssnu2heu/576p/h264/1677381478074490840/mda-pbr4g2edssnu2heu.mp4
-#EXTINF:-1 group-title="演唱會",電視劇歌曲合集
-https://alimov2.a.kwimgs.com/upic/2022/03/03/00/BMjAyMjAzMDMwMDA1MThfODI4NTk1NTQ0XzY4NzY0NTM0NTk3XzJfMw==_b_B657263864dc4be00e4943c7700e92685.mp4
-
-
-#EXTINF:-1 group-title="演唱會",劉德華 今日演唱會上
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d5752d2b128a010370019981d8805d_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 今日演唱會中
-https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d575b81a468c4f0370019981d7590e_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 今日演唱會下
-https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d576391a55d74f0370019981d9b2f3_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 抖精彩片段一
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d55d9a38a29a01037001998179dc88_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 抖精彩片段二
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d55f342b33eb0103700199818a670e_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 今天演唱會一
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56c0738b82a010370019981b0f51d_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 今天演唱會二
-https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d56c6a1cc47b4f0370019981b1936a_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 今天演唱會三
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56cda3884c0010370019981b36f0e_258.mp4
-#EXTINF:-1 group-title="演唱會",劉德華 今天演唱會四
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d56d192b31c9010370019981b350f9_258.mp4
-
-
-#EXTINF:-1 group-title="演唱會",鄧紫棋香港站
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c02b2307ec2801037001992eb2cbfb_258.mp4
-
-http://sinalprivado.info:80/632035/GqGcFV4ntu/40016
 
 
 
