@@ -19,6 +19,12 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+{
+      "name": "smpd",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/smpd.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
  {
       "name": "4gtv",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
@@ -46,6 +52,7 @@
       ]
 
 }
+
 
 
 
