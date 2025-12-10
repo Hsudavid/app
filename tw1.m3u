@@ -2,11 +2,12 @@
 
 
 
-#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://logo.doube.eu.org/中天新聞.png" group-title="台灣酒店",中天新聞(LiTV)
+
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="台灣酒店",中天新聞台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞台" tvg-logo="https://logo.doube.eu.org/TVBS新聞.png" group-title="台灣酒店",TVBS新聞台(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞" tvg-logo="https://logo.doube.eu.org/東森新聞台.png" group-title="台灣酒店",東森新聞(LiTV)
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="台灣酒店",東森新聞台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://logo.doube.eu.org/民視新聞台.png" group-title="台灣酒店",民視新聞台(LiTV)
 http://4gtv.korice.eu.org/litv-ftv13/index.m3u8
@@ -18,22 +19,22 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞" tvg-logo="https://logo.doube.eu.org/台視新聞台.png" group-title="台灣酒店",台視新聞(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://logo.doube.eu.org/華視新聞.png" group-title="台灣酒店",華視新聞(LiTV)
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="台灣酒店",華視新聞
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞" tvg-logo="https://logo.doube.eu.org/中視新聞台.png" group-title="台灣酒店",中視新聞(LiTV)
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="台灣酒店",中視新聞
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://logo.doube.eu.org/寰宇新聞台.png" group-title="台灣酒店",寰宇新聞台(LiTV)
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台灣酒店",寰宇新聞台
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
-#EXTINF:-1 group-title="台灣酒店",三立新聞HD
-http://220.134.196.147:8549/http/61.219.99.20:8081/hls/73/815/ch52.m3u8
+#EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://logo.catvod.com/三立新聞HD.png" group-title="台灣酒店",三立新聞HD
+http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 #EXTINF:-1 group-title="台灣酒店",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣酒店",年代新聞台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
 
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://logo.doube.eu.org/寰宇新聞台灣台.png" group-title="台灣酒店",寰宇新聞台灣台(LiTV)
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="台灣酒店",寰宇新聞台灣台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
-#EXTINF:-1 tvg-id="半島國際新聞" tvg-name="半島新聞" tvg-logo="https://logo.doube.eu.org/半島國際新聞.png" group-title="台灣酒店",半島新聞(LiTV)
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="台灣酒店",半島國際新聞台
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
 #EXTINF:-1 tvg-id="美國之音" tvg-name="美國之音" tvg-logo="https://logo.doube.eu.org/美國之音.png" group-title="台灣酒店",美國之音(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv03
@@ -49,9 +50,9 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv104
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://logo.doube.eu.org/台視.png" group-title="台灣酒店",台視(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://logo.doube.eu.org/中視.png" group-title="台灣酒店",中視(LiTV)
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台灣酒店",中視
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://logo.doube.eu.org/華視.png" group-title="台灣酒店",華視(LiTV)
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="台灣酒店",華視
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://logo.doube.eu.org/民視.png" group-title="台灣酒店",民視(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
@@ -61,7 +62,7 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv014
 #EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GinxTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="台灣酒店",GinxTV(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv053
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://logo.doube.eu.org/智林體育台.png" group-title="台灣酒店",智林體育台(LiTV)
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="台灣酒店",智林體育台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv101
 #EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://logo.catvod.com/緯來體育.png" group-title="台灣酒店",緯來體育
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
@@ -108,9 +109,9 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
 #EXTINF:-1 tvg-id="博斯無限台HD" tvg-name="博斯無限台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="台灣酒店",博斯無限I
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn10
 #EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="台灣酒店",博斯無限II
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://logo.doube.eu.org/民視台灣台.png" group-title="台灣酒店",民視台灣台(LiTV)
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台灣酒店",民視台灣台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://logo.doube.eu.org/民視第一台.png" group-title="台灣酒店",民視第一台(LiTV)
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台灣酒店",民視第一台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
 #EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲台" tvg-logo="https://logo.doube.eu.org/中天亞洲.png" group-title="台灣酒店",中天亞洲台(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
@@ -823,156 +824,6 @@ http://4gtv.korice.eu.org/nnews-wf/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="湾湾频道",民視第一台
-https://cmtv.netlib.re/channel/n1a471266/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="湾湾频道",民視台灣台
-https://cmtv.netlib.re/channel/n1ad630a5/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="湾湾频道",大愛電視
-https://cmtv.netlib.re/channel/n43d4dfd4/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="湾湾频道",中視
-https://cmtv.netlib.re/channel/n279055a/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv080_mobile.png" group-title="湾湾频道",中視經典台
-https://cmtv.netlib.re/channel/408bd1e5/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="湾湾频道",華視
-https://cmtv.netlib.re/channel/n27282dc/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="湾湾频道",三立綜合台
-https://cmtv.netlib.re/channel/37d77ba5/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="湾湾频道",八大綜藝台
-https://cmtv.netlib.re/channel/583e3af6/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" group-title="湾湾频道",中視菁采台
-https://cmtv.netlib.re/channel/40aace24/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="湾湾频道",TVBS精采台
-https://cmtv.netlib.re/channel/n9663e69/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv070_mobile.png" group-title="湾湾频道",愛爾達娛樂台
-https://cmtv.netlib.re/channel/n21ffd92b/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="湾湾频道",靖天綜合台
-https://cmtv.netlib.re/channel/317e7354/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="湾湾频道",靖天日本台
-https://cmtv.netlib.re/channel/3127beb9/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="湾湾频道",新唐人亞太台
-https://cmtv.netlib.re/channel/n98c6959/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="湾湾频道",ARIRANG阿里郎頻道
-https://cmtv.netlib.re/channel/62056d36/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-88" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="湾湾频道",Global Trekker
-https://cmtv.netlib.re/channel/3134fed4/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="湾湾频道",東森購物四台
-https://cmtv.netlib.re/channel/296d925c/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="湾湾频道",達文西頻道
-https://cmtv.netlib.re/channel/n2b6df619/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="湾湾频道",ELTV生活英語台
-https://cmtv.netlib.re/channel/3a6f9a41/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-135" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="湾湾频道",Nick Jr. 兒童頻道
-https://cmtv.netlib.re/channel/n68ff331b/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live105_mobile.png" group-title="湾湾频道",尼克兒童頻道
-https://cmtv.netlib.re/channel/n5e5ed549/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="湾湾频道",DreamWorks 夢工廠動畫
-https://cmtv.netlib.re/channel/nf050af1/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="湾湾频道",靖天卡通台
-https://cmtv.netlib.re/channel/30e73207/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="湾湾频道",靖洋卡通Nice Bingo
-https://cmtv.netlib.re/channel/n1e8261a9/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="湾湾频道",MOMO親子台
-https://cmtv.netlib.re/channel/791f5109/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="湾湾频道",東森購物一台
-https://cmtv.netlib.re/channel/296c7fd7/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="湾湾频道",東森新聞台
-https://cmtv.netlib.re/channel/n6a969278/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="湾湾频道",華視新聞
-https://cmtv.netlib.re/channel/n2fd06b2e/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="湾湾频道",東森財經新聞台
-https://cmtv.netlib.re/channel/492edb6/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="湾湾频道",中視新聞
-https://cmtv.netlib.re/channel/n4840462c/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="湾湾频道",中天新聞台
-https://cmtv.netlib.re/channel/2a347829/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-41" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="湾湾频道",Bloomberg TV
-https://cmtv.netlib.re/channel/4439a004/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="湾湾频道",寰宇新聞台
-https://cmtv.netlib.re/channel/n12ca9ab2/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="湾湾频道",寰宇新聞台灣台
-https://cmtv.netlib.re/channel/757f39bb/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="湾湾频道",SBN全球財經台
-https://cmtv.netlib.re/channel/n263364ff/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-20919" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="湾湾频道",TVBS
-https://cmtv.netlib.re/channel/n6db37f50/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="湾湾频道",東森購物二台
-https://cmtv.netlib.re/channel/296c90cb/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="湾湾频道",民視綜藝台
-https://cmtv.netlib.re/channel/n1a372833/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="湾湾频道",豬哥亮歌廳秀
-https://cmtv.netlib.re/channel/d7360a1/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="湾湾频道",靖天育樂台
-https://cmtv.netlib.re/channel/318cb230/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="湾湾频道",KLT-靖天國際台
-https://cmtv.netlib.re/channel/4676c016/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-841" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="湾湾频道",Nice TV 靖天歡樂台
-https://cmtv.netlib.re/channel/6127e044/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="湾湾频道",TVBS歡樂台
-https://cmtv.netlib.re/channel/n9ac3d61/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="湾湾频道",韓國娛樂台 KMTV
-https://cmtv.netlib.re/channel/n5b1ffa30/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="湾湾频道",東森購物三台
-https://cmtv.netlib.re/channel/296c80ee/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png" group-title="湾湾频道",INULTRA
-https://cmtv.netlib.re/channel/n5dcdf9f6/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="湾湾频道",智林體育台
-https://cmtv.netlib.re/channel/n7803a4e8/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="湾湾频道",時尚運動X
-https://cmtv.netlib.re/channel/7f80e1d9/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="湾湾频道",車迷TV
-https://cmtv.netlib.re/channel/n2ad5fbf4/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="湾湾频道",民視旅遊台
-https://cmtv.netlib.re/channel/n1a8f6317/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="湾湾频道",滾動力rollor
-https://cmtv.netlib.re/channel/7a4bd5c7/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="湾湾频道",亞洲旅遊台
-https://cmtv.netlib.re/channel/398a97da/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="湾湾频道",fun探索娛樂台
-https://cmtv.netlib.re/channel/54399d87/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.png" group-title="湾湾频道",幸福空間居家台
-https://cmtv.netlib.re/channel/n35fc1a2e/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="湾湾频道",愛爾達生活旅遊台
-https://cmtv.netlib.re/channel/n22ef7dc5/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-105" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="湾湾频道",LUXE TV Channel
-https://cmtv.netlib.re/channel/n1b11f50e/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-54947" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="湾湾频道",TV5MONDE STYLE HD 生活時尚
-https://cmtv.netlib.re/channel/5799ca00/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="湾湾频道",MagellanTV頻道 (麥哲倫頻道)
-https://cmtv.netlib.re/channel/66700db1/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="湾湾频道",民視影劇台
-https://cmtv.netlib.re/channel/n1aae9f08/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="湾湾频道",影迷數位紀實台
-https://cmtv.netlib.re/channel/32888672/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="湾湾频道",amc電影台
-https://cmtv.netlib.re/channel/4af2a0e0/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="湾湾频道",My Cinema Europe HD 我的歐洲電影
-https://cmtv.netlib.re/channel/n1f83c777/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="湾湾频道",好消息2台
-https://cmtv.netlib.re/channel/n2d42479b/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="湾湾频道",人間衛視
-https://cmtv.netlib.re/channel/n47cef12f/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-126" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="湾湾频道",NHK WORLD-JAPAN
-https://cmtv.netlib.re/channel/7741db7f/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="hlsproxy-85" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="湾湾频道",FRANCE24 英文台
-https://cmtv.netlib.re/channel/n1fde1fac/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="湾湾频道",半島國際新聞台
-https://cmtv.netlib.re/channel/n5b606cd7/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="湾湾频道",國會頻道1
-https://cmtv.netlib.re/channel/n51cbdb5c/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="湾湾频道",國會頻道2
-https://cmtv.netlib.re/channel/n51cbdb5b/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS綜藝台_mobile-.png" group-title="湾湾频道",TVBS綜藝台
-https://cmtv.netlib.re/channel/n9646e61/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS台劇台_mobile-.png" group-title="湾湾频道",TVBS台劇台
-https://cmtv.netlib.re/channel/na071477/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="湾湾频道",經典電影台
-https://cmtv.netlib.re/channel/n3ca77c48/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="湾湾频道",經典卡通台
-https://cmtv.netlib.re/channel/n3d9f5ceb/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="湾湾频道",精選動漫台
-https://cmtv.netlib.re/channel/n2cbb94bd/index.m3u8?q=1763801745704
-#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live010_mobile.png" group-title="湾湾频道",戲劇免費看 1台
-https://cmtv.netlib.re/channel/240febd4/index.m3u8?q=1763801745704
 
 
 
@@ -1881,6 +1732,10 @@ https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-long
 
 #EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii直播",Smart知識台
 https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
+
+
+
+
 
 
 
