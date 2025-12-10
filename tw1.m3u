@@ -1,21 +1,17 @@
 
-
-
-
-
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="台灣酒店",中天新聞台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞台" tvg-logo="https://logo.doube.eu.org/TVBS新聞.png" group-title="台灣酒店",TVBS新聞台(LiTV)
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="台灣酒店",TVBS新聞台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="台灣酒店",東森新聞台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://logo.doube.eu.org/民視新聞台.png" group-title="台灣酒店",民視新聞台(LiTV)
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="台灣酒店",民視新聞
 http://4gtv.korice.eu.org/litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台" tvg-logo="https://logo.doube.eu.org/民視新聞台.png" group-title="台灣酒店",民視新聞台(LiTV)
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="台灣酒店",民視新聞
 http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡新聞" tvg-logo="https://logo.doube.eu.org/鏡電視新聞台.png" group-title="台灣酒店",鏡新聞(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
-#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://logo.doube.eu.org/非凡新聞.png" group-title="台灣酒店",非凡新聞(LiTV)
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="台灣酒店",非凡新聞
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
 #EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞" tvg-logo="https://logo.doube.eu.org/台視新聞台.png" group-title="台灣酒店",台視新聞(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
@@ -1732,6 +1728,10 @@ https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-long
 
 #EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii直播",Smart知識台
 https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
+
+
+
+
 
 
 
