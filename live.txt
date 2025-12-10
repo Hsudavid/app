@@ -20,8 +20,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 {
-      "name": "smpd",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/smpd.m3u",
+      "name": "四季",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -47,6 +47,7 @@
       ]
 
 }
+
 
 
 
