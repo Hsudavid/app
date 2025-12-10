@@ -29,13 +29,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-   {
-      "name": "smpd",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/smpd.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-
     {
       "name": "宝盒",
       "type": 0,
@@ -938,6 +931,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
