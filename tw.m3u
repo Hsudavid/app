@@ -1,6 +1,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://logo.doube.eu.org/中天新聞.png" group-title="台灣酒店",中天新聞(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞台" tvg-logo="https://logo.doube.eu.org/TVBS新聞.png" group-title="台灣酒店",TVBS新聞台(LiTV)
@@ -88,24 +89,25 @@ http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://logo.catvod.com/DAZN2.png" group-title="台灣酒店",DAZN 2
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=dazn2_twn&token=ffmking
+#EXTINF:-1 group-title="台灣酒店",momo綜合台
+http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 
-#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="台灣酒店",博斯魅力(LiTV)
+#EXTINF:-1 tvg-id="博斯魅力網" tvg-name="博斯魅力網" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="台灣酒店",博斯魅力
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn04
-#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="台灣酒店",博斯高球1(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="https://logo.doube.eu.org/博斯高球2.png" group-title="台灣酒店",博斯高球2(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn06
-#EXTINF:-1 tvg-id="博斯運動1" tvg-name="博斯運動1" tvg-logo="https://logo.doube.eu.org/博斯運動1.png" group-title="台灣酒店",博斯運動1(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn07
-#EXTINF:-1 tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="https://logo.doube.eu.org/博斯運動2.png" group-title="台灣酒店",博斯運動2(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn08
-#EXTINF:-1 tvg-id="博斯網球1" tvg-name="博斯網球" tvg-logo="https://logo.doube.eu.org/博斯網球1.png" group-title="台灣酒店",博斯網球(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
-#EXTINF:-1 tvg-id="博斯無限1" tvg-name="博斯無限" tvg-logo="https://logo.doube.eu.org/博斯無限1.png" group-title="台灣酒店",博斯無限(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn10
-#EXTINF:-1 tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://logo.doube.eu.org/博斯無限2.png" group-title="台灣酒店",博斯無限2(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn13
 
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="台灣酒店",博斯高球I
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn05
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="台灣酒店",博斯高球II
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn06
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="台灣酒店",博斯運動I
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn07
+#EXTINF:-1 tvg-id="博斯運動二台HD" tvg-name="博斯運動二台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png" group-title="台灣酒店",博斯運動II
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn08
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png" group-title="台灣酒店",博斯網球
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
+#EXTINF:-1 tvg-id="博斯無限台HD" tvg-name="博斯無限台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="台灣酒店",博斯無限I
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn10
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="台灣酒店",博斯無限II
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://logo.doube.eu.org/民視台灣台.png" group-title="台灣酒店",民視台灣台(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://logo.doube.eu.org/民視第一台.png" group-title="台灣酒店",民視第一台(LiTV)
@@ -213,8 +215,6 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="生活英語台" tvg-logo="https://logo.doube.eu.org/ELTV生活英語台.png" group-title="台灣酒店",生活英語台(LiTV)
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
 
-#EXTINF:-1 group-title="台灣酒店",momo綜合台
-http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 #EXTINF:-1 group-title="台灣酒店",MUCH TV
 http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
 #EXTINF:-1 group-title="台灣酒店",TVBS HD
@@ -455,6 +455,9 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv101
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://logo.catvod.com/緯來體育.png" group-title="體育競技",緯來體育
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=videolandsport&token=ffmking
+#EXTINF:-1 group-title="體育競技",momo綜合台
+http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="體育競技",愛爾達體育1台
 https://tzh911.qzz.io/play-smt.php?id=eltasport1_twn
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="體育競技",愛爾達體育2台
@@ -1878,6 +1881,10 @@ https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-long
 
 #EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii直播",Smart知識台
 https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
+
+
+
+
 
 
 
