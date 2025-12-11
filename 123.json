@@ -13,9 +13,7 @@
      {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/98.json", "name": "自用"
     },     
-       { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/li.json", "name": "新543"
-    },   
+      
     {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.json", "name": "肥小猫"
     },  
@@ -71,6 +69,7 @@
     }
    ]
  }
+
 
 
 
