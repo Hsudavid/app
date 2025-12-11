@@ -39,13 +39,7 @@
     }, 
    { 
       "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技"
-    },   
-     
-    { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/dodo.json", "name": "dodo"
-    }, 
-    { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.json", "name": "貓仔"
+   
     }
 
    ]
@@ -53,6 +47,7 @@
  }
 
    
+
 
 
 
