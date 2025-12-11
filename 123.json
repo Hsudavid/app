@@ -24,9 +24,7 @@
  
      
    
-    { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.json", "name": "貓仔"
-    },
+   
        
   
     { 
@@ -57,6 +55,7 @@
     }
    ]
  }
+
 
 
 
