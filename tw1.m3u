@@ -1,245 +1,5 @@
 
 
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="台灣酒店",中天新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="台灣酒店",TVBS新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="台灣酒店",東森新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="台灣酒店",民視新聞
-http://4gtv.korice.eu.org/litv-ftv13/index.m3u8
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="台灣酒店",民視新聞
-http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="台灣酒店",鏡電視新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="台灣酒店",非凡新聞
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
-#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="台灣酒店",台視新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="台灣酒店",華視新聞
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="台灣酒店",中視新聞
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台灣酒店",寰宇新聞台
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
-#EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://logo.catvod.com/三立新聞HD.png" group-title="台灣酒店",三立新聞HD
-http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 group-title="台灣酒店",壹新聞
-http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣酒店",年代新聞台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="台灣酒店",寰宇新聞台灣台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="台灣酒店",半島國際新聞台
-http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="台灣酒店",VOA 美國之音
-http://tv543.cc/litv.php?token=leifeng&id=litv-ftv03
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="台灣酒店",東森財經新聞
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="台灣酒店",非凡商業
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
-#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="台灣酒店",台視財經台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBS.png" group-title="台灣酒店",TVBS
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="台灣酒店",台視HD
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="台灣酒店",中視
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="台灣酒店",華視
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="台灣酒店",民視HD
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="台灣酒店",民視HD
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="台灣酒店",民視台灣台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="台灣酒店",民視第一台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
-#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲台" tvg-logo="https://logo.doube.eu.org/中天亞洲.png" group-title="台灣酒店",中天亞洲台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://logo.doube.eu.org/靖天綜合台.png" group-title="台灣酒店",靖天綜合台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv046
-#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://logo.doube.eu.org/靖天國際台.png" group-title="台灣酒店",靖天國際台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv063
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://logo.doube.eu.org/靖天資訊台.png" group-title="台灣酒店",靖天資訊台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv065
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://logo.doube.eu.org/客家電視台.png" group-title="台灣酒店",客家電視台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
-#EXTINF:-1 tvg-id="ARIRANG" tvg-name="阿里郎" tvg-logo="https://logo.doube.eu.org/ARIRANG.png" group-title="台灣酒店",阿里郎(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv079
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://logo.doube.eu.org/國會頻道1.png" group-title="台灣酒店",國會頻道1(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv084
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://logo.doube.eu.org/國會頻道2.png" group-title="台灣酒店",國會頻道2(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv085
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://logo.doube.eu.org/TVBS歡樂台.png" group-title="台灣酒店",TVBS歡樂台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="台灣酒店",TVBS精采台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv067
-#EXTINF:-1 tvg-id="ELTV娛樂" tvg-name="愛爾達娛樂" tvg-logo="https://logo.doube.eu.org/ELTV娛樂.png" group-title="台灣酒店",愛爾達娛樂(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://logo.doube.eu.org/民視綜藝台.png" group-title="台灣酒店",民視綜藝台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv004
-#EXTINF:-1 tvg-id="八大綜藝" tvg-name="八大綜藝台" tvg-logo="https://logo.doube.eu.org/八大綜藝.png" group-title="台灣酒店",八大綜藝台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv039
-#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="台灣酒店",八大精彩台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv034
-#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://logo.doube.eu.org/靖天歡樂台.png" group-title="台灣酒店",靖天歡樂台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv054
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://logo.doube.eu.org/靖天育樂台.png" group-title="台灣酒店",靖天育樂台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv062
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://logo.doube.eu.org/中視菁采台.png" group-title="台灣酒店",中視菁采台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv064
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://logo.doube.eu.org/豬哥亮歌廳秀.png" group-title="台灣酒店",豬哥亮歌廳秀(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv006
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="台灣酒店",影迷數位電影台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv011
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://logo.doube.eu.org/amc電影台.png" group-title="台灣酒店",amc電影台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv017
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://logo.doube.eu.org/靖天電影台.png" group-title="台灣酒店",靖天電影台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv061
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://logo.doube.eu.org/靖天映畫.png" group-title="台灣酒店",靖天映畫(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv055
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://logo.doube.eu.org/采昌影劇台.png" group-title="台灣酒店",采昌影劇台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv049
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇" tvg-logo="https://logo.doube.eu.org/民視影劇台.png" group-title="台灣酒店",民視影劇(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-ftv09
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影" tvg-logo="https://logo.doube.eu.org/龍華電影台.png" group-title="台灣酒店",龍華電影(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片" tvg-logo="https://logo.doube.eu.org/龍華洋片台.png" group-title="台灣酒店",龍華洋片(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn02
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://logo.doube.eu.org/公視戲劇.png" group-title="台灣酒店",公視戲劇(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://logo.doube.eu.org/靖洋戲劇台.png" group-title="台灣酒店",靖洋戲劇台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv045
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://logo.doube.eu.org/靖天戲劇台.png" group-title="台灣酒店",靖天戲劇台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv058
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://logo.doube.eu.org/中視經典台.png" group-title="台灣酒店",中視經典台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="台灣酒店",靖天日本台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv047
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇" tvg-logo="https://logo.doube.eu.org/龍華戲劇台.png" group-title="台灣酒店",龍華戲劇(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓" tvg-logo="https://logo.doube.eu.org/龍華日韓台.png" group-title="台灣酒店",龍華日韓(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn11
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像" tvg-logo="https://logo.doube.eu.org/龍華偶像台.png" group-title="台灣酒店",龍華偶像(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn12
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典" tvg-logo="https://logo.doube.eu.org/龍華經典台.png" group-title="台灣酒店",龍華經典(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn21
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://logo.doube.eu.org/台灣戲劇台.png" group-title="台灣酒店",台灣戲劇台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn22
-#EXTINF:-1 tvg-id="視納華仁紀實" tvg-name="視納華仁紀實" tvg-logo="https://logo.doube.eu.org/視納華仁紀實.png" group-title="台灣酒店",視納華仁紀實(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv013
-#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="台灣酒店",Globetrotter(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://logo.doube.eu.org/達文西頻道.png" group-title="台灣酒店",達文西頻道(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv018
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://logo.doube.eu.org/亞洲旅遊台.png" group-title="台灣酒店",亞洲旅遊台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv076
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊" tvg-logo="https://logo.doube.eu.org/民視旅遊台.png" group-title="台灣酒店",民視旅遊(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-ftv07
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://logo.doube.eu.org/Smart知識台.png" group-title="台灣酒店",Smart知識台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="台灣酒店",靖天卡通台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv044
-#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="台灣酒店",靖洋卡通台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv057
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通" tvg-logo="https://logo.doube.eu.org/龍華卡通台.png" group-title="台灣酒店",龍華卡通(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
-#EXTINF:-1 tvg-id="CLASSICA古典樂" tvg-name="古典音樂台" tvg-logo="https://logo.doube.eu.org/CLASSICA古典樂.png" group-title="台灣酒店",古典音樂台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
-#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="台灣酒店",TRACE URBAN(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
-#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="台灣酒店",MEZZO LIVE(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
-#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="台灣酒店",好消息1(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
-#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="台灣酒店",好消息2(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="生活英語台" tvg-logo="https://logo.doube.eu.org/ELTV生活英語台.png" group-title="台灣酒店",生活英語台(LiTV)
-http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
-#EXTINF:-1 group-title="台灣酒店",MUCH TV
-http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
-#EXTINF:-1 group-title="台灣酒店",TVBS HD
-http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
-#EXTINF:-1 group-title="台灣酒店",TVBS新聞HD
-http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
-#EXTINF:-1 group-title="台灣酒店",八大第一HD
-http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
-#EXTINF:-1 group-title="台灣酒店",八大綜合HD
-http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
-#EXTINF:-1 group-title="台灣酒店",八大戲劇HD
-http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 group-title="台灣酒店",三立台灣HD
-http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
-#EXTINF:-1 group-title="台灣酒店",三立都會HD
-http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
-#EXTINF:-1 group-title="台灣酒店",中天娛樂HD
-http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 group-title="台灣酒店",中天綜合HD
-http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
-#EXTINF:-1 group-title="台灣酒店",東風衛視
-http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
-#EXTINF:-1 group-title="台灣酒店",旅遊生活
-http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
-#EXTINF:-1 group-title="台灣酒店",動物星球
-http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
-#EXTINF:-1 group-title="台灣酒店",超視HD
-http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
-#EXTINF:-1 group-title="台灣酒店",緯來育樂HD
-http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
-#EXTINF:-1 group-title="台灣酒店",緯來綜合HD
-http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
-#EXTINF:-1 group-title="台灣酒店",緯來戲劇
-http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
-#EXTINF:-1 group-title="台灣酒店",緯來體育HD
-http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
-#EXTINF:-1 group-title="台灣酒店",寰宇新聞
-http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 group-title="台灣酒店",寵物頻道
-http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
-#EXTINF:-1 group-title="台灣酒店",鏡電視新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
-#EXTINF:-1 group-title="台灣酒店",鳯凰衛視資訊
-http://220.134.196.147:8577/http/59.120.8.187:8078/hls/20/80/phoenixif.m3u8
-#EXTINF:-1 group-title="台灣酒店",鳯凰衛視中文
-http://220.134.196.147:8578/http/59.120.8.187:8078/hls/21/80/phoenixch.m3u8
-#EXTINF:-1 group-title="台灣酒店",中天新闻
-http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
-#EXTINF:-1 group-title="台灣酒店",中天新闻
-http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
-#EXTINF:-1 group-title="台灣酒店",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 group-title="台灣酒店",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 group-title="台灣酒店",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="台灣酒店",亞太電視綜合台
-http://play2.one-tv.com/live/onetv.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="台灣酒店",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="台灣酒店",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="龍祥時代電影台" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="台灣酒店",龍祥時代電影台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=ffmking
-#EXTINF:-1 tvg-name="台灣美亞電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="台灣酒店",台灣美亞電影台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=meiyamovie_twn&token=ffmking
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="台灣酒店",CINEMAX
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=ffmking
-#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="台灣酒店",好萊塢電影台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=ffmking
-#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="台灣酒店",東森電影台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=ffmking
-#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="台灣酒店",東森洋片台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=ffmking
-#EXTINF:-1 tvg-name="Catchplay電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="台灣酒店",Catchplay電影台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
-#EXTINF:-1 tvg-name="AXN台灣台" tvg-logo="https://logo.catvod.com/AXN.png" group-title="台灣酒店",AXN台灣台
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=ffmking
-#EXTINF:-1 tvg-name="HBO亞洲" tvg-logo="https://logo.catvod.com/HBO.png" group-title="台灣酒店",HBO亞洲
-http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
-
-
 
 
 
@@ -366,12 +126,122 @@ http://4gtv.korice.eu.org/of-litv-ftv17/index.m3u8
 http://4gtv.korice.eu.org/of-4gtv-4gtv102/index.m3u8
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
 http://4gtv.korice.eu.org/of-4gtv-4gtv103/index.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBS.png" group-title="綜合其他",TVBS
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="綜合其他",中視
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="綜合其他",華視
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="綜合其他",民視台灣台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="綜合其他",民視第一台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲台" tvg-logo="https://logo.doube.eu.org/中天亞洲.png" group-title="綜合其他",中天亞洲台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="KLT靖天國際台HD" tvg-name="KLT靖天國際台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",靖天國際
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
+#EXTINF:-1 tvg-id="ARIRANG" tvg-name="阿里郎" tvg-logo="https://logo.doube.eu.org/ARIRANG.png" group-title="綜合其他",阿里郎(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv079
+#EXTINF:-1 tvg-id="國會頻道1台" tvg-name="國會頻道1台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv084
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv085
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
+http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
+http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="生活英語台" tvg-logo="https://logo.doube.eu.org/ELTV生活英語台.png" group-title="綜合其他",生活英語台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
+#EXTINF:-1 group-title="綜合其他",MUCH TV
+http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 group-title="綜合其他",TVBS HD
+http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="綜合其他",八大第一HD
+http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+#EXTINF:-1 group-title="綜合其他",八大綜合HD
+http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+#EXTINF:-1 group-title="綜合其他",八大戲劇HD
+http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+#EXTINF:-1 group-title="綜合其他",三立台灣HD
+http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="綜合其他",三立都會HD
+http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+#EXTINF:-1 group-title="綜合其他",中天娛樂HD
+http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+#EXTINF:-1 group-title="綜合其他",中天綜合HD
+http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="綜合其他",東風衛視
+http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+#EXTINF:-1 group-title="綜合其他",旅遊生活
+http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+#EXTINF:-1 group-title="綜合其他",動物星球
+http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="綜合其他",超視HD
+http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+#EXTINF:-1 group-title="綜合其他",緯來育樂HD
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+#EXTINF:-1 group-title="綜合其他",緯來綜合HD
+http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="綜合其他",緯來戲劇
+http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+#EXTINF:-1 group-title="綜合其他",寵物頻道
+http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
 
 
 
 
-
-
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="新聞財經",中天新聞台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="新聞財經",東森新聞台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
+http://4gtv.korice.eu.org/litv-ftv13/index.m3u8
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
+http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="新聞財經",華視新聞
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="新聞財經",中視新聞
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="新聞財經",寰宇新聞台
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
+#EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://logo.catvod.com/三立新聞HD.png" group-title="新聞財經",三立新聞HD
+http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+#EXTINF:-1 group-title="新聞財經",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="新聞財經",年代新聞台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="新聞財經",寰宇新聞台灣台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="新聞財經",半島國際新聞台
+http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
+#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="新聞財經",VOA 美國之音
+http://tv543.cc/litv.php?token=leifeng&id=litv-ftv03
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
 http://4gtv.korice.eu.org/4gtv-4gtv075/index.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
@@ -392,6 +262,9 @@ http://4gtv.korice.eu.org/4gtv-4gtv009/index.m3u8
 http://4gtv.korice.eu.org/4gtv-live059/index.m3u8
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
 http://4gtv.korice.eu.org/litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
+http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
 http://4gtv.korice.eu.org/4gtv-4gtv156/index.m3u8
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
@@ -464,6 +337,26 @@ http://4gtv.korice.eu.org/nnews-zh/index.m3u8
 http://4gtv.korice.eu.org/nnews-vn/index.m3u8
 #EXTINF:-1 tvg-id="倪珍報氣象" tvg-name="倪珍報氣象" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍報氣象
 http://4gtv.korice.eu.org/nnews-wf/index.m3u8
+#EXTINF:-1 group-title="新聞財經",鏡電視新聞台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 group-title="新聞財經",中天新闻
+http://smtp.tcxlife.com:8080/live/yifatv-ztxw01.m3u8
+#EXTINF:-1 group-title="新聞財經",中天新闻
+http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
+#EXTINF:-1 group-title="新聞財經",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 group-title="新聞財經",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="新聞財經",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="新聞財經",亞太電視綜合台
+http://play2.one-tv.com/live/onetv.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="新聞財經",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="新聞財經",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
 
 
 
@@ -482,6 +375,9 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv101
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://logo.catvod.com/緯來體育.png" group-title="體育競技",緯來體育
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=videolandsport&token=ffmking
+#EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://logo.catvod.com/緯來體育.png" group-title="體育競技",緯來體育
+http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+
 #EXTINF:-1 group-title="體育競技",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="體育競技",愛爾達體育1台
@@ -624,6 +520,81 @@ http://4gtv.korice.eu.org/litv-longturn12/index.m3u8
 http://4gtv.korice.eu.org/litv-longturn18/index.m3u8
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
 http://4gtv.korice.eu.org/litv-longturn21/index.m3u8
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://logo.doube.eu.org/TVBS歡樂台.png" group-title="電影戲劇",TVBS歡樂台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="電影戲劇",TVBS精采台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="ELTV娛樂" tvg-name="愛爾達娛樂" tvg-logo="https://logo.doube.eu.org/ELTV娛樂.png" group-title="電影戲劇",愛爾達娛樂(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://logo.doube.eu.org/民視綜藝台.png" group-title="電影戲劇",民視綜藝台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="八大綜藝" tvg-name="八大綜藝台" tvg-logo="https://logo.doube.eu.org/八大綜藝.png" group-title="電影戲劇",八大綜藝台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="電影戲劇",八大精彩台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://logo.doube.eu.org/靖天歡樂台.png" group-title="電影戲劇",靖天歡樂台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://logo.doube.eu.org/靖天育樂台.png" group-title="電影戲劇",靖天育樂台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://logo.doube.eu.org/中視菁采台.png" group-title="電影戲劇",中視菁采台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://logo.doube.eu.org/豬哥亮歌廳秀.png" group-title="電影戲劇",豬哥亮歌廳秀(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv006
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="電影戲劇",影迷數位電影台
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://logo.doube.eu.org/amc電影台.png" group-title="電影戲劇",amc電影台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv017
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://logo.doube.eu.org/靖天電影台.png" group-title="電影戲劇",靖天電影台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://logo.doube.eu.org/靖天映畫.png" group-title="電影戲劇",靖天映畫(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://logo.doube.eu.org/采昌影劇台.png" group-title="電影戲劇",采昌影劇台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇" tvg-logo="https://logo.doube.eu.org/民視影劇台.png" group-title="電影戲劇",民視影劇(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-ftv09
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影" tvg-logo="https://logo.doube.eu.org/龍華電影台.png" group-title="電影戲劇",龍華電影(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
+#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片" tvg-logo="https://logo.doube.eu.org/龍華洋片台.png" group-title="電影戲劇",龍華洋片(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn02
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://logo.doube.eu.org/公視戲劇.png" group-title="電影戲劇",公視戲劇(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://logo.doube.eu.org/靖洋戲劇台.png" group-title="電影戲劇",靖洋戲劇台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://logo.doube.eu.org/靖天戲劇台.png" group-title="電影戲劇",靖天戲劇台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://logo.doube.eu.org/中視經典台.png" group-title="電影戲劇",中視經典台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="電影戲劇",靖天日本台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇" tvg-logo="https://logo.doube.eu.org/龍華戲劇台.png" group-title="電影戲劇",龍華戲劇(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓" tvg-logo="https://logo.doube.eu.org/龍華日韓台.png" group-title="電影戲劇",龍華日韓(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn11
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像" tvg-logo="https://logo.doube.eu.org/龍華偶像台.png" group-title="電影戲劇",龍華偶像(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn12
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典" tvg-logo="https://logo.doube.eu.org/龍華經典台.png" group-title="電影戲劇",龍華經典(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn21
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://logo.doube.eu.org/台灣戲劇台.png" group-title="電影戲劇",台灣戲劇台(LiTV)
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn22
+#EXTINF:-1 tvg-name="龍祥時代電影台" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="電影戲劇",龍祥時代電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=ffmking
+#EXTINF:-1 tvg-name="台灣美亞電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000058.png" group-title="電影戲劇",台灣美亞電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=meiyamovie_twn&token=ffmking
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="電影戲劇",CINEMAX
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=ffmking
+#EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://static.wixstatic.com/media/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png/v1/fill/w_70,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/da73d2_a0e24afbbc1448c68568ba46f065d858~mv2.png" group-title="電影戲劇",好萊塢電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=ffmking
+#EXTINF:-1 tvg-name="東森電影台" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="電影戲劇",東森電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=ffmking
+#EXTINF:-1 tvg-name="東森洋片台" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="電影戲劇",東森洋片台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=ffmking
+#EXTINF:-1 tvg-name="Catchplay電影台" tvg-logo="https://modapp-chtmod.cdn.hinet.net/MODAPP/getImages.php?imageId=MOD_LIVE_0000000077.png" group-title="電影戲劇",Catchplay電影台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
+#EXTINF:-1 tvg-name="AXN台灣台" tvg-logo="https://logo.catvod.com/AXN.png" group-title="電影戲劇",AXN台灣台
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=ffmking
+#EXTINF:-1 tvg-name="HBO亞洲" tvg-logo="https://logo.catvod.com/HBO.png" group-title="電影戲劇",HBO亞洲
+http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
+
 
 
 
@@ -677,7 +648,12 @@ http://4gtv.korice.eu.org/li-4gtv-4gtv083/index.m3u8
 http://4gtv.korice.eu.org/li-4gtv-4gtv059/index.m3u8
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
 http://4gtv.korice.eu.org/li-4gtv-4gtv034/index.m3u8
-
+#EXTINF:-1 tvg-id="CLASSICA古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA古典樂
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
+#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",TRACE Urban
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
+#EXTINF:-1 tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",Mezzo Live HD
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
 
 
 
@@ -724,7 +700,14 @@ http://4gtv.korice.eu.org/li-litv-longturn19/index.m3u8
 http://4gtv.korice.eu.org/of-4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-id="SMART知識台" tvg-name="SMART知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
 http://4gtv.korice.eu.org/litv-longturn19/index.m3u8
-
+#EXTINF:-1 tvg-id="GLOBALTREKKER" tvg-name="GLOBALTREKKER" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="生活旅遊",Global Trekker
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
+http://tv543.cc/litv.php?token=leifeng&id=litv-ftv07
+#EXTINF:-1 tvg-id="SMART知識台" tvg-name="SMART知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
 
 
 
@@ -766,11 +749,23 @@ http://4gtv.korice.eu.org/li-4gtv-4gtv057/index.m3u8
 http://4gtv.korice.eu.org/of-litv-longturn20/index.m3u8
 #EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
 http://4gtv.korice.eu.org/litv-longturn01/index.m3u8
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv018
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
+http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
 
 
 
 
 
+
+
+#EXTINF:-1 tvg-id="CNEX紀實頻道" tvg-name="CNEX紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv013
 #EXTINF:-1 tvg-id="HISTORY歷史頻道" tvg-name="HISTORY歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="紀實探索",歷史頻道
 http://4gtv.korice.eu.org/4gtv-live026/index.m3u8
 #EXTINF:-1 tvg-id="CNEX紀實頻道" tvg-name="CNEX紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
@@ -1476,6 +1471,10 @@ https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-long
 
 #EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="ofiii直播",Smart知識台
 https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
+
+
+
+
 
 
 
