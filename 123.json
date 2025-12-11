@@ -23,7 +23,9 @@
     },  
  
      
-   
+   {
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/jsm.json", "name": "jsm"
+    },  
    
        
   
@@ -55,6 +57,7 @@
     }
    ]
  }
+
 
 
 
