@@ -18,7 +18,7 @@
       "name": "影视-采集(T4)",
       "type": 4,
       "api": "https://catbox.n13.club/t9/caiji.php"
-    },
+    }
     {
       "key": "T4-jianpian",
       "name": "影视-荐片(T4)",
@@ -1008,6 +1008,7 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
