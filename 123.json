@@ -23,10 +23,7 @@
     },  
  
      
-    
-    { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/dodo.json", "name": "dodo"
-    }, 
+   
     { 
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/catvod.json", "name": "貓仔"
     },
@@ -41,12 +38,10 @@
    
   
 
-   { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/dodo.json", "name": "dodo"
-    }, 
+
 
     { 
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/xc.json", "name": "xc"
+      "url": "https://gitee.com/lzxw66/lzxw9/raw/master/Ace", "name": "Ace"
     }, 
     { 
       "url": "https://tv.xn--yhqu5zs87a.top", "name": "菜妮丝" 
@@ -62,6 +57,7 @@
     }
    ]
  }
+
 
 
 
