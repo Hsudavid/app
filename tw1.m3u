@@ -1,4 +1,7 @@
 
+
+
+
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
 http://4gtv.korice.eu.org/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
@@ -223,9 +226,17 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
 #EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://logo.catvod.com/三立新聞HD.png" group-title="新聞財經",三立新聞HD
 http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 #EXTINF:-1 group-title="新聞財經",壹新聞
+https://live.catvod.com/live.php?id=yinews&token=5d4921d98ab6e1dc46dd40b92c7d13dadaae34e2d6bcaa2d6b0fa60e9fe3e78c%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
+#EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="新聞財經",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 group-title="新聞財經",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 #EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="新聞財經",年代新聞台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
+#EXTINF:-1 group-title="新聞財經",年代新聞台
+https://live.catvod.com/live.php?id=niandainews_twn&token=74727c0ca0603dc73c1b465b5d042912a6839dd9f68154a46b77fb7e8a0c3778%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
+#EXTINF:-1 group-title="新聞財經",年代新聞台
+http://8.iptv543.com:5051/smart.php?id=niandainews_twn&token=885252
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="新聞財經",寰宇新聞台灣台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="新聞財經",半島國際新聞台
@@ -361,15 +372,27 @@ http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 #EXTINF:-1 group-title="體育競技",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="體育競技",愛爾達體育1台
+https://live.catvod.com/live.php?id=eltasport_twn&token=708ae7178dee947c6865fee4be0aa0278935e785ad2fd8969ed02139c31e8aa4%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="體育競技",愛爾達體育1台
 https://tzh911.qzz.io/play-smt.php?id=eltasport1_twn
+
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="體育競技",愛爾達體育2台
 https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="體育競技",愛爾達體育2台
+https://live.catvod.com/live.php?id=eltasport2_twn&token=afee20f2c7a15c299d1a42b25f77c81eefe9ddc7720984ad19461b635845d0d5%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
+
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="體育競技",愛爾達體育2台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=eltasport2_twn&token=ffmking
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1745.png" group-title="體育競技",愛爾達體育3台
+https://live.catvod.com/live.php?id=eltasport3_twn&token=77ad640bf5a64d56ca4c7010c7d2123711f788757ce8ba7c2bf36dc76e654c2d%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
+
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1745.png" group-title="體育競技",愛爾達體育3台
 https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
+
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1745.png" group-title="體育競技",愛爾達體育3台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=eltasport3_twn&token=ffmking
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@2055_20230920161508.jpg" group-title="體育競技",愛爾達體育4台
+https://live.catvod.com/live.php?id=eltasports4_twn&token=e31f74ecf053232baa138d409657058cb2bff08956dd86a7555a827cad51cbec%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@2055_20230920161508.jpg" group-title="體育競技",愛爾達體育4台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=natgeowild_twn&token=ffmking
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN1.png" group-title="體育競技",DAZN 1
@@ -1667,6 +1690,8 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC-여수" tvg-name="MBC-여수" tvg-logo="https://11.112114.xyz/logo/MBC여수.png" group-title="韓國頻道",MBC-여수
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+
 
 
 
