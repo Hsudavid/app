@@ -35,29 +35,7 @@
       "searchable": 0,
       "changeable": 1
     },
-        {
-      "key": "csp_Duopan",
-      "name": "蜡笔┃肥二",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "https://feimo.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocge.fun"
-        ],
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        },
-        "url_key": "Duopan2"
-      }
-    },
+       
     {
       "key": "蔬菜",
       "name": "蔬菜┃肥三",
@@ -493,6 +471,7 @@
     }
   ]
 }
+
 
 
 
