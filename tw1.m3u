@@ -236,10 +236,7 @@ http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 group-title="新聞財經",年代新聞台
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
-#EXTINF:-1 group-title="新聞財經",年代新聞台
-https://live.catvod.com/live.php?id=niandainews_twn&token=74727c0ca0603dc73c1b465b5d042912a6839dd9f68154a46b77fb7e8a0c3778%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
-#EXTINF:-1 group-title="新聞財經",年代新聞台
-http://8.iptv543.com:5051/smart.php?id=niandainews_twn&token=885252
+
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="新聞財經",寰宇新聞台灣台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="新聞財經",半島國際新聞台
