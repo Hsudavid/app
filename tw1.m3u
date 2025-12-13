@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
 http://4gtv.korice.eu.org/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
@@ -235,21 +226,14 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="新聞財經",寰宇新聞
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
 
-
-
-
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="新聞財經",三立新聞HD
-
-http://211.23.114.106:8507/http/60.251.39.91:8081/hls/73/815/ch52.m3u8
-
-
+http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 #EXTINF:-1 group-title="新聞財經",壹新聞
 https://live.catvod.com/live.php?id=yinews&token=5d4921d98ab6e1dc46dd40b92c7d13dadaae34e2d6bcaa2d6b0fa60e9fe3e78c%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
-
-
 #EXTINF:-1 tvg-name="壹新聞" tvg-logo="https://logo.catvod.com/壹新聞.png" group-title="新聞財經",壹新聞
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
-
+#EXTINF:-1 group-title="新聞財經",壹新聞
+http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 
 
 #EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="新聞財經",年代新聞台
