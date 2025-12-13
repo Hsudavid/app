@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
 http://4gtv.korice.eu.org/4gtv-4gtv003/index.m3u8
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
@@ -238,6 +232,10 @@ http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
 #EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="新聞財經",年代新聞台
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="新聞財經",年代新聞台
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="新聞財經",年代新聞台
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
 #EXTINF:-1 group-title="新聞財經",年代新聞台
 https://live.catvod.com/live.php?id=niandainews_twn&token=74727c0ca0603dc73c1b465b5d042912a6839dd9f68154a46b77fb7e8a0c3778%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 group-title="新聞財經",年代新聞台
@@ -1695,6 +1693,8 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC-여수" tvg-name="MBC-여수" tvg-logo="https://11.112114.xyz/logo/MBC여수.png" group-title="韓國頻道",MBC-여수
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
+
 
 
 
