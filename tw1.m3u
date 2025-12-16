@@ -216,8 +216,10 @@ http://211.23.114.106:8542/http/60.251.39.91:8081/hls/75/817/ch59.m3u8
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="新聞財經",東森新聞台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
+http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv13
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
+
 http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
