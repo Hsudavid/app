@@ -1,8 +1,17 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv073_mobile.png" group-title="綜合其他",TVBS HD
+https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv073
 
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBS.png" group-title="綜合其他",TVBS HD
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_mobile.png" group-title="綜合其他",台視HD
+
+https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv066
+#EXTINF:-1 group-title="綜合其他",台視HD
+
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
+
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="綜合其他",中視
