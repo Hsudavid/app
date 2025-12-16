@@ -337,8 +337,9 @@ http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv076
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv07
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
-#EXTINF:-1 group-title="生活旅遊",Smart知識台
+#EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Smart知識台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" group-title="生活旅遊",Smart知識台
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
+
 #EXTINF:-1 tvg-id="SMART知識台" tvg-name="SMART知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
 
