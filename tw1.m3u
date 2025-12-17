@@ -59,10 +59,12 @@ http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
 #EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
 http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live106
+http://152.32.229.52:5050/4gtv-live106/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="綜合其他",人間衛視
+http://152.32.229.52:5050/4gtv-live008/index.m3u8?proxy=true
+
 http://61.216.67.119:1935/bltvhd/bltv1/Hip.m3u8
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live008
+
 #EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv084
 #EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
