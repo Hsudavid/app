@@ -254,12 +254,16 @@ http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv014
 #EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png" group-title="體育競技", GINX Esports TV
 http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv053
 #EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育競技",車迷 TV
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live201
+http://152.32.229.52:5050/4gtv-live201/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="博斯魅力網" tvg-name="博斯魅力網" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="體育競技",博斯魅力
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn04
 
 #EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png" group-title="體育競技", GINX Esports TV
+http://152.32.229.52:5050/4gtv-4gtv053/index.m3u8?proxy=true
+
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv053
+
+
 
 
 
