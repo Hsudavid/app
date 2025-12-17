@@ -74,6 +74,8 @@ http://152.32.229.52:5050/4gtv-4gtv080/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="綜合其他",中天亞洲台
 http://152.32.229.52:5050/4gtv-4gtv109/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
+http://152.32.229.52:5050/4gtv-4gtv066/index.m3u8?proxy=true
+
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="綜合其他",ELTV生活英語台
 http://152.32.229.52:5050/litv-longturn20/index.m3u8?proxy=true
@@ -146,40 +148,29 @@ http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="新聞財經",半島國際新聞台
-http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live157
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
+http://152.32.229.52:5050/4gtv-4gtv153/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞iNEWS
-https://limited-annissa-ohjuste-free-120abbc3.koyeb.app?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live089
-http://tv543.cc/litv.php?token=leifeng&id=iNEWS
-
+http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
+http://152.32.229.52:5050/iNEWS/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live059
+http://152.32.229.52:5050/4gtv-live059/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
 #EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live060
-#EXTINF:-1 tvg-id="NHK新聞資訊台" tvg-name="NHK新聞資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="新聞財經", NHK 新聞資訊台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live168
+http://152.32.229.52:5050/4gtv-live060/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="FRANCE24英文台" tvg-name="FRANCE24英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="新聞財經",FRANCE24 英文台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live146
+http://152.32.229.52:5050/4gtv-live146/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="CNBCASIA財經台" tvg-name="CNBCASIA財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="新聞財經",CNBC Asia 財經台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live130
 #EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經",DW德國之聲
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-live071
+http://152.32.229.52:5050/4gtv-live071/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
-http://tv543.cc/litv.php?token=leifeng&id=li-4gtv-4gtv104
 #EXTINF:-1 group-title="新聞財經",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="新聞財經",亞太電視綜合台
@@ -188,6 +179,8 @@ http://play2.one-tv.com/live/onetv.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://get.perfecttv.net/logo/cnn.png" group-title="新聞財經",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
+
 
 
 
