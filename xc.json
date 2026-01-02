@@ -12,8 +12,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
-      "name": "四季",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
+      "name": "cat",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -538,6 +538,7 @@
     "mozai.4gtv.tv"
   ]
 }
+
 
 
 
