@@ -2,15 +2,15 @@
   "spider": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
-    {
+   {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw1.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
    {
-      "name": "四季",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4Gtv.txt",
+      "name": "cat",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -19,7 +19,7 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-   
+  
     }
 
 
@@ -511,6 +511,7 @@
     "43.248.128.138"
   ]
 }
+
 
 
 
