@@ -2,32 +2,32 @@
 #EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
 
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
 
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
 
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
 
 
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
 
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
-http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
+http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
 
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
 
 #EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
 
@@ -38,8 +38,8 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
 https://live.catvod.com/live.php?id=daai_twn&token=351d5956bf7a70c2da706a07b28bdca56080cc5247ccd747029e2215782a0673%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 
 #EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
 
 #EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="綜合其他",中視菁采台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv064
@@ -263,17 +263,17 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv085
 
 #EXTM3U
 #EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
 
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="新聞財經",中視新聞
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
 
 
 #EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
 
 #EXTINF:-1 group-title="新聞財經",壹新聞
 https://live.catvod.com/live.php?id=yinews&token=5d4921d98ab6e1dc46dd40b92c7d13dadaae34e2d6bcaa2d6b0fa60e9fe3e78c%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
@@ -287,13 +287,13 @@ http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
 
 
 #EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="新聞財經",東森新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
 
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="新聞財經",中天新聞台
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
 http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
 
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
 http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
@@ -304,11 +304,11 @@ http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
 http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/88/80/Ctv4max.m3u8
 http://211.23.114.106:8542/http/60.251.39.91:8081/hls/75/817/ch59.m3u8
 http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
 
 #EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立新聞iNEWS
 https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
@@ -320,26 +320,26 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
 
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
 
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
 
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="新聞財經",寰宇新聞
+http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
 http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
 
 #EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
 
 
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
 
 #EXTINF:-1 group-title="新聞財經",寰宇財經台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
@@ -375,9 +375,9 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-ftv10
 
 #EXTM3U
 #EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
-http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
 http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv080
+http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
 
 #EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
