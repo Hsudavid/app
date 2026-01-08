@@ -1479,7 +1479,6 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
 
 #EXTINF:-1 group-title="新聞財經",壹電視新聞台
-https://live.catvod.com/live.php?id=yinews&token=5d4921d98ab6e1dc46dd40b92c7d13dadaae34e2d6bcaa2d6b0fa60e9fe3e78c%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 http://211.23.114.106:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 http://211.23.114.106:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8 
@@ -1551,16 +1550,6 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
 
-#EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",Bloomberg TV
-
-https://live.catvod.com/live.php?id=bloomberg_twn&token=d5426f86aa424f5a5773ae6de6160b127144f631dbe97e97916da4f69b8df75f%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
-
-#EXTINF:-1 tvg-id="FRANCE24英文台" tvg-name="FRANCE24英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="新聞財經",FRANCE24 英文台
-
-https://live.catvod.com/live.php?id=france24_twn&token=fcf686f9f961bda5905b65ae71226ba9a130a1a02949a1008c31bbd6b9eea1f3%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
-
-#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經",DW德國之聲
-https://live.catvod.com/live.php?id=dw_twn&token=7056a33989fa69fbea73abc4bcbf7721d3538bdb5b437a6089435abd70f4f58b%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
 http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
 #EXTINF:-1 group-title="新聞財經",CNA
@@ -2013,28 +2002,23 @@ http://211.23.114.106:8528/http/60.251.39.91:8081/hls/210/10013/cstv13.m3u8
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1744.png" group-title="運動休閒",愛爾達體育1台
-https://live.catvod.com/live.php?id=eltasport_twn
-https://live.catvod.com/live.php?id=eltasport_twn&token=708ae7178dee947c6865fee4be0aa0278935e785ad2fd8969ed02139c31e8aa4%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 https://tzh911.qzz.io/play-smt.php?id=eltasport1_twn
+https://live.catvod.com/live.php?id=eltasport_twn
 
 #EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="運動休閒",愛爾達體育2台
-https://live.catvod.com/live.php?id=eltasport2_twn
 https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
-https://live.catvod.com/live.php?id=eltasport2_twn&token=afee20f2c7a15c299d1a42b25f77c81eefe9ddc7720984ad19461b635845d0d5%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1743.png" group-title="運動休閒",愛爾達體育2台
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=eltasport2_twn&token=ffmking
-https://live.catvod.com/live.php?id=eltasport3_twn&token=77ad640bf5a64d56ca4c7010c7d2123711f788757ce8ba7c2bf36dc76e654c2d%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
+https://live.catvod.com/live.php?id=eltasport2_twn
 
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@1745.png" group-title="運動休閒",愛爾達體育3台
-https://live.catvod.com/live.php?id=eltasport3_twn
 https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=eltasport3_twn&token=ffmking
+https://live.catvod.com/live.php?id=eltasport3_twn
 
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@61@2055_20230920161508.jpg" group-title="運動休閒",愛爾達體育4台
-https://live.catvod.com/live.php?id=eltasports4_twn
-https://live.catvod.com/live.php?id=eltasports4_twn&token=e31f74ecf053232baa138d409657058cb2bff08956dd86a7555a827cad51cbec%3A1765531070%3AMTE4LjE1MC4xMTYuMjEy
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=natgeowild_twn&token=ffmking
+https://live.catvod.com/live.php?id=eltasports4_twn
 
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://logo.catvod.com/DAZN1.png" group-title="運動休閒",DAZN 1
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=dazn1_twn&token=ffmking
@@ -2127,7 +2111,7 @@ https://iptv.mydiver.eu.org/live/encrypted/YWNhZTQ5N2UwNzc5YWU3ODUxM2NiN2IwYzY3N
 https://iptv.mydiver.eu.org/live/encrypted/NTlkNTFhYmJkZDMyMWFhYzNmYTY1MmE1MWQwZGMzNmI6ZGFjY2Q2NmMzN2Q2ZDE3YTYzOWYwM2JmYjRlMjEwZjZlNmQ4OTIzNDRjOWJkYTNjODIzOGU3MjFjOGI4OGVkNWE2OGRiMDViYmQzY2U3OGEyOTc0MTFiODYyYjM0YzI5MDlkMzE3OTQ5OTkzMTFiY2UzMjVmOGVhZTMxMTA1Zjc2MjYzMjQ1MGExYTVhMjg2OTNlYmNlYjM1ZjBlZTI2NDhhYTY5MzNkMzUwNjJiNTU4OGY2Nzg2MmIxYmZmOGJhNjI5NGRlNDljYTA3Y2Q1YTkzODM5Yjk0NDdiMDM5YmRlZDIxNzkyMWMxM2M4NmRiMTdhOGEwY2EwNzBiMGNhNDBjOTFiYjE4MTVmODEyZDE5ZjYzYzA0NGU1MzUyNGFlOTlhNDRhYTgzMjZhNDQzNTk3MThjNzAxOTJiZDVkNzc0OTM3MGFmNjg0NDQyMGM1ODEwNWVkZjAzNTg1ZjJlNzVkOTMxNTI0NjZjYjE5Y2JiMjdiNGU1ZjkyOGY1MDQ2ZmU5MjNmZjBmYzk3YTA1MjExMjBiOTZkM2QxNWZjNGZiMzU0NmY5OWFjMzUzYmJjZWQ4MmUyY2U2MDY5NDZmMzliNGYzZDhhMzA5Y2YxNjkyM2YyZjgzOGUyOGM0MDhiMzNjYjYwNzlkYzU5YTY3ZDI3YzU5NmQ0ZmU1ZWY2NTU?username=tg_2banzolz
 #EXTINF:-1 tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通" tvg-chno="576" tvg-shift="0",靖洋卡通
 https://iptv.mydiver.eu.org/live/encrypted/ZjNhZTMyMjk1NGEyOWMwZTc4MDQwNDFlZWY3ZGI3M2U6NDFjZjAxODZiMTk5NDE2OWQwMmE5Zjc2NDkzZTY3NDAwOWE1ZDI0NDhiYTRlZTU2NTFiOTFiZDYzODhjN2QxZDNiMmFmOTIyZDM0MGQ0MjFiMDYwNjMxOTQwMjk0YzgyMmJhMzJmNDIwZWFiOWQ0OGEzYmYwMjQ5OTczY2NkODhhM2RjNzQxYWQ2NjZkOWZiZWYzMWI4OGZjODkyMWZiNGNkNGIyODZjMTg5ZGEyODc2M2QyNjNlZTQ4ZTVjMDA2Mzk4NzdlNDkwM2NkMDExMGQwOTRkMGU2YmQzZDJlZjA4YzYxOTczNGJhM2EzNTU0OGFlZTQxOWYxOTBhZDJhMjIyNGExMDVlODcyMGUwM2NhNDc0YTllMDU4OGRkMGE5NmFmYjczM2E1MmU1ZmJlNTMwMDdiOTFhZTdiNjVmMTBiZjU2MTMzODM5ZTE4M2JlMTE4ZDVlMTgwYmRjY2YwOTkxNmM3N2VmMDYzZjVmZDY5NWQwNDFhOGE1MTA5NmVlNWM2MDc5MDMxNTRkZjdhY2MxNzIxMTMzZWZjYTdiOTZhYTJkYWJhMjNlZjcxZTg1ZjRlNzU5MGE3ODgxYTI4NzMyYTMzNGI5NmRmODQ0YjYyMjg5ZTAxODlmMWZiZjgzZjYyOTRiZWY4ZDM5M2E1MDI5NGU2ODM3YTFiZmE4MGE?username=tg_2banzolz
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童卡通" tvg-chno="577" tvg-shift="0",MOMO親子
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童卡通" tvg-chno="577" tvg-shift="0",MOMO親子台
 https://iptv.mydiver.eu.org/live/encrypted/NTRlNDljZjZhZmZjYzhiNzNlZGFiZTBkZmYyZGQ2ZDI6MzRhNzZhOWFjM2NhMzkxYmVjNTViYTY3MDE2NTIxOTQyNTZhMGU3MGZmNGI1ODg4NWZmNWFiNmJjNmNkZjBkYjMyY2FiMzM5MjlkOTQ0ZDAyNjIxYTA2ZDk5ZjExNjcxNTU3MjQwMTQzMzZhMzZhN2VjYmJmNmFlYjU2ODhlMzA3M2MyNDAwODExMDMyOGI2ZGE5ZjNmNGNkNmEwZTZlY2MwMmU1MmFiNzA4YjI3MGUyMmNhZGUzOGMxMjM2NjJlMjZkMzhmNGJjNGQ0ZGQwNzUyODI3N2RhODdkOTJiZWIxOGEzOGIzOTg5ZTYzMTkyY2M1ZjVlMmVhMzk4N2JmMzI0ZjcxZjc1MzljMDc3NjE2OWRiMmE4NmUyYTM4ZTExZGE2YzU1MjIyY2JkODQ4NjI3NWNlZWQ0OGIwYzNlODhiOGQ0OTFmZjhhM2NhOWMxMWIwODAxYjcyNDFlZjJiNzVlYzU0ZDUzN2NhZWUyYmUxZTI2ZjE5MGFhNDI4ZWQzMGI0NmUxYTdiYmUzY2M5ZjMzODRmNGM0ZTlkODM4ZGE5NjJlOTlmNmYxMmIxZDRlOTA0N2MwZDE1NWI5ZjIwMjVjNzdkYzc0MzFmZDk0NGZmOWI1OGZhZGNhODIwODU1MGNkMzJmNGQxOGQ1ODhiYWJmZGVlOTk0ZDRiMjA3NDM?username=tg_2banzolz
 #EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通" tvg-chno="660" tvg-shift="0",經典卡通台
 https://iptv.mydiver.eu.org/live/encrypted/YTRhZThmYjRjNTlmMGFjMDlkNTUxMWIzMmU0ZmRkZjY6MjlmNzgzN2U1NmZkN2VkMTBhYTM3NmY1YmMyZGEwOTBmZTNiN2Y2ZDQ1NWVmMzcwZTJkMzRkNzdjOTQyMzQwNWIxNmYyZjQwN2Q4MzMwYWQ4MmEyZDM5M2Y2ZmQ3MTA4ZDIyOGY2ZTEzNWE1Y2Y0MWM2NjFkZDI5ZDhkYTBmZThmNWM0NDljNjVmNzBhNjcyYWYxYjM0YmRkMzZkM2ZjNzQ4MTg5N2UzMDQ5YWU0Y2RmNmM1MjA3MzkzMWJhZTFhMWIzMGQwYjU5YjM2MzdiYzM5YWViZTQxZmI0ZGJhNGZjNzE1NjcyMjQ1Yzc4YThkZjA3YzE0NTFiYjQzOGYzMjA3MmRjY2JkNDhhYWZjZjZhNWUyYjM0MGMzMTcwYTEwYWQ0NmM4Y2U0MWUzY2ZhODkwNGZkZGFjOGVmMzAxNDFhMzEwNThmMzY1OGRmOWJjYTJlMjhiZTVjYWIxMmQ2YTJmYzhlOGYyNTZjNDk4Yzk1YmNiNjc0ZDc2MzVhMTAxYmEyOWFkNGUyM2Y5YjJjMGIwYTU0NmNlZmJhYzg4MTYzZDdmMGEzY2Q2Y2JjN2U0ZmYxOWIyMTU1YzNmYmU0YjA1Y2I1ZGM3YTUyNWVjOWI0Njk4MGM0NDc1NjljMTFmZmM2NjkzZWRkMzZjYjZkZmMyMGFmYjU5ODY3N2JjZjI?username=tg_2banzolz
@@ -2163,6 +2147,30 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-ftv15
 http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
 #EXTINF:-1 group-title="兒童卡通",東森幼幼台
 http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
