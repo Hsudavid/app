@@ -1,1093 +1,589 @@
-#EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
-#EXTINF:-1 group-title="溫馨提示",免費訂閲
-https://www.catvod.com/1080p.m3u8
-#EXTINF:-1 group-title="香港頻道",翡翠台
-https://live.catvod.com/iptv.php?id=fct002
-#EXTINF:-1 group-title="香港頻道",翡翠台
-https://live.catvod.com/iptv.php?id=fct003
-#EXTINF:-1 group-title="香港頻道",翡翠台
-https://live.catvod.com/iptv.php?id=fct004
-#EXTINF:-1 group-title="香港頻道",明珠台
-https://live.catvod.com/iptv.php?id=mzt001
-#EXTINF:-1 group-title="香港頻道",TVB J1
-https://live.catvod.com/iptv.php?id=j1na001
-#EXTINF:-1 group-title="香港頻道",TVB Plus
-https://live.catvod.com/iptv.php?id=tvbplus2
-#EXTINF:-1 group-title="香港頻道",無線新聞
-https://live.catvod.com/iptv.php?id=tvbxw01
-#EXTINF:-1 group-title="香港頻道",VIU TV
-https://live.catvod.com/iptv.php?id=viutv02
-#EXTINF:-1 group-title="香港頻道",HOY TV
-https://live.catvod.com/iptv.php?id=hoytv01
-#EXTINF:-1 group-title="香港頻道",HOY TV
-https://live.catvod.com/iptv.php?id=hoytv02
-#EXTINF:-1 group-title="香港頻道",HOY劇集台
-https://live.catvod.com/iptv.php?id=hoyjj01
-#EXTINF:-1 group-title="香港頻道",鳳凰中文
-https://live.catvod.com/iptv.php?id=phzw01
-#EXTINF:-1 group-title="香港頻道",鳳凰中文
-https://live.catvod.com/iptv.php?id=phzw02
-#EXTINF:-1 group-title="香港頻道",鳳凰資訊
-https://live.catvod.com/iptv.php?id=phzx01
-#EXTINF:-1 group-title="香港頻道",鳳凰資訊
-https://live.catvod.com/iptv.php?id=phzx02
-#EXTINF:-1 group-title="香港頻道",鳳凰香港
-https://live.catvod.com/iptv.php?id=fhhk01
-#EXTINF:-1 group-title="香港頻道",鳳凰香港
-https://live.catvod.com/iptv.php?id=fhhk02
-#EXTINF:-1 group-title="香港頻道",重溫經典
-https://live.catvod.com/iptv.php?id=cwjd01
-#EXTINF:-1 group-title="香港頻道",廣東珠江
-https://live.catvod.com/iptv.php?id=gdzj01
-#EXTINF:-1 group-title="香港頻道",廣東體育
-https://live.catvod.com/iptv.php?id=gdty01
-#EXTINF:-1 group-title="香港頻道",澳視澳門
-https://live.catvod.com/iptv.php?id=asam01
-#EXTINF:-1 group-title="香港頻道",澳視衛星
-https://live.catvod.com/iptv.php?id=asws01
-#EXTINF:-1 group-title="香港頻道",澳門體育
-https://live.catvod.com/iptv.php?id=amty01
-#EXTINF:-1 group-title="香港頻道",澳門綜藝
-https://live.catvod.com/iptv.php?id=amzy01
-#EXTINF:-1 group-title="香港頻道",澳門蓮花
-https://live.catvod.com/iptv.php?id=amlh01
-#EXTINF:-1 group-title="香港頻道",RTHK31
-https://live.catvod.com/iptv.php?id=rthk31
-#EXTINF:-1 group-title="香港頻道",RTHK32
-https://live.catvod.com/iptv.php?id=rthk32
-#EXTINF:-1 group-title="香港頻道",CCTV1港澳版
-https://live.catvod.com/iptv.php?id=rthk33
-#EXTINF:-1 group-title="香港頻道",八度空間
-https://live.catvod.com/iptv.php?id=8tv001
-#EXTINF:-1 group-title="香港頻道",CH5
-https://live.catvod.com/iptv.php?id=ch5001
-#EXTINF:-1 group-title="香港頻道",CH8
-https://live.catvod.com/iptv.php?id=ch8001
-#EXTINF:-1 group-title="香港頻道",CHU
-https://live.catvod.com/iptv.php?id=chu001
-#EXTINF:-1 group-title="香港頻道",龍華電影
-https://live.catvod.com/iptv.php?id=lhdy01
-#EXTINF:-1 group-title="香港頻道",龍華經典
-https://live.catvod.com/iptv.php?id=lhjd01
-#EXTINF:-1 group-title="香港頻道",龍華卡通
-https://live.catvod.com/iptv.php?id=lhkt01
-#EXTINF:-1 group-title="香港頻道",龍華偶像
-https://live.catvod.com/iptv.php?id=lhox01
-#EXTINF:-1 group-title="香港頻道",龍華日韓
-https://live.catvod.com/iptv.php?id=lhrh01
-#EXTINF:-1 group-title="香港頻道",龍華戲劇
-https://live.catvod.com/iptv.php?id=lhxj01
-#EXTINF:-1 group-title="香港頻道",龍華洋片
-https://live.catvod.com/iptv.php?id=lhyp01
-#EXTINF:-1 group-title="香港頻道",華麗翡翠台
-https://live.catvod.com/iptv.php?id=huali02
-#EXTINF:-1 group-title="香港頻道",亞洲武俠
-https://live.catvod.com/iptv.php?id=yzwx01
-#EXTINF:-1 group-title="香港頻道",TVB娛樂新聞台
-https://live.catvod.com/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="香港頻道",無線新聞台
-https://live.catvod.com/iptv.php?id=wxxw01
-#EXTINF:-1 group-title="香港頻道",TVB星河
-https://live.catvod.com/iptv.php?id=xinghe01
-#EXTINF:-1 group-title="香港頻道",Now新聞台
-https://live.catvod.com/iptv.php?id=nownews
-#EXTINF:-1 group-title="香港頻道",翡翠台4K
-https://live.catvod.com/iptv.php?id=fct4k01
-#EXTINF:-1 group-title="香港頻道",翡翠台（字幕）
-https://live.catvod.com/iptv.php?id=fctsub
-#EXTINF:-1 group-title="香港頻道",明珠台（字幕）
-https://live.catvod.com/iptv.php?id=mztsub
-#EXTINF:-1 group-title="香港頻道",TVB1
-https://live.catvod.com/iptv.php?id=tvb1
-#EXTINF:-1 group-title="香港頻道",翡翠劇集台
-https://live.catvod.com/iptv.php?id=tvbd01
-#EXTINF:-1 group-title="香港頻道",CCTV13
-https://live.catvod.com/iptv.php?id=cctv13
-#EXTINF:-1 group-title="香港頻道",深圳衛視4K
-https://live.catvod.com/iptv.php?id=szws4k
-#EXTINF:-1 group-title="香港頻道",深圳財經生活
-https://live.catvod.com/iptv.php?id=szcjsh
-#EXTINF:-1 group-title="香港頻道",第一財經
-https://live.catvod.com/iptv.php?id=dycj01
-#EXTINF:-1 group-title="香港頻道",五星體育
-https://live.catvod.com/iptv.php?id=wxty01
-#EXTINF:-1 group-title="香港頻道",翡翠台
-https://live.catvod.com/live.php?id=jade_twn
-#EXTINF:-1 group-title="香港頻道",翡翠台
-https://live.catvod.com/live.php?id=Jade_xue
-#EXTINF:-1 group-title="香港頻道",無線新聞
-https://live.catvod.com/live.php?id=inews_twn
-#EXTINF:-1 group-title="香港頻道",TVBPLUS
-https://live.catvod.com/live.php?id=j2_twn
-#EXTINF:-1 group-title="香港頻道",明珠台
-https://live.catvod.com/live.php?id=pearl_twn
-#EXTINF:-1 group-title="香港頻道",鳳凰香港
-https://live.catvod.com/live.php?id=hkphoenix_twn
-#EXTINF:-1 group-title="香港頻道",HOYTV
-https://live.catvod.com/live.php?id=hoycaijing_twn
-#EXTINF:-1 group-title="香港頻道",RTHK31
-https://live.catvod.com/live.php?id=rhk31_twn
-#EXTINF:-1 group-title="香港頻道",viutv
-https://live.catvod.com/live.php?id=viu1_twn
-#EXTINF:-1 group-title="香港頻道",RTHK32
-https://live.catvod.com/live.php?id=rhk32_twn
-#EXTINF:-1 group-title="香港頻道",鳳凰中文
-https://live.catvod.com/live.php?id=phoenixtv_hd
-#EXTINF:-1 group-title="香港頻道",鳳凰資訊
-https://live.catvod.com/live.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="香港頻道",viutv6
-https://live.catvod.com/live.php?id=viusix_twn
-#EXTINF:-1 group-title="央視訊道",CCTV1
-https://live.catvod.com/live.php?id=cctv1
-#EXTINF:-1 group-title="央視訊道",CCTV2
-https://live.catvod.com/live.php?id=cctv2
-#EXTINF:-1 group-title="央視訊道",CCTV3
-https://live.catvod.com/live.php?id=cctv3
-#EXTINF:-1 group-title="央視訊道",CCTV4
-https://live.catvod.com/live.php?id=Cctv4
-#EXTINF:-1 group-title="央視訊道",CCTV4
-https://live.catvod.com/live.php?id=cctv4
-#EXTINF:-1 group-title="央視訊道",CCTV5
-https://live.catvod.com/live.php?id=cctv5
-#EXTINF:-1 group-title="央視訊道",CCTV5+
-https://live.catvod.com/live.php?id=cctv5plus
-#EXTINF:-1 group-title="央視訊道",CCTV6
-https://live.catvod.com/live.php?id=cctv6
-#EXTINF:-1 group-title="央視訊道",CCTV7
-https://live.catvod.com/live.php?id=cctv7
-#EXTINF:-1 group-title="央視訊道",CCTV8
-https://live.catvod.com/live.php?id=cctv8hd
-#EXTINF:-1 group-title="央視訊道",CCTV9
-https://live.catvod.com/live.php?id=cctv9hd
-#EXTINF:-1 group-title="央視訊道",CCTV10
-https://live.catvod.com/live.php?id=cctv10hd
-#EXTINF:-1 group-title="央視訊道",CCTV11
-https://live.catvod.com/live.php?id=cctv11
-#EXTINF:-1 group-title="央視訊道",CCTV-12
-https://live.catvod.com/live.php?id=cctv12
-#EXTINF:-1 group-title="央視訊道",CCTV-13
-https://live.catvod.com/live.php?id=cctv13
-#EXTINF:-1 group-title="央視訊道",CCTV-14
-https://live.catvod.com/live.php?id=cctv14
-#EXTINF:-1 group-title="央視訊道",CCTV-15
-https://live.catvod.com/live.php?id=cctv15
-#EXTINF:-1 group-title="央視訊道",CCTV-16
-https://live.catvod.com/live.php?id=cctv16
-#EXTINF:-1 group-title="央視訊道",CCTV-17
-https://live.catvod.com/live.php?id=cctv17
-#EXTINF:-1 group-title="衛視訊道",湖南衛視
-https://live.catvod.com/live.php?id=hunan_twn
-#EXTINF:-1 group-title="衛視訊道",浙江衛視
-https://live.catvod.com/live.php?id=zhejiang_twn
-#EXTINF:-1 group-title="衛視訊道",江蘇衛視
-https://live.catvod.com/live.php?id=jiangsu_twn
-#EXTINF:-1 group-title="衛視訊道",東方衛視
-https://live.catvod.com/live.php?id=dongfangweishi_twn
-#EXTINF:-1 group-title="衛視訊道",北京衛視
-https://live.catvod.com/live.php?id=beijing
-#EXTINF:-1 group-title="衛視訊道",深圳衛視
-https://live.catvod.com/live.php?id=shenzhen
-#EXTINF:-1 group-title="衛視訊道",廣東衛視
-https://live.catvod.com/live.php?id=guangdongweishi_twn
-#EXTINF:-1 group-title="衛視訊道",大灣區衛視
-https://live.catvod.com/live.php?id=nanfang_twn
-#EXTINF:-1 group-title="衛視訊道",珠江
-https://live.catvod.com/live.php?id=zhujiang
-#EXTINF:-1 group-title="衛視訊道",東南衛視
-https://live.catvod.com/live.php?id=fujian
-#EXTINF:-1 group-title="衛視訊道",廣西衛視
-https://live.catvod.com/live.php?id=guangxi
-#EXTINF:-1 group-title="衛視訊道",湖北衛視
-https://live.catvod.com/live.php?id=hubei
-#EXTINF:-1 group-title="衛視訊道",四川衛視
-https://live.catvod.com/live.php?id=sichuan_twn
-#EXTINF:-1 group-title="衛視訊道",CGTN
-https://live.catvod.com/live.php?id=CGTN
-#EXTINF:-1 group-title="體育頻道",Astro Premier League 1
-https://live.catvod.com/live.php?id=go_assp1
-#EXTINF:-1 group-title="體育頻道",Astro EPL 1 backup
-https://live.catvod.com/live.php?id=go_assp1x
-#EXTINF:-1 group-title="體育頻道",Astro Premier League 2
-https://live.catvod.com/live.php?id=go_assp2
-#EXTINF:-1 group-title="體育頻道",Astro Grandstand
-https://live.catvod.com/live.php?id=go_assp3
-#EXTINF:-1 group-title="體育頻道",Astro Football
-https://live.catvod.com/live.php?id=go_assp4
-#EXTINF:-1 group-title="體育頻道",Astro Sports Plus
-https://live.catvod.com/live.php?id=go_sportsplus
-#EXTINF:-1 group-title="體育頻道",Astro Badminton 1
-https://live.catvod.com/live.php?id=go_badminton1
-#EXTINF:-1 group-title="體育頻道",Astro Badminton 2
-https://live.catvod.com/live.php?id=go_badminton2
-#EXTINF:-1 group-title="體育頻道",Astro W-Sports
-https://live.catvod.com/live.php?id=go_assp5
-#EXTINF:-1 group-title="體育頻道",Supersports 1
-https://live.catvod.com/live.php?id=Assp1
-#EXTINF:-1 group-title="體育頻道",Supersports 2
-https://live.catvod.com/live.php?id=Assp2
-#EXTINF:-1 group-title="體育頻道",Supersports 3
-https://live.catvod.com/live.php?id=Assp3
-#EXTINF:-1 group-title="體育頻道",Supersports 4
-https://live.catvod.com/live.php?id=Assp4
-#EXTINF:-1 group-title="體育頻道",WWE
-https://live.catvod.com/live.php?id=Wwe
-#EXTINF:-1 group-title="體育頻道",FIGHTSPORTS
-https://live.catvod.com/live.php?id=Fs
-#EXTINF:-1 group-title="體育頻道",NBATV
-https://live.catvod.com/live.php?id=Nba
-#EXTINF:-1 group-title="體育頻道",Astro Cricket
-https://live.catvod.com/live.php?id=Acricket
-#EXTINF:-1 group-title="體育頻道",Astro Golf
-https://live.catvod.com/live.php?id=Agolf
-#EXTINF:-1 group-title="體育頻道",TNTSPORTS1
-https://live.catvod.com/live.php?id=6fac0aaead
-#EXTINF:-1 group-title="體育頻道",TNTSPORTS2
-https://live.catvod.com/live.php?id=d9a76a79cc
-#EXTINF:-1 group-title="體育頻道",TNTSPORTS3
-https://live.catvod.com/live.php?id=5fea4d73db
-#EXTINF:-1 group-title="體育頻道",TNTSPORTS4
-https://live.catvod.com/live.php?id=tntsport4
-#EXTINF:-1 group-title="體育頻道",SONYTEN1
-https://live.catvod.com/live.php?id=ten1_raj
-#EXTINF:-1 group-title="體育頻道",SONYTEN2
-https://live.catvod.com/live.php?id=ten2_raj
-#EXTINF:-1 group-title="體育頻道",SONYTEN3
-https://live.catvod.com/live.php?id=ten3_raj
-#EXTINF:-1 group-title="體育頻道",SPOTV
-https://live.catvod.com/live.php?id=go_spotv
-#EXTINF:-1 group-title="體育頻道",SPOTV2
-https://live.catvod.com/live.php?id=go_spotv2
-#EXTINF:-1 group-title="體育頻道",SKYSPORTS F1
-https://live.catvod.com/live.php?id=tiankongf1
-#EXTINF:-1 group-title="體育頻道",SKYSPORTS Cricket
-https://live.catvod.com/live.php?id=tiankongcricket
-#EXTINF:-1 group-title="體育頻道",SKYSPORTS EPL
-https://live.catvod.com/live.php?id=tiankongepl
-#EXTINF:-1 group-title="體育頻道",SKYSPORTS Main Event
-https://live.catvod.com/live.php?id=tiankongmain
-#EXTINF:-1 group-title="體育頻道",SKYSPORTS News
-https://live.catvod.com/live.php?id=tiankongnews
-#EXTINF:-1 group-title="體育頻道",SKYSPORTS Mix
-https://live.catvod.com/live.php?id=tiankongmix
-#EXTINF:-1 group-title="體育頻道",愛爾達體育1台
-https://live.catvod.com/live.php?id=eltasport_twn
-#EXTINF:-1 group-title="體育頻道",愛爾達體育2台
-https://live.catvod.com/live.php?id=eltasport2_twn
-#EXTINF:-1 group-title="體育頻道",愛爾達體育3台
-https://live.catvod.com/live.php?id=eltasport3_twn
-#EXTINF:-1 group-title="體育頻道",愛爾達體育4台
-https://live.catvod.com/live.php?id=eltasports4_twn
-#EXTINF:-1 group-title="體育頻道",RUGBYPASSTV
-https://live.catvod.com/live.php?id=Rugbypasstv
-#EXTINF:-1 group-title="體育頻道",RTM_SPORTS HD
-https://live.catvod.com/live.php?id=Rtmsport
-#EXTINF:-1 group-title="體育頻道",ARENA
-https://live.catvod.com/live.php?id=Arena
-#EXTINF:-1 group-title="體育頻道",ARENA2
-https://live.catvod.com/live.php?id=Arena2
-#EXTINF:-1 group-title="體育頻道",BolaArena 1
-https://live.catvod.com/live.php?id=Bolaarena1
-#EXTINF:-1 group-title="體育頻道",BolaArena 2
-https://live.catvod.com/live.php?id=Bolaarena2
-#EXTINF:-1 group-title="體育頻道",Astro Beinsports 1
-https://live.catvod.com/live.php?id=Astrobein1
-#EXTINF:-1 group-title="體育頻道",Astro Beinsports 2
-https://live.catvod.com/live.php?id=Astrobein2
-#EXTINF:-1 group-title="體育頻道",Astro Beinsports 3
-https://live.catvod.com/live.php?id=Astrobein3
-#EXTINF:-1 group-title="體育頻道",小公視
-https://live.catvod.com/live.php?id=pts3_twn
-#EXTINF:-1 group-title="體育頻道",DAZN1
-https://live.catvod.com/live.php?id=dazn1_twn
-#EXTINF:-1 group-title="體育頻道",DAZN2
-https://live.catvod.com/live.php?id=dazn2_twn
-#EXTINF:-1 group-title="台灣頻道",TVBS新聞台
-https://live.catvod.com/live.php?id=tvbs_n
-#EXTINF:-1 group-title="台灣頻道",TVBS歡樂台
-https://live.catvod.com/live.php?id=tvbshuanle_twn
-#EXTINF:-1 group-title="台灣頻道",TVBSHD
-https://live.catvod.com/live.php?id=tvbs
-#EXTINF:-1 group-title="台灣頻道",中天新聞
-https://live.catvod.com/live.php?id=ctinews
-#EXTINF:-1 group-title="台灣頻道",中天綜合
-https://live.catvod.com/live.php?id=ctizhonghe
-#EXTINF:-1 group-title="台灣頻道",中天娛樂
-https://live.catvod.com/live.php?id=ctient
-#EXTINF:-1 group-title="台灣頻道",中天亞洲
-https://live.catvod.com/live.php?id=ctiasia_twn
-#EXTINF:-1 group-title="台灣頻道",台視
-https://live.catvod.com/live.php?id=ttv_taiwan
-#EXTINF:-1 group-title="台灣頻道",台視新聞
-https://live.catvod.com/live.php?id=ttvnews_twn
-#EXTINF:-1 group-title="台灣頻道",台視綜合
-https://live.catvod.com/live.php?id=ttvzhonghe
-#EXTINF:-1 group-title="台灣頻道",JET綜合
-https://live.catvod.com/live.php?id=jet
-#EXTINF:-1 group-title="台灣頻道",中視
-https://live.catvod.com/live.php?id=zhongshihd_twn
-#EXTINF:-1 group-title="台灣頻道",中視新聞
-https://live.catvod.com/live.php?id=zhongshinews_twn
-#EXTINF:-1 group-title="台灣頻道",中視經典
-https://live.catvod.com/live.php?id=zhongshi_twn
-#EXTINF:-1 group-title="台灣頻道",民視
-https://live.catvod.com/live.php?id=ftvhd_taiwan
-#EXTINF:-1 group-title="台灣頻道",民視新聞台
-https://live.catvod.com/live.php?id=ftvnew_taiwan
-#EXTINF:-1 group-title="台灣頻道",民視台灣台
-https://live.catvod.com/live.php?id=ftvtaiwan_twn
-#EXTINF:-1 group-title="台灣頻道",華視
-https://live.catvod.com/live.php?id=ctshd_twn
-#EXTINF:-1 group-title="台灣頻道",公視
-https://live.catvod.com/live.php?id=ctv_taiwan
-#EXTINF:-1 group-title="台灣頻道",天映頻道
-https://live.catvod.com/live.php?id=ctv18_twn
-#EXTINF:-1 group-title="台灣頻道",八大第一台
-https://live.catvod.com/live.php?id=badafirst
-#EXTINF:-1 group-title="台灣頻道",八大綜合台
-https://live.catvod.com/live.php?id=badazhonghe
-#EXTINF:-1 group-title="台灣頻道",八大戲劇台
-https://live.catvod.com/live.php?id=badadrama
-#EXTINF:-1 group-title="台灣頻道",八大娛樂台
-https://live.catvod.com/live.php?id=badaentertain
-#EXTINF:-1 group-title="台灣頻道",HBO
-https://live.catvod.com/live.php?id=hbohd_twn
-#EXTINF:-1 group-title="台灣頻道",HBOHITS
-https://live.catvod.com/live.php?id=hbohit_twn
-#EXTINF:-1 group-title="台灣頻道",好萊塢電影台
-https://live.catvod.com/live.php?id=hollywoodmovies_twn
-#EXTINF:-1 group-title="台灣頻道",三立台灣台
-https://live.catvod.com/live.php?id=sanlitaiwan
-#EXTINF:-1 group-title="台灣頻道",三立戲劇台
-https://live.catvod.com/live.php?id=sanlixiju_twn
-#EXTINF:-1 group-title="台灣頻道",三立綜合台
-https://live.catvod.com/live.php?id=sanlizhonghe
-#EXTINF:-1 group-title="台灣頻道",三立都會台
-https://live.catvod.com/live.php?id=sanlidouhui_twn
-#EXTINF:-1 group-title="台灣頻道",東森新聞台
-https://live.catvod.com/live.php?id=ettvnews
-#EXTINF:-1 group-title="台灣頻道",CINEMAX
-https://live.catvod.com/live.php?id=cinemax_twn
-#EXTINF:-1 group-title="台灣頻道",東森綜合台
-https://live.catvod.com/live.php?id=ettvzhonghe
-#EXTINF:-1 group-title="台灣頻道",東森戲劇台
-https://live.catvod.com/live.php?id=ettvdrama
-#EXTINF:-1 group-title="台灣頻道",東森超視
-https://live.catvod.com/live.php?id=ettvsuper
-#EXTINF:-1 group-title="台灣頻道",東森財經新聞台
-https://live.catvod.com/live.php?id=ettvcaijing_twn
-#EXTINF:-1 group-title="台灣頻道",寰宇新聞台
-https://live.catvod.com/live.php?id=huanyuxinwen_twn
-#EXTINF:-1 group-title="台灣頻道",寰宇財經台
-https://live.catvod.com/live.php?id=huanyutaiwan_twn
-#EXTINF:-1 group-title="台灣頻道",公視台語台
-https://live.catvod.com/live.php?id=ctv2_twn
-#EXTINF:-1 group-title="台灣頻道",信大HD
-https://live.catvod.com/live.php?id=xinda_twn
-#EXTINF:-1 group-title="台灣頻道",霹靂台灣台
-https://live.catvod.com/live.php?id=pilitw_twn
-#EXTINF:-1 group-title="台灣頻道",大愛電視
-https://live.catvod.com/live.php?id=daai_twn
-#EXTINF:-1 group-title="台灣頻道",壹新聞
-https://live.catvod.com/live.php?id=yinews
-#EXTINF:-1 group-title="台灣頻道",非凡新聞
-https://live.catvod.com/live.php?id=feifannews_twn
-#EXTINF:-1 group-title="台灣頻道",龍華戲劇
-https://live.catvod.com/live.php?id=lunghuaxiju_twn
-#EXTINF:-1 group-title="台灣頻道",龍華偶像
-https://live.catvod.com/live.php?id=lunghuaidol_twn
-#EXTINF:-1 group-title="台灣頻道",AXN台灣
-https://live.catvod.com/live.php?id=axn_twn
-#EXTINF:-1 group-title="台灣頻道",靖天國際
-https://live.catvod.com/live.php?id=jingtianintl_twn
-#EXTINF:-1 group-title="台灣頻道",年代新聞
-https://live.catvod.com/live.php?id=niandainews_twn
-#EXTINF:-1 group-title="台灣頻道",年代MUCH
-https://live.catvod.com/live.php?id=niandaitv_twn
-#EXTINF:-1 group-title="台灣頻道",緯來日本
-https://live.catvod.com/live.php?id=videolandjapan
-#EXTINF:-1 group-title="台灣頻道",緯來電影
-https://live.catvod.com/live.php?id=videolandmovie
-#EXTINF:-1 group-title="台灣頻道",緯來體育
-https://live.catvod.com/live.php?id=videolandsport
-#EXTINF:-1 group-title="台灣頻道",緯來綜合
-https://live.catvod.com/live.php?id=videolandzonghe
-#EXTINF:-1 group-title="台灣頻道",緯來育樂
-https://live.catvod.com/live.php?id=videolandyule
-#EXTINF:-1 group-title="台灣頻道",緯來精彩
-https://live.catvod.com/live.php?id=videolandspecial_twn
-#EXTINF:-1 group-title="台灣頻道",緯來戲劇
-https://live.catvod.com/live.php?id=videolandtv
-#EXTINF:-1 group-title="台灣頻道",好訊息2
-https://live.catvod.com/live.php?id=good2_twn
-#EXTINF:-1 group-title="台灣頻道",大愛2台
-https://live.catvod.com/live.php?id=daai2_twn
-#EXTINF:-1 group-title="台灣頻道",亞洲美食
-https://live.catvod.com/live.php?id=afc_twn
-#EXTINF:-1 group-title="台灣頻道",美食星球
-https://live.catvod.com/live.php?id=foodplanet_twn
-#EXTINF:-1 group-title="台灣頻道",TLC旅遊生活
-https://live.catvod.com/live.php?id=tlc_twn
-#EXTINF:-1 group-title="台灣頻道",東森電影台
-https://live.catvod.com/live.php?id=ettvmovie
-#EXTINF:-1 group-title="台灣頻道",ARIRANG
-https://live.catvod.com/live.php?id=arirang_twn
-#EXTINF:-1 group-title="台灣頻道",博斯運動一台
-https://live.catvod.com/live.php?id=bosisport1_twn
-#EXTINF:-1 group-title="台灣頻道",博斯運動二台
-https://live.catvod.com/live.php?id=bosisport2_twn
-#EXTINF:-1 group-title="台灣頻道",博斯高球一台
-https://live.catvod.com/live.php?id=bosigolf1_twn
-#EXTINF:-1 group-title="台灣頻道",博斯高球二台
-https://live.catvod.com/live.php?id=bosigolf2_twn
-#EXTINF:-1 group-title="台灣頻道",博斯網球檯
-https://live.catvod.com/live.php?id=bositennis_twn
-#EXTINF:-1 group-title="台灣頻道",博斯無限台
-https://live.catvod.com/live.php?id=bosiunlimited_twn
-#EXTINF:-1 group-title="台灣頻道",東森洋片台
-https://live.catvod.com/live.php?id=ettvwestern
-#EXTINF:-1 group-title="台灣頻道",龍華洋片
-https://live.catvod.com/live.php?id=lunghuawestern_twn
-#EXTINF:-1 group-title="台灣頻道",MTVLive
-https://live.catvod.com/live.php?id=mtvhd_twn
-#EXTINF:-1 group-title="台灣頻道",龍祥時代
-https://live.catvod.com/live.php?id=lungxiangtime_twn
-#EXTINF:-1 group-title="台灣頻道",EYETV旅遊台
-https://live.catvod.com/live.php?id=eyetvtravel_twn
-#EXTINF:-1 group-title="台灣頻道",EYETV戲劇台
-https://live.catvod.com/live.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="台灣頻道",靖天卡通
-https://live.catvod.com/live.php?id=jingtiancartoon_twn
-#EXTINF:-1 group-title="台灣頻道",衛視電影台
-https://live.catvod.com/live.php?id=weishimovie_twn
-#EXTINF:-1 group-title="台灣頻道",華藝中文台
-https://live.catvod.com/live.php?id=weishichinese_twn
-#EXTINF:-1 group-title="台灣頻道",東森幼幼台
-https://live.catvod.com/live.php?id=yoyo_twn
-#EXTINF:-1 group-title="台灣頻道",美亞電影
-https://live.catvod.com/live.php?id=meiyamovie_twn
-#EXTINF:-1 group-title="台灣頻道",愛爾達影劇台
-https://live.catvod.com/live.php?id=eltayingju_twn
-#EXTINF:-1 group-title="台灣頻道",愛爾達綜合台
-https://live.catvod.com/live.php?id=eltazonghe_twn
-#EXTINF:-1 group-title="台灣頻道",龍華電影
-https://live.catvod.com/live.php?id=xingwei_movie
-#EXTINF:-1 group-title="台灣頻道",亞洲旅遊台
-https://live.catvod.com/live.php?id=asiatravel_twn
-#EXTINF:-1 group-title="電影頻道",CATCHPLAY電影
-https://live.catvod.com/live.php?id=catchplay_twn
-#EXTINF:-1 group-title="電影頻道",AMC電影台
-https://live.catvod.com/live.php?id=starmoviesgold_twn
-#EXTINF:-1 group-title="電影頻道",CINEMAX
-https://live.catvod.com/live.php?id=cinemax_twn
-#EXTINF:-1 group-title="電影頻道",CINEMAX
-https://live.catvod.com/live.php?id=Cinemax
-#EXTINF:-1 group-title="電影頻道",ANIMAX
-https://live.catvod.com/live.php?id=Animax
-#EXTINF:-1 group-title="電影頻道",TVNMOVIES
-https://live.catvod.com/live.php?id=moviesnow_raj
-#EXTINF:-1 group-title="電影頻道",StarMoviesHD
-https://live.catvod.com/live.php?id=starmovies_raj
-#EXTINF:-1 group-title="電影頻道",HBOFAMILY
-https://live.catvod.com/live.php?id=Hbofamily
-#EXTINF:-1 group-title="電影頻道",HITS
-https://live.catvod.com/live.php?id=Hits
-#EXTINF:-1 group-title="電影頻道",WarnerTV
-https://live.catvod.com/live.php?id=WarnerTV
-#EXTINF:-1 group-title="電影頻道",HBOHD
-https://live.catvod.com/live.php?id=Hbo
-#EXTINF:-1 group-title="電影頻道",HBOSIGNATURE
-https://live.catvod.com/live.php?id=Hbosignature
-#EXTINF:-1 group-title="電影頻道",HBOHITS
-https://live.catvod.com/live.php?id=Hbohitshd
-#EXTINF:-1 group-title="電影頻道",SCM
-https://live.catvod.com/live.php?id=Weishimovie
-#EXTINF:-1 group-title="電影頻道",dreamworks
-https://live.catvod.com/live.php?id=Dreamworks
-#EXTINF:-1 group-title="電影頻道",THRILL
-https://live.catvod.com/live.php?id=Thrill
-#EXTINF:-1 group-title="電影頻道",HITSMOVIES
-https://live.catvod.com/live.php?id=Hitsmovie
-#EXTINF:-1 group-title="電影頻道",ONE
-https://live.catvod.com/live.php?id=One
-#EXTINF:-1 group-title="電影頻道",TVNMOVIES
-https://live.catvod.com/live.php?id=Tvnmovie
-#EXTINF:-1 group-title="電影頻道",天映經典
-https://live.catvod.com/live.php?id=Celestial2
-#EXTINF:-1 group-title="電影頻道",天映頻道
-https://live.catvod.com/live.php?id=Celestial
-#EXTINF:-1 group-title="電影頻道",天映頻道
-https://live.catvod.com/live.php?id=Celestialindo
-#EXTINF:-1 group-title="電影頻道",AXN
-https://live.catvod.com/live.php?id=Axn
-#EXTINF:-1 group-title="電影頻道",ParamountNetwork
-https://live.catvod.com/live.php?id=Paramountnetwork
-#EXTINF:-1 group-title="電影頻道",AstrolKplus
-https://live.catvod.com/live.php?id=Kplus
-#EXTINF:-1 group-title="電影頻道",ROCKACTION
-https://live.catvod.com/live.php?id=Rockaction
-#EXTINF:-1 group-title="電影頻道",ROCK_ENTERTAINMENT
-https://live.catvod.com/live.php?id=Rockentertain
-#EXTINF:-1 group-title="電影頻道",HBOHD
-https://live.catvod.com/live.php?id=hbohd_twn
-#EXTINF:-1 group-title="電影頻道",HBOHITS
-https://live.catvod.com/live.php?id=hbohit_twn
-#EXTINF:-1 group-title="記錄頻道",natgeo
-https://live.catvod.com/live.php?id=natgeohd_twn
-#EXTINF:-1 group-title="記錄頻道",natgeowild
-https://live.catvod.com/live.php?id=natgeowild_twn
-#EXTINF:-1 group-title="記錄頻道",ANIMALPLANET
-https://live.catvod.com/live.php?id=animalplanet_twn
-#EXTINF:-1 group-title="記錄頻道",DiscoveryHD
-https://live.catvod.com/live.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="記錄頻道",CI
-https://live.catvod.com/live.php?id=ci_twn
-#EXTINF:-1 group-title="記錄頻道",asiatravel
-https://live.catvod.com/live.php?id=asiatravel_twn
-#EXTINF:-1 group-title="記錄頻道",natgeo
-https://live.catvod.com/live.php?id=Natgeo
-#EXTINF:-1 group-title="記錄頻道",fashiontv
-https://live.catvod.com/live.php?id=fashiontv_twn
-#EXTINF:-1 group-title="記錄頻道",HISTORY
-https://live.catvod.com/live.php?id=History
-#EXTINF:-1 group-title="記錄頻道",BBCEarth
-https://live.catvod.com/live.php?id=bbcearth_twn
-#EXTINF:-1 group-title="記錄頻道",BBCLifestyle
-https://live.catvod.com/live.php?id=bbclifestyle_twn
-#EXTINF:-1 group-title="記錄頻道",MTVLive
-https://live.catvod.com/live.php?id=mtvhd_twn
-#EXTINF:-1 group-title="記錄頻道",natgeowild
-https://live.catvod.com/live.php?id=Natgeowild
-#EXTINF:-1 group-title="記錄頻道",ANIMALPLANET
-https://live.catvod.com/live.php?id=AnimalPlanet
-#EXTINF:-1 group-title="記錄頻道",tlc
-https://live.catvod.com/live.php?id=Tlc
-#EXTINF:-1 group-title="記錄頻道",FoodNetwork
-https://live.catvod.com/live.php?id=Foodnetwork
-#EXTINF:-1 group-title="記錄頻道",HGTV
-https://live.catvod.com/live.php?id=HGTV
-#EXTINF:-1 group-title="新聞頻道",SkyNews
-https://live.catvod.com/live.php?id=skynews_twn
-#EXTINF:-1 group-title="新聞頻道",ABCNEWS
-https://live.catvod.com/live.php?id=abcnews_glo
-#EXTINF:-1 group-title="新聞頻道",CBS
-https://live.catvod.com/live.php?id=cbshd_glo
-#EXTINF:-1 group-title="新聞頻道",CBSN
-https://live.catvod.com/live.php?id=cbsn_glo
-#EXTINF:-1 group-title="新聞頻道",france24
-https://live.catvod.com/live.php?id=france24_twn
-#EXTINF:-1 group-title="新聞頻道",DW(DEUTSCH)
-https://live.catvod.com/live.php?id=dw_twn
-#EXTINF:-1 group-title="新聞頻道",NHKWorld
-https://live.catvod.com/live.php?id=nhkworld_japan
-#EXTINF:-1 group-title="新聞頻道",FOXNEWS
-https://live.catvod.com/live.php?id=foxnews_twn
-#EXTINF:-1 group-title="新聞頻道",CGTN
-https://live.catvod.com/live.php?id=CGTN
-#EXTINF:-1 group-title="新聞頻道",CNNINTERNATIONAL
-https://live.catvod.com/live.php?id=Cnn
-#EXTINF:-1 group-title="新聞頻道",CNN
-https://live.catvod.com/live.php?id=cnn_twn
-#EXTINF:-1 group-title="新聞頻道",CNBC
-https://live.catvod.com/live.php?id=cnbc_twn
-#EXTINF:-1 group-title="新聞頻道",CNA
-https://live.catvod.com/live.php?id=cna
-#EXTINF:-1 group-title="新聞頻道",BBCWORLDNEWS
-https://live.catvod.com/live.php?id=bbcnews_twn
-#EXTINF:-1 group-title="新聞頻道",BBCWORLDNEWS
-https://live.catvod.com/live.php?id=Bbcnews
-#EXTINF:-1 group-title="新聞頻道",BloombergTV
-https://live.catvod.com/live.php?id=bloomberg_twn
-#EXTINF:-1 group-title="新聞頻道",aljazeera
-https://live.catvod.com/live.php?id=aljazeera_twn
-#EXTINF:-1 group-title="兒童頻道",BABYTV
-https://live.catvod.com/live.php?id=Babytv
-#EXTINF:-1 group-title="兒童頻道",CBEEBIES
-https://live.catvod.com/live.php?id=Cbeebies
-#EXTINF:-1 group-title="兒童頻道",MYKIDSTV
-https://live.catvod.com/live.php?id=KidsTV
-#EXTINF:-1 group-title="兒童頻道",MOMO
-https://live.catvod.com/live.php?id=momo1_twn
-#EXTINF:-1 group-title="兒童頻道",ANIMAX
-https://live.catvod.com/live.php?id=Animax
-#EXTINF:-1 group-title="兒童頻道",BABYTV
-https://live.catvod.com/live.php?id=babytv_twn
-#EXTINF:-1 group-title="兒童頻道",miaomi
-https://live.catvod.com/live.php?id=MiaoMi
-#EXTINF:-1 group-title="兒童頻道",CARTOONNETWORK
-https://live.catvod.com/live.php?id=Cn
-#EXTINF:-1 group-title="兒童頻道",Nickelodeon
-https://live.catvod.com/live.php?id=Nickelodeon
-#EXTINF:-1 group-title="兒童頻道",NICKJR
-https://live.catvod.com/live.php?id=Nickjr
-#EXTINF:-1 group-title="其它頻道",NHK
-https://live.catvod.com/live.php?id=NHK
-#EXTINF:-1 group-title="其它頻道",CHANNEL5
-https://live.catvod.com/live.php?id=Channel5HD
-#EXTINF:-1 group-title="其它頻道",CHANNEL8
-https://live.catvod.com/live.php?id=Channel8HD
-#EXTINF:-1 group-title="其它頻道",SURIA
-https://live.catvod.com/live.php?id=Suria
-#EXTINF:-1 group-title="其它頻道",CHANNELU
-https://live.catvod.com/live.php?id=ChannelU
-#EXTINF:-1 group-title="其它頻道",VASANTHAM
-https://live.catvod.com/live.php?id=Vasantham
-#EXTINF:-1 group-title="其它頻道",CNA
-https://live.catvod.com/live.php?id=cna
-#EXTINF:-1 group-title="其它頻道",CNA
-https://live.catvod.com/live.php?id=cna_twn
-#EXTINF:-1 group-title="其它頻道",MeWatch Ch 5
-https://live.catvod.com/live.php?id=Mewatch_ch5
-#EXTINF:-1 group-title="其它頻道",MeWatch Ch 8
-https://live.catvod.com/live.php?id=Mewatch_ch8
-#EXTINF:-1 group-title="其它頻道",MeWatch Ch U
-https://live.catvod.com/live.php?id=Mewatch_chU
-#EXTINF:-1 group-title="其它頻道",MeWatch Suria
-https://live.catvod.com/live.php?id=Mewatch_Suria
-#EXTINF:-1 group-title="其它頻道",MeWatch Vasantham
-https://live.catvod.com/live.php?id=Mewatch_Vasantham
-#EXTINF:-1 group-title="其它頻道",MeWatch CNA
-https://live.catvod.com/live.php?id=Mewatch_cna
-#EXTINF:-1 group-title="其它頻道",TV1
-https://live.catvod.com/live.php?id=TV1
-#EXTINF:-1 group-title="其它頻道",TV1
-https://live.catvod.com/live.php?id=TV1_backup
-#EXTINF:-1 group-title="其它頻道",TV2
-https://live.catvod.com/live.php?id=TV2
-#EXTINF:-1 group-title="其它頻道",TV3
-https://live.catvod.com/live.php?id=TV3
-#EXTINF:-1 group-title="其它頻道",TV3
-https://live.catvod.com/live.php?id=TV3_mega
-#EXTINF:-1 group-title="其它頻道",NTV7
-https://live.catvod.com/live.php?id=NTV7
-#EXTINF:-1 group-title="其它頻道",TV8
-https://live.catvod.com/live.php?id=TV8
-#EXTINF:-1 group-title="其它頻道",TV9
-https://live.catvod.com/live.php?id=TV9
-#EXTINF:-1 group-title="其它頻道",RIA
-https://live.catvod.com/live.php?id=Ria
-#EXTINF:-1 group-title="其它頻道",RIA
-https://live.catvod.com/live.php?id=Ria_backup
-#EXTINF:-1 group-title="其它頻道",ALHIJRAH
-https://live.catvod.com/live.php?id=Alhijrah
-#EXTINF:-1 group-title="其它頻道",ALHIJRAH
-https://live.catvod.com/live.php?id=Alhijrah_backup
-#EXTINF:-1 group-title="其它頻道",AWANI
-https://live.catvod.com/live.php?id=Awani
-#EXTINF:-1 group-title="其它頻道",BERNAMA
-https://live.catvod.com/live.php?id=Bernama
-#EXTINF:-1 group-title="其它頻道",PRIMA
-https://live.catvod.com/live.php?id=Prima
-#EXTINF:-1 group-title="其它頻道",PRIMA
-https://live.catvod.com/live.php?id=AAprima1
-#EXTINF:-1 group-title="其它頻道",PRIMA
-https://live.catvod.com/live.php?id=AAprima
-#EXTINF:-1 group-title="其它頻道",CERIA
-https://live.catvod.com/live.php?id=Ceria
-#EXTINF:-1 group-title="其它頻道",ASTRO
-https://live.catvod.com/live.php?id=AstroMTV
-#EXTINF:-1 group-title="其它頻道",Mecca Live HD
-https://live.catvod.com/live.php?id=quran_mido
-#EXTINF:-1 group-title="其它頻道",Madinah HD
-https://live.catvod.com/live.php?id=sunnah_mido
-#EXTINF:-1 group-title="其它頻道",OASIS
-https://live.catvod.com/live.php?id=Oasis
-#EXTINF:-1 group-title="其它頻道",HBO
-https://live.catvod.com/live.php?id=Hbo
-#EXTINF:-1 group-title="其它頻道",HBOSIGNATURE
-https://live.catvod.com/live.php?id=Hbosignature
-#EXTINF:-1 group-title="其它頻道",HBOHITS
-https://live.catvod.com/live.php?id=Hbohitshd
-#EXTINF:-1 group-title="其它頻道",natgeowild
-https://live.catvod.com/live.php?id=Natgeowild
-#EXTINF:-1 group-title="其它頻道",CARTOONNETWORK
-https://live.catvod.com/live.php?id=Cn
-#EXTINF:-1 group-title="其它頻道",Nickelodeon
-https://live.catvod.com/live.php?id=Nickelodeon
-#EXTINF:-1 group-title="其它頻道",NICKJR
-https://live.catvod.com/live.php?id=Nickjr
-#EXTINF:-1 group-title="其它頻道",dreamworks
-https://live.catvod.com/live.php?id=Dreamworks
-#EXTINF:-1 group-title="其它頻道",SINARFM
-https://live.catvod.com/live.php?id=Siar
-#EXTINF:-1 group-title="其它頻道",CITRA
-https://live.catvod.com/live.php?id=AAcitra
-#EXTINF:-1 group-title="其它頻道",CITRA
-https://live.catvod.com/live.php?id=AAcitra1
-#EXTINF:-1 group-title="其它頻道",Sensasi
-https://live.catvod.com/live.php?id=Sensasi
-#EXTINF:-1 group-title="其它頻道",AURA
-https://live.catvod.com/live.php?id=Aura
-#EXTINF:-1 group-title="其它頻道",RANIA
-https://live.catvod.com/live.php?id=Rania
-#EXTINF:-1 group-title="其它頻道",KBSWORLD
-https://live.catvod.com/live.php?id=KBS
-#EXTINF:-1 group-title="其它頻道",BOO
-https://live.catvod.com/live.php?id=Boo
-#EXTINF:-1 group-title="其它頻道",AWESOMETV
-https://live.catvod.com/live.php?id=Dsangat
-#EXTINF:-1 group-title="其它頻道",Astro Sonypix
-https://live.catvod.com/live.php?id=Asonypix
-#EXTINF:-1 group-title="其它頻道",SONY
-https://live.catvod.com/live.php?id=SetOne
-#EXTINF:-1 group-title="其它頻道",tvN
-https://live.catvod.com/live.php?id=TVN
-#EXTINF:-1 group-title="其它頻道",AEC
-https://live.catvod.com/live.php?id=AEC
-#EXTINF:-1 group-title="其它頻道",華麗台
-https://live.catvod.com/live.php?id=Wlt
-#EXTINF:-1 group-title="其它頻道",歡喜台
-https://live.catvod.com/live.php?id=Huahee
-#EXTINF:-1 group-title="其它頻道",ASTRO全佳
-https://live.catvod.com/live.php?id=Quanjia
-#EXTINF:-1 group-title="其它頻道",TVBJADE
-https://live.catvod.com/live.php?id=Tvbjade
-#EXTINF:-1 group-title="其它頻道",TVBSASIA
-https://live.catvod.com/live.php?id=Tvbasia
-#EXTINF:-1 group-title="其它頻道",TVBENTERTAINMENTNEWS
-https://live.catvod.com/live.php?id=Tvbentertainment
-#EXTINF:-1 group-title="其它頻道",TVBclassic
-https://live.catvod.com/live.php?id=Tvbclassic
-#EXTINF:-1 group-title="其它頻道",AOD
-https://live.catvod.com/live.php?id=Aodhd
-#EXTINF:-1 group-title="其它頻道",ONE
-https://live.catvod.com/live.php?id=One
-#EXTINF:-1 group-title="其它頻道",星河台
-https://live.catvod.com/live.php?id=Xinhe
-#EXTINF:-1 group-title="其它頻道",愛奇藝
-https://live.catvod.com/live.php?id=Qiyi
-#EXTINF:-1 group-title="其它頻道",ANIMALPLANET
-https://live.catvod.com/live.php?id=AnimalPlanet
-#EXTINF:-1 group-title="其它頻道",TVNMOVIES
-https://live.catvod.com/live.php?id=Tvnmovie
-#EXTINF:-1 group-title="其它頻道",CNN
-https://live.catvod.com/live.php?id=cnn_twn
-#EXTINF:-1 group-title="其它頻道",天映經典
-https://live.catvod.com/live.php?id=Celestial2
-#EXTINF:-1 group-title="其它頻道",CNBC
-https://live.catvod.com/live.php?id=cnbc_twn
-#EXTINF:-1 group-title="其它頻道",tlc
-https://live.catvod.com/live.php?id=Tlc
-#EXTINF:-1 group-title="其它頻道",CNA
-https://live.catvod.com/live.php?id=cna
-#EXTINF:-1 group-title="其它頻道",BBCWORLDNEWS
-https://live.catvod.com/live.php?id=bbcnews_twn
-#EXTINF:-1 group-title="其它頻道",FoodNetwork
-https://live.catvod.com/live.php?id=Foodnetwork
-#EXTINF:-1 group-title="其它頻道",HGTV
-https://live.catvod.com/live.php?id=HGTV
-#EXTINF:-1 group-title="其它頻道",GOSHOP
-https://live.catvod.com/live.php?id=Goshop
-#EXTINF:-1 group-title="其它頻道",CELESTIALMOVIES
-https://live.catvod.com/live.php?id=Celestial
-#EXTINF:-1 group-title="其它頻道",AXN
-https://live.catvod.com/live.php?id=Axn
-#EXTINF:-1 group-title="其它頻道",Paramount Network
-https://live.catvod.com/live.php?id=Paramountnetwork
-#EXTINF:-1 group-title="其它頻道",Astrol Kplus
-https://live.catvod.com/live.php?id=Kplus
-#EXTINF:-1 group-title="其它頻道",asiatravel
-https://live.catvod.com/live.php?id=asiatravel_twn
-#EXTINF:-1 group-title="其它頻道",ROCKACTION
-https://live.catvod.com/live.php?id=Rockaction
-#EXTINF:-1 group-title="其它頻道",BLOOMBERG
-https://live.catvod.com/live.php?id=bloomberg_twn
-#EXTINF:-1 group-title="其它頻道",aljazeera
-https://live.catvod.com/live.php?id=aljazeera_twn
-#EXTINF:-1 group-title="其它頻道",ROCK_ENTERTAINMENT
-https://live.catvod.com/live.php?id=Rockentertain
-#EXTINF:-1 group-title="其它頻道",RTM Sports HD
-https://live.catvod.com/live.php?id=Rtmsport
-#EXTINF:-1 group-title="其它頻道",ARENA
-https://live.catvod.com/live.php?id=Arena
-#EXTINF:-1 group-title="其它頻道",ARENA2
-https://live.catvod.com/live.php?id=Arena2
-#EXTINF:-1 group-title="其它頻道",BolaArena 1
-https://live.catvod.com/live.php?id=Bolaarena1
-#EXTINF:-1 group-title="其它頻道",BolaArena 2
-https://live.catvod.com/live.php?id=Bolaarena2
-#EXTINF:-1 group-title="其它頻道",Astro LOL
-https://live.catvod.com/live.php?id=Astro_lol
-#EXTINF:-1 group-title="其它頻道",Astro Rusi
-https://live.catvod.com/live.php?id=Rusi
-#EXTINF:-1 group-title="其它頻道",WION
-https://live.catvod.com/live.php?id=Wion
-#EXTINF:-1 group-title="其它頻道",RTM Asean
-https://live.catvod.com/live.php?id=Rtmasean
-#EXTINF:-1 group-title="其它頻道",TVRI National
-https://live.catvod.com/live.php?id=TVRI
-#EXTINF:-1 group-title="其它頻道",RCTI
-https://live.catvod.com/live.php?id=Rcti
-#EXTINF:-1 group-title="其它頻道",Kompass TV
-https://live.catvod.com/live.php?id=Kompass
-#EXTINF:-1 group-title="其它頻道",Berita Satu
-https://live.catvod.com/live.php?id=BeritaSatu_eko
-#EXTINF:-1 group-title="其它頻道",Indosiar HD
-https://live.catvod.com/live.php?id=Indosiar
-#EXTINF:-1 group-title="其它頻道",AnTV
-https://live.catvod.com/live.php?id=Antv
-#EXTINF:-1 group-title="其它頻道",MNC TV
-https://live.catvod.com/live.php?id=Mnctv
-#EXTINF:-1 group-title="其它頻道",Trans 7
-https://live.catvod.com/live.php?id=Trans7_eko
-#EXTINF:-1 group-title="其它頻道",Transtv
-https://live.catvod.com/live.php?id=Transtv
-#EXTINF:-1 group-title="其它頻道",JTV
-https://live.catvod.com/live.php?id=JTV_eko
-#EXTINF:-1 group-title="其它頻道",Metro TV
-https://live.catvod.com/live.php?id=metrotv_eko
-#EXTINF:-1 group-title="其它頻道",Cinemax
-https://live.catvod.com/live.php?id=Cinemax
-#EXTINF:-1 group-title="其它頻道",SCTV
-https://live.catvod.com/live.php?id=SCTV
-#EXTINF:-1 group-title="其它頻道",Tvone
-https://live.catvod.com/live.php?id=Tvone
-#EXTINF:-1 group-title="其它頻道",TVMU
-https://live.catvod.com/live.php?id=TVMU_eko
-#EXTINF:-1 group-title="其它頻道",GTV
-https://live.catvod.com/live.php?id=Gtv
-#EXTINF:-1 group-title="其它頻道",RTV
-https://live.catvod.com/live.php?id=Rtv
-#EXTINF:-1 group-title="其它頻道",Jak TV
-https://live.catvod.com/live.php?id=JakTV
-#EXTINF:-1 group-title="其它頻道",iNews TV
-https://live.catvod.com/live.php?id=Inewstv
-#EXTINF:-1 group-title="其它頻道",Daai TV
-https://live.catvod.com/live.php?id=DaaiTV
-#EXTINF:-1 group-title="其它頻道",Net TV
-https://live.catvod.com/live.php?id=NetTV
-#EXTINF:-1 group-title="其它頻道",Animax
-https://live.catvod.com/live.php?id=Animax
-#EXTINF:-1 group-title="其它頻道",EWTN
-https://live.catvod.com/live.php?id=Ewtn
-#EXTINF:-1 group-title="其它頻道",AlQuran AlKareem
-https://live.catvod.com/live.php?id=AlQuran
-#EXTINF:-1 group-title="其它頻道",Tawaf TV
-https://live.catvod.com/live.php?id=TawafTV
-#EXTINF:-1 group-title="其它頻道",Vision Prime
-https://live.catvod.com/live.php?id=VisionPrime
-#EXTINF:-1 group-title="其它頻道",Muslim TV
-https://live.catvod.com/live.php?id=MuslimTV
-#EXTINF:-1 group-title="其它頻道",Music TV
-https://live.catvod.com/live.php?id=MusicTV
-#EXTINF:-1 group-title="其它頻道",Lifestyle&amp;Fashion
-https://live.catvod.com/live.php?id=Lifestyle
-#EXTINF:-1 group-title="其它頻道",Entertain
-https://live.catvod.com/live.php?id=Entertain
-#EXTINF:-1 group-title="其它頻道",Hits
-https://live.catvod.com/live.php?id=Hits
-#EXTINF:-1 group-title="其它頻道",Warner TV
-https://live.catvod.com/live.php?id=WarnerTV
-#EXTINF:-1 group-title="其它頻道",SCM
-https://live.catvod.com/live.php?id=Weishimovie
-#EXTINF:-1 group-title="其它頻道",Thrill
-https://live.catvod.com/live.php?id=Thrill
-#EXTINF:-1 group-title="其它頻道",Fight Sports
-https://live.catvod.com/live.php?id=Fs
-#EXTINF:-1 group-title="其它頻道",Hits Movie
-https://live.catvod.com/live.php?id=Hitsmovie
-#EXTINF:-1 group-title="其它頻道",One
-https://live.catvod.com/live.php?id=One
-#EXTINF:-1 group-title="其它頻道",tvN Movie
-https://live.catvod.com/live.php?id=Tvnmovie
-#EXTINF:-1 group-title="其它頻道",Celestial Movies HD
-https://live.catvod.com/live.php?id=Celestialindo
-#EXTINF:-1 group-title="其它頻道",Rock Actions
-https://live.catvod.com/live.php?id=Rockaction
-#EXTINF:-1 group-title="其它頻道",Rock Entertainment
-https://live.catvod.com/live.php?id=Rockentertain
-#EXTINF:-1 group-title="其它頻道",Sun TV HD
-https://live.catvod.com/live.php?id=Suntv
-#EXTINF:-1 group-title="其它頻道",Star Vijay
-https://live.catvod.com/live.php?id=Starvijay
-#EXTINF:-1 group-title="其它頻道",Colors Tamil
-https://live.catvod.com/live.php?id=Colorstam
-#EXTINF:-1 group-title="其它頻道",Sun Music
-https://live.catvod.com/live.php?id=Sunmusic
-#EXTINF:-1 group-title="其它頻道",Astro Sunlife
-https://live.catvod.com/live.php?id=Sunlife
-#EXTINF:-1 group-title="其它頻道",Astro Vaanavil
-https://live.catvod.com/live.php?id=Vaanavil
-#EXTINF:-1 group-title="其它頻道",Zee Tamil
-https://live.catvod.com/live.php?id=Zeetamil
-#EXTINF:-1 group-title="其它頻道",Zee Business
-https://live.catvod.com/live.php?id=Zeebusiness
-#EXTINF:-1 group-title="其它頻道",News 18 Tamil
-https://live.catvod.com/live.php?id=news18tamil_raj
-#EXTINF:-1 group-title="其它頻道",Adithya
-https://live.catvod.com/live.php?id=Adithya
-#EXTINF:-1 group-title="其它頻道",Makkal TV
-https://live.catvod.com/live.php?id=Makkaltv
-#EXTINF:-1 group-title="其它頻道",Zee Action
-https://live.catvod.com/live.php?id=Zeeaction
-#EXTINF:-1 group-title="其它頻道",Astro KTV
-https://live.catvod.com/live.php?id=Astroktv
-#EXTINF:-1 group-title="其它頻道",Zee TV HD
-https://live.catvod.com/live.php?id=Zeetvhd
-#EXTINF:-1 group-title="其它頻道",Zee Cinema HD
-https://live.catvod.com/live.php?id=Zeecinemahd
-#EXTINF:-1 group-title="其它頻道",Color HD
-https://live.catvod.com/live.php?id=Colorhd
-#EXTINF:-1 group-title="其它頻道",Starplus HD
-https://live.catvod.com/live.php?id=Starplushd
-#EXTINF:-1 group-title="其它頻道",Picture HD
-https://live.catvod.com/live.php?id=Npicture
-#EXTINF:-1 group-title="其它頻道",Zee News
-https://live.catvod.com/live.php?id=Zeenews
-#EXTINF:-1 group-title="其它頻道",Asianet
-https://live.catvod.com/live.php?id=asianet_raj
-#EXTINF:-1 group-title="其它頻道",Asianet News
-https://live.catvod.com/live.php?id=asianetnews_raj
-#EXTINF:-1 group-title="其它頻道",Discovery World Tamil
-https://live.catvod.com/live.php?id=discoveryworldtam_raj
-#EXTINF:-1 group-title="其它頻道",History Tamil
-https://live.catvod.com/live.php?id=historytam_raj
-#EXTINF:-1 group-title="其它頻道",NatGeo Tamil
-https://live.catvod.com/live.php?id=natgeotamil_raj
-#EXTINF:-1 group-title="其它頻道",Natgeo Wild Tamil
-https://live.catvod.com/live.php?id=natgeowildtamil_raj
-#EXTINF:-1 group-title="其它頻道",Astro Sonypix
-https://live.catvod.com/live.php?id=Asonypix
-#EXTINF:-1 group-title="其它頻道",Discovery Kids Tamil
-https://live.catvod.com/live.php?id=discoverykidtamil_raj
-#EXTINF:-1 group-title="其它頻道",Discovery Tamil
-https://live.catvod.com/live.php?id=discoverytamil_raj
-#EXTINF:-1 group-title="其它頻道",Sony Yay Tamil
-https://live.catvod.com/live.php?id=sonyyaytam_raj
-#EXTINF:-1 group-title="其它頻道",Sun TV India
-https://live.catvod.com/live.php?id=suntv_raj
-#EXTINF:-1 group-title="其它頻道",Starmaa HD
-https://live.catvod.com/live.php?id=starmaa_raj
-#EXTINF:-1 group-title="其它頻道",Starmaa Movies HD
-https://live.catvod.com/live.php?id=starmaamovies_raj
-#EXTINF:-1 group-title="其它頻道",Bollyone
-https://live.catvod.com/live.php?id=Bollyone
-#EXTINF:-1 group-title="其它頻道",Astro Sunmusic
-https://live.catvod.com/live.php?id=Sunmusic
-#EXTINF:-1 group-title="其它頻道",Vijay Super
-https://live.catvod.com/live.php?id=vijaysuper_raj
-#EXTINF:-1 group-title="其它頻道",Vellithirai
-https://live.catvod.com/live.php?id=Vellithirai
-#EXTINF:-1 group-title="其它頻道",Channel 3 Thailand
-https://live.catvod.com/live.php?id=ch3_pat
-#EXTINF:-1 group-title="其它頻道",Channel 5 Thailand
-https://live.catvod.com/live.php?id=ch5_pat
-#EXTINF:-1 group-title="其它頻道",Channel 7 Thailand
-https://live.catvod.com/live.php?id=ch7_pat
-#EXTINF:-1 group-title="其它頻道",MCOT HD Thailand-1
-https://live.catvod.com/live.php?id=mcot_pat
-#EXTINF:-1 group-title="其它頻道",PPTV Thailand1
-https://live.catvod.com/live.php?id=pptv_pat
-#EXTINF:-1 group-title="其它頻道",Thai Thai
-https://live.catvod.com/live.php?id=thaithai_pat
-#EXTINF:-1 group-title="其它頻道",Amarin
-https://live.catvod.com/live.php?id=amarin_pat
-#EXTINF:-1 group-title="其它頻道",Ch 8
-https://live.catvod.com/live.php?id=ch8_pat
-#EXTINF:-1 group-title="其它頻道",GmmOne
-https://live.catvod.com/live.php?id=gmmone_pat
-#EXTINF:-1 group-title="其它頻道",Mono
-https://live.catvod.com/live.php?id=mono_pat
-#EXTINF:-1 group-title="其它頻道",Thairath
-https://live.catvod.com/live.php?id=thairath_pat
-#EXTINF:-1 group-title="其它頻道",tpbs
-https://live.catvod.com/live.php?id=tpbs_pat
-#EXTINF:-1 group-title="其它頻道",Workpoint
-https://live.catvod.com/live.php?id=workpoint_pat
-#EXTINF:-1 group-title="其它頻道",Gmm Channel
-https://live.catvod.com/live.php?id=gmmchannel_pat
-#EXTINF:-1 group-title="其它頻道",Nation
-https://live.catvod.com/live.php?id=nation_pat
-#EXTINF:-1 group-title="其它頻道",Tnn24
-https://live.catvod.com/live.php?id=tnn24_pat
-#EXTINF:-1 group-title="其它頻道",Nbt
-https://live.catvod.com/live.php?id=nbt_pat
-#EXTINF:-1 group-title="其它頻道",New
-https://live.catvod.com/live.php?id=new_pat
-#EXTINF:-1 group-title="其它頻道",TPTV
-https://live.catvod.com/live.php?id=tptv_pat
-#EXTINF:-1 group-title="其它頻道",BBC 1
-https://live.catvod.com/live.php?id=bbc1_antik
-#EXTINF:-1 group-title="其它頻道",BBC 2
-https://live.catvod.com/live.php?id=bbc2_antik
-#EXTINF:-1 group-title="其它頻道",CBBC
-https://live.catvod.com/live.php?id=cbbc_antik
-#EXTINF:-1 group-title="其它頻道",More4
-https://live.catvod.com/live.php?id=more4_antik
-#EXTINF:-1 group-title="其它頻道",Freesports
-https://live.catvod.com/live.php?id=freesports_antik
-#EXTINF:-1 group-title="其它頻道",Skynews
-https://live.catvod.com/live.php?id=skynews_twn
-#EXTINF:-1 group-title="其它頻道",Pick TV
-https://live.catvod.com/live.php?id=picktv_antik
-#EXTINF:-1 group-title="其它頻道",itv 1
-https://live.catvod.com/live.php?id=itv1_antik
-#EXTINF:-1 group-title="其它頻道",itv 2
-https://live.catvod.com/live.php?id=itv2_antik
-#EXTINF:-1 group-title="其它頻道",Euronews
-https://live.catvod.com/live.php?id=euronews_antik
-#EXTINF:-1 group-title="其它頻道",Channel 4
-https://live.catvod.com/live.php?id=channel4_antik
-#EXTINF:-1 group-title="其它頻道",NatGeo HD
-https://live.catvod.com/live.php?id=Natgeo
-#EXTINF:-1 group-title="其它頻道",CBeebies
-https://live.catvod.com/live.php?id=Cbeebies
-#EXTINF:-1 group-title="其它頻道",History
-https://live.catvod.com/live.php?id=History
-#EXTINF:-1 group-title="其它頻道",Kids TV
-https://live.catvod.com/live.php?id=KidsTV
-#EXTINF:-1 group-title="其它頻道",France 24
-https://live.catvod.com/live.php?id=france24_twn
-#EXTINF:-1 group-title="其它頻道",DW (Deutsch)
-https://live.catvod.com/live.php?id=dw_twn
-#EXTINF:-1 group-title="其它頻道",BBC Earth HD
-https://live.catvod.com/live.php?id=bbcearth_twn
-#EXTINF:-1 group-title="其它頻道",BBC Earth Lifestyle
-https://live.catvod.com/live.php?id=bbclifestyle_twn
-#EXTINF:-1 group-title="其它頻道",MTV Live
-https://live.catvod.com/live.php?id=mtvhd_twn
-#EXTINF:-1 group-title="其它頻道",Star Movies HD
-https://live.catvod.com/live.php?id=starmovies_raj
-#EXTINF:-1 group-title="其它頻道",NHK World
-https://live.catvod.com/live.php?id=nhkworld_japan
-#EXTINF:-1 group-title="其它頻道",Warner TV
-https://live.catvod.com/live.php?id=WarnerTV
-#EXTINF:-1 group-title="其它頻道",HBO HD
-https://live.catvod.com/live.php?id=Hbo
-#EXTINF:-1 group-title="其它頻道",NatGeo Wild HD
-https://live.catvod.com/live.php?id=Natgeowild
-#EXTINF:-1 group-title="其它頻道",Nickelodeon
-https://live.catvod.com/live.php?id=Nickelodeon
-#EXTINF:-1 group-title="其它頻道",Nick Jr
-https://live.catvod.com/live.php?id=Nickjr
-#EXTINF:-1 group-title="其它頻道",Thrill
-https://live.catvod.com/live.php?id=Thrill
-#EXTINF:-1 group-title="其它頻道",CGTN
-https://live.catvod.com/live.php?id=CGTN
-#EXTINF:-1 group-title="其它頻道",Hits Movie
-https://live.catvod.com/live.php?id=Hitsmovie
-#EXTINF:-1 group-title="其它頻道",Animal Planet (Eng)
-https://live.catvod.com/live.php?id=AnimalPlanet
-#EXTINF:-1 group-title="其它頻道",CNBC
-https://live.catvod.com/live.php?id=cnbc_twn
-#EXTINF:-1 group-title="其它頻道",TLC
-https://live.catvod.com/live.php?id=Tlc
-#EXTINF:-1 group-title="其它頻道",BBC World News
-https://live.catvod.com/live.php?id=bbcworldnews_antik
-#EXTINF:-1 group-title="其它頻道",HGTV
-https://live.catvod.com/live.php?id=HGTV
-#EXTINF:-1 group-title="其它頻道",Axn HD
-https://live.catvod.com/live.php?id=Axn
-#EXTINF:-1 group-title="其它頻道",Skysports F1
-https://live.catvod.com/live.php?id=tiankongf1
-#EXTINF:-1 group-title="其它頻道",Skysports Cricket
-https://live.catvod.com/live.php?id=tiankongcricket
-#EXTINF:-1 group-title="其它頻道",Bloomberg News
-https://live.catvod.com/live.php?id=bloomberg_twn
-#EXTINF:-1 group-title="其它頻道",Skysports EPL
-https://live.catvod.com/live.php?id=tiankongepl
-#EXTINF:-1 group-title="其它頻道",Skysports Main Event
-https://live.catvod.com/live.php?id=tiankongmain
-#EXTINF:-1 group-title="其它頻道",Skysports News
-https://live.catvod.com/live.php?id=tiankongnews
-#EXTINF:-1 group-title="其它頻道",Al-Jazeera
-https://live.catvod.com/live.php?id=aljazeera_twn
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="TW" tvg-name="重溫經典頻道" tvg-logo="https://epg.112114.xyz/logo/重溫經典頻道.png" epg-url="https://epg.112114.xyz/pp.xml",重溫經典頻道
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="TW" tvg-name="民視閩南頻道" tvg-logo="https://epg.112114.xyz/logo/民視閩南頻道.png" epg-url="https://epg.112114.xyz/pp.xml",民視閩南頻道
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="TW" tvg-name="中視閩南頻道" tvg-logo="https://epg.112114.xyz/logo/中視閩南頻道.png" epg-url="https://epg.112114.xyz/pp.xml",中視閩南頻道
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="TW" tvg-name="華視閩南頻道" tvg-logo="https://epg.112114.xyz/logo/華視閩南頻道.png" epg-url="https://epg.112114.xyz/pp.xml",華視閩南頻道
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="TW" tvg-name="臺視閩南頻道" tvg-logo="https://epg.112114.xyz/logo/臺視閩南頻道.png" epg-url="https://epg.112114.xyz/pp.xml",臺視閩南頻道
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="TW" tvg-name="東森超視訊道" tvg-logo="https://epg.112114.xyz/logo/東森超視訊道.png" epg-url="https://epg.112114.xyz/pp.xml",東森超視訊道
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="TW" tvg-name="環球電視訊道" tvg-logo="https://epg.112114.xyz/logo/環球電視訊道.png" epg-url="https://epg.112114.xyz/pp.xml",環球電視訊道
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="NHK新聞頻英" tvg-logo="https://epg.112114.xyz/logo/NHK新聞頻英.png" epg-url="https://epg.112114.xyz/pp.xml",NHK新聞頻英
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="tvbs閩南頻特" tvg-logo="https://epg.112114.xyz/logo/tvbs閩南頻特.png" epg-url="https://epg.112114.xyz/pp.xml",tvbs閩南頻特
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇頻特" tvg-logo="https://epg.112114.xyz/logo/三立戲劇頻特.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇頻特
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇頻特" tvg-logo="https://epg.112114.xyz/logo/八大戲劇頻特.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇頻特
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一頻特" tvg-logo="https://epg.112114.xyz/logo/八大第一頻特.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一頻特
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大綜合頻特" tvg-logo="https://epg.112114.xyz/logo/八大綜合頻特.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜合頻特
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中天娛樂頻特" tvg-logo="https://epg.112114.xyz/logo/中天娛樂頻特.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂頻特
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩頻特" tvg-logo="https://epg.112114.xyz/logo/緯來精彩頻特.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩頻特
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球頻國" tvg-logo="https://epg.112114.xyz/logo/動物星球頻國.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球頻國
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來育樂頻特" tvg-logo="https://epg.112114.xyz/logo/緯來育樂頻特.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂頻特
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="TW" tvg-name="緯來日本頻特" tvg-logo="https://epg.112114.xyz/logo/緯來日本頻特.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本頻特
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="TW" tvg-name="緯來體育頻特" tvg-logo="https://epg.112114.xyz/logo/緯來體育頻特.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育頻特
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="TW" tvg-name="DAZN體育壹" tvg-logo="https://epg.112114.xyz/logo/DAZN體育壹.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN體育壹
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="TW" tvg-name="DAZN體育貳" tvg-logo="https://epg.112114.xyz/logo/DAZN體育貳.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN體育貳
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="TW" tvg-name="amc電影頻英" tvg-logo="https://epg.112114.xyz/logo/amc電影頻英.png" epg-url="https://epg.112114.xyz/pp.xml",amc電影頻英
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="ASC搜索頻英" tvg-logo="https://epg.112114.xyz/logo/ASC搜索頻英.png" epg-url="https://epg.112114.xyz/pp.xml",ASC搜索頻英
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="Diso綜合頻英" tvg-logo="https://epg.112114.xyz/logo/Diso綜合頻英.png" epg-url="https://epg.112114.xyz/pp.xml",Diso綜合頻英
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="momoTV頻特" tvg-logo="https://epg.112114.xyz/logo/momoTV頻特.png" epg-url="https://epg.112114.xyz/pp.xml",momoTV頻特
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="TW" tvg-name="民視閩南頻道" tvg-logo="https://epg.112114.xyz/logo/民視閩南頻道.png" epg-url="https://epg.112114.xyz/pp.xml",民視閩南頻道
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中視閩南頻道" tvg-logo="https://epg.112114.xyz/logo/中視閩南頻道.png" epg-url="https://epg.112114.xyz/pp.xml",中視閩南頻道
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華視閩南頻道" tvg-logo="https://epg.112114.xyz/logo/華視閩南頻道.png" epg-url="https://epg.112114.xyz/pp.xml",華視閩南頻道
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華洋片頻道" tvg-logo="https://epg.112114.xyz/logo/龍華洋片頻道.png" epg-url="https://epg.112114.xyz/pp.xml",龍華洋片頻道
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="豬哥亮歌廳國" tvg-logo="https://epg.112114.xyz/logo/豬哥亮歌廳國.png" epg-url="https://epg.112114.xyz/pp.xml",豬哥亮歌廳國
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="亞洲旅遊頻道" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊頻道.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊頻道
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="鳳凰電影臺" tvg-logo="https://epg.112114.xyz/logo/鳳凰電影臺.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰電影臺
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="TW" tvg-name="龍華電影臺" tvg-logo="https://epg.112114.xyz/logo/龍華電影臺.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影臺
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華日韓" tvg-logo="https://epg.112114.xyz/logo/龍華日韓.png" epg-url="https://epg.112114.xyz/pp.xml",龍華日韓
+http://cdn5.1689.us.kg/litv.php?id=litv-longturn11
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇臺" tvg-logo="https://epg.112114.xyz/logo/三立戲劇臺.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇臺
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇臺" tvg-logo="https://epg.112114.xyz/logo/八大戲劇臺.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇臺
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛二臺" tvg-logo="https://epg.112114.xyz/logo/大愛二臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛二臺
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="Love Nature 4K「自然」 " tvg-logo="https://epg.112114.xyz/logo/Love Nature 4K「自然」 .png" epg-url="https://epg.112114.xyz/pp.xml",Love Nature 4K「自然」 
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="Loupe 4K「視覺」 " tvg-logo="https://epg.112114.xyz/logo/Loupe 4K「視覺」 .png" epg-url="https://epg.112114.xyz/pp.xml",Loupe 4K「視覺」 
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="TVB翡翠臺" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠臺.png" epg-url="https://epg.112114.xyz/pp.xml",TVB翡翠臺
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="TW" tvg-name="TVB翡翠臺" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠臺.png" epg-url="https://epg.112114.xyz/pp.xml",TVB翡翠臺
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="TW" tvg-name="TVB翡翠臺" tvg-logo="https://epg.112114.xyz/logo/TVB翡翠臺.png" epg-url="https://epg.112114.xyz/pp.xml",TVB翡翠臺
+http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+#EXTINF:-1 group-title="TW" tvg-name="華麗翡翠臺" tvg-logo="https://epg.112114.xyz/logo/華麗翡翠臺.png" epg-url="https://epg.112114.xyz/pp.xml",華麗翡翠臺
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="TW" tvg-name="翡翠臺北美版(TVB J1)" tvg-logo="https://epg.112114.xyz/logo/翡翠臺北美版(TVB J1).png" epg-url="https://epg.112114.xyz/pp.xml",翡翠臺北美版(TVB J1)
+https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+#EXTINF:-1 group-title="TW" tvg-name="星光綜合臺" tvg-logo="https://epg.112114.xyz/logo/星光綜合臺.png" epg-url="https://epg.112114.xyz/pp.xml",星光綜合臺
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="TW" tvg-name="星光經典" tvg-logo="https://epg.112114.xyz/logo/星光經典.png" epg-url="https://epg.112114.xyz/pp.xml",星光經典
+https://ali.hlspull.yximgs.com/live/1355046088.flv
+#EXTINF:-1 group-title="TW" tvg-name="星光影迷" tvg-logo="https://epg.112114.xyz/logo/星光影迷.png" epg-url="https://epg.112114.xyz/pp.xml",星光影迷
+https://ali.hlspull.yximgs.com/live/11077536.flv
+#EXTINF:-1 group-title="TW" tvg-name="澳門蓮花" tvg-logo="https://epg.112114.xyz/logo/澳門蓮花.png" epg-url="https://epg.112114.xyz/pp.xml",澳門蓮花
+http://php.jdshipin.com/amlh.php
+#EXTINF:-1 group-title="TW" tvg-name="好訊息1臺" tvg-logo="https://epg.112114.xyz/logo/好訊息1臺.png" epg-url="https://epg.112114.xyz/pp.xml",好訊息1臺
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",華視新聞
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="TVBS新聞臺" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞臺.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新聞臺
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="非凡新聞" tvg-logo="https://epg.112114.xyz/logo/非凡新聞.png" epg-url="https://epg.112114.xyz/pp.xml",非凡新聞
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="TW" tvg-name="八大綜合臺" tvg-logo="https://epg.112114.xyz/logo/八大綜合臺.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜合臺
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇臺" tvg-logo="https://epg.112114.xyz/logo/三立戲劇臺.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇臺
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第1臺" tvg-logo="https://epg.112114.xyz/logo/八大第1臺.png" epg-url="https://epg.112114.xyz/pp.xml",八大第1臺
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇臺" tvg-logo="https://epg.112114.xyz/logo/八大戲劇臺.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇臺
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="豬哥亮" tvg-logo="https://epg.112114.xyz/logo/豬哥亮.png" epg-url="https://epg.112114.xyz/pp.xml",豬哥亮
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中華小當家" tvg-logo="https://epg.112114.xyz/logo/中華小當家.png" epg-url="https://epg.112114.xyz/pp.xml",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛1臺" tvg-logo="https://epg.112114.xyz/logo/大愛1臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛1臺
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛2臺" tvg-logo="https://epg.112114.xyz/logo/大愛2臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛2臺
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.xyz/logo/TVBS NEWS.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="未來頻道" tvg-logo="https://epg.112114.xyz/logo/未來頻道.png" epg-url="https://epg.112114.xyz/pp.xml",未來頻道
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中天娛樂" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩" tvg-logo="https://epg.112114.xyz/logo/緯來精彩.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="蕃薯" tvg-logo="https://epg.112114.xyz/logo/蕃薯.png" epg-url="https://epg.112114.xyz/pp.xml",蕃薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華電影臺" tvg-logo="https://epg.112114.xyz/logo/龍華電影臺.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影臺
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="NHK" tvg-logo="https://epg.112114.xyz/logo/NHK.png" epg-url="https://epg.112114.xyz/pp.xml",NHK
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視HD.png" epg-url="https://epg.112114.xyz/pp.xml",民視HD
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://epg.112114.xyz/pp.xml",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="TW" tvg-name="臺視" tvg-logo="https://epg.112114.xyz/logo/臺視.png" epg-url="https://epg.112114.xyz/pp.xml",臺視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="TW" tvg-name="中視LIVEHD" tvg-logo="https://epg.112114.xyz/logo/中視LIVEHD.png" epg-url="https://epg.112114.xyz/pp.xml",中視LIVEHD
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="TW" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="TW" tvg-name="華視CTSHD" tvg-logo="https://epg.112114.xyz/logo/華視CTSHD.png" epg-url="https://epg.112114.xyz/pp.xml",華視CTSHD
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛一臺" tvg-logo="https://epg.112114.xyz/logo/大愛一臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛一臺
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛二臺" tvg-logo="https://epg.112114.xyz/logo/大愛二臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛二臺
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺灣頻道" tvg-logo="https://epg.112114.xyz/logo/臺灣頻道.png" epg-url="https://epg.112114.xyz/pp.xml",臺灣頻道
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="東森超視" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" epg-url="https://epg.112114.xyz/pp.xml",東森超視
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="東森超視" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" epg-url="https://epg.112114.xyz/pp.xml",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="TW" tvg-name="緯來體育" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="TW" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="TW" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="TW" tvg-name="MoMo" tvg-logo="https://epg.112114.xyz/logo/MoMo.png" epg-url="https://epg.112114.xyz/pp.xml",MoMo
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="TW" tvg-name="DAZN體育-1" tvg-logo="https://epg.112114.xyz/logo/DAZN體育-1.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN體育-1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="TW" tvg-name="DAZN體育-2" tvg-logo="https://epg.112114.xyz/logo/DAZN體育-2.png" epg-url="https://epg.112114.xyz/pp.xml",DAZN體育-2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="TW" tvg-name="中視閩南" tvg-logo="https://epg.112114.xyz/logo/中視閩南.png" epg-url="https://epg.112114.xyz/pp.xml",中視閩南
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="TW" tvg-name="臺視閩南" tvg-logo="https://epg.112114.xyz/logo/臺視閩南.png" epg-url="https://epg.112114.xyz/pp.xml",臺視閩南
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="TW" tvg-name="華視閩南" tvg-logo="https://epg.112114.xyz/logo/華視閩南.png" epg-url="https://epg.112114.xyz/pp.xml",華視閩南
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="TW" tvg-name="東森超視" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" epg-url="https://epg.112114.xyz/pp.xml",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="TW" tvg-name="RTHK33" tvg-logo="https://epg.112114.xyz/logo/RTHK33.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="RTHK34" tvg-logo="https://epg.112114.xyz/logo/RTHK34.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="RTHK35" tvg-logo="https://epg.112114.xyz/logo/RTHK35.png" epg-url="https://epg.112114.xyz/pp.xml",RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="ELEVEN體育1" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育1.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN體育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="TW" tvg-name="音樂欣賞1" tvg-logo="https://epg.112114.xyz/logo/音樂欣賞1.png" epg-url="https://epg.112114.xyz/pp.xml",音樂欣賞1
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="音樂欣賞2" tvg-logo="https://epg.112114.xyz/logo/音樂欣賞2.png" epg-url="https://epg.112114.xyz/pp.xml",音樂欣賞2
+http://61.221.215.25:8800/hls/58/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視HD" tvg-logo="https://epg.112114.xyz/logo/民視HD.png" epg-url="https://epg.112114.xyz/pp.xml",民視HD
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中視LIVEHD" tvg-logo="https://epg.112114.xyz/logo/中視LIVEHD.png" epg-url="https://epg.112114.xyz/pp.xml",中視LIVEHD
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華視CTSHD" tvg-logo="https://epg.112114.xyz/logo/華視CTSHD.png" epg-url="https://epg.112114.xyz/pp.xml",華視CTSHD
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="沒有民視HD" tvg-logo="https://epg.112114.xyz/logo/沒有民視HD.png" epg-url="https://epg.112114.xyz/pp.xml",沒有民視HD
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華電影臺" tvg-logo="https://epg.112114.xyz/logo/龍華電影臺.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影臺
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛一臺" tvg-logo="https://epg.112114.xyz/logo/大愛一臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛一臺
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛二臺" tvg-logo="https://epg.112114.xyz/logo/大愛二臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛二臺
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛二臺" tvg-logo="https://epg.112114.xyz/logo/大愛二臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛二臺
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="東森美洲2" tvg-logo="https://epg.112114.xyz/logo/東森美洲2.png" epg-url="https://epg.112114.xyz/pp.xml",東森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="東森超視" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" epg-url="https://epg.112114.xyz/pp.xml",東森超視
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="東森美洲2" tvg-logo="https://epg.112114.xyz/logo/東森美洲2.png" epg-url="https://epg.112114.xyz/pp.xml",東森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.xyz/logo/TVBS NEWS.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中天娛樂" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.xyz/logo/TVBS NEWS.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中華小當家" tvg-logo="https://epg.112114.xyz/logo/中華小當家.png" epg-url="https://epg.112114.xyz/pp.xml",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="AMC電影" tvg-logo="https://epg.112114.xyz/logo/AMC電影.png" epg-url="https://epg.112114.xyz/pp.xml",AMC電影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩" tvg-logo="https://epg.112114.xyz/logo/緯來精彩.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大" tvg-logo="https://epg.112114.xyz/logo/八大.png" epg-url="https://epg.112114.xyz/pp.xml",八大
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中華小當家" tvg-logo="https://epg.112114.xyz/logo/中華小當家.png" epg-url="https://epg.112114.xyz/pp.xml",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="AMC電影" tvg-logo="https://epg.112114.xyz/logo/AMC電影.png" epg-url="https://epg.112114.xyz/pp.xml",AMC電影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩" tvg-logo="https://epg.112114.xyz/logo/緯來精彩.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大" tvg-logo="https://epg.112114.xyz/logo/八大.png" epg-url="https://epg.112114.xyz/pp.xml",八大
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="TVBS新聞" tvg-logo="https://epg.112114.xyz/logo/TVBS新聞.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS新聞
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="AMC 電影" tvg-logo="https://epg.112114.xyz/logo/AMC 電影.png" epg-url="https://epg.112114.xyz/pp.xml",AMC 電影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩" tvg-logo="https://epg.112114.xyz/logo/緯來精彩.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大" tvg-logo="https://epg.112114.xyz/logo/八大.png" epg-url="https://epg.112114.xyz/pp.xml",八大
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" epg-url="https://epg.112114.xyz/pp.xml",DW
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.xyz/logo/TVBS NEWS.png" epg-url="https://epg.112114.xyz/pp.xml",TVBS NEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中華小當家" tvg-logo="https://epg.112114.xyz/logo/中華小當家.png" epg-url="https://epg.112114.xyz/pp.xml",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="AMC電影" tvg-logo="https://epg.112114.xyz/logo/AMC電影.png" epg-url="https://epg.112114.xyz/pp.xml",AMC電影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩" tvg-logo="https://epg.112114.xyz/logo/緯來精彩.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="NHK WORLD" tvg-logo="https://epg.112114.xyz/logo/NHK WORLD.png" epg-url="https://epg.112114.xyz/pp.xml",NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大" tvg-logo="https://epg.112114.xyz/logo/八大.png" epg-url="https://epg.112114.xyz/pp.xml",八大
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇HD" tvg-logo="https://epg.112114.xyz/logo/八大戲劇HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇HD
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大綜合HD" tvg-logo="https://epg.112114.xyz/logo/八大綜合HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜合HD
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第1HD" tvg-logo="https://epg.112114.xyz/logo/八大第1HD.png" epg-url="https://epg.112114.xyz/pp.xml",八大第1HD
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="AMC電影" tvg-logo="https://epg.112114.xyz/logo/AMC電影.png" epg-url="https://epg.112114.xyz/pp.xml",AMC電影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="哦動物星球" tvg-logo="https://epg.112114.xyz/logo/哦動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",哦動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中華小當家" tvg-logo="https://epg.112114.xyz/logo/中華小當家.png" epg-url="https://epg.112114.xyz/pp.xml",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="AMC電影" tvg-logo="https://epg.112114.xyz/logo/AMC電影.png" epg-url="https://epg.112114.xyz/pp.xml",AMC電影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中天娛樂" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩" tvg-logo="https://epg.112114.xyz/logo/緯來精彩.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="不知道號" tvg-logo="https://epg.112114.xyz/logo/不知道號.png" epg-url="https://epg.112114.xyz/pp.xml",不知道號
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一" tvg-logo="https://epg.112114.xyz/logo/八大第一.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大" tvg-logo="https://epg.112114.xyz/logo/八大.png" epg-url="https://epg.112114.xyz/pp.xml",八大
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精彩" tvg-logo="https://epg.112114.xyz/logo/緯來精彩.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華語" tvg-logo="https://epg.112114.xyz/logo/華語.png" epg-url="https://epg.112114.xyz/pp.xml",華語
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="蕃薯" tvg-logo="https://epg.112114.xyz/logo/蕃薯.png" epg-url="https://epg.112114.xyz/pp.xml",蕃薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="蕃薯音樂" tvg-logo="https://epg.112114.xyz/logo/蕃薯音樂.png" epg-url="https://epg.112114.xyz/pp.xml",蕃薯音樂
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="NHK華語" tvg-logo="https://epg.112114.xyz/logo/NHK華語.png" epg-url="https://epg.112114.xyz/pp.xml",NHK華語
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="CNA" tvg-logo="https://epg.112114.xyz/logo/CNA.png" epg-url="https://epg.112114.xyz/pp.xml",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛一" tvg-logo="https://epg.112114.xyz/logo/大愛一.png" epg-url="https://epg.112114.xyz/pp.xml",大愛一
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛二" tvg-logo="https://epg.112114.xyz/logo/大愛二.png" epg-url="https://epg.112114.xyz/pp.xml",大愛二
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="GOOD卡通" tvg-logo="https://epg.112114.xyz/logo/GOOD卡通.png" epg-url="https://epg.112114.xyz/pp.xml",GOOD卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="LOVENATURE 4K" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE 4K.png" epg-url="https://epg.112114.xyz/pp.xml",LOVENATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="時尚FTV" tvg-logo="https://epg.112114.xyz/logo/時尚FTV.png" epg-url="https://epg.112114.xyz/pp.xml",時尚FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="好訊息綜合" tvg-logo="https://epg.112114.xyz/logo/好訊息綜合.png" epg-url="https://epg.112114.xyz/pp.xml",好訊息綜合
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物世界 4K" tvg-logo="https://epg.112114.xyz/logo/動物世界 4K.png" epg-url="https://epg.112114.xyz/pp.xml",動物世界 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="半島新聞" tvg-logo="https://epg.112114.xyz/logo/半島新聞.png" epg-url="https://epg.112114.xyz/pp.xml",半島新聞
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="香港33臺" tvg-logo="https://epg.112114.xyz/logo/香港33臺.png" epg-url="https://epg.112114.xyz/pp.xml",香港33臺
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="香港34臺" tvg-logo="https://epg.112114.xyz/logo/香港34臺.png" epg-url="https://epg.112114.xyz/pp.xml",香港34臺
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="香港35臺" tvg-logo="https://epg.112114.xyz/logo/香港35臺.png" epg-url="https://epg.112114.xyz/pp.xml",香港35臺
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="TW" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="TW" tvg-name="緯來體育" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇" tvg-logo="https://epg.112114.xyz/logo/八大戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇" tvg-logo="https://epg.112114.xyz/logo/三立戲劇.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="半島新聞" tvg-logo="https://epg.112114.xyz/logo/半島新聞.png" epg-url="https://epg.112114.xyz/pp.xml",半島新聞
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="半島新聞" tvg-logo="https://epg.112114.xyz/logo/半島新聞.png" epg-url="https://epg.112114.xyz/pp.xml",半島新聞
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="朝鮮新聞" tvg-logo="https://epg.112114.xyz/logo/朝鮮新聞.png" epg-url="https://epg.112114.xyz/pp.xml",朝鮮新聞
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="韓國新聞" tvg-logo="https://epg.112114.xyz/logo/韓國新聞.png" epg-url="https://epg.112114.xyz/pp.xml",韓國新聞
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華電影臺" tvg-logo="https://epg.112114.xyz/logo/龍華電影臺.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影臺
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="CINEMA WORLD" tvg-logo="https://epg.112114.xyz/logo/CINEMA WORLD.png" epg-url="https://epg.112114.xyz/pp.xml",CINEMA WORLD
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",華視新聞
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="CinemaWorld" tvg-logo="https://epg.112114.xyz/logo/CinemaWorld.png" epg-url="https://epg.112114.xyz/pp.xml",CinemaWorld
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="豬哥亮" tvg-logo="https://epg.112114.xyz/logo/豬哥亮.png" epg-url="https://epg.112114.xyz/pp.xml",豬哥亮
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://epg.112114.xyz/pp.xml",民視
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://epg.112114.xyz/pp.xml",民視
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="亞洲旅遊臺" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊臺.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊臺
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="東森超視" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" epg-url="https://epg.112114.xyz/pp.xml",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="TW" tvg-name="博斯無限" tvg-logo="https://epg.112114.xyz/logo/博斯無限.png" epg-url="https://epg.112114.xyz/pp.xml",博斯無限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="GOODTV好訊息" tvg-logo="https://epg.112114.xyz/logo/GOODTV好訊息.png" epg-url="https://epg.112114.xyz/pp.xml",GOODTV好訊息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="GOOD2" tvg-logo="https://epg.112114.xyz/logo/GOOD2.png" epg-url="https://epg.112114.xyz/pp.xml",GOOD2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索頻道" tvg-logo="https://epg.112114.xyz/logo/探索頻道.png" epg-url="https://epg.112114.xyz/pp.xml",探索頻道
+http://61.221.215.25:8800/hls/1/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="探索亞洲" tvg-logo="https://epg.112114.xyz/logo/探索亞洲.png" epg-url="https://epg.112114.xyz/pp.xml",探索亞洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大綜合臺" tvg-logo="https://epg.112114.xyz/logo/八大綜合臺.png" epg-url="https://epg.112114.xyz/pp.xml",八大綜合臺
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大戲劇臺" tvg-logo="https://epg.112114.xyz/logo/八大戲劇臺.png" epg-url="https://epg.112114.xyz/pp.xml",八大戲劇臺
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="八大第一臺" tvg-logo="https://epg.112114.xyz/logo/八大第一臺.png" epg-url="https://epg.112114.xyz/pp.xml",八大第一臺
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中華小當家" tvg-logo="https://epg.112114.xyz/logo/中華小當家.png" epg-url="https://epg.112114.xyz/pp.xml",中華小當家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="三立戲劇臺" tvg-logo="https://epg.112114.xyz/logo/三立戲劇臺.png" epg-url="https://epg.112114.xyz/pp.xml",三立戲劇臺
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="AMC電影臺" tvg-logo="https://epg.112114.xyz/logo/AMC電影臺.png" epg-url="https://epg.112114.xyz/pp.xml",AMC電影臺
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中天娛樂" tvg-logo="https://epg.112114.xyz/logo/中天娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",中天娛樂
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="緯來精采" tvg-logo="https://epg.112114.xyz/logo/緯來精采.png" epg-url="https://epg.112114.xyz/pp.xml",緯來精采
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="NHK WORLD" tvg-logo="https://epg.112114.xyz/logo/NHK WORLD.png" epg-url="https://epg.112114.xyz/pp.xml",NHK WORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="動物星球" tvg-logo="https://epg.112114.xyz/logo/動物星球.png" epg-url="https://epg.112114.xyz/pp.xml",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="音樂欣賞1" tvg-logo="https://epg.112114.xyz/logo/音樂欣賞1.png" epg-url="https://epg.112114.xyz/pp.xml",音樂欣賞1
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="音樂欣賞2" tvg-logo="https://epg.112114.xyz/logo/音樂欣賞2.png" epg-url="https://epg.112114.xyz/pp.xml",音樂欣賞2
+http://61.221.215.25:8800/hls/58/index.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="博斯運動1" tvg-logo="https://epg.112114.xyz/logo/博斯運動1.png" epg-url="https://epg.112114.xyz/pp.xml",博斯運動1
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="博斯高球1" tvg-logo="https://epg.112114.xyz/logo/博斯高球1.png" epg-url="https://epg.112114.xyz/pp.xml",博斯高球1
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華電影" tvg-logo="https://epg.112114.xyz/logo/龍華電影.png" epg-url="https://epg.112114.xyz/pp.xml",龍華電影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="CINEMA WORLD" tvg-logo="https://epg.112114.xyz/logo/CINEMA WORLD.png" epg-url="https://epg.112114.xyz/pp.xml",CINEMA WORLD
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華視新聞" tvg-logo="https://epg.112114.xyz/logo/華視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",華視新聞
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="CinemaWorld" tvg-logo="https://epg.112114.xyz/logo/CinemaWorld.png" epg-url="https://epg.112114.xyz/pp.xml",CinemaWorld
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="豬哥亮" tvg-logo="https://epg.112114.xyz/logo/豬哥亮.png" epg-url="https://epg.112114.xyz/pp.xml",豬哥亮
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="HISTORY" tvg-logo="https://epg.112114.xyz/logo/HISTORY.png" epg-url="https://epg.112114.xyz/pp.xml",HISTORY
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://epg.112114.xyz/pp.xml",民視
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://epg.112114.xyz/pp.xml",民視
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="HITS" tvg-logo="https://epg.112114.xyz/logo/HITS.png" epg-url="https://epg.112114.xyz/pp.xml",HITS
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="亞洲旅遊" tvg-logo="https://epg.112114.xyz/logo/亞洲旅遊.png" epg-url="https://epg.112114.xyz/pp.xml",亞洲旅遊
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="博斯無限" tvg-logo="https://epg.112114.xyz/logo/博斯無限.png" epg-url="https://epg.112114.xyz/pp.xml",博斯無限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="LIFE TIME" tvg-logo="https://epg.112114.xyz/logo/LIFE TIME.png" epg-url="https://epg.112114.xyz/pp.xml",LIFE TIME
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://epg.112114.xyz/pp.xml",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="TW" tvg-name="臺視" tvg-logo="https://epg.112114.xyz/logo/臺視.png" epg-url="https://epg.112114.xyz/pp.xml",臺視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="TW" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" epg-url="https://epg.112114.xyz/pp.xml",中視
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="TW" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" epg-url="https://epg.112114.xyz/pp.xml",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="TW" tvg-name="緯來體育" tvg-logo="https://epg.112114.xyz/logo/緯來體育.png" epg-url="https://epg.112114.xyz/pp.xml",緯來體育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="TW" tvg-name="緯來育樂" tvg-logo="https://epg.112114.xyz/logo/緯來育樂.png" epg-url="https://epg.112114.xyz/pp.xml",緯來育樂
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="TW" tvg-name="緯來日本" tvg-logo="https://epg.112114.xyz/logo/緯來日本.png" epg-url="https://epg.112114.xyz/pp.xml",緯來日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="TW" tvg-name="東森超視" tvg-logo="https://epg.112114.xyz/logo/東森超視.png" epg-url="https://epg.112114.xyz/pp.xml",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="TW" tvg-name="MoMoTV" tvg-logo="https://epg.112114.xyz/logo/MoMoTV.png" epg-url="https://epg.112114.xyz/pp.xml",MoMoTV
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="TW" tvg-name="ELEVEN體育1" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育1.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN體育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="TW" tvg-name="ELEVEN體育2" tvg-logo="https://epg.112114.xyz/logo/ELEVEN體育2.png" epg-url="https://epg.112114.xyz/pp.xml",ELEVEN體育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="TW" tvg-name="華語電視1" tvg-logo="https://epg.112114.xyz/logo/華語電視1.png" epg-url="https://epg.112114.xyz/pp.xml",華語電視1
+http://38.64.72.148:80/hls/modn/list/4002/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="華語電視2" tvg-logo="https://epg.112114.xyz/logo/華語電視2.png" epg-url="https://epg.112114.xyz/pp.xml",華語電視2
+http://38.64.72.148:80/hls/modn/list/4003/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="FOCUS" tvg-logo="https://epg.112114.xyz/logo/FOCUS.png" epg-url="https://epg.112114.xyz/pp.xml",FOCUS
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="深圳衛視" tvg-logo="https://epg.112114.xyz/logo/深圳衛視.png" epg-url="https://epg.112114.xyz/pp.xml",深圳衛視
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="海峽衛視" tvg-logo="https://epg.112114.xyz/logo/海峽衛視.png" epg-url="https://epg.112114.xyz/pp.xml",海峽衛視
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="中旺電視" tvg-logo="https://epg.112114.xyz/logo/中旺電視.png" epg-url="https://epg.112114.xyz/pp.xml",中旺電視
+http://38.64.72.148:80/hls/modn/list/4010/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",民視新聞
+http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞" tvg-logo="https://epg.112114.xyz/logo/臺視新聞.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞
+http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="唯心電視" tvg-logo="https://epg.112114.xyz/logo/唯心電視.png" epg-url="https://epg.112114.xyz/pp.xml",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="國興衛視" tvg-logo="https://epg.112114.xyz/logo/國興衛視.png" epg-url="https://epg.112114.xyz/pp.xml",國興衛視
+mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
+#EXTINF:-1 group-title="TW" tvg-name="蕃薯111" tvg-logo="https://epg.112114.xyz/logo/蕃薯111.png" epg-url="https://epg.112114.xyz/pp.xml",蕃薯111
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="人間衛視" tvg-logo="https://epg.112114.xyz/logo/人間衛視.png" epg-url="https://epg.112114.xyz/pp.xml",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛一臺" tvg-logo="https://epg.112114.xyz/logo/大愛一臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛一臺
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="大愛二臺" tvg-logo="https://epg.112114.xyz/logo/大愛二臺.png" epg-url="https://epg.112114.xyz/pp.xml",大愛二臺
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="唯心電視" tvg-logo="https://epg.112114.xyz/logo/唯心電視.png" epg-url="https://epg.112114.xyz/pp.xml",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="客家電視" tvg-logo="https://epg.112114.xyz/logo/客家電視.png" epg-url="https://epg.112114.xyz/pp.xml",客家電視
+https://hc73k3dhwo5gfkt.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="原視" tvg-logo="https://epg.112114.xyz/logo/原視.png" epg-url="https://epg.112114.xyz/pp.xml",原視
+https://hc73k3dhwo5gfkt.wcetv.com/hls/titv.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="臺視新聞臺" tvg-logo="https://epg.112114.xyz/logo/臺視新聞臺.png" epg-url="https://epg.112114.xyz/pp.xml",臺視新聞臺
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 group-title="TW" tvg-name="龍華洋片，http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014" tvg-logo="https://epg.112114.xyz/logo/龍華洋片，http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014.png" epg-url="https://epg.112114.xyz/pp.xml",龍華洋片，http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+undefined
+
+
