@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="🏖️四季I",民視第一台
 http://tv123.vvvv.ee/live.php/?ch=07bd1581987
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="🏖️四季I",民視台灣台
@@ -519,6 +520,7 @@ http://tv123.vvvv.ee/live.php/?ch=e81b68091245
 #EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="🏖️四季I",Astro QJ
 http://tv123.vvvv.ee/live.php/?ch=bd8508f41246
 #EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="🏖️四季I",Astro欢喜台
+
 
 
 
