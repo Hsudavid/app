@@ -1,525 +1,179 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="🏖️四季I",民視第一台
-http://tv123.vvvv.ee/live.php/?ch=07bd1581987
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="🏖️四季I",民視台灣台
-http://tv123.vvvv.ee/live.php/?ch=aef12084988
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="🏖️四季I",民視HD
-http://tv123.vvvv.ee/live.php/?ch=d0cfcc6f989
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="🏖️四季I",大愛電視
-http://tv123.vvvv.ee/live.php/?ch=fa671330990
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="🏖️四季I",中視
-http://tv123.vvvv.ee/live.php/?ch=19dbf8ba991
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="🏖️四季I",中視經典台
-http://tv123.vvvv.ee/live.php/?ch=f68cb818992
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="🏖️四季I",華視
-http://tv123.vvvv.ee/live.php/?ch=74cc5746993
-#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="🏖️四季I",三立綜合合
-http://tv123.vvvv.ee/live.php/?ch=c377d124994
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="🏖️四季I",客家電視
-http://tv123.vvvv.ee/live.php/?ch=82b28b05995
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🏖️四季I",八大綜藝
-http://tv123.vvvv.ee/live.php/?ch=7fa8b29a996
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="🏖️四季I",中視菁采台
-http://tv123.vvvv.ee/live.php/?ch=741ef3b5997
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="🏖️四季I",TVBS精采台
-http://tv123.vvvv.ee/live.php/?ch=608334cb998
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="🏖️四季I",ELTA娛樂
-http://tv123.vvvv.ee/live.php/?ch=1015af06999
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="🏖️四季I",靖天綜合
-http://tv123.vvvv.ee/live.php/?ch=636169811000
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="🏖️四季I",靖天日本
-http://tv123.vvvv.ee/live.php/?ch=9d7e88411001
-#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="🏖️四季I",新唐人亞太台
-http://tv123.vvvv.ee/live.php/?ch=e1858d0d1002
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="🏖️四季I",Arirang TV
-http://tv123.vvvv.ee/live.php/?ch=01e0aa311003
-#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="🏖️四季I",Global Trekker
-http://tv123.vvvv.ee/live.php/?ch=967396491004
-#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="🏖️四季I",原住民族電視台
-http://tv123.vvvv.ee/live.php/?ch=20d02c181005
-#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物四台
-http://tv123.vvvv.ee/live.php/?ch=a6e6453c1006
-#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="🏖️四季I",LiveABC 互動英語台
-http://tv123.vvvv.ee/live.php/?ch=7399d2d71007
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="🏖️四季I",達文西
-http://tv123.vvvv.ee/live.php/?ch=7c1951bf1008
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="🏖️四季I",ELTV生活英語台
-http://tv123.vvvv.ee/live.php/?ch=f2ed79f91009
-#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="🏖️四季I",Nick Jr.
-http://tv123.vvvv.ee/live.php/?ch=78fe64a41010
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="🏖️四季I",Nickelodeon
-http://tv123.vvvv.ee/live.php/?ch=b3bbbe5f1011
-#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="🏖️四季I",DreamWorks
-http://tv123.vvvv.ee/live.php/?ch=437404ab1012
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="🏖️四季I",靖天卡通台
-http://tv123.vvvv.ee/live.php/?ch=b95ee25f1013
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🏖️四季I",靖洋卡通
-http://tv123.vvvv.ee/live.php/?ch=48d4bf271014
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="🏖️四季I",MOMO親子
-http://tv123.vvvv.ee/live.php/?ch=37a0b1a31015
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物一台
-http://tv123.vvvv.ee/live.php/?ch=991443da1016
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物一台
-http://tv123.vvvv.ee/live.php/?ch=e673f6e61017
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物一台
-http://tv123.vvvv.ee/live.php/?ch=f17d5f6e1018
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="🏖️四季I",鏡電視新聞台
-http://tv123.vvvv.ee/live.php/?ch=9f19e5851019
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="🏖️四季I",東森新聞
-http://tv123.vvvv.ee/live.php/?ch=cd083a821020
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="🏖️四季I",華視新聞台
-http://tv123.vvvv.ee/live.php/?ch=840906061021
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="🏖️四季I",民視新聞
-http://tv123.vvvv.ee/live.php/?ch=612c0a911022
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="🏖️四季I",三立iNEWS
-http://tv123.vvvv.ee/live.php/?ch=3803f81c1023
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="🏖️四季I",東森財經新聞
-http://tv123.vvvv.ee/live.php/?ch=25bb497c1024
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="🏖️四季I",中視新聞台
-http://tv123.vvvv.ee/live.php/?ch=aeb129cb1025
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="🏖️四季I",中天新聞台
-http://tv123.vvvv.ee/live.php/?ch=2ede6e641026
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="🏖️四季I",BLOOMBERG TV
-http://tv123.vvvv.ee/live.php/?ch=dd0ea7ce1027
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="🏖️四季I",寰宇新聞
-http://tv123.vvvv.ee/live.php/?ch=723701281028
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="🏖️四季I",寰宇新聞台灣台
-http://tv123.vvvv.ee/live.php/?ch=c28cf3c91029
-#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="🏖️四季I",SBN 全球財經台
-http://tv123.vvvv.ee/live.php/?ch=e9ae0c6b1030
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="🏖️四季I",寰宇財經
-http://tv123.vvvv.ee/live.php/?ch=c2ae1fac1031
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="🏖️四季I",TVBS HD
-http://tv123.vvvv.ee/live.php/?ch=801edc181032
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物二台
-http://tv123.vvvv.ee/live.php/?ch=6fcd28091033
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物二台
-http://tv123.vvvv.ee/live.php/?ch=8ffc61c31034
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物二台
-http://tv123.vvvv.ee/live.php/?ch=7c527e6c1035
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="🏖️四季I",民視綜藝
-http://tv123.vvvv.ee/live.php/?ch=3bf4340b1036
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="🏖️四季I",豬哥亮歌廳秀
-http://tv123.vvvv.ee/live.php/?ch=9c51a9ad1037
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="🏖️四季I",靖天育樂
-http://tv123.vvvv.ee/live.php/?ch=0b11a7c81038
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="🏖️四季I",靖天國際
-http://tv123.vvvv.ee/live.php/?ch=5accc3181039
-#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="🏖️四季I",靖天歡樂
-http://tv123.vvvv.ee/live.php/?ch=0ea8859a1040
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="🏖️四季I",靖天資訊
-http://tv123.vvvv.ee/live.php/?ch=18e15d971041
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="🏖️四季I",TVBS歡樂台
-http://tv123.vvvv.ee/live.php/?ch=8642302d1042
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="🏖️四季I",韓國娛樂台
-http://tv123.vvvv.ee/live.php/?ch=fdcb533f1043
-#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="🏖️四季I",ROCK Entertainment
-http://tv123.vvvv.ee/live.php/?ch=3b2665761044
-#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="🏖️四季I", Lifetime
-http://tv123.vvvv.ee/live.php/?ch=b9f0f47b1045
-#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="🏖️四季I",電影原聲台 CMusic
-http://tv123.vvvv.ee/live.php/?ch=74cf82e51046
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="🏖️四季I",Trace Urban
-http://tv123.vvvv.ee/live.php/?ch=d8c34d171047
-#EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="🏖️四季I",MTV Live
-http://tv123.vvvv.ee/live.php/?ch=664aa7a71048
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="🏖️四季I",MEZZO LIVE HD
-http://tv123.vvvv.ee/live.php/?ch=a8b203451049
-#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="🏖️四季I",CLASSICA 古典樂
-http://tv123.vvvv.ee/live.php/?ch=e5100c3a1050
-#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="🏖️四季I",東森購物三台
-http://tv123.vvvv.ee/live.php/?ch=02e21c7d1051
-#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="🏖️四季I",INULTRA
-http://tv123.vvvv.ee/live.php/?ch=0dacc2101052
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="🏖️四季I",TRACE Sport Stars
-http://tv123.vvvv.ee/live.php/?ch=e539d0921053
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="🏖️四季I",智林體育
-http://tv123.vvvv.ee/live.php/?ch=95cfae6a1054
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="🏖️四季I",時尚運動X
-http://tv123.vvvv.ee/live.php/?ch=74f407521055
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="🏖️四季I",車迷 TV
-http://tv123.vvvv.ee/live.php/?ch=187aabcc1056
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="🏖️四季I", GINX Esports TV
-http://tv123.vvvv.ee/live.php/?ch=96604c3f1057
-#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="🏖️四季I",Pet Club TV
-http://tv123.vvvv.ee/live.php/?ch=a99c66da1058
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="🏖️四季I",民視旅遊
-http://tv123.vvvv.ee/live.php/?ch=b2137c8d1059
-#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="🏖️四季I",滾動力 Rollor
-http://tv123.vvvv.ee/live.php/?ch=34a36ff21060
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="🏖️四季I",亞洲旅遊
-http://tv123.vvvv.ee/live.php/?ch=5cfba4a21061
-#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="🏖️四季I",FUN 4K探索娛樂
-http://tv123.vvvv.ee/live.php/?ch=acf465301062
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="🏖️四季I",幸福空間居家台
-http://tv123.vvvv.ee/live.php/?ch=8f5f87f31063
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="🏖️四季I",LOVE NATURE
-http://tv123.vvvv.ee/live.php/?ch=8046b1ac1064
-#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="🏖️四季I",歷史頻道
-http://tv123.vvvv.ee/live.php/?ch=aab7945d1065
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="🏖️四季I",ELTA生活旅遊
-http://tv123.vvvv.ee/live.php/?ch=4c83e20c1066
-#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="🏖️四季I",LUXE TV
-http://tv123.vvvv.ee/live.php/?ch=27a16eea1067
-#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="🏖️四季I",TV5MONDE Style
-http://tv123.vvvv.ee/live.php/?ch=3d0fd7b21068
-#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="🏖️四季I",MagellanTV頻道
-http://tv123.vvvv.ee/live.php/?ch=ee08d99f1069
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="🏖️四季I",公視戲劇
-http://tv123.vvvv.ee/live.php/?ch=c25451b91070
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="🏖️四季I",民視影劇
-http://tv123.vvvv.ee/live.php/?ch=185dfd9e1071
-#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="🏖️四季I",HITS
-http://tv123.vvvv.ee/live.php/?ch=712290f31072
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="🏖️四季I",八大精彩
-http://tv123.vvvv.ee/live.php/?ch=65e53f1e1073
-#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="🏖️四季I",霹靂布袋戲
-http://tv123.vvvv.ee/live.php/?ch=dcb471261074
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="🏖️四季I",靖天戲劇
-http://tv123.vvvv.ee/live.php/?ch=891b59641075
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="🏖️四季I",靖洋戲劇
-http://tv123.vvvv.ee/live.php/?ch=569ff5cd1076
-#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="🏖️四季I",CI 罪案偵查頻道
-http://tv123.vvvv.ee/live.php/?ch=6cfc3d8c1077
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="🏖️四季I",視納華仁紀實頻道
-http://tv123.vvvv.ee/live.php/?ch=97b579ac1078
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="🏖️四季I",影迷數位紀實台
-http://tv123.vvvv.ee/live.php/?ch=aa6744bb1079
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="🏖️四季I",金光布袋戲
-http://tv123.vvvv.ee/live.php/?ch=cb18e4441080
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="🏖️四季I",ROCK Action
-http://tv123.vvvv.ee/live.php/?ch=ebb7276a1081
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="🏖️四季I",采昌影劇
-http://tv123.vvvv.ee/live.php/?ch=5e33ded71082
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="🏖️四季I",靖天映畫
-http://tv123.vvvv.ee/live.php/?ch=073a87a21083
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="🏖️四季I",靖天電影
-http://tv123.vvvv.ee/live.php/?ch=895396701084
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="🏖️四季I",影迷數位電影台
-http://tv123.vvvv.ee/live.php/?ch=87c635571085
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="🏖️四季I",amc 電影台
-http://tv123.vvvv.ee/live.php/?ch=aed2e86c1086
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="🏖️四季I",Cinema World
-http://tv123.vvvv.ee/live.php/?ch=bbad62db1087
-#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="🏖️四季I",歐洲光影
-http://tv123.vvvv.ee/live.php/?ch=0a4746c31088
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="🏖️四季I",好消息
-http://tv123.vvvv.ee/live.php/?ch=0ae976081089
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="🏖️四季I",好消息2台
-http://tv123.vvvv.ee/live.php/?ch=5a9d4eb81090
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="🏖️四季I",大愛二台
-http://tv123.vvvv.ee/live.php/?ch=6e0364a21091
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="🏖️四季I",人間衛視
-http://tv123.vvvv.ee/live.php/?ch=5c56d30c1092
-#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="🏖️四季I",FRANCE24 英文台
-http://tv123.vvvv.ee/live.php/?ch=8ee2ec881093
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="🏖️四季I",半島國際新聞台
-http://tv123.vvvv.ee/live.php/?ch=8ad6b8091094
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="🏖️四季I",VOA 美國之音
-http://tv123.vvvv.ee/live.php/?ch=a0b18acc1095
-#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="🏖️四季I",CNBC Asia 財經台
-http://tv123.vvvv.ee/live.php/?ch=672f35231096
-#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="🏖️四季I",DW德國之聲
-http://tv123.vvvv.ee/live.php/?ch=a04fbc921097
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="🏖️四季I",國會頻道1
-http://tv123.vvvv.ee/live.php/?ch=191e65701098
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="🏖️四季I",國會頻道2
-http://tv123.vvvv.ee/live.php/?ch=fdff42d61099
-#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="🏖️四季I",TVBS綜藝台
-http://tv123.vvvv.ee/live.php/?ch=be3cca2d1100
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="🏖️四季I",TVBS台劇台
-http://tv123.vvvv.ee/live.php/?ch=2951eb3d1101
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="🏖️四季I",經典電影台
-http://tv123.vvvv.ee/live.php/?ch=bb79a5351102
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="🏖️四季I",經典卡通台
-http://tv123.vvvv.ee/live.php/?ch=233c49701103
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="🏖️四季I",精選動漫台
-http://tv123.vvvv.ee/live.php/?ch=75d2d0021104
-#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png" group-title="🏖️四季I",戲劇免費看1台
-http://tv123.vvvv.ee/live.php/?ch=4d90767f1105
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="🏖️四季I",民視第一台
-http://tv123.vvvv.ee/live.php/?ch=13afa63b1106
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="🏖️四季I",民視台灣台
-http://tv123.vvvv.ee/live.php/?ch=65405be51107
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="🏖️四季I",中視
-http://tv123.vvvv.ee/live.php/?ch=923b41f01108
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="🏖️四季I",中視經典台
-http://tv123.vvvv.ee/live.php/?ch=9445d55a1109
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="🏖️四季I",華視
-http://tv123.vvvv.ee/live.php/?ch=cd5e33b61110
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="🏖️四季I",龍華洋片
-http://tv123.vvvv.ee/live.php/?ch=87eb3c6e1111
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="🏖️四季I",龍華卡通
-http://tv123.vvvv.ee/live.php/?ch=0b8d07451112
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🏖️四季I",龍華電影
-http://tv123.vvvv.ee/live.php/?ch=015bfeeb1113
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="🏖️四季I",龍華日韓
-http://tv123.vvvv.ee/live.php/?ch=e66a36261114
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="🏖️四季I",龍華偶像
-http://tv123.vvvv.ee/live.php/?ch=b1ce86cc1115
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="🏖️四季I",龍華戲劇
-http://tv123.vvvv.ee/live.php/?ch=43e2aff71116
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="🏖️四季I",龍華經典
-http://tv123.vvvv.ee/live.php/?ch=984b57811117
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="🏖️四季I",博斯魅力
-http://tv123.vvvv.ee/live.php/?ch=2ba8f6d81118
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="🏖️四季I",博斯高球I
-http://tv123.vvvv.ee/live.php/?ch=002cde621119
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="🏖️四季I",博斯高球II
-http://tv123.vvvv.ee/live.php/?ch=c969dd4d1120
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="🏖️四季I",博斯運動I
-http://tv123.vvvv.ee/live.php/?ch=7a63843d1121
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png" group-title="🏖️四季I",博斯運動II
-http://tv123.vvvv.ee/live.php/?ch=fa9dcbcf1122
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png" group-title="🏖️四季I",博斯網球
-http://tv123.vvvv.ee/live.php/?ch=cdd442a21123
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="🏖️四季I",博斯無限I
-http://tv123.vvvv.ee/live.php/?ch=0353e76c1124
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="🏖️四季I",博斯無限II
-http://tv123.vvvv.ee/live.php/?ch=47eefbe91125
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="🏖️四季I",非凡新聞
-http://tv123.vvvv.ee/live.php/?ch=c9552bf11126
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="🏖️四季I",非凡商業
-http://tv123.vvvv.ee/live.php/?ch=1be722251127
-#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="🏖️四季I",台視財經台
-http://tv123.vvvv.ee/live.php/?ch=9dcb6cc11128
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="🏖️四季I",中天亞洲台
-http://tv123.vvvv.ee/live.php/?ch=fb2f2f351129
-#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="🏖️四季I",三立綜合合
-http://tv123.vvvv.ee/live.php/?ch=74a66fd71130
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="🏖️四季I",客家電視
-http://tv123.vvvv.ee/live.php/?ch=5605dfed1131
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🏖️四季I",八大綜藝
-http://tv123.vvvv.ee/live.php/?ch=42e514361132
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="🏖️四季I",中視菁采台
-http://tv123.vvvv.ee/live.php/?ch=05911a601133
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="🏖️四季I",TVBS精采台
-http://tv123.vvvv.ee/live.php/?ch=e3bd496c1134
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="🏖️四季I",ELTA娛樂
-http://tv123.vvvv.ee/live.php/?ch=bb152fd21135
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="🏖️四季I",靖天綜合
-http://tv123.vvvv.ee/live.php/?ch=bfc1c72d1136
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="🏖️四季I",靖天日本
-http://tv123.vvvv.ee/live.php/?ch=712764201137
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="🏖️四季I",Arirang TV
-http://tv123.vvvv.ee/live.php/?ch=8d1bfb181138
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="🏖️四季I",達文西
-http://tv123.vvvv.ee/live.php/?ch=e61b74161139
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="🏖️四季I",ELTV生活英語台
-http://tv123.vvvv.ee/live.php/?ch=4927f7191140
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="🏖️四季I",靖天卡通台
-http://tv123.vvvv.ee/live.php/?ch=00ab8e7e1141
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="🏖️四季I",靖洋卡通
-http://tv123.vvvv.ee/live.php/?ch=cbf97f391142
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="🏖️四季I",鏡電視新聞台
-http://tv123.vvvv.ee/live.php/?ch=f38f71d81143
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="🏖️四季I",東森新聞
-http://tv123.vvvv.ee/live.php/?ch=7e66c27a1144
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="🏖️四季I",民視新聞
-http://tv123.vvvv.ee/live.php/?ch=77f875361145
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="🏖️四季I",TVBS新聞台
-http://tv123.vvvv.ee/live.php/?ch=617a142a1146
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="🏖️四季I",東森財經新聞
-http://tv123.vvvv.ee/live.php/?ch=5bb6c9e11147
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="🏖️四季I",中視新聞台
-http://tv123.vvvv.ee/live.php/?ch=ca3d7a951148
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="🏖️四季I",中天新聞台
-http://tv123.vvvv.ee/live.php/?ch=dfdc324a1149
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="🏖️四季I",寰宇新聞
-http://tv123.vvvv.ee/live.php/?ch=5c07c29f1150
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="🏖️四季I",寰宇新聞台灣台
-http://tv123.vvvv.ee/live.php/?ch=6db3479a1151
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="🏖️四季I",寰宇財經
-http://tv123.vvvv.ee/live.php/?ch=0232d5121152
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="🏖️四季I",TVBS HD
-http://tv123.vvvv.ee/live.php/?ch=6384a1ed1153
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="🏖️四季I",民視綜藝
-http://tv123.vvvv.ee/live.php/?ch=a5848d4a1154
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="🏖️四季I",豬哥亮歌廳秀
-http://tv123.vvvv.ee/live.php/?ch=a59de7e21155
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="🏖️四季I",靖天育樂
-http://tv123.vvvv.ee/live.php/?ch=329b1c401156
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="🏖️四季I",靖天國際
-http://tv123.vvvv.ee/live.php/?ch=20a9f6761157
-#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="🏖️四季I",靖天歡樂
-http://tv123.vvvv.ee/live.php/?ch=b78979c91158
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="🏖️四季I",靖天資訊
-http://tv123.vvvv.ee/live.php/?ch=3df506f91159
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="🏖️四季I",TVBS歡樂台
-http://tv123.vvvv.ee/live.php/?ch=65dd822f1160
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="🏖️四季I",韓國娛樂台
-http://tv123.vvvv.ee/live.php/?ch=7ed6f7041161
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="🏖️四季I",Trace Urban
-http://tv123.vvvv.ee/live.php/?ch=055204921162
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="🏖️四季I",MEZZO LIVE HD
-http://tv123.vvvv.ee/live.php/?ch=e290e7561163
-#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="🏖️四季I",CLASSICA 古典樂
-http://tv123.vvvv.ee/live.php/?ch=f0ab6f811164
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="🏖️四季I",TRACE Sport Stars
-http://tv123.vvvv.ee/live.php/?ch=856f8dd01165
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="🏖️四季I",智林體育
-http://tv123.vvvv.ee/live.php/?ch=ce01bd991166
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="🏖️四季I",時尚運動X
-http://tv123.vvvv.ee/live.php/?ch=668ce8ab1167
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="🏖️四季I", GINX Esports TV
-http://tv123.vvvv.ee/live.php/?ch=ea47e6671168
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="🏖️四季I",民視旅遊
-http://tv123.vvvv.ee/live.php/?ch=6e08abe11169
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="🏖️四季I",亞洲旅遊
-http://tv123.vvvv.ee/live.php/?ch=de277e7e1170
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="🏖️四季I",公視戲劇
-http://tv123.vvvv.ee/live.php/?ch=ce4e81651171
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="🏖️四季I",民視影劇
-http://tv123.vvvv.ee/live.php/?ch=754933141172
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="🏖️四季I",八大精彩
-http://tv123.vvvv.ee/live.php/?ch=dea0cf491173
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="🏖️四季I",靖天戲劇
-http://tv123.vvvv.ee/live.php/?ch=ee671f0f1174
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="🏖️四季I",靖洋戲劇
-http://tv123.vvvv.ee/live.php/?ch=873f912a1175
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="🏖️四季I",視納華仁紀實頻道
-http://tv123.vvvv.ee/live.php/?ch=a76461201176
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="🏖️四季I",影迷數位紀實台
-http://tv123.vvvv.ee/live.php/?ch=1527b7201177
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="🏖️四季I",采昌影劇
-http://tv123.vvvv.ee/live.php/?ch=e3da49581178
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="🏖️四季I",靖天映畫
-http://tv123.vvvv.ee/live.php/?ch=06f8dc791179
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="🏖️四季I",靖天電影
-http://tv123.vvvv.ee/live.php/?ch=680db66d1180
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="🏖️四季I",影迷數位電影台
-http://tv123.vvvv.ee/live.php/?ch=53401bf31181
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="🏖️四季I",amc 電影台
-http://tv123.vvvv.ee/live.php/?ch=4f39bd091182
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="🏖️四季I",好消息
-http://tv123.vvvv.ee/live.php/?ch=f0bf2c1d1183
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="🏖️四季I",好消息2台
-http://tv123.vvvv.ee/live.php/?ch=abf675251184
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="🏖️四季I",半島國際新聞台
-http://tv123.vvvv.ee/live.php/?ch=e53804381185
-#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="🏖️四季I",VOA 美國之音
-http://tv123.vvvv.ee/live.php/?ch=c45f92131186
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="🏖️四季I",國會頻道1
-http://tv123.vvvv.ee/live.php/?ch=92f9a13a1187
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="🏖️四季I",國會頻道2
-http://tv123.vvvv.ee/live.php/?ch=8c999a2d1188
-#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="🏖️四季I",台灣戲劇台
-http://tv123.vvvv.ee/live.php/?ch=0813b92f1189
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="🏖️四季I",Smart知識台
-http://tv123.vvvv.ee/live.php/?ch=4210141a1190
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="🏖️四季I",台視新聞台
-http://tv123.vvvv.ee/live.php/?ch=7f5dcc161191
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="🏖️四季I",台視HD
-http://tv123.vvvv.ee/live.php/?ch=83ca629f1192
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="🏖️四季I",第1商業台
-http://tv123.vvvv.ee/live.php/?ch=8696509d1193
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="🏖️四季I",台視新聞台
-http://tv123.vvvv.ee/live.php/?ch=45bf92ae1194
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="🏖️四季I",台視HD
-http://tv123.vvvv.ee/live.php/?ch=980034831195
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="🏖️四季I",中視
-http://tv123.vvvv.ee/live.php/?ch=6da5138a1196
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="🏖️四季I",中視新聞台
-http://tv123.vvvv.ee/live.php/?ch=10874dd71197
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="🏖️四季I",華視
-http://tv123.vvvv.ee/live.php/?ch=9b9000741198
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="🏖️四季I",中天新聞台
-http://tv123.vvvv.ee/live.php/?ch=987ef5631199
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="🏖️四季I",寰宇新聞
-http://tv123.vvvv.ee/live.php/?ch=59f085421200
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="🏖️四季I",寰宇新聞台灣台
-http://tv123.vvvv.ee/live.php/?ch=bd65ed5b1201
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="🏖️四季I",寰宇財經
-http://tv123.vvvv.ee/live.php/?ch=3c491fb01202
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="🏖️四季I",亞洲旅遊
-http://tv123.vvvv.ee/live.php/?ch=943db4c51203
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="🏖️四季I",好消息
-http://tv123.vvvv.ee/live.php/?ch=daad49641204
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="🏖️四季I",好消息2台
-http://tv123.vvvv.ee/live.php/?ch=3b3f8d0a1205
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="🏖️四季I",國會頻道1
-http://tv123.vvvv.ee/live.php/?ch=9774e4b41206
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="🏖️四季I",國會頻道2
-http://tv123.vvvv.ee/live.php/?ch=778650491207
-#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="🏖️四季I",台灣戲劇台
-http://tv123.vvvv.ee/live.php/?ch=581af4b91208
-#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="🏖️四季I",Smart知識台
-http://tv123.vvvv.ee/live.php/?ch=bcb812021209
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="🏖️四季I",第1商業台
-http://tv123.vvvv.ee/live.php/?ch=5c311cb31210
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="🏖️四季I",三立iNEWS
-http://tv123.vvvv.ee/live.php/?ch=10ce67081211
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="🏖️四季I",ELTV生活英語台
-http://tv123.vvvv.ee/live.php/?ch=54d249bb1212
-#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="🏖️四季I",龍華洋片
-http://tv123.vvvv.ee/live.php/?ch=0e6ac2021213
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="🏖️四季I",龍華卡通
-http://tv123.vvvv.ee/live.php/?ch=67eeb86c1214
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="🏖️四季I",龍華電影
-http://tv123.vvvv.ee/live.php/?ch=60b5d61e1215
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="🏖️四季I",龍華日韓
-http://tv123.vvvv.ee/live.php/?ch=76051c491216
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="🏖️四季I",龍華偶像
-http://tv123.vvvv.ee/live.php/?ch=c4c5e42c1217
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="🏖️四季I",龍華戲劇
-http://tv123.vvvv.ee/live.php/?ch=34a50dcf1218
-#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="🏖️四季I",龍華經典
-http://tv123.vvvv.ee/live.php/?ch=4fafc3e11219
-#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="🏖️四季I",倪珍播新聞
-http://tv123.vvvv.ee/live.php/?ch=db77799d1220
-#EXTINF:-1 tvg-id="倪珍英語新聞" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="🏖️四季I",倪珍英語新聞
-http://tv123.vvvv.ee/live.php/?ch=ae973e1b1221
-#EXTINF:-1 tvg-id="倪珍越語新聞" tvg-name="倪珍越語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="🏖️四季I",倪珍越語新聞
-http://tv123.vvvv.ee/live.php/?ch=e5b3999a1222
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🏖️四季I",翡翠台4K
-http://tv123.vvvv.ee/live.php/?ch=7bd7d84a1223
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🏖️四季I",翡翠台
-http://tv123.vvvv.ee/live.php/?ch=1ec1b4481224
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="🏖️四季I",华丽翡翠台
-http://tv123.vvvv.ee/live.php/?ch=900829a41225
-#EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🏖️四季I",TVB星河
-http://tv123.vvvv.ee/live.php/?ch=692bea291226
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🏖️四季I",明珠台
-http://tv123.vvvv.ee/live.php/?ch=749b319b1227
-#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="🏖️四季I",TVB Plus
-http://tv123.vvvv.ee/live.php/?ch=12341a031228
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="🏖️四季I",无线新闻
-http://tv123.vvvv.ee/live.php/?ch=1d3e28c81229
-#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="🏖️四季I",TVB娱乐新闻台
-http://tv123.vvvv.ee/live.php/?ch=94201b2e1230
-#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="🏖️四季I",ViuTV
-http://tv123.vvvv.ee/live.php/?ch=ac10f79a1231
-#EXTINF:-1,tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="🏖️四季I",ViuTVSix
-http://tv123.vvvv.ee/live.php/?ch=30b4db0b1232
-#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="🏖️四季I",RTHK31
-http://tv123.vvvv.ee/live.php/?ch=5634b6a01233
-#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="🏖️四季I",RTHK32
-http://tv123.vvvv.ee/live.php/?ch=6cd379051234
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="🏖️四季I",千禧经典台
-http://tv123.vvvv.ee/live.php/?ch=6d1c6de61235
-#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="🏖️四季I",美亚电影台
-http://tv123.vvvv.ee/live.php/?ch=ba722a5c1236
-#EXTINF:-1,tvg-id="天映" tvg-name="天映" tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="🏖️四季I",天映频道
-http://tv123.vvvv.ee/live.php/?ch=7a814a7f1237
-#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🏖️四季I",天映经典
-http://tv123.vvvv.ee/live.php/?ch=3b9344951238
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="🏖️四季I",凤凰中文
-http://tv123.vvvv.ee/live.php/?ch=b0fcb20a1239
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="🏖️四季I",凤凰资讯
-http://tv123.vvvv.ee/live.php/?ch=aad8d0851240
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="🏖️四季I",凤凰香港
-http://tv123.vvvv.ee/live.php/?ch=647091ce1241
-#EXTINF:-1,tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="🏖️四季I",八度空间
-http://tv123.vvvv.ee/live.php/?ch=8de046b01242
-#EXTINF:-1,tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="🏖️四季I",Astro AOD
-http://tv123.vvvv.ee/live.php/?ch=d94d75f31243
-#EXTINF:-1,tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="🏖️四季I",Astro AEC
-http://tv123.vvvv.ee/live.php/?ch=70924df61244
-#EXTINF:-1,tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="🏖️四季I",爱奇艺
-http://tv123.vvvv.ee/live.php/?ch=e81b68091245
-#EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="🏖️四季I",Astro QJ
-http://tv123.vvvv.ee/live.php/?ch=bd8508f41246
-#EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="🏖️四季I",Astro欢喜台
+#EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
+
+#EXTINF:-1 group-title="台灣頻道",TVBS新聞台
+https://live.catvod.com/live.php?id=tvbs_n
+#EXTINF:-1 group-title="台灣頻道",TVBS歡樂台
+https://live.catvod.com/live.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="台灣頻道",TVBSHD
+https://live.catvod.com/live.php?id=tvbs
+#EXTINF:-1 group-title="台灣頻道",中天新聞
+https://live.catvod.com/live.php?id=ctinews
+#EXTINF:-1 group-title="台灣頻道",中天綜合
+https://live.catvod.com/live.php?id=ctizhonghe
+#EXTINF:-1 group-title="台灣頻道",中天娛樂
+https://live.catvod.com/live.php?id=ctient
+#EXTINF:-1 group-title="台灣頻道",中天亞洲
+https://live.catvod.com/live.php?id=ctiasia_twn
+#EXTINF:-1 group-title="台灣頻道",台視
+https://live.catvod.com/live.php?id=ttv_taiwan
+#EXTINF:-1 group-title="台灣頻道",台視新聞
+https://live.catvod.com/live.php?id=ttvnews_twn
+#EXTINF:-1 group-title="台灣頻道",台視綜合
+https://live.catvod.com/live.php?id=ttvzhonghe
+#EXTINF:-1 group-title="台灣頻道",JET綜合
+https://live.catvod.com/live.php?id=jet
+#EXTINF:-1 group-title="台灣頻道",中視
+https://live.catvod.com/live.php?id=zhongshihd_twn
+#EXTINF:-1 group-title="台灣頻道",中視新聞
+https://live.catvod.com/live.php?id=zhongshinews_twn
+#EXTINF:-1 group-title="台灣頻道",中視經典
+https://live.catvod.com/live.php?id=zhongshi_twn
+#EXTINF:-1 group-title="台灣頻道",民視
+https://live.catvod.com/live.php?id=ftvhd_taiwan
+#EXTINF:-1 group-title="台灣頻道",民視新聞台
+https://live.catvod.com/live.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="台灣頻道",民視台灣台
+https://live.catvod.com/live.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="台灣頻道",華視
+https://live.catvod.com/live.php?id=ctshd_twn
+#EXTINF:-1 group-title="台灣頻道",公視
+https://live.catvod.com/live.php?id=ctv_taiwan
+#EXTINF:-1 group-title="台灣頻道",天映頻道
+https://live.catvod.com/live.php?id=ctv18_twn
+#EXTINF:-1 group-title="台灣頻道",八大第一台
+https://live.catvod.com/live.php?id=badafirst
+#EXTINF:-1 group-title="台灣頻道",八大綜合台
+https://live.catvod.com/live.php?id=badazhonghe
+#EXTINF:-1 group-title="台灣頻道",八大戲劇台
+https://live.catvod.com/live.php?id=badadrama
+#EXTINF:-1 group-title="台灣頻道",八大娛樂台
+https://live.catvod.com/live.php?id=badaentertain
+#EXTINF:-1 group-title="台灣頻道",HBO
+https://live.catvod.com/live.php?id=hbohd_twn
+#EXTINF:-1 group-title="台灣頻道",HBOHITS
+https://live.catvod.com/live.php?id=hbohit_twn
+#EXTINF:-1 group-title="台灣頻道",好萊塢電影台
+https://live.catvod.com/live.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="台灣頻道",三立台灣台
+https://live.catvod.com/live.php?id=sanlitaiwan
+#EXTINF:-1 group-title="台灣頻道",三立戲劇台
+https://live.catvod.com/live.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="台灣頻道",三立綜合台
+https://live.catvod.com/live.php?id=sanlizhonghe
+#EXTINF:-1 group-title="台灣頻道",三立都會台
+https://live.catvod.com/live.php?id=sanlidouhui_twn
+#EXTINF:-1 group-title="台灣頻道",東森新聞台
+https://live.catvod.com/live.php?id=ettvnews
+#EXTINF:-1 group-title="台灣頻道",CINEMAX
+https://live.catvod.com/live.php?id=cinemax_twn
+#EXTINF:-1 group-title="台灣頻道",東森綜合台
+https://live.catvod.com/live.php?id=ettvzhonghe
+#EXTINF:-1 group-title="台灣頻道",東森戲劇台
+https://live.catvod.com/live.php?id=ettvdrama
+#EXTINF:-1 group-title="台灣頻道",東森超視
+https://live.catvod.com/live.php?id=ettvsuper
+#EXTINF:-1 group-title="台灣頻道",東森財經新聞台
+https://live.catvod.com/live.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="台灣頻道",寰宇新聞台
+https://live.catvod.com/live.php?id=huanyuxinwen_twn
+#EXTINF:-1 group-title="台灣頻道",寰宇財經台
+https://live.catvod.com/live.php?id=huanyutaiwan_twn
+#EXTINF:-1 group-title="台灣頻道",公視台語台
+https://live.catvod.com/live.php?id=ctv2_twn
+#EXTINF:-1 group-title="台灣頻道",信大HD
+https://live.catvod.com/live.php?id=xinda_twn
+#EXTINF:-1 group-title="台灣頻道",霹靂台灣台
+https://live.catvod.com/live.php?id=pilitw_twn
+#EXTINF:-1 group-title="台灣頻道",大愛電視
+https://live.catvod.com/live.php?id=daai_twn
+#EXTINF:-1 group-title="台灣頻道",壹新聞
+https://live.catvod.com/live.php?id=yinews
+#EXTINF:-1 group-title="台灣頻道",非凡新聞
+https://live.catvod.com/live.php?id=feifannews_twn
+#EXTINF:-1 group-title="台灣頻道",龍華戲劇
+https://live.catvod.com/live.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="台灣頻道",龍華偶像
+https://live.catvod.com/live.php?id=lunghuaidol_twn
+#EXTINF:-1 group-title="台灣頻道",AXN台灣
+https://live.catvod.com/live.php?id=axn_twn
+#EXTINF:-1 group-title="台灣頻道",靖天國際
+https://live.catvod.com/live.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="台灣頻道",年代新聞
+https://live.catvod.com/live.php?id=niandainews_twn
+#EXTINF:-1 group-title="台灣頻道",年代MUCH
+https://live.catvod.com/live.php?id=niandaitv_twn
+#EXTINF:-1 group-title="台灣頻道",緯來日本
+https://live.catvod.com/live.php?id=videolandjapan
+#EXTINF:-1 group-title="台灣頻道",緯來電影
+https://live.catvod.com/live.php?id=videolandmovie
+#EXTINF:-1 group-title="台灣頻道",緯來體育
+https://live.catvod.com/live.php?id=videolandsport
+#EXTINF:-1 group-title="台灣頻道",緯來綜合
+https://live.catvod.com/live.php?id=videolandzonghe
+#EXTINF:-1 group-title="台灣頻道",緯來育樂
+https://live.catvod.com/live.php?id=videolandyule
+#EXTINF:-1 group-title="台灣頻道",緯來精彩
+https://live.catvod.com/live.php?id=videolandspecial_twn
+#EXTINF:-1 group-title="台灣頻道",緯來戲劇
+https://live.catvod.com/live.php?id=videolandtv
+#EXTINF:-1 group-title="台灣頻道",好訊息2
+https://live.catvod.com/live.php?id=good2_twn
+#EXTINF:-1 group-title="台灣頻道",大愛2台
+https://live.catvod.com/live.php?id=daai2_twn
+#EXTINF:-1 group-title="台灣頻道",亞洲美食
+https://live.catvod.com/live.php?id=afc_twn
+#EXTINF:-1 group-title="台灣頻道",美食星球
+https://live.catvod.com/live.php?id=foodplanet_twn
+#EXTINF:-1 group-title="台灣頻道",TLC旅遊生活
+https://live.catvod.com/live.php?id=tlc_twn
+#EXTINF:-1 group-title="台灣頻道",東森電影台
+https://live.catvod.com/live.php?id=ettvmovie
+#EXTINF:-1 group-title="台灣頻道",ARIRANG
+https://live.catvod.com/live.php?id=arirang_twn
+#EXTINF:-1 group-title="台灣頻道",博斯運動一台
+https://live.catvod.com/live.php?id=bosisport1_twn
+#EXTINF:-1 group-title="台灣頻道",博斯運動二台
+https://live.catvod.com/live.php?id=bosisport2_twn
+#EXTINF:-1 group-title="台灣頻道",博斯高球一台
+https://live.catvod.com/live.php?id=bosigolf1_twn
+#EXTINF:-1 group-title="台灣頻道",博斯高球二台
+https://live.catvod.com/live.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="台灣頻道",博斯網球檯
+https://live.catvod.com/live.php?id=bositennis_twn
+#EXTINF:-1 group-title="台灣頻道",博斯無限台
+https://live.catvod.com/live.php?id=bosiunlimited_twn
+#EXTINF:-1 group-title="台灣頻道",東森洋片台
+https://live.catvod.com/live.php?id=ettvwestern
+#EXTINF:-1 group-title="台灣頻道",龍華洋片
+https://live.catvod.com/live.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="台灣頻道",MTVLive
+https://live.catvod.com/live.php?id=mtvhd_twn
+#EXTINF:-1 group-title="台灣頻道",龍祥時代
+https://live.catvod.com/live.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="台灣頻道",EYETV旅遊台
+https://live.catvod.com/live.php?id=eyetvtravel_twn
+#EXTINF:-1 group-title="台灣頻道",EYETV戲劇台
+https://live.catvod.com/live.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="台灣頻道",靖天卡通
+https://live.catvod.com/live.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="台灣頻道",衛視電影台
+https://live.catvod.com/live.php?id=weishimovie_twn
+#EXTINF:-1 group-title="台灣頻道",華藝中文台
+https://live.catvod.com/live.php?id=weishichinese_twn
+#EXTINF:-1 group-title="台灣頻道",東森幼幼台
+https://live.catvod.com/live.php?id=yoyo_twn
+#EXTINF:-1 group-title="台灣頻道",美亞電影
+https://live.catvod.com/live.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="台灣頻道",愛爾達影劇台
+https://live.catvod.com/live.php?id=eltayingju_twn
+#EXTINF:-1 group-title="台灣頻道",愛爾達綜合台
+https://live.catvod.com/live.php?id=eltazonghe_twn
+#EXTINF:-1 group-title="台灣頻道",龍華電影
+https://live.catvod.com/live.php?id=xingwei_movie
+#EXTINF:-1 group-title="台灣頻道",亞洲旅遊台
+https://live.catvod.com/live.php?id=asiatravel_twn
+
+
 
 
 
