@@ -1,6 +1,5 @@
 
 #EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
-
 #EXTINF:-1 group-title="台灣",民視台灣台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 #EXTINF:-1 group-title="台灣",民視
@@ -76,6 +75,8 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="台灣",非凡新聞
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="台灣",非凡商業
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
 
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="台灣",寰宇新聞
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
@@ -85,8 +86,6 @@ http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 
 
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="台灣",非凡商業
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
 
 #EXTINF:-1 group-title="台灣",寰宇財經台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
@@ -94,8 +93,6 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 #EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="台灣",台視財經台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 
-#EXTINF:-1 group-title="台灣",台視財經
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 
 #EXTINF:-1 group-title="台灣",寰宇財經台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
@@ -137,8 +134,6 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
 #EXTINF:-1 group-title="台灣",靖天日本台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
-#EXTINF:-1 group-title="台灣",非凡商業台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
 #EXTINF:-1 group-title="台灣",采昌影劇台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
 #EXTINF:-1 group-title="台灣",GINX Esports TV
@@ -234,8 +229,6 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
 #EXTINF:-1 group-title="台灣",龍華偶像台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
-#EXTINF:-1 group-title="台灣",寰宇新聞台
-http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
 #EXTINF:-1 group-title="台灣",龍華戲劇台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
 #EXTINF:-1 group-title="台灣",Smart知識台
@@ -262,6 +255,8 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv085
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv102
 #EXTINF:-1 group-title="台灣",東森購物2台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
+
+
 
 
 
