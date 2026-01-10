@@ -73,8 +73,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 #EXTINF:-1 group-title="台灣",非凡新聞台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="台灣",非凡新聞
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+
 #EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="台灣",非凡商業
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
 
@@ -166,12 +165,10 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
 #EXTINF:-1 group-title="台灣",亞洲旅遊台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
-#EXTINF:-1 group-title="台灣",TRACE Sport Stars
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv077
+
 #EXTINF:-1 group-title="台灣",ARIRANG阿里郎頻道
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv079
-#EXTINF:-1 group-title="台灣",中視經典台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
+
 #EXTINF:-1 group-title="台灣",TRACE Urban
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv082
 #EXTINF:-1 group-title="台灣",Mezzo Live
@@ -180,8 +177,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv083
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
 #EXTINF:-1 group-title="台灣",中天亞洲台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
-#EXTINF:-1 group-title="台灣",VOA美國之音
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
+
 #EXTINF:-1 group-title="台灣",民視旅遊台
 http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
 #EXTINF:-1 group-title="台灣",民視影劇台
