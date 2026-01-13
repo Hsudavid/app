@@ -729,6 +729,297 @@ http://118.233.28.52:50007/li-litv-ftv15/index.m3u8?proxy=true
 
 
 
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://logo.catvod.com/SPOTV.png" group-title="极速风云",SPOTV
+http://iptv.4666888.xyz/iptv2A.php?id=2
+#EXTINF:-1 tvg-name="SPOTV2" tvg-logo="https://logo.catvod.com/SPOTV2.png" group-title="极速风云",SPOTV2
+http://iptv.4666888.xyz/iptv2A.php?id=1
+#EXTINF:-1 tvg-name="astroFootball" tvg-logo="https://logo.catvod.com/astroFootball.png" group-title="极速风云",astroFootball
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 tvg-name="TntSports3" tvg-logo="https://logo.catvod.com/TntSports3.png" group-title="极速风云",TntSports3
+http://iptv.4666888.xyz/iptv2A.php?id=3
+#EXTINF:-1 tvg-name="wwwe" tvg-logo="https://logo.catvod.com/wwwe.png" group-title="极速风云",wwwe
+http://iptv.4666888.xyz/iptv2A.php?id=5
+#EXTINF:-1 tvg-name="博斯運動1" tvg-logo="https://logo.catvod.com/博斯運動1.png" group-title="极速风云",博斯運動1
+http://iptv.4666888.xyz/iptv2A.php?id=6
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://logo.catvod.com/鳳凰中文.png" group-title="极速风云",鳳凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=27
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-logo="https://logo.catvod.com/TVB翡翠.png" group-title="极速风云",TVB翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-name="TVB翡翠(馬來)" tvg-logo="https://logo.catvod.com/TVB翡翠(馬來).png" group-title="极速风云",TVB翡翠(馬來)
+http://iptv.4666888.xyz/iptv2A.php?id=28
+#EXTINF:-1 tvg-name="TVB明珠" tvg-logo="https://logo.catvod.com/TVB明珠.png" group-title="极速风云",TVB明珠
+http://iptv.4666888.xyz/iptv2A.php?id=29
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://logo.catvod.com/TVBJ1.png" group-title="极速风云",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://logo.catvod.com/TVB1.png" group-title="极速风云",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://logo.catvod.com/千禧经典.png" group-title="极速风云",千禧经典
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://logo.catvod.com/HOY77.png" group-title="极速风云",HOY77
+http://iptv.4666888.xyz/iptv2A.php?id=35
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://logo.catvod.com/HOY78.png" group-title="极速风云",HOY78
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://logo.catvod.com/RTHK31.png" group-title="极速风云",RTHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://logo.catvod.com/TVB娱乐新闻.png" group-title="极速风云",TVB娱乐新闻
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 tvg-name="MYTV黃金翡翠" tvg-logo="https://logo.catvod.com/MYTV黃金翡翠.png" group-title="极速风云",MYTV黃金翡翠
+http://iptv.4666888.xyz/iptv2A.php?id=32
+#EXTINF:-1 tvg-name="TVB翡翠劇集" tvg-logo="https://logo.catvod.com/TVB翡翠劇集.png" group-title="极速风云",TVB翡翠劇集
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-name="澳視澳門" tvg-logo="https://logo.catvod.com/澳視澳門.png" group-title="极速风云",澳視澳門
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://logo.catvod.com/TVBS新聞.png" group-title="极速风云",TVBS新聞
+http://iptv.4666888.xyz/iptv2A.php?id=43
+#EXTINF:-1 tvg-name="非凡直播" tvg-logo="https://logo.catvod.com/非凡直播.png" group-title="极速风云",非凡直播
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://logo.catvod.com/民视.png" group-title="极速风云",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 tvg-name="華藝中文" tvg-logo="https://logo.catvod.com/華藝中文.png" group-title="极速风云",華藝中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://logo.catvod.com/爱奇艺.png" group-title="极速风云",爱奇艺
+http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 tvg-name="臺灣戲劇" tvg-logo="https://logo.catvod.com/臺灣戲劇.png" group-title="极速风云",臺灣戲劇
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1 tvg-name="EYE戏剧" tvg-logo="https://logo.catvod.com/EYE戏剧.png" group-title="极速风云",EYE戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 tvg-name="緯來電影" tvg-logo="https://logo.catvod.com/緯來電影.png" group-title="极速风云",緯來電影
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 tvg-name="東森电影" tvg-logo="https://logo.catvod.com/東森电影.png" group-title="极速风云",東森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 tvg-name="龍華电影" tvg-logo="https://logo.catvod.com/龍華电影.png" group-title="极速风云",龍華电影
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-name="民視綜藝" tvg-logo="https://logo.catvod.com/民視綜藝.png" group-title="极速风云",民視綜藝
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 tvg-name="TVBS精采" tvg-logo="https://logo.catvod.com/TVBS精采.png" group-title="极速风云",TVBS精采
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 tvg-name="美亚电影(台)" tvg-logo="https://logo.catvod.com/美亚电影(台).png" group-title="极速风云",美亚电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=30
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://logo.catvod.com/東森洋片.png" group-title="极速风云",東森洋片
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-name="爱尔达综合" tvg-logo="https://logo.catvod.com/爱尔达综合.png" group-title="极速风云",爱尔达综合
+http://iptv.4666888.xyz/iptv2A.php?id=49
+#EXTINF:-1 tvg-name="ROCK_Action" tvg-logo="https://logo.catvod.com/ROCK_Action.png" group-title="极速风云",ROCK_Action
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 tvg-name="JET综合" tvg-logo="https://logo.catvod.com/JET综合.png" group-title="极速风云",JET综合
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="极速风云",八度空间
+http://iptv.4666888.xyz/iptv2A.php?id=52
+#EXTINF:-1 tvg-name="BBC_Earth" tvg-logo="https://logo.catvod.com/BBC_Earth.png" group-title="极速风云",BBC_Earth
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="极速风云",中视经典
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1 tvg-name="Plus综合" tvg-logo="https://logo.catvod.com/Plus综合.png" group-title="极速赛雷",Plus综合
+http://free.cnlive.club/channel/6429ae4c.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://logo.catvod.com/凤凰卫视.png" group-title="极速赛雷",凤凰卫视
+http://free.cnlive.club/channel/n496e6eec.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://logo.catvod.com/凤凰资讯.png" group-title="极速赛雷",凤凰资讯
+http://free.cnlive.club/channel/n4966a4fb.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://logo.catvod.com/凤凰香港.png" group-title="极速赛雷",凤凰香港
+http://free.cnlive.club/channel/n49654430.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://logo.catvod.com/中天新闻.png" group-title="极速赛雷",中天新闻
+http://free.cnlive.club/channel/41d8a09d.m3u8
+#EXTINF:-1 tvg-name="有线新闻" tvg-logo="https://logo.catvod.com/有线新闻.png" group-title="极速赛雷",有线新闻
+http://free.cnlive.club/channel/7289243e.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://logo.catvod.com/无线新闻.png" group-title="极速赛雷",无线新闻
+http://free.cnlive.club/channel/n3fad9608.m3u8
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://logo.catvod.com/无线翡翠.png" group-title="极速赛雷",无线翡翠
+http://free.cnlive.club/channel/n7549189d.m3u8
+#EXTINF:-1 tvg-name="无线华丽" tvg-logo="https://logo.catvod.com/无线华丽.png" group-title="极速赛雷",无线华丽
+http://free.cnlive.club/channel/n177a7044.m3u8
+#EXTINF:-1 tvg-name="无线明珠" tvg-logo="https://logo.catvod.com/无线明珠.png" group-title="极速赛雷",无线明珠
+http://free.cnlive.club/channel/n75ab7db0.m3u8
+#EXTINF:-1 tvg-name="无线娱乐" tvg-logo="https://logo.catvod.com/无线娱乐.png" group-title="极速赛雷",无线娱乐
+http://free.cnlive.club/channel/nac85e88.m3u8
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://logo.catvod.com/千禧经典.png" group-title="极速赛雷",千禧经典
+http://free.cnlive.club/channel/n1ab8717e.m3u8
+#EXTINF:-1 tvg-name="VIUTV'粤" tvg-logo="https://logo.catvod.com/VIUTV'粤.png" group-title="极速赛雷",VIUTV'粤
+http://free.cnlive.club/channel/78204936.m3u8
+#EXTINF:-1 tvg-name="VIUTV'英" tvg-logo="https://logo.catvod.com/VIUTV'英.png" group-title="极速赛雷",VIUTV'英
+http://free.cnlive.club/channel/necd2834.m3u8
+#EXTINF:-1 tvg-name="RTHK-31" tvg-logo="https://logo.catvod.com/RTHK-31.png" group-title="极速赛雷",RTHK-31
+http://free.cnlive.club/channel/n8badbb5.m3u8
+#EXTINF:-1 tvg-name="RTHK-32" tvg-logo="https://logo.catvod.com/RTHK-32.png" group-title="极速赛雷",RTHK-32
+http://free.cnlive.club/channel/n8badbb4.m3u8
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://logo.catvod.com/美亚电影.png" group-title="极速赛雷",美亚电影
+http://free.cnlive.club/channel/5824ef5e.m3u8
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="极速赛雷",天映频道
+http://free.cnlive.club/channel/n7e466c41.m3u8
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="极速赛雷",天映频道
+http://free.cnlive.club/channel/5150b0a1.m3u8
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://logo.catvod.com/天映经典.png" group-title="极速赛雷",天映经典
+http://free.cnlive.club/channel/n7e49c99a.m3u8
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://logo.catvod.com/龙华电影.png" group-title="极速赛雷",龙华电影
+http://free.cnlive.club/channel/66c77727.m3u8
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://logo.catvod.com/龙祥电影.png" group-title="极速赛雷",龙祥电影
+http://free.cnlive.club/channel/67548a4f.m3u8
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://logo.catvod.com/纬来电影.png" group-title="极速赛雷",纬来电影
+http://free.cnlive.club/channel/581b458b.m3u8
+#EXTINF:-1 tvg-name="Astr爱奇" tvg-logo="https://logo.catvod.com/Astr爱奇.png" group-title="极速赛雷",Astr爱奇
+http://free.cnlive.club/channel/n367ccbbb.m3u8
+#EXTINF:-1 tvg-name="AstrQJ国" tvg-logo="https://logo.catvod.com/AstrQJ国.png" group-title="极速赛雷",AstrQJ国
+http://free.cnlive.club/channel/n2d0f5476.m3u8
+#EXTINF:-1 tvg-name="astroaod" tvg-logo="https://logo.catvod.com/astroaod.png" group-title="极速赛雷",astroaod
+http://free.cnlive.club/channel/fa50a06.m3u8
+#EXTINF:-1 tvg-name="Astroaec" tvg-logo="https://logo.catvod.com/Astroaec.png" group-title="极速赛雷",Astroaec
+http://free.cnlive.club/channel/36f451f2.m3u8
+#EXTINF:-1 tvg-name="Astr欢喜" tvg-logo="https://logo.catvod.com/Astr欢喜.png" group-title="极速赛雷",Astr欢喜
+http://free.cnlive.club/channel/n129801d1.m3u8
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://logo.catvod.com/寰宇新闻.png" group-title="极速赛雷",寰宇新闻
+http://free.cnlive.club/channel/n43c34be8.m3u8
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://logo.catvod.com/东森新闻.png" group-title="极速赛雷",东森新闻
+http://free.cnlive.club/channel/n88aa83.m3u8
+#EXTINF:-1 tvg-name="tvbs新闻" tvg-logo="https://logo.catvod.com/tvbs新闻.png" group-title="极速赛雷",tvbs新闻
+http://free.cnlive.club/channel/n69ccce92.m3u8
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://logo.catvod.com/年代新闻.png" group-title="极速赛雷",年代新闻
+http://free.cnlive.club/channel/49184630.m3u8
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://logo.catvod.com/非凡新闻.png" group-title="极速赛雷",非凡新闻
+http://free.cnlive.club/channel/6302a884.m3u8
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://logo.catvod.com/民视新闻.png" group-title="极速赛雷",民视新闻
+http://free.cnlive.club/channel/n4b747ee6.m3u8
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://logo.catvod.com/中视新闻.png" group-title="极速赛雷",中视新闻
+http://free.cnlive.club/channel/428f1dfa.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://logo.catvod.com/台视新闻.png" group-title="极速赛雷",台视新闻
+http://free.cnlive.club/channel/452d9d57.m3u8
+#EXTINF:-1 tvg-name="公视闽南" tvg-logo="https://logo.catvod.com/公视闽南.png" group-title="极速赛雷",公视闽南
+http://free.cnlive.club/channel/3b838b0c.m3u8
+#EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://logo.catvod.com/民视闽南.png" group-title="极速赛雷",民视闽南
+http://free.cnlive.club/channel/n4d0434cf.m3u8
+#EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://logo.catvod.com/中视闽南.png" group-title="极速赛雷",中视闽南
+http://free.cnlive.club/channel/dc53f4d.m3u8
+#EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://logo.catvod.com/华视闽南.png" group-title="极速赛雷",华视闽南
+http://free.cnlive.club/channel/560bcbee.m3u8
+#EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://logo.catvod.com/台视闽南.png" group-title="极速赛雷",台视闽南
+http://free.cnlive.club/channel/5ef6ab90.m3u8
+#EXTINF:-1 tvg-name="tvbs闽南" tvg-logo="https://logo.catvod.com/tvbs闽南.png" group-title="极速赛雷",tvbs闽南
+http://free.cnlive.club/channel/154f9d73.m3u8
+#EXTINF:-1 tvg-name="tvbs欢乐" tvg-logo="https://logo.catvod.com/tvbs欢乐.png" group-title="极速赛雷",tvbs欢乐
+http://free.cnlive.club/channel/n69c10b55.m3u8
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://logo.catvod.com/民视台湾.png" group-title="极速赛雷",民视台湾
+http://free.cnlive.club/channel/n4bbbe8c9.m3u8
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://logo.catvod.com/中视经典.png" group-title="极速赛雷",中视经典
+http://free.cnlive.club/channel/4291e438.m3u8
+#EXTINF:-1 tvg-name="公视台语" tvg-logo="https://logo.catvod.com/公视台语.png" group-title="极速赛雷",公视台语
+http://free.cnlive.club/channel/3ccf6783.m3u8
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://logo.catvod.com/台视综合.png" group-title="极速赛雷",台视综合
+http://free.cnlive.club/channel/45306b98.m3u8
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://logo.catvod.com/中天娱乐.png" group-title="极速赛雷",中天娱乐
+http://free.cnlive.club/channel/41d6f491.m3u8
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://logo.catvod.com/中天综合.png" group-title="极速赛雷",中天综合
+http://free.cnlive.club/channel/41db6ede.m3u8
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://logo.catvod.com/中天亚洲.png" group-title="极速赛雷",中天亚洲
+http://free.cnlive.club/channel/41d5ac2a.m3u8
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://logo.catvod.com/八大第一.png" group-title="极速赛雷",八大第一
+http://free.cnlive.club/channel/2733018a.m3u8
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://logo.catvod.com/八大综合.png" group-title="极速赛雷",八大综合
+http://free.cnlive.club/channel/27420c52.m3u8
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://logo.catvod.com/八大戏剧.png" group-title="极速赛雷",八大戏剧
+http://free.cnlive.club/channel/26d54426.m3u8
+#EXTINF:-1 tvg-name="八大娱乐" tvg-logo="https://logo.catvod.com/八大娱乐.png" group-title="极速赛雷",八大娱乐
+http://free.cnlive.club/channel/26b73cff.m3u8
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://logo.catvod.com/东森综合.png" group-title="极速赛雷",东森综合
+http://free.cnlive.club/channel/n31b0a4.m3u8
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://logo.catvod.com/东森戏剧.png" group-title="极速赛雷",东森戏剧
+http://free.cnlive.club/channel/n9e78d0.m3u8
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://logo.catvod.com/东森洋片.png" group-title="极速赛雷",东森洋片
+http://free.cnlive.club/channel/n7160b4.m3u8
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://logo.catvod.com/东森电影.png" group-title="极速赛雷",东森电影
+http://free.cnlive.club/channel/n5502f4.m3u8
+#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://logo.catvod.com/东森幼幼.png" group-title="极速赛雷",东森幼幼
+http://free.cnlive.club/channel/naa6d18.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://logo.catvod.com/东森超视.png" group-title="极速赛雷",东森超视
+http://free.cnlive.club/channel/4210df69.m3u8
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://logo.catvod.com/东森财经.png" group-title="极速赛雷",东森财经
+http://free.cnlive.club/channel/209f9e70.m3u8
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://logo.catvod.com/寰宇财经.png" group-title="极速赛雷",寰宇财经
+http://free.cnlive.club/channel/n4332074a.m3u8
+#EXTINF:-1 tvg-name="华艺综合" tvg-logo="https://logo.catvod.com/华艺综合.png" group-title="极速赛雷",华艺综合
+http://free.cnlive.club/channel/5af2eef0.m3u8
+#EXTINF:-1 tvg-name="AXN电影" tvg-logo="https://logo.catvod.com/AXN电影.png" group-title="极速赛雷",AXN电影
+http://free.cnlive.club/channel/n4e27c899.m3u8
+#EXTINF:-1 tvg-name="CInemax" tvg-logo="https://logo.catvod.com/CInemax.png" group-title="极速赛雷",CInemax
+http://free.cnlive.club/channel/7c7a1311.m3u8
+#EXTINF:-1 tvg-name="HBo高清" tvg-logo="https://logo.catvod.com/HBo高清.png" group-title="极速赛雷",HBo高清
+http://free.cnlive.club/channel/2d329e1c.m3u8
+#EXTINF:-1 tvg-name="HBo家庭" tvg-logo="https://logo.catvod.com/HBo家庭.png" group-title="极速赛雷",HBo家庭
+http://free.cnlive.club/channel/n54fc5ba0.m3u8
+#EXTINF:-1 tvg-name="好莱电影" tvg-logo="https://logo.catvod.com/好莱电影.png" group-title="极速赛雷",好莱电影
+http://free.cnlive.club/channel/n2db95de5.m3u8
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="极速赛雷",龙华经典
+http://free.cnlive.club/channel/66c892d4.m3u8
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://logo.catvod.com/龙华戏剧.png" group-title="极速赛雷",龙华戏剧
+http://free.cnlive.club/channel/66c51883.m3u8
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://logo.catvod.com/龙华偶像.png" group-title="极速赛雷",龙华偶像
+http://free.cnlive.club/channel/66c2f564.m3u8
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://logo.catvod.com/龙华洋片.png" group-title="极速赛雷",龙华洋片
+http://free.cnlive.club/channel/66c68ce7.m3u8
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://logo.catvod.com/纬来日本.png" group-title="极速赛雷",纬来日本
+http://free.cnlive.club/channel/58197296.m3u8
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://logo.catvod.com/纬来体育.png" group-title="极速赛雷",纬来体育
+http://free.cnlive.club/channel/5816d06e.m3u8
+#EXTINF:-1 tvg-name="纬来综合" tvg-logo="https://logo.catvod.com/纬来综合.png" group-title="极速赛雷",纬来综合
+http://free.cnlive.club/channel/581c693b.m3u8
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://logo.catvod.com/纬来育乐.png" group-title="极速赛雷",纬来育乐
+http://free.cnlive.club/channel/581c988d.m3u8
+#EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://logo.catvod.com/纬来精彩.png" group-title="极速赛雷",纬来精彩
+http://free.cnlive.club/channel/581c2f1a.m3u8
+#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://logo.catvod.com/靖天国际.png" group-title="极速赛雷",靖天国际
+http://free.cnlive.club/channel/63189371.m3u8
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://logo.catvod.com/靖天卡通.png" group-title="极速赛雷",靖天卡通
+http://free.cnlive.club/channel/63181d62.m3u8
+#EXTINF:-1 tvg-name="大爱壹台" tvg-logo="https://logo.catvod.com/大爱壹台.png" group-title="极速赛雷",大爱壹台
+http://free.cnlive.club/channel/46f9ba85.m3u8
+#EXTINF:-1 tvg-name="大爱贰台" tvg-logo="https://logo.catvod.com/大爱贰台.png" group-title="极速赛雷",大爱贰台
+http://free.cnlive.club/channel/46f0bf6e.m3u8
+#EXTINF:-1 tvg-name="好消息贰" tvg-logo="https://logo.catvod.com/好消息贰.png" group-title="极速赛雷",好消息贰
+http://free.cnlive.club/channel/n5e3decc0.m3u8
+#EXTINF:-1 tvg-name="三立闽南" tvg-logo="https://logo.catvod.com/三立闽南.png" group-title="极速赛雷",三立闽南
+http://free.cnlive.club/channel/642f20a.m3u8
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://logo.catvod.com/三立戏剧.png" group-title="极速赛雷",三立戏剧
+http://free.cnlive.club/channel/6748da0.m3u8
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://logo.catvod.com/三立综合.png" group-title="极速赛雷",三立综合
+http://free.cnlive.club/channel/6e155cc.m3u8
+#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://logo.catvod.com/三立都会.png" group-title="极速赛雷",三立都会
+http://free.cnlive.club/channel/72452bb.m3u8
+#EXTINF:-1 tvg-name="ELta影剧" tvg-logo="https://logo.catvod.com/ELta影剧.png" group-title="极速赛雷",ELta影剧
+http://free.cnlive.club/channel/n2109392b.m3u8
+#EXTINF:-1 tvg-name="ELta综合" tvg-logo="https://logo.catvod.com/ELta综合.png" group-title="极速赛雷",ELta综合
+http://free.cnlive.club/channel/n20929de1.m3u8
+#EXTINF:-1 tvg-name="ELTA体1" tvg-logo="https://logo.catvod.com/ELTA体1.png" group-title="极速赛雷",ELTA体1
+http://free.cnlive.club/channel/n6cd87fd.m3u8
+#EXTINF:-1 tvg-name="ELTA体2" tvg-logo="https://logo.catvod.com/ELTA体2.png" group-title="极速赛雷",ELTA体2
+http://free.cnlive.club/channel/n6cd87de.m3u8
+#EXTINF:-1 tvg-name="ELTA体3" tvg-logo="https://logo.catvod.com/ELTA体3.png" group-title="极速赛雷",ELTA体3
+http://free.cnlive.club/channel/n6cd87bf.m3u8
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://logo.catvod.com/博斯无限.png" group-title="极速赛雷",博斯无限
+http://free.cnlive.club/channel/47dd89d5.m3u8
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://logo.catvod.com/博斯网球.png" group-title="极速赛雷",博斯网球
+http://free.cnlive.club/channel/4838e3b3.m3u8
+#EXTINF:-1 tvg-name="博斯运动壹斯" tvg-logo="https://logo.catvod.com/博斯运动壹斯.png" group-title="极速赛雷",博斯运动壹斯
+http://free.cnlive.club/channel/n3a1a5ced.m3u8
+#EXTINF:-1 tvg-name="博斯运动贰斯" tvg-logo="https://logo.catvod.com/博斯运动贰斯.png" group-title="极速赛雷",博斯运动贰斯
+http://free.cnlive.club/channel/n3a1a4bf9.m3u8
+#EXTINF:-1 tvg-name="博斯高球壹斯" tvg-logo="https://logo.catvod.com/博斯高球壹斯.png" group-title="极速赛雷",博斯高球壹斯
+http://free.cnlive.club/channel/n34996e5a.m3u8
+#EXTINF:-1 tvg-name="博斯高球贰斯" tvg-logo="https://logo.catvod.com/博斯高球贰斯.png" group-title="极速赛雷",博斯高球贰斯
+http://free.cnlive.club/channel/n34995d66.m3u8
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://logo.catvod.com/美食星球.png" group-title="极速赛雷",美食星球
+http://free.cnlive.club/channel/5939fd4b.m3u8
+#EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://logo.catvod.com/亚洲美食.png" group-title="极速赛雷",亚洲美食
+http://free.cnlive.club/channel/4258879f.m3u8
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://logo.catvod.com/亚洲旅游.png" group-title="极速赛雷",亚洲旅游
+http://free.cnlive.club/channel/852ca6f.m3u8
+#EXTINF:-1 tvg-name="亚洲TLC" tvg-logo="https://logo.catvod.com/亚洲TLC.png" group-title="极速赛雷",亚洲TLC
+http://free.cnlive.club/channel/34964cb6.m3u8
+#EXTINF:-1 tvg-name="EYE-旅游" tvg-logo="https://logo.catvod.com/EYE-旅游.png" group-title="极速赛雷",EYE-旅游
+http://free.cnlive.club/channel/28efa38.m3u8
+#EXTINF:-1 tvg-name="EYE-戏剧" tvg-logo="https://logo.catvod.com/EYE-戏剧.png" group-title="极速赛雷",EYE-戏剧
+http://free.cnlive.club/channel/27dadb3.m3u8
+#EXTINF:-1 tvg-name="MTv高清" tvg-logo="https://logo.catvod.com/MTv高清.png" group-title="极速赛雷",MTv高清
+http://free.cnlive.club/channel/731620b3.m3u8
+#EXTINF:-1 tvg-name="ARIRAng" tvg-logo="https://logo.catvod.com/ARIRAng.png" group-title="极速赛雷",ARIRAng
+http://free.cnlive.club/channel/5a358dea.m3u8
 
 
 
