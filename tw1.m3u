@@ -219,8 +219,13 @@ http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
 #EXTINF:-1 group-title="台灣",博斯無限I
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn10
 #EXTINF:-1 group-title="台灣",博斯無限II
-
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
+#EXTINF:-1 group-title="台灣",ELTA體育1
+http://free.cnlive.club/channel/n6cd87fd.m3u8
+#EXTINF:-1 group-title="台灣",ELTA體育2
+http://free.cnlive.club/channel/n6cd87de.m3u8
+#EXTINF:-1 group-title="台灣",ELTA體育3
+http://free.cnlive.club/channel/n6cd87bf.m3u8
 
 #EXTINF:-1 group-title="台灣",龍華日韓台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
@@ -726,8 +731,8 @@ http://118.233.28.52:50007/litv-ftv15/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://logo.catvod.com/視納華仁紀實頻道.png" group-title="台灣",視納華仁紀實頻道
 http://118.233.28.52:50007/li-4gtv-4gtv013/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://logo.catvod.com/影迷數位紀實台.png" group-title="台灣",影迷數位電影台
-
 http://118.233.28.52:50007/li-litv-ftv15/index.m3u8?proxy=true
+
 
 
 
