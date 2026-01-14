@@ -36,7 +36,7 @@ http://211.23.114.106:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 http://211.23.114.106:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8 
 
-#EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣",年代新聞台
+#EXTINF:-1 tvg-name="年代新聞台" tvg-logo="https://logo.catvod.com/年代新聞.png" group-title="台灣",年代新聞
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
@@ -555,9 +555,9 @@ http://118.233.28.52:50007/of-4gtv-4gtv076/index.m3u8?proxy=true
 http://118.233.28.52:50007/litv-longturn19/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="LiveABC 互動英語台" tvg-logo="https://logo.catvod.com/LiveABC 互動英語台.png" group-title="台灣",LiveABC 互動英語台
 http://118.233.28.52:50007/4gtv-live030/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="達文西" tvg-logo="https://logo.catvod.com/達文西.png" group-title="台灣",達文西頻道西
+#EXTINF:-1 tvg-name="達文西" tvg-logo="https://logo.catvod.com/達文西.png" group-title="台灣",達文西頻道
 http://118.233.28.52:50007/4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://logo.catvod.com/ELTV生活英語台.png" group-title="台灣",ELTV生活英語台
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://logo.catvod.com/ELTV生活英語台.png" group-title="台灣",ELTA生活英語台
 http://118.233.28.52:50007/litv-longturn20/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://logo.catvod.com/Nick Jr..png" group-title="台灣",Nick Jr.
 http://118.233.28.52:50007/4gtv-live032/index.m3u8?proxy=true
@@ -721,12 +721,13 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://logo.catvod.com/視納華仁紀實頻道.png" group-title="台灣",視納華仁紀實頻道
 http://118.233.28.52:50007/4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://logo.catvod.com/影迷數位紀實台.png" group-title="台灣",影迷數位紀實台
+#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://logo.catvod.com/影迷數位紀實台.png" group-title="台灣",影迷數位電影台
 http://118.233.28.52:50007/litv-ftv15/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://logo.catvod.com/視納華仁紀實頻道.png" group-title="台灣",視納華仁紀實頻道
 http://118.233.28.52:50007/li-4gtv-4gtv013/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://logo.catvod.com/影迷數位紀實台.png" group-title="台灣",影迷數位紀實台
+#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://logo.catvod.com/影迷數位紀實台.png" group-title="台灣",影迷數位電影台
 http://118.233.28.52:50007/li-litv-ftv15/index.m3u8?proxy=true
+
 
 
 
