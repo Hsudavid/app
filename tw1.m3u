@@ -584,13 +584,13 @@ http://118.233.28.52:50007/4gtv-live024/index.m3u8?proxy=true
 http://118.233.28.52:50007/li-litv-longturn01/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="達文西" tvg-logo="https://logo.catvod.com/達文西.png" group-title="台灣",達文西頻道
 http://118.233.28.52:50007/li-4gtv-4gtv018/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://logo.catvod.com/ELTV生活英語台.png" group-title="台灣",ELTV生活英語台
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://logo.catvod.com/ELTV生活英語台.png" group-title="台灣",ELTA生活英語台
 http://118.233.28.52:50007/li-litv-longturn20/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://logo.catvod.com/靖天卡通台.png" group-title="台灣",靖天卡通台
 http://118.233.28.52:50007/li-4gtv-4gtv044/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖洋卡通" tvg-logo="https://logo.catvod.com/靖洋卡通.png" group-title="台灣",靖洋卡通台
 http://118.233.28.52:50007/li-4gtv-4gtv057/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://logo.catvod.com/ELTV生活英語台.png" group-title="台灣",ELTV生活英語台
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://logo.catvod.com/ELTV生活英語台.png" group-title="台灣",ELTA生活英語台
 http://118.233.28.52:50007/of-litv-longturn20/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="龍華卡通" tvg-logo="https://logo.catvod.com/龍華卡通.png" group-title="台灣",龍華卡通台
 http://118.233.28.52:50007/litv-longturn01/index.m3u8?proxy=true
