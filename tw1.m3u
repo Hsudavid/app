@@ -261,21 +261,21 @@ http://118.233.28.52:50007/4gtv-4gtv003/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-4gtv001/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="民視HD" tvg-logo="https://logo.catvod.com/民視HD.png" group-title="台灣",民視HD
 http://118.233.28.52:50007/4gtv-4gtv002/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://logo.catvod.com/大愛電視.png" group-title="台灣",大愛電視
+#EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://logo.catvod.com/大愛電視.png" group-title="台灣",大愛電視台
 http://118.233.28.52:50007/4gtv-live007/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://logo.catvod.com/中視.png" group-title="台灣",中視HD
 http://118.233.28.52:50007/4gtv-4gtv040/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://logo.catvod.com/華視.png" group-title="台灣",華視HD
 http://118.233.28.52:50007/4gtv-4gtv041/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="三立綜合合" tvg-logo="https://logo.catvod.com/三立綜合合.png" group-title="台灣",三立綜合合
+#EXTINF:-1 tvg-name="三立綜合合" tvg-logo="https://logo.catvod.com/三立綜合合.png" group-title="台灣",三立綜合台
 http://118.233.28.52:50007/4gtv-live207/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="客家電視" tvg-logo="https://logo.catvod.com/客家電視.png" group-title="台灣",客家電視合
+#EXTINF:-1 tvg-name="客家電視" tvg-logo="https://logo.catvod.com/客家電視.png" group-title="台灣",客家電視台
 http://118.233.28.52:50007/4gtv-4gtv043/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://logo.catvod.com/中視菁采台.png" group-title="台灣",中視菁采台
 http://118.233.28.52:50007/4gtv-4gtv064/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天綜合" tvg-logo="https://logo.catvod.com/靖天綜合.png" group-title="台灣",靖天綜合合
+#EXTINF:-1 tvg-name="靖天綜合" tvg-logo="https://logo.catvod.com/靖天綜合.png" group-title="台灣",靖天綜合台
 http://118.233.28.52:50007/4gtv-4gtv046/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天日本" tvg-logo="https://logo.catvod.com/靖天日本.png" group-title="台灣",靖天日本合
+#EXTINF:-1 tvg-name="靖天日本" tvg-logo="https://logo.catvod.com/靖天日本.png" group-title="台灣",靖天日本台
 http://118.233.28.52:50007/4gtv-4gtv047/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://logo.catvod.com/新唐人亞太台.png" group-title="台灣",新唐人亞太台
 http://118.233.28.52:50007/4gtv-live050/index.m3u8?proxy=true
@@ -726,7 +726,9 @@ http://118.233.28.52:50007/litv-ftv15/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://logo.catvod.com/視納華仁紀實頻道.png" group-title="台灣",視納華仁紀實頻道
 http://118.233.28.52:50007/li-4gtv-4gtv013/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://logo.catvod.com/影迷數位紀實台.png" group-title="台灣",影迷數位電影台
+
 http://118.233.28.52:50007/li-litv-ftv15/index.m3u8?proxy=true
+
 
 
 
