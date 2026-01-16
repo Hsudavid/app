@@ -7,6 +7,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 {
+      "name": "Gather",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+{
       "name": "TAIWAN LITV",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/TAIWAN LITV.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -31,6 +37,7 @@
       ]
 
 }
+
 
 
 
