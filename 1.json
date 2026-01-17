@@ -2,39 +2,39 @@
   "spider": "http://cdn.qiaoji8.com/fix250711.jar;md5;54418536dc2a40da4e94437397895d01",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
-   {
+    {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw1.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+     "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+      "logo": "https://diyp.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/4.12.0"
     },
-{
+
+
+   {
       "name": "Gather",
       "url": "https://tv.iill.top/m3u/Gather",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-{
-      "name": "TAIWAN LITV",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/TAIWAN LITV.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-   {
-      "name": "cat",
-      "url": "https://live.catvod.com/tv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
       "logo": "https://diyp.112114.xyz/logo/{name}.png",
       "ua": "okhttp/4.12.0"
     },
 
-{
-      "name": "MTVS",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/MTVS.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
   
+   {
+      "name": "catvod",
+      "url": "https://live.catvod.com/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+      "logo": "https://diyp.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/4.12.0"
+    },
+ {
+      "name": "TAIWAN LITV",
+       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/TAIWAN LITV.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+      "logo": "https://diyp.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/4.12.0"
     }
+
 
 
      ],
@@ -525,6 +525,7 @@
     "43.248.128.138"
   ]
 }
+
 
 
 
