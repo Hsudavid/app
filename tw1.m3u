@@ -202,28 +202,22 @@ http://211.23.114.106:8528/http/60.251.39.91:8081/hls/210/10013/cstv13.m3u8
 #EXTINF:-1 group-title="台灣",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 
-#EXTINF:-1 group-title="台灣",博斯魅力
-https://tv.iill.top/litv/litv-xinchuang04&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",博斯高球I
-https://tv.iill.top/litv/litv-xinchuang05&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",博斯高球II
-https://tv.iill.top/litv/litv-xinchuang06&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",博斯運動I
-https://tv.iill.top/litv/litv-xinchuang07&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",博斯運動II
-https://tv.iill.top/litv/litv-xinchuang08&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",博斯網球
-https://tv.iill.top/litv/litv-xinchuang09&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",博斯無限I
-https://tv.iill.top/litv/litv-xinchuang10&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",博斯無限II
-https://tv.iill.top/litv/litv-xinchuang13&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7
-#EXTINF:-1 group-title="台灣",ELTA體育1
-http://free.cnlive.club/channel/n6cd87fd.m3u8
-#EXTINF:-1 group-title="台灣",ELTA體育2
-http://free.cnlive.club/channel/n6cd87de.m3u8
-#EXTINF:-1 group-title="台灣",ELTA體育3
-http://free.cnlive.club/channel/n6cd87bf.m3u8
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://logo.catvod.com/博斯高球二台.png" group-title="台灣",博斯高球二台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang06
+#EXTINF:-1 tvg-name="博斯高球台" tvg-logo="https://logo.catvod.com/博斯高球台.png" group-title="台灣",博斯高球台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang05
+#EXTINF:-1 tvg-name="博斯無限二台" tvg-logo="https://logo.catvod.com/博斯無限二台.png" group-title="台灣",博斯無限二台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang13
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://logo.catvod.com/博斯無限台.png" group-title="台灣",博斯無限台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang10
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://logo.catvod.com/博斯運動一台.png" group-title="台灣",博斯運動一台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang07
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://logo.catvod.com/博斯運動二台.png" group-title="台灣",博斯運動二台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang08
+#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://logo.catvod.com/博斯網球台.png" group-title="台灣",博斯網球台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang09
+#EXTINF:-1 tvg-name="博斯魅力台" tvg-logo="https://logo.catvod.com/博斯魅力台.png" group-title="台灣",博斯魅力台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang04
 
 #EXTINF:-1 group-title="台灣",龍華日韓台
 http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
