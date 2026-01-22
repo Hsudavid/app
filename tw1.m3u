@@ -694,22 +694,22 @@ http://118.233.28.52:50007/4gtv-4gtv014/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="GINX Esports TV" tvg-logo="https://logo.catvod.com/GINX Esports TV.png" group-title="台灣",GINX Esports TV
 http://118.233.28.52:50007/4gtv-4gtv053/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://logo.catvod.com/博斯魅力.png" group-title="台灣",博斯魅力
-http://118.233.28.52:50007/litv-longturn04/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯高球I" tvg-logo="https://logo.catvod.com/博斯高球I.png" group-title="台灣",博斯高球I
-http://118.233.28.52:50007/litv-longturn05/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯高球II" tvg-logo="https://logo.catvod.com/博斯高球II.png" group-title="台灣",博斯高球II
-http://118.233.28.52:50007/litv-longturn06/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯運動I" tvg-logo="https://logo.catvod.com/博斯運動I.png" group-title="台灣",博斯運動I
-http://118.233.28.52:50007/litv-longturn07/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯運動II" tvg-logo="https://logo.catvod.com/博斯運動II.png" group-title="台灣",博斯運動II
-http://118.233.28.52:50007/litv-longturn08/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯網球" tvg-logo="https://logo.catvod.com/博斯網球.png" group-title="台灣",博斯網球
-http://118.233.28.52:50007/litv-longturn09/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯無限I" tvg-logo="https://logo.catvod.com/博斯無限I.png" group-title="台灣",博斯無限I
-http://118.233.28.52:50007/litv-longturn10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="博斯無限II" tvg-logo="https://logo.catvod.com/博斯無限II.png" group-title="台灣",博斯無限II
-http://118.233.28.52:50007/litv-longturn13/index.m3u8?proxy=true
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E4%BA%8C%E5%8F%B0.png",博斯高球二台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang06
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%83%E5%8F%B0.png",博斯高球台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang05
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E4%BA%8C%E5%8F%B0.png",博斯無限二台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang13
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E7%84%A1%E9%99%90%E5%8F%B0.png",博斯無限台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang10
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%B8%80%E5%8F%B0.png",博斯運動一台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang07
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%81%8B%E5%8B%95%E4%BA%8C%E5%8F%B0.png",博斯運動二台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang08
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E7%B6%B2%E7%90%83%E5%8F%B0.png",博斯網球台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang09
+#EXTINF:-1 group-title="台灣" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%8D%9A%E6%96%AF%E9%AD%85%E5%8A%9B%E5%8F%B0.png",博斯魅力台
+http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang04
 #EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://logo.catvod.com/TRACE Sport Stars.png" group-title="台灣",TRACE Sport Stars
 http://118.233.28.52:50007/li-4gtv-4gtv077/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="智林體育" tvg-logo="https://logo.catvod.com/智林體育.png" group-title="台灣",智林體育台
