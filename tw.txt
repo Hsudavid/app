@@ -109,7 +109,7 @@ TV5MONDE Style,http://118.233.28.52:50007/4gtv-live122/index.m3u8?proxy=true
 MagellanTV頻道,http://118.233.28.52:50007/4gtv-live123/index.m3u8?proxy=true
 電影戲劇,#genre#
 公視戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
-影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+韓國娛樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
 AMC 最愛電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
 靖洋戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
 采昌影劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
@@ -147,6 +147,7 @@ MOMO親子台,http://118.233.28.52:50007/4gtv-live107/index.m3u8?proxy=true
 視納華仁紀實頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
 歷史頻道,http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 CI 罪案偵查頻道,http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
