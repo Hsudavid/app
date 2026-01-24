@@ -1,6 +1,7 @@
 
 #EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
 
+
 #EXTINF:-1 group-title="綜合其他",民視台灣台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv001
@@ -47,6 +48,8 @@ http://118.233.28.52:50007/4gtv-4gtv043/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="原住民族電視台" tvg-logo="https://logo.catvod.com/原住民族電視台.png" group-title="綜合其他",原住民族電視台
 http://118.233.28.52:50007/4gtv-live014/index.m3u8?proxy=true
 
+#EXTINF:-1 group-title="綜合其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%85%AC%E8%A6%96.png",公視
+rtmp://f13h.mine.nu/sat/tv771
 
 
 
@@ -65,8 +68,20 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv039
 http://118.233.28.52:50007/4gtv-4gtv039/index.m3u8?proxy=true
 
+#EXTINF:-1 group-title="綜合其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%B7%AF%E4%BE%86%E7%B6%9C%E5%90%88HD.png",緯來綜合HD
+http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
 
+#EXTINF:-1 group-title="綜合其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%B7%AF%E4%BE%86%E6%97%A5%E6%9C%AC.png",緯來日本
+http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 
+#EXTINF:-1 group-title="綜合其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/MUCH%20TV.png",MUCH TV
+http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+
+#EXTINF:-1 group-title="綜合其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E6%9D%B1%E6%A3%AE%E8%B6%85%E8%A7%86.png",東森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
+#EXTINF:-1 group-title="綜合其他" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E4%B8%89%E7%AB%8B%E5%8F%B0%E7%81%A3HD.png",三立台灣HD
+http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
 
 
 #EXTINF:-1 group-title="綜合其他",靖天綜合台
@@ -186,6 +201,8 @@ http://118.233.28.52:50007/4gtv-live048/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="東森購物四台" tvg-logo="https://logo.catvod.com/東森購物四台.png" group-title="綜合其他",東森購物4台
 http://118.233.28.52:50007/4gtv-live049/index.m3u8?proxy=true
+
+
 
 
 
@@ -463,7 +480,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv042
 http://118.233.28.52:50007/4gtv-4gtv042/index.m3u8?proxy=true
 
-#EXTINF:-1 group-title="電影戲劇",韓國娛樂台
+#EXTINF:-1 group-title="電影戲劇",影迷數位電影台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv011
 http://118.233.28.52:50007/4gtv-4gtv011/index.m3u8?proxy=true
@@ -507,6 +524,11 @@ http://118.233.28.52:50007/litv-ftv09/index.m3u8?proxy=true
 #EXTINF:-1 group-title="電影戲劇",龍華電影台
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang03
 
+#EXTINF:-1 group-title="電影戲劇" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E7%B7%AF%E4%BE%86%E6%88%B2%E5%8A%87.png",緯來戲劇
+http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+
+#EXTINF:-1 group-title="電影戲劇" tvg-logo="https://www.lysvc.cc/TVLogo/img/%E5%A5%BD%E8%90%8A%E5%A1%A2%E9%9B%BB%E5%BD%B1HD.png",好萊塢電影HD
+http://211.23.114.106:9353/http/61.219.99.20：8081/hls/74/816/ch55.m3u8
 
 
 #EXTINF:-1 group-title="電影戲劇",豬哥亮歌廳秀
@@ -543,6 +565,7 @@ http://118.233.28.52:50007/4gtv-live021/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="電影原聲台 CMusic" tvg-logo="https://logo.catvod.com/電影原聲台 CMusic.png" group-title="電影戲劇",電影原聲台 CMusic
 http://118.233.28.52:50007/4gtv-live031/index.m3u8?proxy=true
+
 
 
 
@@ -605,6 +628,10 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="CI 罪案偵查頻道" tvg-logo="https://logo.catvod.com/CI 罪案偵查頻道.png" group-title="記錄頻道",CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
+
+
+
 
 
 
