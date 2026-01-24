@@ -9,9 +9,15 @@ TVBS HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 華視HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
 客家電視台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
 原住民族電視台,http://118.233.28.52:50007/4gtv-live014/index.m3u8?proxy=true
+公視,rtmp://f13h.mine.nu/sat/tv771
 韓國娛樂台,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv016
 八大精彩台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
 八大綜藝台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
+緯來綜合HD,http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+緯來日本,http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
+MUCH TV,http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+東森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+三立台灣HD,http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
 靖天綜合台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
 靖天日本台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
 靖天歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
@@ -109,7 +115,7 @@ TV5MONDE Style,http://118.233.28.52:50007/4gtv-live122/index.m3u8?proxy=true
 MagellanTV頻道,http://118.233.28.52:50007/4gtv-live123/index.m3u8?proxy=true
 電影戲劇,#genre#
 公視戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
-韓國娛樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
 AMC 最愛電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
 靖洋戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
 采昌影劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
@@ -118,6 +124,8 @@ AMC 最愛電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
 靖天電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
 民視影劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
 龍華電影台,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang03
+緯來戲劇,http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+好萊塢電影HD,http://211.23.114.106:9353/http/61.219.99.20：8081/hls/74/816/ch55.m3u8
 豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
 龍華經典台,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang21
 龍華洋片台,http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang02
@@ -147,6 +155,8 @@ MOMO親子台,http://118.233.28.52:50007/4gtv-live107/index.m3u8?proxy=true
 視納華仁紀實頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
 歷史頻道,http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 CI 罪案偵查頻道,http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
+
 
 
 
