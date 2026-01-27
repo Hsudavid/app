@@ -289,7 +289,7 @@ http://118.233.28.52:50007/li-4gtv-4gtv158/index.m3u8?proxy=true
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv056
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://epg.iill.top/logo/第1商業台.png" group-title="新聞財經", 第1商業
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv104
 http://118.233.28.52:50007/4gtv-4gtv104/index.m3u8?proxy=true
@@ -341,7 +341,7 @@ http://118.233.28.52:50007/4gtv-4gtv077/index.m3u8?proxy=true
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv014
 http://118.233.28.52:50007/4gtv-4gtv014/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="車迷 TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/kzyyjs.png" group-title="運動休閒",車迷 TV
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://epg.iill.top/logo/車迷-TV.png" group-title="運動休閒", 車迷 TV
 http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="Mezzo Live" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mezzolive.png" group-title="運動休閒",Mezzo Live
@@ -435,7 +435,6 @@ http://118.233.28.52:50007/4gtv-live206/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live208/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://epg.iill.top/logo/ELTA生活旅遊.png" group-title="運動休閒", 愛爾達生活旅遊
-
 http://118.233.28.52:50007/4gtv-live120/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="LUXE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LuxeTV.png" group-title="運動休閒",LUXE TV
@@ -477,7 +476,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv055
 http://118.233.28.52:50007/4gtv-4gtv055/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="靖天戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV10.png" group-title="電影戲劇",靖天戲劇台
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://epg.iill.top/logo/靖天戲劇台.png" group-title="電影戲劇", 靖天戲劇
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv058
 http://118.233.28.52:50007/4gtv-4gtv058/index.m3u8?proxy=true
@@ -528,7 +527,7 @@ http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv10
 #EXTINF:-1 tvg-name="台灣戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang22
 
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://epg.iill.top/logo/TVBS台劇.png" group-title="電影戲劇", TVBS 台劇
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
 http://118.233.28.52:50007/4gtv-live088/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://epg.iill.top/logo/經典電影台.png" group-title="電影戲劇", 經典電影
@@ -591,6 +590,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
