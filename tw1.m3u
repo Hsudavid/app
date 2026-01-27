@@ -576,20 +576,21 @@ http://118.233.28.52:50007/4gtv-live022/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://epg.iill.top/logo/精選動漫台.png" group-title="兒童頻道", 精選動漫
 http://118.233.28.52:50007/4gtv-live024/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FANS2.png" group-title="記錄頻道",影迷數位紀實台
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://epg.iill.top/logo/影迷數位紀實台.png" group-title="記錄頻道", 影迷數位紀實
 http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv15
 http://118.233.28.52:50007/litv-ftv15/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HelpTV.png" group-title="記錄頻道",視納華仁紀實頻道
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://epg.iill.top/logo/視納華仁紀實頻道.png" group-title="記錄頻道", 視納華仁紀實頻道
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv013
 http://118.233.28.52:50007/4gtv-4gtv013/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="歷史頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HelpTV.png" group-title="記錄頻道",歷史頻道
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://epg.iill.top/logo/History-歷史頻道.png" group-title="記錄頻道", History 歷史頻道
 http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="CI 罪案偵查頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Crimeplus.png" group-title="記錄頻道",CI 罪案偵查頻道
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
