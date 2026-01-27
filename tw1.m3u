@@ -426,7 +426,7 @@ http://118.233.28.52:50007/4gtv-live096/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="滾動力 Rollor" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/rollor.png" group-title="運動休閒",滾動力 Rollor
 http://118.233.28.52:50007/4gtv-live012/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://epg.iill.top/logo/Fun-探索娛樂台.png" group-title="", Fun 探索娛樂
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://epg.iill.top/logo/Fun-探索娛樂台.png" group-title="運動休閒", Fun 探索娛樂
 http://118.233.28.52:50007/4gtv-live011/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gorgeous.png" group-title="運動休閒",幸福空間居家台
