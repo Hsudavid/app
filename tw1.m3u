@@ -434,7 +434,8 @@ http://118.233.28.52:50007/4gtv-live206/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LoveNarure4K.png" group-title="運動休閒",LOVE NATURE
 http://118.233.28.52:50007/4gtv-live208/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="EYETV生活旅遊" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EYE2.png" group-title="運動休閒",EYETV生活旅遊
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://epg.iill.top/logo/ELTA生活旅遊.png" group-title="運動休閒", 愛爾達生活旅遊
+
 http://118.233.28.52:50007/4gtv-live120/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="LUXE TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LuxeTV.png" group-title="運動休閒",LUXE TV
