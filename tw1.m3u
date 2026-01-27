@@ -257,7 +257,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv153
 http://118.233.28.52:50007/4gtv-4gtv153/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/鏡電視新聞台.png" group-title="新聞財經", 鏡電視新聞「LiTV」
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/鏡電視新聞台.png" group-title="新聞財經", 鏡電視新聞
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv075
 
@@ -590,6 +590,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="CI 罪案偵查頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Crimeplus.png" group-title="記錄頻道",CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
