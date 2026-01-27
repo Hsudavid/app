@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml"
+
+
 #EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="綜合其他",民視台灣台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv001
@@ -255,7 +257,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv153
 http://118.233.28.52:50007/4gtv-4gtv153/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="鏡電視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/鏡電視新聞台.png" group-title="新聞財經",鏡電視新聞台
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/鏡電視新聞台.png" group-title="新聞財經", 鏡電視新聞「LiTV」
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv075
 
@@ -287,7 +289,7 @@ http://118.233.28.52:50007/li-4gtv-4gtv158/index.m3u8?proxy=true
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv056
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
 
-#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/第1商業台.png" group-title="新聞財經",第1商業台
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://epg.iill.top/logo/第1商業台.png" group-title="新聞財經", 第1商業
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv104
 http://118.233.28.52:50007/4gtv-4gtv104/index.m3u8?proxy=true
@@ -409,22 +411,22 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv110
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ROCKExtreme.png" group-title="運動休閒",ROCK Entertainment
 http://118.233.28.52:50007/4gtv-live080/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://logo.catvod.com/ROCK Action.png" group-title="運動休閒",ROCK Action
+#EXTINF:-1 tvg-id="ROCK ACTION" tvg-name="ROCK ACTION" tvg-logo="https://epg.iill.top/logo/Rock-Action.png" group-title="運動休閒", Rock Action
 http://118.233.28.52:50007/4gtv-live138/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://logo.catvod.com/Global Trekker.png" group-title="運動休閒",Global Trekker
+#EXTINF:-1 tvg-id="Global Trekker 探索世界" tvg-name="Global Trekker 探索世界" tvg-logo="https://epg.iill.top/logo/Global-Trekker.png" group-title="運動休閒", Global Trekker 探索世界
 http://118.233.28.52:50007/4gtv-live112/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="Lifetime" tvg-logo="https://logo.catvod.com/Lifetime.png" group-title="運動休閒",Lifetime
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://epg.iill.top/logo/Lifetime-娛樂頻道.png" group-title="運動休閒", Lifetime 娛樂頻道
 http://118.233.28.52:50007/4gtv-live029/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="INULTRA" tvg-logo="https://logo.catvod.com/INULTRA.png" group-title="運動休閒",INULTRA
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://epg.iill.top/logo/INULTRA.png" group-title="運動休閒", INULTRA
 http://118.233.28.52:50007/4gtv-live096/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="滾動力 Rollor" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/rollor.png" group-title="運動休閒",滾動力 Rollor
 http://118.233.28.52:50007/4gtv-live012/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="FUN 4K探索娛樂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FUN 4K探索娛樂.png" group-title="運動休閒",FUN 4K探索娛樂
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://epg.iill.top/logo/Fun-探索娛樂台.png" group-title="", Fun 探索娛樂
 http://118.233.28.52:50007/4gtv-live011/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gorgeous.png" group-title="運動休閒",幸福空間居家台
@@ -441,7 +443,7 @@ http://118.233.28.52:50007/4gtv-live121/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TV5MONDE Style" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",TV5MONDE Style
 http://118.233.28.52:50007/4gtv-live122/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="MagellanTV頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/MagellanTV.png" group-title="運動休閒",MagellanTV頻道
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://epg.iill.top/logo/MAGELLANTV.png" group-title="運動休閒", MagellanTV (麥哲倫頻道)
 http://118.233.28.52:50007/4gtv-live123/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="公視戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS3.png" group-title="電影戲劇",公視戲劇台
@@ -499,7 +501,7 @@ http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
 #EXTINF:-1 tvg-name="好萊塢電影HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="電影戲劇",好萊塢電影HD
 http://211.23.114.106:9353/http/61.219.99.20：8081/hls/74/816/ch55.m3u8
 
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://logo.catvod.com/豬哥亮歌廳秀.png" group-title="電影戲劇",豬哥亮歌廳秀
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV7.png" group-title="電影戲劇",豬哥亮歌廳秀
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv006
 http://118.233.28.52:50007/4gtv-4gtv006/index.m3u8?proxy=true
@@ -519,16 +521,16 @@ http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang12
 #EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="電影戲劇",龍華戲劇台
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang18
 
-#EXTINF:-1 tvg-name="我的歐洲電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/我的歐洲電影.png" group-title="電影戲劇",我的歐洲電影
+#EXTINF:-1 tvg-id="MCE 我的歐洲電影台" tvg-name="MCE 我的歐洲電影台" tvg-logo="https://epg.iill.top/logo/MCE.png" group-title="電影戲劇", MCE 我的歐洲電影
 http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv10
 
-#EXTINF:-1 tvg-name="台灣戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/台灣戲劇台.png" group-title="電影戲劇",台灣戲劇台
+#EXTINF:-1 tvg-name="台灣戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang22
 
-#EXTINF:-1 tvg-name="TVBS台劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS台劇台.png" group-title="電影戲劇",TVBS台劇台
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://epg.iill.top/logo/TVBS台劇.png" group-title="電影戲劇", TVBS 台劇
 http://118.233.28.52:50007/4gtv-live088/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/經典電影台.png" group-title="電影戲劇",經典電影台
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://epg.iill.top/logo/經典電影台.png" group-title="電影戲劇", 經典電影
 http://118.233.28.52:50007/4gtv-live021/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="電影原聲台 CMusic" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cmusic.png" group-title="電影戲劇",電影原聲台 CMusic
@@ -568,10 +570,10 @@ http://118.233.28.52:50007/4gtv-live017/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="MOMO親子台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo1.png" group-title="兒童頻道",MOMO親子台
 http://118.233.28.52:50007/4gtv-live107/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="經典卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/經典卡通.png" group-title="兒童頻道",經典卡通台
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://epg.iill.top/logo/經典卡通台.png" group-title="兒童頻道", 經典卡通
 http://118.233.28.52:50007/4gtv-live022/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="精選動漫台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/精選動漫.png" group-title="兒童頻道",精選動漫台
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://epg.iill.top/logo/精選動漫台.png" group-title="兒童頻道", 精選動漫
 http://118.233.28.52:50007/4gtv-live024/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FANS2.png" group-title="記錄頻道",影迷數位紀實台
@@ -588,6 +590,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="CI 罪案偵查頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Crimeplus.png" group-title="記錄頻道",CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
