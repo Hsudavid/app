@@ -171,12 +171,12 @@ http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv17
 http://118.233.28.52:50007/litv-ftv17/index.m3u8?proxy=true
 ttp://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
 
-#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/國會頻道1.png" group-title="綜合其他",國會頻道1
+#EXTINF:-1 tvg-name="國會頻道1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/guohui1.png" group-title="綜合其他",國會頻道1
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv084
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv084
 http://118.233.28.52:50007/of-4gtv-4gtv084/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/國會頻道2.png" group-title="綜合其他",國會頻道2
+#EXTINF:-1 tvg-name="國會頻道2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/guohui2.png" group-title="綜合其他",國會頻道2
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv085
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv085
 http://118.233.28.52:50007/of-4gtv-4gtv085/index.m3u8?proxy=true
@@ -185,14 +185,14 @@ http://118.233.28.52:50007/of-4gtv-4gtv085/index.m3u8?proxy=true
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv102
 http://118.233.28.52:50007/4gtv-live047/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="東森購物2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC12.png" group-title="綜合其他",東森購物2台
+#EXTINF:-1 tvg-name="東森購物2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物2台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
 http://118.233.28.52:50007/4gtv-live046/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="東森購物3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC13.png" group-title="綜合其他",東森購物3台
+#EXTINF:-1 tvg-name="東森購物3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物3台
 http://118.233.28.52:50007/4gtv-live048/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-name="東森購物4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC14.png" group-title="綜合其他",東森購物4台
+#EXTINF:-1 tvg-name="東森購物4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物4台
 http://118.233.28.52:50007/4gtv-live049/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="新聞財經",華視新聞台
