@@ -1,7 +1,7 @@
 綜合其他,#genre#
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
-http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv001
-http://118.233.28.52:50007/4gtv-4gtv001/index.m3u8?proxy=true
+,http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv001
+,http://118.233.28.52:50007/4gtv-4gtv001/index.m3u8?proxy=true
 
 民視HD,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
 民視第一台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
@@ -158,6 +158,7 @@ MOMO親子台,http://118.233.28.52:50007/4gtv-live107/index.m3u8?proxy=true
 視納華仁紀實頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
 歷史頻道,http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 CI 罪案偵查頻道,http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
