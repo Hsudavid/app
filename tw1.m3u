@@ -22,6 +22,8 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv004
 http://118.233.28.52:50007/4gtv-4gtv004/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="台視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="綜合其他",台視HD
+http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv066
 
@@ -30,6 +32,8 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv073
 
 #EXTINF:-1 tvg-name="中視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="綜合其他",中視HD
+http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv040
 http://118.233.28.52:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
@@ -48,6 +52,8 @@ http://118.233.28.52:50007/4gtv-4gtv043/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live014/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="公視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png" group-title="綜合其他",公視
+http://211.23.114.106:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+
 rtmp://f13h.mine.nu/sat/tv771
 
 #EXTINF:-1 tvg-name="韓國娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
@@ -67,18 +73,29 @@ http://118.233.28.52:50007/4gtv-4gtv039/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="緯來綜合HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland1.png" group-title="綜合其他",緯來綜合HD
 http://211.23.114.106:8536/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
 
 #EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland5.png" group-title="綜合其他",緯來日本
+http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+
 http://220.134.196.147:8565/http/61.219.99.20:8081/hls/69/811/ch34.m3u8
 
 #EXTINF:-1 tvg-name="MUCH TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ERA1.png" group-title="綜合其他",MUCH TV
 http://211.23.114.106:9328/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="綜合其他",东森综合
+
+http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 
 #EXTINF:-1 tvg-name="東森超视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="綜合其他",東森超视
+
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
-#EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="綜合其他",三立台灣HD
+#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="綜合其他",三立都会
+
 http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="綜合其他",三立台灣HD
+
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 
 #EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
@@ -119,10 +136,14 @@ http://118.233.28.52:50007/4gtv-4gtv065/index.m3u8?proxy=true
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv068
 http://118.233.28.52:50007/4gtv-4gtv068/index.m3u8?proxy=true
+http://118.233.28.52:50007/4gtv-live087/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="綜合其他",TVBS精采台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv067
+#EXTINF:-1 tvg-name="TVBS綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="綜合其他",TVBS綜藝台
+
+
 http://118.233.28.52:50007/4gtv-4gtv067/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="ELTV娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA3.png" group-title="綜合其他",ELTV娛樂台
@@ -153,6 +174,7 @@ http://118.233.28.52:50007/4gtv-live106/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BLTV.png" group-title="綜合其他",人間衛視
 http://118.233.28.52:50007/4gtv-live008/index.m3u8?proxy=true
 
+
 #EXTINF:-1 tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="綜合其他",HITS
 http://118.233.28.52:50007/4gtv-live620/index.m3u8?proxy=true
 
@@ -163,6 +185,8 @@ http://118.233.28.52:50007/4gtv-live144/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live087/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="好消息1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoodTV1.png" group-title="綜合其他",好消息1
+http://211.23.114.106:8508/http/61.221.81.94:8088/hls/74/816/ch53.m3u8
+
 http://xtvantsc.xyz/litv_ts.php?id=litv-ftv16
 http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv16
 http://118.233.28.52:50007/of-litv-ftv16/index.m3u8?proxy=true
@@ -198,6 +222,8 @@ http://118.233.28.52:50007/4gtv-live048/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live049/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="新聞財經",華視新聞台
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv052
 http://118.233.28.52:50007/4gtv-4gtv052/index.m3u8?proxy=true
@@ -220,6 +246,7 @@ http://211.23.114.106:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
 
+
 #EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="新聞財經",東森新聞台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv152
@@ -239,6 +266,7 @@ http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv13
 http://118.233.28.52:50007/litv-ftv13/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="新聞財經",三立新聞HD
+http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
@@ -258,6 +286,8 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv153
 http://118.233.28.52:50007/4gtv-4gtv153/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/鏡電視新聞台.png" group-title="新聞財經", 鏡電視新聞
+http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv075
 
@@ -266,6 +296,8 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv010
 
 #EXTINF:-1 tvg-name="非凡商業台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique2.png" group-title="新聞財經",非凡商業台
+http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8
+
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv048
 
@@ -325,6 +357,7 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv053
 http://118.233.28.52:50007/4gtv-4gtv053/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img//Asiatravel.png" group-title="運動休閒",亞洲旅遊台
+http://211.23.114.106:8513/http/61.221.81.94:8088/hls/76/818/ch61.m3u8
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv076
 http://118.233.28.52:50007/4gtv-4gtv076/index.m3u8?proxy=true
@@ -354,6 +387,7 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv059
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv059
 http://118.233.28.52:50007/4gtv-4gtv059/index.m3u8?proxy=true
 
+
 #EXTINF:-1 tvg-name="民視旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV7.png" group-title="運動休閒",民視旅遊台
 http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
 http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv07
@@ -369,10 +403,13 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv101
 http://118.233.28.52:50007/4gtv-4gtv101/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="運動休閒",緯來體育台
+
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 http://211.23.114.106:8528/http/60.251.39.91:8081/hls/210/10013/cstv13.m3u8 
 
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="運動休閒",DAZN 1
+http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+
 http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png" group-title="運動休閒",DAZN 2
@@ -443,6 +480,16 @@ http://118.233.28.52:50007/4gtv-live121/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="TV5MONDE Style" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",TV5MONDE Style
 http://118.233.28.52:50007/4gtv-live122/index.m3u8?proxy=true
 
+#EXTINF:-1 tvg-name="寵物頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",寵物頻道
+
+http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+#EXTINF:-1 tvg-name="KALOPY性感" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",KALOPY性感
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",Discovery
+
+http://125.227.210.55:8154/VideoInput/play.ts
+
+
 #EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://epg.iill.top/logo/MAGELLANTV.png" group-title="運動休閒", MagellanTV (麥哲倫頻道)
 http://118.233.28.52:50007/4gtv-live123/index.m3u8?proxy=true
 
@@ -476,6 +523,12 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv055
 http://118.233.28.52:50007/4gtv-4gtv055/index.m3u8?proxy=true
 
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV3.png" group-title="電影戲劇",东森戏剧
+http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
+
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+
+
 #EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://epg.iill.top/logo/靖天戲劇台.png" group-title="電影戲劇", 靖天戲劇
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv058
@@ -493,6 +546,8 @@ http://ezc.xtvantsc.xyz/litv.php?id=litv-ftv09
 http://118.233.28.52:50007/litv-ftv09/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="電影戲劇",龍華電影台
+http://cdn8.163189.xyz/163189/lhdy
+
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang03
 
 #EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png" group-title="電影戲劇",緯來戲劇
@@ -507,18 +562,28 @@ http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv006
 http://118.233.28.52:50007/4gtv-4gtv006/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="電影戲劇",龍華經典台
+http://cdn8.163189.xyz/163189/lhjd
+
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang21
 
 #EXTINF:-1 tvg-name="龍華洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png" group-title="電影戲劇",龍華洋片台
+http://cdn8.163189.xyz/163189/lhyp
+
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang02
 
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="電影戲劇",龍華日韓台
+http://cdn8.163189.xyz/163189/lhrh
+
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang11
 
 #EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="電影戲劇",龍華偶像台
+http://cdn8.163189.xyz/163189/lhox
+
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang12
 
 #EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="電影戲劇",龍華戲劇台
+http://cdn8.163189.xyz/163189/lhxj
+
 http://ezc.xtvantsc.xyz/litv.php?id=litv-xinchuang18
 
 #EXTINF:-1 tvg-id="MCE 我的歐洲電影台" tvg-name="MCE 我的歐洲電影台" tvg-logo="https://epg.iill.top/logo/MCE.png" group-title="電影戲劇", MCE 我的歐洲電影
@@ -534,9 +599,16 @@ http://118.233.28.52:50007/4gtv-live088/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live021/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="電影原聲台 CMusic" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cmusic.png" group-title="電影戲劇",電影原聲台 CMusic
+
 http://118.233.28.52:50007/4gtv-live031/index.m3u8?proxy=true
+#EXTINF:-1 tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DaVinci.png" group-title="兒童頻道",ANIMAX
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+#EXTINF:-1 tvg-name="YOYO" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DaVinci.png" group-title="兒童頻道",YOYO
+http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
 
 #EXTINF:-1 tvg-name="達文西頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/DaVinci.png" group-title="兒童頻道",達文西頻道
+
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv018
 
@@ -548,6 +620,10 @@ http://118.233.28.52:50007/4gtv-4gtv044/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy1.png" group-title="兒童頻道",靖洋卡通台
 http://ezc.xtvantsc.xyz/litv.php?id=4gtv-4gtv057
 http://118.233.28.52:50007/4gtv-4gtv057/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-name="龙华卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy1.png" group-title="兒童頻道",龙华卡通台
+
+http://cdn8.163189.xyz/163189/lhkt
 
 #EXTINF:-1 tvg-name="i-Fun動漫台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ifun2.png" group-title="兒童頻道",i-Fun動漫台
 http://xtvantsc.xyz/litv_ts.php?id=litv-ftv15
@@ -590,6 +666,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
