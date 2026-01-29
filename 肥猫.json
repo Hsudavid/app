@@ -315,6 +315,14 @@
       "logo": "https://diyp.112114.xyz/logo/{name}.png",
       "ua": "okhttp/4.12.0"
     },
+    {
+      "name": "smt",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/smt.m3u",
+       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "playerType": 2,
+      "ua": "judy/5.2.1"
+    },
  {  
        "name": "TW頻道",
        "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tv.m3u",
@@ -494,6 +502,7 @@
     }
   ]
 }
+
 
 
 
