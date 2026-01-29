@@ -21,16 +21,6 @@
       "logo": "https://diyp.112114.xyz/logo/{name}.png",
       "ua": "okhttp/4.12.0"
     },
- {
-      "name": "smt",
-    
-      "url": https://raw.githubusercontent.com/Hsudavid/app/main/smt.m3u",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-     "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0
-    },
-
-  
 
  {
       "name": "TW頻道",
@@ -43,6 +33,7 @@
       ]
 
 }
+
 
 
 
