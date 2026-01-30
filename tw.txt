@@ -62,7 +62,6 @@ ARIRANG阿里郎頻道,https://live.catvod.com/live.php?id=arirang_twn
 民視新聞台,https://live.catvod.com/live.php?id=ftvnew_taiwan
 三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 三立新聞HD,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
-TVBS新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 TVBS新聞台,https://live.catvod.com/live.php?id=tvbs_n
 三立新聞iNEWS,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 三立新聞iNEWS,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
@@ -79,7 +78,7 @@ CNN,https://live.catvod.com/live.php?id=cnn_twn
 緯來體育台,http://211.23.114.106:8528/http/60.251.39.91:8081/hls/210/10013/cstv13.m3u8
 DAZN 1,http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 DAZN 1,https://live.catvod.com/live.php?id=dazn1_twn
-DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+
 DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 DAZN 2,https://live.catvod.com/live.php?id=dazn2_twn
 momo綜合台,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
@@ -167,6 +166,7 @@ MOMO親子台,http://118.233.28.52:50007/4gtv-live107/index.m3u8?proxy=true
  History 歷史頻道,http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
  History 歷史頻道,http://37.27.111.214:8080/live/27/hls.m3u8
  CI 罪案偵查頻道,http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
