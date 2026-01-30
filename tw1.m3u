@@ -260,13 +260,13 @@ https://video.858.qzz.io/live/encrypted/NTAxNTc0MmI5NTU5ZjM0ODRkMjI0M2YxYjExMzUz
 
 
 
-#EXTINF:-1 tvg-name="非凡新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png" group-title="新聞財經",非凡新聞台
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
 https://live.catvod.com/live.php?id=feifannews_twn
 
 https://video.858.qzz.io/live/encrypted/MTUxY2MwMjNmMzFiODkzNDY5MjhkOGRiNjZmMGJiMTk6YmFjZWJiNWI5OTgwYmExOTcwYzE2ODY4YTBkNDBjMDk5ZjdkMjAyZGMwYTU1MjMyZjAzZTQzYTY5MDM4ZGExNTRjMTViOGEzNDg3MzQ3ZDVhNzFiYzNmNGJkYThhZDYxN2E0M2M3NmE1YzUzNmFkNzg4OWFiMzkwYzM2NzUzN2I2ZTRkYjRkMmZkNGRjZmM2ZTE3MGJhNWJiNTFjODQ2OTI3OWJlYzRlYTVmMDMxNWFjMzJmZThmZGUzMjMwNWJhMDQwYTYyNjM1NDdlOTBhNDFiZTZiZDU1NzlhMGI0Yjc1Yzg3ZDg4MDBiMzVlYzVlOTI3OTYzNWUwMmI3NmZiNDdmODc2ODJjMDkxOTBmZGZlN2ZiODA4OGNiYjViZmI3ZWJlYWRmOTMzYzcxYTcwNWFlYTRhYTNkODBjMzE0MDY4YzBjNmUyNzUzYjg0NjcwYmUzOWVmOWMzMmMyNGI3OTEzNTVmNmFlYzk4MWU4MzQ1NjRjODNjNGU0ZjYyZGQ0?username=tg_5ujizmpi
 
 
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" group-title="新聞財經",寰宇新聞台
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.iill.top/logo/寰宇新聞台.png" group-title="新聞財經", 寰宇新聞
 https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
 
 https://live.catvod.com/live.php?id=huanyuxinwen_twn
@@ -387,7 +387,7 @@ http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
 
 
 
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ROCKExtreme.png" group-title="運動休閒",ROCK Entertainment
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://epg.iill.top/logo/Rock-Entertainment.png" group-title="#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://epg.iill.top/logo/Rock-Entertainment.png" group-title="•台灣「限制」", Rock Entertainment「4gTV」", Rock Entertainment「4gTV」
 http://118.233.28.52:50007/4gtv-live080/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="ROCK ACTION" tvg-name="ROCK ACTION" tvg-logo="https://epg.iill.top/logo/Rock-Action.png" group-title="運動休閒", Rock Action
@@ -617,6 +617,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
