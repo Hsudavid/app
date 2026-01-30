@@ -4,13 +4,7 @@
   "spider": "https://tv.nxog.top/m/jar?id=index;md5;a6ebc84c6585b51653c3a29d56848185",
   "warningText": "tv提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
   "lives": [
-     {
-      "name": "catvod",
-      "url": "https://live.catvod.com/tv.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0"
-    },
+     
    {
       "name": "台灣酒店",
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw1.m3u",
@@ -19,7 +13,13 @@
       "ua": "okhttp/4.12.0"
     },
 
-
+{
+      "name": "catvod",
+      "url": "https://live.catvod.com/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+      "logo": "https://diyp.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/4.12.0"
+    },
    {
       "name": "Gather",
       "url": "https://tv.iill.top/m3u/Gather",
@@ -1184,6 +1184,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
