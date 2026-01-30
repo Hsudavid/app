@@ -34,17 +34,17 @@ https://video.858.qzz.io/live/encrypted/ODkwZDNkZmQ2ZDU4NmUxZWVkNmVkODIyZTA1NzIw
 
 #EXTINF:-1 tvg-name="中視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="綜合其他",中視HD
 https://live.catvod.com/live.php?id=zhongshihd_twn
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
 
 http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 
-https://video.858.qzz.io/live/encrypted/ZDU5NTBmZjM3OTQzOWIxNGZhOGVkMzRlZGYzNTJmMDQ6NDk1M2QzNzgwMGM2ODNmNjI4NzdhNDJhOTQ3Mjc4Mzc2NWZlYjNmNWQxM2E5Y2Q2MTY2YjUyYWY5ZDc4MGNmZTJjMTJmNTQ0ZWFhOTZlNmE0YzIzY2VmODcxMTE4ZTQ5OGY5YmEzZWVmMThmODA0MzQ5MWVlMzYyMjJjZDM1MTkzNzI0NDA5Y2ZmOWZiNmZjMTE5NzE4MDI0MTA2NjhiZjUwMmU1YzQxNThlYjJhNzNlMDM5YmZlMDBlYTdkYzY1YTFiOWQxNTExODU2MzlkYTBlZGE3Y2Y1MjdmZDdmZjYzYjhiZjA2ZWJhOTQxODUxYjk4NzBiMWZlNGRkZThmYmE0ZGI2MmI5Yzg2ZTU2OTgyZjdhOTM1MjFjY2UxOTZiMmI2N2QyODg3MmYyNzRiZDNlZjNiNmQ0MmU5M2RmNjdlZmMwOGQ4OTNmMmJkYzY5YWMzNjViNzBkM2JiNmY3NjRiMDdiNDAxNmNkOTE3ZWFjYzhjZGFjZDZjODRjYmUw?username=tg_5ujizmpi
 
 
 
 #EXTINF:-1 tvg-name="華視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" group-title="綜合其他",華視HD
 https://live.catvod.com/live.php?id=ctshd_twn
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
 
-https://video.858.qzz.io/live/encrypted/ZGY1OThiODY0N2UzMTQ2OTQ5ZGQ0ZDg5NjAzNGU4YTQ6YjRmMzNlNjZhMzFmNTQ0NjVmYThiODc5YTNjNjk2NTUzNDY2YTdhZjRlYzE5NmU1ZWMyN2IwMmI4MDgwOWVmYmIxMDk5NDRjZTk0MjFhYjAwYmQwYjdmYmEyYWMwOGVhNGExZWMwNDM0MDEzZThkN2FjNzE1MzIxMTZhN2MzMTg5MTA4MzFkZjZlNjJkZmVhZGZmMzEwNmRjYjA5NjM0ZjFlYjMxOWJiZDNhNWMxNGE1ZjU0YmQ2MjRjOGZmMjg3Mjg2NTY2OTllNzQ2ZmU5MDNmODJlMjU4YmEwZjBhYmM1MDg5ZWVjZTY2ZGFhZDZkZmY2ODJkYzZlOWYzZDViZmI5NGZhNWQ0NDU5ZTg3ZDJiOGE0ZDRjNjM0MDAyNGUwZjlkN2UwOWQxZmM0NGE3MTM3ODgzMGM1ODI0ZWZkNzRmZTY1MWM3YjA0ODkwYWQ0YWY0ODA2MTZhZmRlODViNg?username=tg_5ujizmpi
 
 
 
@@ -192,13 +192,16 @@ http://118.233.28.52:50007/4gtv-live048/index.m3u8?proxy=true
 http://118.233.28.52:50007/4gtv-live049/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="新聞財經",華視新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+
 http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+
 
 
 #EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="新聞財經",中視新聞台
 https://live.catvod.com/live.php?id=zhongshinews_twn
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
 
-https://video.858.qzz.io/live/encrypted/MGYzNjdmMWFhNDVjNWFlYWE0ZmMwNGUyNzgxNjk5OTk6Yzg4ZDU3NTJkMGRiNmRkOTZkMDA2NTBlMDgxNDFjOWJiODUyMjlkNWE2MTAxOThhMTEwNzQwOTg3NGExNDJiNDE1MmUzYTI2ODMxN2FjMjkxMjdiNWNmYWM2NzRlNDc0ZjMzODc2MjdiZGRlM2RiMmE2Yzg1ZmNjODU5NmI5YWM1MmJmNzE3ZThjMGM3YjM2YjhhNmZhYTZiMThkMTdjN2U3ZWM5OGRiMGZiYWFlOGZmYTE3YTFlZTRmZjRhNjdiNzQxMjgzZGY2OTM3MWY0YjcwYjZkYjgyOWRlM2UwNjk0ODFjZDBjZDhlY2I4ZTNlMjRkN2QxMjM2ZjY1ZWJhZjRhNDQ2ZDA5MGUxOTc5MjFjMTI5NDQyMDg4MzdhZDdlNzljOTUyNDZlNjEwYzUyNGNjZWIxYTMyYWYzOWVhYjNkMDgxN2JkYzRiYmRjZTM5ZTUxNThkNDgwNmU5ZTgwMTBkZjVjMDllOTFiOWI5Y2EyNmRhNGUyNzM5NTRjMWQ1?username=tg_5ujizmpi
 
 #EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="新聞財經",台視新聞台
 https://live.catvod.com/live.php?id=ttvnews_twn
@@ -221,9 +224,9 @@ https://live.catvod.com/live.php?id=ettvnews
 
 
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新聞財經",中天新聞台
-https://live.catvod.com/live.php?id=ctinews
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
 
-https://video.858.qzz.io/live/encrypted/MTZkM2M3MTM5MTU1ZGIyNWVmYjA0OTAyZWYxYjNlNDI6MWEwN2E3OTNiNjAyZjkzNDQ1ZWQ2NzY5ZTQ0OTMzYWE1MDY1YWI4ZjY0NTlkOTFlZTliOTU1MGQ1NmY4ODVkYjJmNzViMGI2OGI5OGExYTI5NjM0ZTZiMzU4OGJjOGU3YzhiM2Q2NjgzZDM0MTRmOTYwMzkzNDVlNzk1YWI4Njc5YTgzMjQzMzA0MDVjMzQzMjc3NDc3YmM3MGRlNTFiYjYxMTdiODhiNGE4YjJmOThmZDNjNzYyOGJjMGFiYmIzNjc4MGJjMTg1ZWY0NjVlYzlkYTkzNDMxNzlhOWU3OTdmMDcxNjZjZTIyOWFlN2IwM2U4NmI3MTk3YzUyYmE1MzlhNzM3NzYyZTkyZmE5Y2FkYzAxYzk4ODBjZjdjZjQ5ZWQ2MDNmNjE3NjQ0YmE1OTU4MjQxODY3MmY0MTk4NjIwZWQ5MWFiNTg3YTRjYmU5YmI5Y2MyNmNkZDQ0NjY3Yw?username=tg_5ujizmpi
+https://live.catvod.com/live.php?id=ctinews
 
 
 
@@ -238,9 +241,9 @@ http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-https://live.catvod.com/live.php?id=tvbs_n
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
 
-https://video.858.qzz.io/live/encrypted/OWMwOTliZWY5ZDdiYmI0ODQxMTkzN2RkOTc5OWQ0Yjk6OTQ1N2NlYWMxMjRlMzRiMTc1YzFhYTQwMGZmNDVhNDllNzUxNmQ2ZGNiOTExNjg0NjhkMTQ5MDQwZTI2YTdjNzgwNTIxMGQyYjNjOGM0Y2VhZTcxY2NjMThiZWJmMmIxYjg4YWM4NzM2Njg4MjEwZjU1OWExY2Q0MTZmOWVjOTY2YTFhOTkxMjkxNjgxZjhiNDgwOWM0YjNiMjY1MzQ5NWRiNmIxMTMwYTAyOWJmODU1NGRiODlmNjA1NDA0YTZmMTQ4Y2ZiYjZkYTg2M2U2OWM2OGM5MWNlYjQyNDc1MjMyNWY1YjdkMjczZGI5ZWNjMTYxOGU3ZWY2Zjg3ZDg4N2ViOTdmZjU2N2U1NGRiMmQyNTZlMjgyN2FlYWQwY2I5ZGVhMjdlZWVkNzVhMTA5ZDE2ZGJiYzI2ZWIxNDQxYzIzN2Y2NGI2ODM0YjI0NTU2YWNkNmVhOTlkNzVjNjUzOA?username=tg_5ujizmpi
+https://live.catvod.com/live.php?id=tvbs_n
 
 
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="新聞財經",三立新聞iNEWS
@@ -264,10 +267,16 @@ https://video.858.qzz.io/live/encrypted/MTUxY2MwMjNmMzFiODkzNDY5MjhkOGRiNjZmMGJi
 
 
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" group-title="新聞財經",寰宇新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+
 https://live.catvod.com/live.php?id=huanyuxinwen_twn
 
-https://video.858.qzz.io/live/encrypted/NTJmNmY5NjM3YzIwYjc3Y2VmYWVlNGM1NjdiMjU2MmM6OTRkMTJhODdiNWQ4OGM1YmRjYTZjOGIxY2Q2NTY4NDBmZDgxNzNjNGZkMGQwNjM3NTExM2Y4MmM4Njg2ZGNkMjhkNmVhMmZiNGI1NzMwNjY3YjAwZGY2YTAzNmIwODMwYzQ0YTc3ZTZhN2Q4MzFmODM3NzYwNmFkOTc3NzRmNjI4NWFiMjEwNGMzOTQ3OGZiYzhjY2I2OTVkODM4ZWQ5ZjZmZjE5Y2U4ZDYzYjAzYjI1YmI4NTZiYTYzMDQxMWM0N2MwMjIyMjcxMDMwNGRiZjEwOTdlNmU2MDkxM2Y1ZmEwODVjMzNmNTJhNTJjODY1YmVjNDRlN2MxYTFmNzY3MGNlNTA5ZjZiMTMwNjViMjVlNzhmNGZhOGFjMmRkNmMyYTI0MDMzMmU0ZjA4MzA4YjkxZTg0ZGUwZjI2NDQzMTg5N2ViOWRiMzIzNjhmYjNmZTUwZWFhY2FhZjc4YTZlNGVlODFiOGFiMTg2ZmQ0MGU0MGFjMDg2Yjc1MzYxNDI1?username=tg_5ujizmpi
 
+#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global4.png" group-title="新聞財經",寰宇財經台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
 
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png" group-title="新聞財經",CNN
@@ -343,6 +352,8 @@ https://live.catvod.com/live.php?id=videolandmax
 
 
 #EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img//Asiatravel.png" group-title="運動休閒",亞洲旅遊台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+
 
 https://video.858.qzz.io/live/encrypted/YjgyMTg1M2I1ZTZjZTc4YzBiNjk2Mjk5N2VjNDE0MWE6NGFhZmU1YTRmNjZiNjcwMTNkNzVmNWE5YTA0Zjc2NmRiYmQwODM3MTE1ZDU3YWE0YmFmNGNjNGM0ZDFhMWM2MWUwM2ZhZTM0NzM1YmNhMTJhMmRjN2UyYjQ0OTY2YTU1NTlmMjgxZTI3OWJhNTQ2NDdhYjRkYWJhNmYzOTY1YTE5MmJjZGQ2YWE4MWE3ZmZlZjdkYTYyYjMyMmFiOTQxNGI2YTA1YzljZmMwNDcyZWY0OTJhNTkyNDI3Y2NhMGE5NjRjY2JlMmFmYjQ3ZDljNGQ0MDkwYjFmMDc0OTliM2EwODVmYzdmODE4OGZhMDFiODQ3YWEyZDNjODUxNTdmMDgyY2UzYmVlMTQwYzE4YzY3ZjQ4ODVhOWMyYTY3MmY5MTY0MDljNjRjNGE3MWM1YTg1ODk2NWVjZGI5MGVmMWYxZjIxMGY5MjU5NTY4NTc2OWQyYjkyODYzYWJhNGYyZjhiNzJkMWFmYTkzN2EwZGI1MzNjMDY3MWJkNWUzNmRm?username=tg_5ujizmpi
 
@@ -606,6 +617,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
