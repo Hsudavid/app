@@ -205,8 +205,6 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-name="壹電視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV2.png" group-title="新聞財經",壹電視新聞台
 http://211.23.114.106:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
-#EXTINF:-1 tvg-name="壹電視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV2.png" group-title="新聞財經",壹電視新聞台
-http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 
 #EXTINF:-1 tvg-name="壹電視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV2.png" group-title="新聞財經",壹電視新聞台
 http://211.23.114.106:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8 
@@ -218,7 +216,7 @@ http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
 
 htt#EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ERA2.png" group-title="新聞財經",年代新聞
-ps://live.catvod.com/live.php?id=niandainews_twn
+http://live.catvod.com/live.php?id=niandainews_twn
 
 
 #EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="新聞財經",東森新聞台
