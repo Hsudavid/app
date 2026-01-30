@@ -52,10 +52,10 @@ ARIRANG阿里郎頻道,https://live.catvod.com/live.php?id=arirang_twn
 中視新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
 台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 壹電視新聞台,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-壹電視新聞台,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
 壹電視新聞台,http://211.23.114.106:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
+年代新聞,http://live.catvod.com/live.php?id=niandainews_twn
 東森新聞台,https://live.catvod.com/live.php?id=ettvnews
 中天新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
 中天新聞台,https://live.catvod.com/live.php?id=ctinews
@@ -167,6 +167,7 @@ MOMO親子台,http://118.233.28.52:50007/4gtv-live107/index.m3u8?proxy=true
  History 歷史頻道,http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
  History 歷史頻道,http://37.27.111.214:8080/live/27/hls.m3u8
  CI 罪案偵查頻道,http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
