@@ -242,8 +242,7 @@ http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 
 
-#EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+
 
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
 https://live.catvod.com/live.php?id=tvbs_n
@@ -301,9 +300,6 @@ http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="運動休閒",DAZN 1
 https://live.catvod.com/live.php?id=dazn1_twn
-
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="運動休閒",DAZN 1
-http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png" group-title="運動休閒",DAZN 2
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
