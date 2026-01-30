@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 
 #EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png" group-title="綜合其他",民視台灣台
 https://live.catvod.com/live.php?id=ftvtaiwan_twn
@@ -72,6 +72,10 @@ https://video.858.qzz.io/live/encrypted/Yzc3Y2RkN2Y5MGUyYzc2ZTQ0MWRkMzRlMzFhNDY3
 https://video.858.qzz.io/live/encrypted/MmE3NTZhOWJkMDI3ZDUyNmUxNTkzOGIzYWZmYzVhNjE6ODQ1MmFlNTA3OTVhZDU0N2U0YjdhNWY2OThlODhmYjZlNDFjNWE2MmExM2QzOTA4ZmJkNjU5ZDQ4NDVlMmRlNjllZjVkZmE0N2IxZGM2NTMyMmQ0NDgzMDg3N2I1MDEwZWI0OTQ1MzJjOTA5MTJlYmI4NmRkNjc3NzBjOGNlMmVhMWVmYTU1MGY5N2NiN2FmNDQ1ZDM5MDU2NTU5ZTQ1ZmNlNWIxNDVmNWVmNjZkOWEzYzgzMzczNzJiMzhiMTY0NmVkMWVhMjU5NDA3YTIyNDBlNDFmZDAzODQyZDdjMGYyYjk4ZjI4ZGJmNTQzYzg5YzA1ZTQ1MmFiNjZkOTIzYmQ5ZjI1MjVhZmEyNTU2ODQ1MWYxZWQ4ZTM5NWIxYTI4MTJkMTQ0ZmZiM2NkMjg4NWE1MzBiNjlmMzIwMTkxOGI3NWE3ZGFjNmY0ZDE5NmNiZjE5MTk5YzVlMWExNTFiZA?username=tg_5ujizmpi
 
 https://live.catvod.com/live.php?id=badazhonghe
+
+#EXTINF:-1 tvg-name="八大娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV3.png" group-title="綜合其他",八大娛樂台
+
+https://live.catvod.com/live.php?id=badaentertain
 
 
 #EXTINF:-1 tvg-name="緯來綜合HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland1.png" group-title="綜合其他",緯來綜合HD
@@ -169,8 +173,6 @@ https://video.858.qzz.io/live/encrypted/ZjZmZWFlZmRhYmVlMjc5MDViODE0ZTA3NjI4ODA5
 http://118.233.28.52:50007/4gtv-live008/index.m3u8?proxy=true
 
 
-#EXTINF:-1 tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="綜合其他",HITS
-http://118.233.28.52:50007/4gtv-live620/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jgbdx.png" group-title="綜合其他",金光布袋戲
 http://118.233.28.52:50007/4gtv-live144/index.m3u8?proxy=true
@@ -403,16 +405,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-name="Discovery亞洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="運動休閒",Discovery亞洲
 
 http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1 tvg-name="艾爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5" group-title="運動休閒",艾爾達體育1台
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5" group-title="運動休閒",愛爾達體育1台
 
 https://live.catvod.com/live.php?id=eltasport1_twn
 
-#EXTINF:-1 tvg-name="艾爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5" group-title="運動休閒",艾爾達體育2台
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5" group-title="運動休閒",愛爾達體育2台
 https://live.catvod.com/live.php?id=eltasport2_twn
 
 https://video.858.qzz.io/live/encrypted/ZTVkNDcyN2IwYWZmZDJlZjFkZWRlYWFiN2EzODI0MzY6YzQ0MzVhODRiNTIyMGEwYjMyZDhiZmM0NzAzNzFhNGEyNThkYmJkZDc5OWE0MDEyODllNmY4ZTY3NWJkZWE2MWUxOGM0Y2Q1YzY1Yjc1YzcyZDkxOTk0ZTdhNjYzYjllOWI5OGRhOTQ0MGJiNjczN2UxOTk2Y2Q3NzcwMjQ0MGFlYzQwYjJjZDBjZmUxMGY0ZmY0YjM2MzAwOTk2NjZmNDBkZmVmMjU5OTdkYjNlNzIwNWU0MGIzNGYwNThjNWZlZmM3ZmEzYTMwNjJmNzU2OWQ5MjU0YTZkMzM5YmQ2ZmNmNDRjZWM5ZjcxYWJmMGNmZjYxNDU2MmU0MTRkZTY3MmQ4NzdiMTk0NzE4YTQ1ZmZhMGI3OGJiNDhkNTZiZjMwNWIwZDQ1OWIwNWZiYWY2MzUyNzQ4ZjEwYzgxMzAzYTlmZTc4NzIyYjgzZWIxYTMyZDM4ZDEwNzJiYzU0YjJmNWY4ZDU0ZjU1OTQyMGZlOTc4YjczNDM2MWE0MDExYmNm?username=tg_5ujizmpi
 
-#EXTINF:-1 tvg-name="艾爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",艾爾達體育3台
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
 https://live.catvod.com/live.php?id=eltasport3_twn
 
 https://video.858.qzz.io/live/encrypted/OWNlMjQyOGFjMzAxMzdjNWQwMWU2YjAzNzRiYjg1YTg6OGE1ZjYxYmNjYjI1Y2VlMGE0OWRkYzExNTJkMDU3Y2Y2NjYzYzU2MDZmZTZlZDdkZWU2N2NkMTM3NzNkMzBkODhiNjkyNTM3NjY3ZDE2MTQ1N2QxNjBjZTNkNWRkZjA2NTZkOGM5Mzk3OWFhNDdjOGIxY2Y4ZWNlYzg4MzlmMjM4MTAwNDRhZTFlMTE5ODQyYzRkMDEwZmM2YmExYzI3NGFlMjlhMjllYTAyMmI2MTY0MjkzNDNiNDEwNGJkZWU2MTVlNTJkMTc0NmI5YzdjODdmOTUwY2M5MDcxMDdmMzY2ZWM4ZDAzMjlkMWVhMTlkYmQyNGU0ZGVkNWM5ZDBkZmI5ODc1YWNhOTQyNDA5M2Q2Yzc2ZjM4M2M3ZjkxYzFmNzgwMDc1ZWRlNDdmNjNlMTRiMGJhNTQ2MDYwNGJjM2RiMGZkOTMyYWI5NWU1YzU1Y2ZkZWI5MTgzODllYzQxYjAzMTZiNWM3N2U0ZGZlZDlkNTNiNjU0YjgyY2U2NTgx?username=tg_5ujizmpi
@@ -437,12 +439,10 @@ https://live.catvod.com/live.php?id=ettvmovie
 
 https://video.858.qzz.io/live/encrypted/Yzg5NDE1YjAzOTJjZDE4ZDNhZjAwN2YzZWFiMmIyZTI6ZDQ4OGViMGJhMjNkNTA4Yzc3MjQxMTI1YjJhNDg1MzcxN2MxYmVjN2I1MGRmY2E1Mzc4MmUwZjdkZjc2MTRlNjBmN2M5Njk2ZjRkOGRjMTJmZTBmNTRiZGEyM2Y3YTFkODFkYjAwMjQ3NTYwMjBhYTE2M2MyYmI4Nzc3NzUwNzkwMzc2OThiZTI1MmRkN2Y4NDkxZjNkMDIwNDBjYzViZGQxNzg4YmFiMGZhZGFlMWZjYTNmYzg1MjZkMzEzMWVjOTdhYTA0ZWQxMWFlMzU1ZmViMWY1OGFhNTQ2M2Y5ZGQxODA4MDM5ZDM3OGIxYTQxNzI2OWRhNzNlODNhZTMxMzJjYTYwZDFkZDUwZDVjM2I3OTQxYzBjZTlhMTIyZTU0YWU4YWI1ZmMzMWRiMjBkYjg4NGUzZmE3MDFlM2NmZDUxYjMyYWExMjdjMzNiMTIzMDdlMzExZGNhNzE5N2JlYQ?username=tg_5ujizmpi
 
-#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="電影戲劇",东森洋片
+#EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC4.png" group-title="電影戲劇",東森洋片
 
 https://live.catvod.com/live.php?id=ettvwestern
 
-#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="電影戲劇",龍華電影台
-http://cdn8.163189.xyz/163189/lhdy
 
 #EXTINF:-1 tvg-name="三立戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET6.png" group-title="電影戲劇",三立戲劇台
 https://live.catvod.com/live.php?id=sanlixiju_twn
@@ -454,9 +454,8 @@ https://live.catvod.com/live.php?id=badadrama
 
 https://video.858.qzz.io/live/encrypted/Y2UzNWVlOTU4MmQyYTNhMTI1ODY1MzNkNmRmN2YxOWY6YWIxYjdhMzhmZjFlNThlMjY5ZDM2N2YxNDRiZTMxMjgyYjhkNWY5MTg2YzlmNzJlZDZkMzRkODg1ZDRiMzU5MjYwZWJiMTAyM2M2OGYyY2NhMzRkMWViNzkzZDM2M2UwZDQ2MWZkZWMyMDBhYjZjYjRmNTM5MzNjNzQyZDcyYmFlOTc5MTI1OTdhZTc4MTFkNzEzOTEyMWRmY2RhNjYyYTQwNTQ0NWQzZWU3NjhmMDE4YmMzOTIxODk0ZWE4YWEzYTliMWQzNDg1ODdlM2U1NTE1YzNiNWMzNTEyMDg2MWM4OGFkODI1MWZlNjkzMjE4NzMwZWVhMzIyNThlZDRjZGI5MzRmNzRhZmNlYzljNWY3NjcxZWMzMjQ4NzQwMGFlY2UzOTYwMmI4YjVkMTIzODRmZWI3YjhhYmNlZGQ1MGMyZWY1MzJlZjgzMDUzMThiYTU1NTE1YWQ4MTM1YTU3OQ?username=tg_5ujizmpi
 
-#EXTINF:-1 tvg-name="八大娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV4.png" group-title="電影戲劇",八大娱乐
-
-https://live.catvod.com/live.php?id=badaentertain
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
+http://118.233.28.52:50007/4gtv-live088/index.m3u8?proxy=true
 
 
 
@@ -468,7 +467,7 @@ https://live.catvod.com/live.php?id=videolandmovie
 
 https://video.858.qzz.io/live/encrypted/ODFkOWU3Mzc3ZWU1OWIxNjgzYWYwMzdiMWMxNTI3Mzc6NGE0MzlhZTA4Y2Y0OGY0NTZmMDYyOGNiMDUxNjM5M2IzMDFjMjNmZTM2NjNkMjJlMmI5Yjc3MmI5YTZiZTczMDcyODFmNDlhZDBmNzQ2NWNiMTkxZTBkMTVjZjg3NWIzNDUyMzBmMGE3MDExYjMwYzBmZTYyMzI0YWE2ZGY3YTcwY2Y0Nzk4MGZmMDdjMjkwMGM0ZWJlMzIyMTcyM2RjMmYyZjcxMzdiZjllZTc3ZmJiNWUyZWNjZmFmNjNiZGQ1MmFlYTU1ODQ3MDNlNWVjZDJjMGNkMzI1ZWRiNzMyYTllM2U3NGNhNWJlODc1ZWY2YmVhMTMwZWZmZmRjMjM3ZmUyYzVmODZkNGQ5MGFhYjgwNGJjMGVmNjQ2MjYzM2EwZDkxZjBmNDUzMDY2NGIyYjA0Y2E5ODRhMWVkMTliZGM0NmRjMDQwYTJhMTIxMzk2YmQ5Y2NiN2YwMDUwZmY4NTE1NjEyNDM4OGQ0ZTI4NTdkMzRjZTU4ZTcwYzNiMjYw?username=tg_5ujizmpi
 
-#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="電影戲劇",HBO_HD
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="電影戲劇",HBO_HD
 
 https://live.catvod.com/live.php?id=hbohd_twn
 
@@ -476,7 +475,7 @@ https://live.catvod.com/live.php?id=hbohd_twn
 https://live.catvod.com/live.php?id=hbosignature_twn
 
 
-#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="電影戲劇",HBO_HITS
+#EXTINF:-1 tvg-name="HBO_HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="電影戲劇",HBO_HITS
 https://live.catvod.com/live.php?id=hbohits_twn
 
 https://video.858.qzz.io/live/encrypted/ODUyMGQ5ZmNiNDJkOTM2YTY1NTg2NjNiNjk5YTE5ZGU6ZDRkMTUzM2ZiZjJhODUxN2MxMmU5ODRhMjZhYzhlZTMxZWMxN2UyYTA2YWYzNjExYTYyNDFmYTU4YmY1MjJkZTBjMzQ2NDU0MjBlMGRlZjFkY2I5ZDhkZGRmZDNiZWJmYmYyNTk2Y2RmNTVjMzBjNDQwOTc1NmJmODUxMmIxZWQ2M2FiMDMxY2QxODYxOGJlYzZkMzU5YjcxNWY5NzMzNjFhNzUyYjc0NDdiZDMwNTI4NzRlYzE0ZjllZDVjN2Y0YzljYTQ2NGUzMDVkNWRlZDVmZmE1N2Y0NmZhMTY2YWYzMTI4MWYxN2ZlNTEyOTFlYjcxYTE0MzFjNjM5MmVmMWU2YjZjOGU2NzI0N2JiMDZiNmE5NjMxN2QyN2FkOTRmMzMyZTlmNWJlYWI2NzNhMTIwMmI5ZTZjNGJlMmRhMThlNGY3MGQzN2RmZmRkY2NjMzdkYjU0NDkzMGQ1MjBlMw?username=tg_5ujizmpi
@@ -500,6 +499,9 @@ https://video.858.qzz.io/live/encrypted/OTkwNWIyZTExNmQ4MjEwZDVhNWMxOWY3Yzk2MjYw
 https://live.catvod.com/live.php?id=meiyamovie_twn
 
 https://video.858.qzz.io/live/encrypted/ODBiMDZhMmI5YWQ0MzUyMTliZmQ1MjhhMzQ2OWNlYWY6NmU4MGU2OTcwMGViODI4MzVhYzMwZjMxZWI5NWM3Y2EzNWUxMDk4YzIzMjdlNzY1ZmQyMTFjMWVhZjJjZTZiZTgzM2RkMTAzYjBiZTY1YzQzMzY3MThjN2JhNjIwMzdiZjIyNDljYzhjNzBmMjRjNDAzMGU3ZjAxMTYwNzcxMGNmMTBlY2QzYzI5NjhhNjNiNDY2ZDQ4NTdmZDNmOGI1ZjZlMzZhZWE1YWMxZjA0MjJlM2MyODY5M2Q1NGMxZDQ5OWJhMjQ4MDYzODFkMTYzOGMzNzZmMGVkYWNkNWYzZDA1NDQzNmFkYjVlMzA0ZTQxN2I0MWE5M2ZjODVhYTdkYzU4NmRiMzcwMzk3ODRkNDljOTYxZmE1NmVkYWJjZmNjZjBjOTcyODVjMjUyMGQzZmQ2NmU1MTNjYjE2MzE4YmU0YWEwMGY0YjZkMjU2YjlhNzk2MjM3OWE3ZTQ1ZTJkNjE4ZjE1MWMwNDA5ZWU4ZmFlMTJmOGNjOTI3MDNiM2Ey?username=tg_5ujizmpi
+
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="電影戲劇",龍華電影台
+http://cdn8.163189.xyz/163189/lhdy
 
 
 #EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="電影戲劇",龍華經典台
@@ -526,7 +528,7 @@ https://video.858.qzz.io/live/encrypted/NTVjYTVmNjQyNGExNGVjYmE3YjRhMjdiZjI3MTdi
 http://cdn8.163189.xyz/163189/lhxj
 https://live.catvod.com/live.php?id=lunghuaxiju_twn
 
-#EXTINF:-1 tvg-name="爱尔达戏剧台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="電影戲劇",爱尔达戏剧台
+#EXTINF:-1 tvg-name="愛爾達戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA2.png" group-title="電影戲劇",愛爾達戲劇台
 
 https://live.catvod.com/live.php?id=eltadrama_twn
 
@@ -539,11 +541,11 @@ https://live.catvod.com/live.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="卫视中文台" tvg-name="華藝戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huayi3.png" group-title="電影戲劇",華藝中文台
 https://live.catvod.com/live.php?id=weishichinese_twn
 
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="電影戲劇",HITS
+http://118.233.28.52:50007/4gtv-live620/index.m3u8?proxy=true
 
 
 
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
-http://118.233.28.52:50007/4gtv-live088/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://epg.iill.top/logo/經典電影台.png" group-title="電影戲劇", 經典電影
 http://118.233.28.52:50007/4gtv-live021/index.m3u8?proxy=true
@@ -605,6 +607,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
