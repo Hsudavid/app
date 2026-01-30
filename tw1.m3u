@@ -3,9 +3,10 @@
 #EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png" group-title="綜合其他",民視台灣台
 https://live.catvod.com/live.php?id=ftvtaiwan_twn
 
+http://118.233.28.52:50007/4gtv-4gtv001/index.m3u8?proxy=true
+
 https://video.858.qzz.io/live/encrypted/ODU2YjE0MGZkNWU0OGE1ZjY2Njk1ZDg5YzVlMDYzM2E6MTM3NTY3YjcwODllYjA1YzRkNzI1M2JlYzg2MjM1MTQ3YjI3NDk0NWQ4NDM2NTI2YjQyNzc5ODJlNjgzYmYyMDc3OWYyOWQyNTc5ZjljYjlkMjQxNDlmMTg3MWQzYWRiODBlMmFmNTUwNWE3NTFiMDNjMGJiOTYxN2JkYTdmYzM5MTE3NjBiOGZjZDljYzNlNTUzYzRkM2E5ZDQ2ZTJlYzU1NmM0NjYzOGU5NzY1MjY5MmYxYTIyMWJlY2Y0YzBmODAyOTVhZTJiZTBmZDNkNGY3YjY4MWU1MTc3ODc0YzYyZjUzYWI5MDE0NjM5MmE2OTdlYmEzODFjZWRjMWJiMWU0NWVjYjZlMjU5NmJkNmRkYzk4NjQxOTNkYTZjMzgyZTRkNWMxYjU1ODJjOTRjNTdjMzUyZDYwNTMwMzQyMmM4MzJjOTExYjA3NzFlNTEzZDNhYjdiM2RmNmU3NDIzMTZmZWNhMTJmOGY5NDFkZjcwM2Y4NWFlM2YyZDk3NzRj?username=tg_5ujizmpi
 
-http://118.233.28.52:50007/4gtv-4gtv001/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="民視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png" group-title="綜合其他",民視HD
 https://live.catvod.com/live.php?id=ftvhd_taiwan
@@ -34,9 +35,10 @@ https://video.858.qzz.io/live/encrypted/ODkwZDNkZmQ2ZDU4NmUxZWVkNmVkODIyZTA1NzIw
 #EXTINF:-1 tvg-name="中視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="綜合其他",中視HD
 https://live.catvod.com/live.php?id=zhongshihd_twn
 
+http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+
 https://video.858.qzz.io/live/encrypted/ZDU5NTBmZjM3OTQzOWIxNGZhOGVkMzRlZGYzNTJmMDQ6NDk1M2QzNzgwMGM2ODNmNjI4NzdhNDJhOTQ3Mjc4Mzc2NWZlYjNmNWQxM2E5Y2Q2MTY2YjUyYWY5ZDc4MGNmZTJjMTJmNTQ0ZWFhOTZlNmE0YzIzY2VmODcxMTE4ZTQ5OGY5YmEzZWVmMThmODA0MzQ5MWVlMzYyMjJjZDM1MTkzNzI0NDA5Y2ZmOWZiNmZjMTE5NzE4MDI0MTA2NjhiZjUwMmU1YzQxNThlYjJhNzNlMDM5YmZlMDBlYTdkYzY1YTFiOWQxNTExODU2MzlkYTBlZGE3Y2Y1MjdmZDdmZjYzYjhiZjA2ZWJhOTQxODUxYjk4NzBiMWZlNGRkZThmYmE0ZGI2MmI5Yzg2ZTU2OTgyZjdhOTM1MjFjY2UxOTZiMmI2N2QyODg3MmYyNzRiZDNlZjNiNmQ0MmU5M2RmNjdlZmMwOGQ4OTNmMmJkYzY5YWMzNjViNzBkM2JiNmY3NjRiMDdiNDAxNmNkOTE3ZWFjYzhjZGFjZDZjODRjYmUw?username=tg_5ujizmpi
 
-http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 
 
 #EXTINF:-1 tvg-name="華視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" group-title="綜合其他",華視HD
@@ -161,12 +163,11 @@ http://118.233.28.52:50007/4gtv-live050/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="大愛電視台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Daai1.png" group-title="綜合其他",大愛電視台
 https://live.catvod.com/live.php?id=daai_twn
 
-https://video.858.qzz.io/live/encrypted/YjdlODJmZTFkM2NhOTQ5MjVlOTYyNzQyOTMzMjQzZTE6ODFhYzBlMTI5MTYzNDFmNjE5OGZlMGVjZTA4YjBkYzFmMGE5ZjZlMzg2M2RiY2E5ZGI4NWMyMTMyOTBmNTI2OTlhZWY5NWI0MjM1ZDQ4Y2Q0Njc5NDAxZjc2NDI3MWU5MjlkMDBmMzc5ZDgwNjUxYjU0ZmY0OTJjZTAyNmI3OWNmYmM5MzM0YjhjOTc2ZTY3ZDg4ZDVkM2M4ZThiZDhmYmE1Mjc5ODBjZTE2NjBkZWU0OTFjNmJiNjczOTI2NGZiOWUzNDZmNGEzYmNlZmRlZDRmMDMxNGViODkzNjA0NTRjY2MyZTY1NDNiNWJmZWQ2N2MxYzY4ODAzMjUyODQwZGI3YjMwMmJhZjQzNTY4ZDBmZTI3NWNiNWE2YzM2YmRjYzk0ODYxOTA5N2Q0ZTc5OTRlYmZiMDEwOTIwZTczMGU1NzJiODAxM2Y2ODQ0ZTJiYTIzMGIxODViYjMxNTRjMQ?username=tg_5ujizmpi
-
 http://118.233.28.52:50007/4gtv-live007/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Daai2.png" group-title="綜合其他",大愛二台
 http://118.233.28.52:50007/4gtv-live106/index.m3u8?proxy=true
+
 https://video.858.qzz.io/live/encrypted/ZjZmZWFlZmRhYmVlMjc5MDViODE0ZTA3NjI4ODA5NDc6OTAyODhmZmE5NjQ0ZGZkYmFjOTQxM2Y4NGY5MWY4MjdmYWQyMjE3NjZjMmVlN2I4NjU4YTY1YzZjOTRiYjU1ZDFkZmQ5Y2JiYjU1OTQ4NzRhMGI2MzI3YzM0MWU0MWM3MDg2NTE4NTQxZmRhOTBkZTRlZTZiMjlkOWFlYWMyMWY3MDA4YTA2ZGYwMGQ3NzNmYzdjZDQxOTNmYjM2NjJhZDhjNTFkZDNmYmJhNDljZDExMTU0MjVhY2NmNDg5ZTBiZjA5OGQwODQxOTUyYzY0NGFlYTEzNmUzZjA5YzE5YTRkYzA3ZjlkMzk3ZWQxYjYzYjIyMDdlYmMwODNiY2YwYzA5OWJhMWQ4MjhkM2I0ZGY0N2I5YWVlNmI3Mzg2NTE3Y2YzZmViNjI1ZTI5ZTdkNDk2NTA4NzY0ODNjMWJjMjNmMDcxYTVkZWZkYjNiODgzZjU2NTZiNjAwY2YzYjMxZQ?username=tg_5ujizmpi
 
 #EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BLTV.png" group-title="綜合其他",人間衛視
@@ -179,11 +180,9 @@ http://118.233.28.52:50007/4gtv-live144/index.m3u8?proxy=true
 
 
 #EXTINF:-1 tvg-name="東森購物1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物1台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv102
 http://118.233.28.52:50007/4gtv-live047/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="東森購物2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物2台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
 http://118.233.28.52:50007/4gtv-live046/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="東森購物3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物3台
@@ -275,47 +274,6 @@ https://video.858.qzz.io/live/encrypted/NTJmNmY5NjM3YzIwYjc3Y2VmYWVlNGM1NjdiMjU2
 https://live.catvod.com/live.php?id=cnn_twn
 
 
-#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="運動休閒",緯來育樂
-
-https://live.catvod.com/live.php?id=videolandmax
-
-
-#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img//Asiatravel.png" group-title="運動休閒",亞洲旅遊台
-
-https://video.858.qzz.io/live/encrypted/YjgyMTg1M2I1ZTZjZTc4YzBiNjk2Mjk5N2VjNDE0MWE6NGFhZmU1YTRmNjZiNjcwMTNkNzVmNWE5YTA0Zjc2NmRiYmQwODM3MTE1ZDU3YWE0YmFmNGNjNGM0ZDFhMWM2MWUwM2ZhZTM0NzM1YmNhMTJhMmRjN2UyYjQ0OTY2YTU1NTlmMjgxZTI3OWJhNTQ2NDdhYjRkYWJhNmYzOTY1YTE5MmJjZGQ2YWE4MWE3ZmZlZjdkYTYyYjMyMmFiOTQxNGI2YTA1YzljZmMwNDcyZWY0OTJhNTkyNDI3Y2NhMGE5NjRjY2JlMmFmYjQ3ZDljNGQ0MDkwYjFmMDc0OTliM2EwODVmYzdmODE4OGZhMDFiODQ3YWEyZDNjODUxNTdmMDgyY2UzYmVlMTQwYzE4YzY3ZjQ4ODVhOWMyYTY3MmY5MTY0MDljNjRjNGE3MWM1YTg1ODk2NWVjZGI5MGVmMWYxZjIxMGY5MjU5NTY4NTc2OWQyYjkyODYzYWJhNGYyZjhiNzJkMWFmYTkzN2EwZGI1MzNjMDY3MWJkNWUzNmRm?username=tg_5ujizmpi
-
-#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AsianFood.png" group-title="運動休閒",亞洲美食
-https://live.catvod.com/live.php?id=afc_twn
-https://live.catvod.com/live.php?id=Afc
-
-https://video.858.qzz.io/live/encrypted/ZGI3ZWJmMGM1YmUxODQ0YmEwODQ2OTZmYTM1MWQyNGM6MjRkYjIzOGNkYmQ0MjU4NDBmZmM4NTNiMzM5MjYxN2U3MjIyMTI4ZmUwODFjYTNiYjBjMzA0MDY5NGM4YTllYTVjMWZlZWFmMjlmYzBiODYwZGY0ZWYzMzNhM2EzNzM4YmExYjlmYzAwYzRiMDUwNGRiMGY1MDMxYmFkOWE2YmU1NDc1MjBhYTI5N2ViZDM5YTNkYTU5OGY5NTdkOTQ5MWU5NDE4ZTc4YWJlYTg2NWI2NTY3N2VhZDgwOTk4OGU0MGU2ZWRjNGRhOTMwZDZlYmE3NmNlNTQ0N2M4YTNlNTc4Mjk0ZTFkYTM5YjY0NmZiODAwNWFlZDM5NDQyODU1YjM5ZjIzYzJlMzdkYTc0MWZkNjI4NjRhMGIzY2M2MTVkZmNiN2FjODVlMGU4YjRkNzM5YzU1ZDYxYmJhNzBjOTk0NDc4Y2MzMTllMDQ0OGY5ZDc5MjJkODYzOGVjNGViNQ?username=tg_5ujizmpi
-
-#EXTINF:-1 tvg-name="TLC旅遊生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png" group-title="運動休閒",TLC旅遊生活
-https://live.catvod.com/live.php?id=tlc_twn
-
-https://video.858.qzz.io/live/encrypted/MGJjNzgyNmM5MzBiNWI2YmQ3YzdmYWEyZDg0ODFjYmU6MTJhMzJkNTY1NzY4ZTQ2ZDVmNmRmMTY0Y2Q5MGQ3MTYzZjdiYjRiN2NjMjFhNjliNjY5OWQzMzE3YzQ0YWRiNzE5ZGI5YWE5YTJlMGQyNmE2ZjA3NzY5NzM0OWM0NzI5YjE3NDAxYmU2MmYzY2VhNjAxZjZiZTdiNWQ5MDI4NzBmOTMxNjgwOGZiMzZjYWE3N2E2NWYyMTA2MDJkNzcyNDE0NWY5ODgyODg1NzYzNjEwNTRjZDlkMDhhN2M4ZTkxOGU2MTMwODhlNzY4ZmIyODhkOTZiMTJiODRlYzY4ODY0ZTE5ZTM0MGQxODZkZDM2ODk2YWViOWFmMzExZjgzYmFiN2I4ODhmZWZhOGU3MThhZWVjODI1YWIwMDRkYzA2MTY2YTMyMDJhNTVhN2Q3NThjZTk5NWRmZDkzZDk2NGFiNjNiYzA3MmU2YjRiYzkxMjQ1OTg2NzVlOTAyNzhjYQ?username=tg_5ujizmpi
-
-#EXTINF:-1 tvg-name="EYETV 旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EYE2.png" group-title="運動休閒",EYETV 旅游
-
-https://live.catvod.com/live.php?id=eyetvtravel_twn
-
-
-
-#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="運動休閒",AXN Taiwan
-https://live.catvod.com/live.php?id=axn_twn
-
-https://video.858.qzz.io/live/encrypted/ODQzOThiZjc5ODlmMDFlNzY1NzM5OGJiMjcwNjExZmQ6NWQxZDYyZTZhZjUwNjkwYWVhYjA4MzlhMjU5ZTI5ZmJhNWE4M2MxMWU1MDRlODEwNDE0NzU4NmM0ZGY5MjRlOGRmMTdlZjg3NGUzNWY1MGM0YWI5NTcxMmY0NWU0NzI3NDVmZmI4ZDI1MWYwMjk4OTQ0MzI3ODgzMWFkNDI4YTcyNTNlZjdlNjJmMTFhMzY1Yzc4Y2JmZjU0YjA3MGQzMGViMjM2ZmY2M2JjODk0OGFmZDg5NDA5OTZhMGE2YmEwNzcwOGJlNjkxN2QwZGU1NzBmMWMyOWY2YmE5OTM1Mjc0NmZlMTczM2QwNDgzZDdmYjYzODJiNjA1ZmFiYTMyN2IzZTE5Y2Y2ZGYzZDBjOGNlZjNjNTU0NjU5MmIyMzFlYjA4NzUxYzQ1NGMxZWI5ODIzOWRkMDBlOTg4OGE5YmQxNDk4OWNjODVkZWI0Y2IzZTU3ZmU4YmIwYzYyODMxMg?username=tg_5ujizmpi
-
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/MTVLive.png" group-title="運動休閒",MTV Live
-https://live.catvod.com/live.php?id=mtvhd_twn
-
-https://video.858.qzz.io/live/encrypted/YTc2MzU4YTYzZWYyYmIxMzc4ZDRkM2YzYTFmMTczODk6Y2NiNjVjN2JlOWIwNGYyZDk5YWZiNWY5MmEwYTI0YjRiZDFjNmMxYWFhN2U0MDMyOGI5YjEyMjZkNzAwYWNlMGJjMGQyYTU0NTFiOTkwOWM3ZTg5NjhmMzg4MzliMDkyZTE1YjdhYjEzNWU1ZDE4YzZhM2I2MmU0NDg1NGJmNDliNzg3YWI4M2RlYTU4MWM1ZDU4YmFlMjgxYTliM2UzZGZkOWU0NThmMDMwNWYxNTQ1YjhmN2UyN2EwN2RmNmFlOTJkZjQ3Y2YxZmFjZjE0ZDc2Mzg0NTRkMmExMDc5MmNiZjJlNmM4NDIyNjgxYWMzOWMzY2FiYmU2ODI5YjNiZmY0OWM0MDYxMWVjN2IwYmVmNGIwNTlmMDEzNjQ3MTRiMDJjNmQ3MzUyZTc4NmJmMTM4MDg3MjVjOTk2Zjg1MTE5MzQ4YTkyOWI1YjFmOTFiNTAzZmYxOTc3YjE4ODcyNg?username=tg_5ujizmpi
-
-
-
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://epg.iill.top/logo/車迷-TV.png" group-title="運動休閒", 車迷 TV
-http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
-
 
 #EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="運動休閒",緯來體育台
 
@@ -334,6 +292,21 @@ https://live.catvod.com/live.php?id=dazn2_twn
 
 #EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="運動休閒",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
+
+https://live.catvod.com/live.php?id=eltasport1_twn
+
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
+https://live.catvod.com/live.php?id=eltasport2_twn
+
+https://video.858.qzz.io/live/encrypted/ZTVkNDcyN2IwYWZmZDJlZjFkZWRlYWFiN2EzODI0MzY6YzQ0MzVhODRiNTIyMGEwYjMyZDhiZmM0NzAzNzFhNGEyNThkYmJkZDc5OWE0MDEyODllNmY4ZTY3NWJkZWE2MWUxOGM0Y2Q1YzY1Yjc1YzcyZDkxOTk0ZTdhNjYzYjllOWI5OGRhOTQ0MGJiNjczN2UxOTk2Y2Q3NzcwMjQ0MGFlYzQwYjJjZDBjZmUxMGY0ZmY0YjM2MzAwOTk2NjZmNDBkZmVmMjU5OTdkYjNlNzIwNWU0MGIzNGYwNThjNWZlZmM3ZmEzYTMwNjJmNzU2OWQ5MjU0YTZkMzM5YmQ2ZmNmNDRjZWM5ZjcxYWJmMGNmZjYxNDU2MmU0MTRkZTY3MmQ4NzdiMTk0NzE4YTQ1ZmZhMGI3OGJiNDhkNTZiZjMwNWIwZDQ1OWIwNWZiYWY2MzUyNzQ4ZjEwYzgxMzAzYTlmZTc4NzIyYjgzZWIxYTMyZDM4ZDEwNzJiYzU0YjJmNWY4ZDU0ZjU1OTQyMGZlOTc4YjczNDM2MWE0MDExYmNm?username=tg_5ujizmpi
+
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
+https://live.catvod.com/live.php?id=eltasport3_twn
+
+https://video.858.qzz.io/live/encrypted/OWNlMjQyOGFjMzAxMzdjNWQwMWU2YjAzNzRiYjg1YTg6OGE1ZjYxYmNjYjI1Y2VlMGE0OWRkYzExNTJkMDU3Y2Y2NjYzYzU2MDZmZTZlZDdkZWU2N2NkMTM3NzNkMzBkODhiNjkyNTM3NjY3ZDE2MTQ1N2QxNjBjZTNkNWRkZjA2NTZkOGM5Mzk3OWFhNDdjOGIxY2Y4ZWNlYzg4MzlmMjM4MTAwNDRhZTFlMTE5ODQyYzRkMDEwZmM2YmExYzI3NGFlMjlhMjllYTAyMmI2MTY0MjkzNDNiNDEwNGJkZWU2MTVlNTJkMTc0NmI5YzdjODdmOTUwY2M5MDcxMDdmMzY2ZWM4ZDAzMjlkMWVhMTlkYmQyNGU0ZGVkNWM5ZDBkZmI5ODc1YWNhOTQyNDA5M2Q2Yzc2ZjM4M2M3ZjkxYzFmNzgwMDc1ZWRlNDdmNjNlMTRiMGJhNTQ2MDYwNGJjM2RiMGZkOTMyYWI5NWU1YzU1Y2ZkZWI5MTgzODllYzQxYjAzMTZiNWM3N2U0ZGZlZDlkNTNiNjU0YjgyY2U2NTgx?username=tg_5ujizmpi
+
 
 #EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png" group-title="運動休閒",博斯高球二台
 https://live.catvod.com/live.php?id=bosigolf2_twn
@@ -363,6 +336,43 @@ https://video.858.qzz.io/live/encrypted/NmM4NDI0ZDMyMTZhZWI3YjQwYjgzYTUyNjcwMTIz
 https://live.catvod.com/live.php?id=bositennis_twn
 
 https://video.858.qzz.io/live/encrypted/OTg3ZjU4OGE1OTZmYzk4YTdhYTE2NjExOGMwOGQ3MjE6ZDhjMWM4M2U0MDhjMjQ0NDBkZWFkMzJjZTBmNjczY2I5YzRmNDQxZDhkODJlZTU0OGY0NGZhOGZhMjJjZTU2Mjg1MDY5M2UwYTZlMWIzYzYxNTc0NTdiZGEwM2I1NTIwMmFiZDE3NzljMDJlOTcwMzljYTUwZTE5MTI2NjkzMTIzYTdjOTJkZDQwM2UzMWFiNGViZGRjNWMzYjYxYWYwNmEwZGI3NWE1ZDQxMjM5MWVlMGNmNzg2ZTZmNDFlODQ5NmZhNTZhZWI0NzdmYmI5YmM2MDFmZDEzNjRhYWE3OTYyNmI0MGZhY2NiNGQ2MDg0YWQ2NDU0MzY5ZTEzMzU0MGQ5Njg5NmE0Y2Q4ZjYxYjVmMDczNzk1MWJlYTBjN2Q3NDA0OGU4NTM3OGJiYzMxYWVkY2Y2ZTg3OWM4YmQ5OThkMDU5NWNmZWJjNThlOTkzMGYyOWUxM2Y5MTA1MmIyZDIxODhjNTMxNjM4YzZlNzQ1YzU4MWFhZDZjZmQzOGFl?username=tg_5ujizmpi
+
+#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="運動休閒",緯來育樂
+
+https://live.catvod.com/live.php?id=videolandmax
+
+
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img//Asiatravel.png" group-title="運動休閒",亞洲旅遊台
+
+https://video.858.qzz.io/live/encrypted/YjgyMTg1M2I1ZTZjZTc4YzBiNjk2Mjk5N2VjNDE0MWE6NGFhZmU1YTRmNjZiNjcwMTNkNzVmNWE5YTA0Zjc2NmRiYmQwODM3MTE1ZDU3YWE0YmFmNGNjNGM0ZDFhMWM2MWUwM2ZhZTM0NzM1YmNhMTJhMmRjN2UyYjQ0OTY2YTU1NTlmMjgxZTI3OWJhNTQ2NDdhYjRkYWJhNmYzOTY1YTE5MmJjZGQ2YWE4MWE3ZmZlZjdkYTYyYjMyMmFiOTQxNGI2YTA1YzljZmMwNDcyZWY0OTJhNTkyNDI3Y2NhMGE5NjRjY2JlMmFmYjQ3ZDljNGQ0MDkwYjFmMDc0OTliM2EwODVmYzdmODE4OGZhMDFiODQ3YWEyZDNjODUxNTdmMDgyY2UzYmVlMTQwYzE4YzY3ZjQ4ODVhOWMyYTY3MmY5MTY0MDljNjRjNGE3MWM1YTg1ODk2NWVjZGI5MGVmMWYxZjIxMGY5MjU5NTY4NTc2OWQyYjkyODYzYWJhNGYyZjhiNzJkMWFmYTkzN2EwZGI1MzNjMDY3MWJkNWUzNmRm?username=tg_5ujizmpi
+
+#EXTINF:-1 tvg-name="亞洲美食" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AsianFood.png" group-title="運動休閒",亞洲美食
+https://live.catvod.com/live.php?id=afc_twn
+https://live.catvod.com/live.php?id=Afc
+
+https://video.858.qzz.io/live/encrypted/ZGI3ZWJmMGM1YmUxODQ0YmEwODQ2OTZmYTM1MWQyNGM6MjRkYjIzOGNkYmQ0MjU4NDBmZmM4NTNiMzM5MjYxN2U3MjIyMTI4ZmUwODFjYTNiYjBjMzA0MDY5NGM4YTllYTVjMWZlZWFmMjlmYzBiODYwZGY0ZWYzMzNhM2EzNzM4YmExYjlmYzAwYzRiMDUwNGRiMGY1MDMxYmFkOWE2YmU1NDc1MjBhYTI5N2ViZDM5YTNkYTU5OGY5NTdkOTQ5MWU5NDE4ZTc4YWJlYTg2NWI2NTY3N2VhZDgwOTk4OGU0MGU2ZWRjNGRhOTMwZDZlYmE3NmNlNTQ0N2M4YTNlNTc4Mjk0ZTFkYTM5YjY0NmZiODAwNWFlZDM5NDQyODU1YjM5ZjIzYzJlMzdkYTc0MWZkNjI4NjRhMGIzY2M2MTVkZmNiN2FjODVlMGU4YjRkNzM5YzU1ZDYxYmJhNzBjOTk0NDc4Y2MzMTllMDQ0OGY5ZDc5MjJkODYzOGVjNGViNQ?username=tg_5ujizmpi
+
+#EXTINF:-1 tvg-name="TLC旅遊生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TLCTV.png" group-title="運動休閒",TLC旅遊生活
+https://live.catvod.com/live.php?id=tlc_twn
+
+https://video.858.qzz.io/live/encrypted/MGJjNzgyNmM5MzBiNWI2YmQ3YzdmYWEyZDg0ODFjYmU6MTJhMzJkNTY1NzY4ZTQ2ZDVmNmRmMTY0Y2Q5MGQ3MTYzZjdiYjRiN2NjMjFhNjliNjY5OWQzMzE3YzQ0YWRiNzE5ZGI5YWE5YTJlMGQyNmE2ZjA3NzY5NzM0OWM0NzI5YjE3NDAxYmU2MmYzY2VhNjAxZjZiZTdiNWQ5MDI4NzBmOTMxNjgwOGZiMzZjYWE3N2E2NWYyMTA2MDJkNzcyNDE0NWY5ODgyODg1NzYzNjEwNTRjZDlkMDhhN2M4ZTkxOGU2MTMwODhlNzY4ZmIyODhkOTZiMTJiODRlYzY4ODY0ZTE5ZTM0MGQxODZkZDM2ODk2YWViOWFmMzExZjgzYmFiN2I4ODhmZWZhOGU3MThhZWVjODI1YWIwMDRkYzA2MTY2YTMyMDJhNTVhN2Q3NThjZTk5NWRmZDkzZDk2NGFiNjNiYzA3MmU2YjRiYzkxMjQ1OTg2NzVlOTAyNzhjYQ?username=tg_5ujizmpi
+
+
+
+#EXTINF:-1 tvg-name="AXN Taiwan" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AXNTV.png" group-title="運動休閒",AXN Taiwan
+https://live.catvod.com/live.php?id=axn_twn
+
+https://video.858.qzz.io/live/encrypted/ODQzOThiZjc5ODlmMDFlNzY1NzM5OGJiMjcwNjExZmQ6NWQxZDYyZTZhZjUwNjkwYWVhYjA4MzlhMjU5ZTI5ZmJhNWE4M2MxMWU1MDRlODEwNDE0NzU4NmM0ZGY5MjRlOGRmMTdlZjg3NGUzNWY1MGM0YWI5NTcxMmY0NWU0NzI3NDVmZmI4ZDI1MWYwMjk4OTQ0MzI3ODgzMWFkNDI4YTcyNTNlZjdlNjJmMTFhMzY1Yzc4Y2JmZjU0YjA3MGQzMGViMjM2ZmY2M2JjODk0OGFmZDg5NDA5OTZhMGE2YmEwNzcwOGJlNjkxN2QwZGU1NzBmMWMyOWY2YmE5OTM1Mjc0NmZlMTczM2QwNDgzZDdmYjYzODJiNjA1ZmFiYTMyN2IzZTE5Y2Y2ZGYzZDBjOGNlZjNjNTU0NjU5MmIyMzFlYjA4NzUxYzQ1NGMxZWI5ODIzOWRkMDBlOTg4OGE5YmQxNDk4OWNjODVkZWI0Y2IzZTU3ZmU4YmIwYzYyODMxMg?username=tg_5ujizmpi
+
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/MTVLive.png" group-title="運動休閒",MTV Live
+https://live.catvod.com/live.php?id=mtvhd_twn
+
+https://video.858.qzz.io/live/encrypted/YTc2MzU4YTYzZWYyYmIxMzc4ZDRkM2YzYTFmMTczODk6Y2NiNjVjN2JlOWIwNGYyZDk5YWZiNWY5MmEwYTI0YjRiZDFjNmMxYWFhN2U0MDMyOGI5YjEyMjZkNzAwYWNlMGJjMGQyYTU0NTFiOTkwOWM3ZTg5NjhmMzg4MzliMDkyZTE1YjdhYjEzNWU1ZDE4YzZhM2I2MmU0NDg1NGJmNDliNzg3YWI4M2RlYTU4MWM1ZDU4YmFlMjgxYTliM2UzZGZkOWU0NThmMDMwNWYxNTQ1YjhmN2UyN2EwN2RmNmFlOTJkZjQ3Y2YxZmFjZjE0ZDc2Mzg0NTRkMmExMDc5MmNiZjJlNmM4NDIyNjgxYWMzOWMzY2FiYmU2ODI5YjNiZmY0OWM0MDYxMWVjN2IwYmVmNGIwNTlmMDEzNjQ3MTRiMDJjNmQ3MzUyZTc4NmJmMTM4MDg3MjVjOTk2Zjg1MTE5MzQ4YTkyOWI1YjFmOTFiNTAzZmYxOTc3YjE4ODcyNg?username=tg_5ujizmpi
+
+
+
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://epg.iill.top/logo/車迷-TV.png" group-title="運動休閒", 車迷 TV
+http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
 
 
 
@@ -407,19 +417,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-name="Discovery亞洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="運動休閒",Discovery亞洲
 
 http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
-
-https://live.catvod.com/live.php?id=eltasport1_twn
-
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
-https://live.catvod.com/live.php?id=eltasport2_twn
-
-https://video.858.qzz.io/live/encrypted/ZTVkNDcyN2IwYWZmZDJlZjFkZWRlYWFiN2EzODI0MzY6YzQ0MzVhODRiNTIyMGEwYjMyZDhiZmM0NzAzNzFhNGEyNThkYmJkZDc5OWE0MDEyODllNmY4ZTY3NWJkZWE2MWUxOGM0Y2Q1YzY1Yjc1YzcyZDkxOTk0ZTdhNjYzYjllOWI5OGRhOTQ0MGJiNjczN2UxOTk2Y2Q3NzcwMjQ0MGFlYzQwYjJjZDBjZmUxMGY0ZmY0YjM2MzAwOTk2NjZmNDBkZmVmMjU5OTdkYjNlNzIwNWU0MGIzNGYwNThjNWZlZmM3ZmEzYTMwNjJmNzU2OWQ5MjU0YTZkMzM5YmQ2ZmNmNDRjZWM5ZjcxYWJmMGNmZjYxNDU2MmU0MTRkZTY3MmQ4NzdiMTk0NzE4YTQ1ZmZhMGI3OGJiNDhkNTZiZjMwNWIwZDQ1OWIwNWZiYWY2MzUyNzQ4ZjEwYzgxMzAzYTlmZTc4NzIyYjgzZWIxYTMyZDM4ZDEwNzJiYzU0YjJmNWY4ZDU0ZjU1OTQyMGZlOTc4YjczNDM2MWE0MDExYmNm?username=tg_5ujizmpi
-
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
-https://live.catvod.com/live.php?id=eltasport3_twn
-
-https://video.858.qzz.io/live/encrypted/OWNlMjQyOGFjMzAxMzdjNWQwMWU2YjAzNzRiYjg1YTg6OGE1ZjYxYmNjYjI1Y2VlMGE0OWRkYzExNTJkMDU3Y2Y2NjYzYzU2MDZmZTZlZDdkZWU2N2NkMTM3NzNkMzBkODhiNjkyNTM3NjY3ZDE2MTQ1N2QxNjBjZTNkNWRkZjA2NTZkOGM5Mzk3OWFhNDdjOGIxY2Y4ZWNlYzg4MzlmMjM4MTAwNDRhZTFlMTE5ODQyYzRkMDEwZmM2YmExYzI3NGFlMjlhMjllYTAyMmI2MTY0MjkzNDNiNDEwNGJkZWU2MTVlNTJkMTc0NmI5YzdjODdmOTUwY2M5MDcxMDdmMzY2ZWM4ZDAzMjlkMWVhMTlkYmQyNGU0ZGVkNWM5ZDBkZmI5ODc1YWNhOTQyNDA5M2Q2Yzc2ZjM4M2M3ZjkxYzFmNzgwMDc1ZWRlNDdmNjNlMTRiMGJhNTQ2MDYwNGJjM2RiMGZkOTMyYWI5NWU1YzU1Y2ZkZWI5MTgzODllYzQxYjAzMTZiNWM3N2U0ZGZlZDlkNTNiNjU0YjgyY2U2NTgx?username=tg_5ujizmpi
 
 
 
@@ -609,6 +606,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
