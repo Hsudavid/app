@@ -387,7 +387,7 @@ http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
 
 
 
-#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://epg.iill.top/logo/Rock-Entertainment.png" group-title="#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://epg.iill.top/logo/Rock-Entertainment.png" group-title="•台灣「限制」", Rock Entertainment「4gTV」", Rock Entertainment「4gTV」
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://epg.iill.top/logo/Rock-Entertainment.png" group-title="運動休閒", Rock Entertainment
 http://118.233.28.52:50007/4gtv-live080/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="ROCK ACTION" tvg-name="ROCK ACTION" tvg-logo="https://epg.iill.top/logo/Rock-Action.png" group-title="運動休閒", Rock Action
