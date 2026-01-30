@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 
 #EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png" group-title="綜合其他",民視台灣台
 https://live.catvod.com/live.php?id=ftvtaiwan_twn
@@ -275,7 +275,7 @@ https://video.858.qzz.io/live/encrypted/NTJmNmY5NjM3YzIwYjc3Y2VmYWVlNGM1NjdiMjU2
 https://live.catvod.com/live.php?id=cnn_twn
 
 
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img//Asiatravel.png" group-title="運動休閒",纬来育乐
+#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="運動休閒",緯來育樂
 
 https://live.catvod.com/live.php?id=videolandmax
 
@@ -295,7 +295,7 @@ https://live.catvod.com/live.php?id=tlc_twn
 
 https://video.858.qzz.io/live/encrypted/MGJjNzgyNmM5MzBiNWI2YmQ3YzdmYWEyZDg0ODFjYmU6MTJhMzJkNTY1NzY4ZTQ2ZDVmNmRmMTY0Y2Q5MGQ3MTYzZjdiYjRiN2NjMjFhNjliNjY5OWQzMzE3YzQ0YWRiNzE5ZGI5YWE5YTJlMGQyNmE2ZjA3NzY5NzM0OWM0NzI5YjE3NDAxYmU2MmYzY2VhNjAxZjZiZTdiNWQ5MDI4NzBmOTMxNjgwOGZiMzZjYWE3N2E2NWYyMTA2MDJkNzcyNDE0NWY5ODgyODg1NzYzNjEwNTRjZDlkMDhhN2M4ZTkxOGU2MTMwODhlNzY4ZmIyODhkOTZiMTJiODRlYzY4ODY0ZTE5ZTM0MGQxODZkZDM2ODk2YWViOWFmMzExZjgzYmFiN2I4ODhmZWZhOGU3MThhZWVjODI1YWIwMDRkYzA2MTY2YTMyMDJhNTVhN2Q3NThjZTk5NWRmZDkzZDk2NGFiNjNiYzA3MmU2YjRiYzkxMjQ1OTg2NzVlOTAyNzhjYQ?username=tg_5ujizmpi
 
-#EXTINF:-1 tvg-name="EYETV 旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img//Asiatravel.png" group-title="運動休閒",EYETV 旅游
+#EXTINF:-1 tvg-name="EYETV 旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EYE2.png" group-title="運動休閒",EYETV 旅游
 
 https://live.catvod.com/live.php?id=eyetvtravel_twn
 
@@ -400,8 +400,10 @@ http://118.233.28.52:50007/4gtv-live121/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-name="TV5MONDE Style" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",TV5MONDE Style
 http://118.233.28.52:50007/4gtv-live122/index.m3u8?proxy=true
+
 #EXTINF:-1 tvg-name="KALOPY性感" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",KALOPY性感
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+
 #EXTINF:-1 tvg-name="Discovery亞洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="運動休閒",Discovery亞洲
 
 http://125.227.210.55:8154/VideoInput/play.ts
@@ -426,7 +428,7 @@ http://118.233.28.52:50007/4gtv-live123/index.m3u8?proxy=true
 
 
 
-#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5" group-title="電影戲劇",東森戲劇
+#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="電影戲劇",東森戲劇
 
 http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
 
@@ -607,6 +609,7 @@ http://118.233.28.52:50007/4gtv-live026/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://epg.iill.top/logo/CI-罪案偵查頻道.png" group-title="記錄頻道", CI 罪案偵查頻道
 http://118.233.28.52:50007/4gtv-live027/index.m3u8?proxy=true
+
 
 
 
