@@ -20,13 +20,7 @@
       "logo": "https://diyp.112114.xyz/logo/{name}.png",
       "ua": "okhttp/4.12.0"
     },
-   {
-      "name": "Gather",
-      "url": "https://tv.iill.top/m3u/Gather",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0"
-    }
+  
   ],
   "sites": [
     {
@@ -1174,6 +1168,7 @@
     "static-mozai.4gtv.tv"
   ]
 }
+
 
 
 
