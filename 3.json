@@ -19,22 +19,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
       "logo": "https://diyp.112114.xyz/logo/{name}.png",
       "ua": "okhttp/4.12.0"
-    },
-
-  
-   {
-      "name": "catvod",
-      "url": "https://live.catvod.com/tv.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0"
-    },
-  {  
-       "name": "TW頻道",
-       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tv.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0"
+    
    }
 
   ],
@@ -1117,6 +1102,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
