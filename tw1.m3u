@@ -52,10 +52,11 @@ http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV3.png" group-title="綜合其他",中視菁采台
 http://74.91.26.218:82/live/ctvjc.m3u8
 
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS
-http://106.107.237.222:50007/media-live073/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
+http://106.107.237.222:5050/smart.php?id=tvbs&token=885252
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
 http://106.107.237.222:50007/4gtv-4gtv073/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 #EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="綜合其他",TVBS精采台
@@ -112,7 +113,7 @@ http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 #EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="綜合其他",三立台灣HD
-http://211.23.114.106:9378/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+http://106.107.237.222:5050/smart.php?id=sanlitaiwan&token=885252
 
 
 
@@ -132,11 +133,9 @@ http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 http://106.107.237.222:50007/4gtv-4gtv039/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 #EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="綜合其他",TVBS歡樂台
-http://106.107.237.222:50007/4gtv-4gtv068/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+http://106.107.237.222:5050/smart.php?id=tvbshuanle_twn&token=885252
 
 
-#EXTINF:-1 tvg-name="TVBS綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS4.png" group-title="綜合其他",TVBS綜藝台
-http://118.233.28.52:50007/4gtv-live087/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="綜合其他",TVBS精采台
 http://106.107.237.222:50007/4gtv-4gtv067/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
@@ -398,6 +397,14 @@ http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="運動休閒",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
+http://106.107.237.222:5050/smart.php?id=eltasport1_twn&token=885252
+
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
+http://106.107.237.222:5050/smart.php?id=eltasport2_twn&token=885252
+
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
+http://106.107.237.222:5050/smart.php?id=eltasport3_twn&token=885252
 
 
 
