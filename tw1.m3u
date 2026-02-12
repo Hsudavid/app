@@ -56,8 +56,6 @@ http://74.91.26.218:82/live/ctvjc.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
 http://106.107.237.222:5050/smart.php?id=tvbs&token=885252
 
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://106.107.237.222:50007/4gtv-4gtv073/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 #EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="綜合其他",TVBS精采台
 http://iptv.4666888.xyz/iptv2A.php?id=47
@@ -106,7 +104,7 @@ http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="綜合其他",東森超視
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 
 #EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="綜合其他",三立台灣HD
 http://106.107.237.222:5050/smart.php?id=sanlitaiwan&token=885252
@@ -122,8 +120,6 @@ http://106.107.237.222:50007/4gtv-live207/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 http://106.107.237.222:5050/smart.php?id=sanlidouhui_twn&token=885252
 
 
-#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png" group-title="綜合其他",三立都會台
-http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 
 
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="綜合其他",八大綜藝
@@ -287,6 +283,10 @@ http://106.107.237.222:50007/4gtv-4gtv009/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
 http://106.107.237.222:50007/4gtv-live409/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
+#EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://iptv.4666888.xyz/iptv2A.php?id=43
+
+
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
 http://106.107.237.222:50007/media-live072/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
@@ -342,8 +342,6 @@ https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1
 https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 
 
-#EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://iptv.4666888.xyz/iptv2A.php?id=43
 
 
 
@@ -521,8 +519,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=48
 
 
 
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
-http://118.233.28.52:50007/4gtv-live088/index.m3u8?proxy=true
 
 
 
@@ -540,44 +536,64 @@ http://106.107.237.222:50007/4gtv-live620/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 #EXTINF:-1 tvg-name="好萊塢電影HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="電影戲劇",好萊塢電影HD
 http://211.23.114.106:9353/http/61.219.99.20：8081/hls/74/816/ch55.m3u8
 
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
+http://106.107.237.222:50007/litv-xinchuang03/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
-#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="電影戲劇",龍華電影台
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
+http://106.107.237.222:50007/litv-xinchuang11/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
+http://106.107.237.222:50007/litv-xinchuang12/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
+http://106.107.237.222:50007/litv-xinchuang18/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
+http://106.107.237.222:50007/litv-xinchuang21/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="電影戲劇",龍華電影
 http://cdn8.163189.xyz/163189/lhdy
 
 
-#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="電影戲劇",龍華經典台
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="電影戲劇",龍華經典
 http://cdn8.163189.xyz/163189/lhjd
 
 
 
-#EXTINF:-1 tvg-name="龍華洋片台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV2.png" group-title="電影戲劇",龍華洋片台
-http://cdn8.163189.xyz/163189/lhyp
 
 
-#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="電影戲劇",龍華日韓台
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="電影戲劇",龍華日韓
 http://cdn8.163189.xyz/163189/lhrh
 
 
-#EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="電影戲劇",龍華偶像台
-http://cdn8.163189.xyz/163189/lhox
-
-#EXTINF:-1 tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="電影戲劇",龍華偶像台
-http://106.107.237.222:50007/litv-xinchuang12/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
 
-#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="電影戲劇",龍華戲劇台
+
+#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
 http://cdn8.163189.xyz/163189/lhxj
 
 
 #EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="電影戲劇",豬哥亮歌廳秀
 http://106.107.237.222:50007/4gtv-4gtv006/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
+http://106.107.237.222:50007/4gtv-4gtv049/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
+http://106.107.237.222:50007/4gtv-4gtv055/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
+http://106.107.237.222:50007/4gtv-4gtv061/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
+http://106.107.237.222:50007/4gtv-4gtv011/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
 
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://epg.iill.top/logo/經典電影台.png" group-title="電影戲劇", 經典電影
-http://118.233.28.52:50007/4gtv-live021/index.m3u8?proxy=true
+
 
 #EXTINF:-1 tvg-id="ROCKENTERTAINMENT" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="電影戲劇",ROCK Entertainment
 http://106.107.237.222:50007/4gtv-live080/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
