@@ -76,12 +76,10 @@ http://106.107.237.222:50007/4gtv-4gtv043/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 #EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="綜合其他",原住民族電視台
 http://106.107.237.222:50007/4gtv-live014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
-#EXTINF:-1 tvg-name="原住民族電視台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TITV.png" group-title="綜合其他",原住民族電視台
-http://118.233.28.52:50007/4gtv-live014/index.m3u8?proxy=true
 
 
 #EXTINF:-1 tvg-name="公視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png" group-title="綜合其他",公視
-rtmp://f13h.mine.nu/sat/tv771
+http://106.107.237.222:5050/smart.php?id=ctv_taiwan&token=885252
 
 #EXTINF:-1 tvg-name="公視台語台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS1.png" group-title="綜合其他",公視台語台
 http://74.91.26.218:82/live/ptsty.m3u8
@@ -123,6 +121,9 @@ http://106.107.237.222:50007/4gtv-live207/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 
 #EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET1.png" group-title="綜合其他",三立綜合台
 http://118.233.28.52:50007/4gtv-live207/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png" group-title="綜合其他",三立都會台
+http://106.107.237.222:5050/smart.php?id=sanlidouhui_twn&token=885252
 
 
 #EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png" group-title="綜合其他",三立都會台
@@ -169,46 +170,40 @@ http://106.107.237.222:50007/4gtv-4gtv016/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 http://106.107.237.222:50007/4gtv-live050/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
-#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NTD.png" group-title="綜合其他",新唐人亞太台
-http://118.233.28.52:50007/4gtv-live050/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="綜合其他",大愛電視台
 http://106.107.237.222:50007/4gtv-live007/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
-#EXTINF:-1 tvg-name="大愛電視台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Daai1.png" group-title="綜合其他",大愛電視台
-http://118.233.28.52:50007/4gtv-live007/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
 http://106.107.237.222:50007/4gtv-live106/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
-#EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Daai2.png" group-title="綜合其他",大愛二台
-http://118.233.28.52:50007/4gtv-live106/index.m3u8?proxy=true
 
 
 #EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BLTV.png" group-title="綜合其他",人間衛視
-http://118.233.28.52:50007/4gtv-live008/index.m3u8?proxy=true
+http://106.107.237.222:50007/4gtv-live008/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png" group-title="綜合其他",Arirang TV
 http://106.107.237.222:50007/4gtv-4gtv079/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jgbdx.png" group-title="綜合其他",金光布袋戲
-http://118.233.28.52:50007/4gtv-live144/index.m3u8?proxy=true
+http://106.107.237.222:50007/4gtv-live144/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
 #EXTINF:-1 tvg-name="東森購物1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物1台
-http://118.233.28.52:50007/4gtv-live047/index.m3u8?proxy=true
+http://106.107.237.222:50007/4gtv-live047/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 #EXTINF:-1 tvg-name="東森購物2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物2台
-http://118.233.28.52:50007/4gtv-live046/index.m3u8?proxy=true
+http://106.107.237.222:50007/4gtv-live046/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 #EXTINF:-1 tvg-name="東森購物3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物3台
-http://118.233.28.52:50007/4gtv-live048/index.m3u8?proxy=true
+http://106.107.237.222:50007/4gtv-live048/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 #EXTINF:-1 tvg-name="東森購物4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物4台
-http://118.233.28.52:50007/4gtv-live049/index.m3u8?proxy=true
+http://106.107.237.222:50007/4gtv-live049/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
 
@@ -350,15 +345,11 @@ https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&pro
 #EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="新聞財經",三立iNEWS
 https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
 
-#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://118.233.28.52:50007/4gtv-live089/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
 http://iptv.4666888.xyz/iptv2A.php?id=44
 
 
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
-rtmp://f13h.mine.nu/sat/tv581
 
 
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.iill.top/logo/寰宇新聞台.png" group-title="新聞財經", 寰宇新聞
@@ -439,8 +430,6 @@ http://106.107.237.222:50007/litv-ftv07/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvs
 
 
 
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://epg.iill.top/logo/車迷-TV.png" group-title="運動休閒", 車迷 TV
-http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
 
 
 
@@ -449,8 +438,6 @@ http://118.233.28.52:50007/4gtv-live201/index.m3u8?proxy=true
 http://106.107.237.222:50007/4gtv-live112/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
-#EXTINF:-1 tvg-id="Global Trekker 探索世界" tvg-name="Global Trekker 探索世界" tvg-logo="https://epg.iill.top/logo/Global-Trekker.png" group-title="運動休閒", Global Trekker 探索世界
-http://118.233.28.52:50007/4gtv-live112/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://epg.iill.top/logo/Lifetime-娛樂頻道.png" group-title="運動休閒", Lifetime 娛樂頻道
 http://118.233.28.52:50007/4gtv-live029/index.m3u8?proxy=true
