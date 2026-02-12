@@ -716,242 +716,242 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="台視 HD" tvg-name="台視 HD" tvg-logo="" group-title="GPT-台灣",台視 HD
+#EXTINF:-1 tvg-id="台視 HD" tvg-name="台視 HD" tvg-logo="" group-title="台灣",台視 HD
 http://106.107.237.222:5050/smart.php?id=ttv_taiwan&token=885252
-#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="" group-title="GPT-台灣",台視新聞
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="" group-title="台灣",台視新聞
 http://106.107.237.222:5050/smart.php?id=ttvnews_twn&token=885252
-#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" tvg-logo="" group-title="GPT-台灣",台視綜合
+#EXTINF:-1 tvg-id="台視綜合" tvg-name="台視綜合" tvg-logo="" group-title="台灣",台視綜合
 http://106.107.237.222:5050/smart.php?id=ttvzhonghe&token=885252
-#EXTINF:-1 tvg-id="中視 HD" tvg-name="中視 HD" tvg-logo="" group-title="GPT-台灣",中視 HD
+#EXTINF:-1 tvg-id="中視 HD" tvg-name="中視 HD" tvg-logo="" group-title="台灣",中視 HD
 http://106.107.237.222:5050/smart.php?id=zhongshihd_twn&token=885252
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="" group-title="GPT-台灣",中視新聞
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="" group-title="台灣",中視新聞
 http://106.107.237.222:5050/smart.php?id=zhongshinews_twn&token=885252
-#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" tvg-logo="" group-title="GPT-台灣",中視經典
+#EXTINF:-1 tvg-id="中視經典" tvg-name="中視經典" tvg-logo="" group-title="台灣",中視經典
 http://106.107.237.222:5050/smart.php?id=zhongshi_twn&token=885252
-#EXTINF:-1 tvg-id="華視 HD" tvg-name="華視 HD" tvg-logo="" group-title="GPT-台灣",華視 HD
+#EXTINF:-1 tvg-id="華視 HD" tvg-name="華視 HD" tvg-logo="" group-title="台灣",華視 HD
 http://106.107.237.222:5050/smart.php?id=ctshd_twn&token=885252
-#EXTINF:-1 tvg-id="公視 HD" tvg-name="公視 HD" tvg-logo="" group-title="GPT-台灣",公視 HD
+#EXTINF:-1 tvg-id="公視 HD" tvg-name="公視 HD" tvg-logo="" group-title="台灣",公視 HD
 http://106.107.237.222:5050/smart.php?id=ctv_taiwan&token=885252
-#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="" group-title="GPT-台灣",公視台語台
+#EXTINF:-1 tvg-id="公視台語台" tvg-name="公視台語台" tvg-logo="" group-title="台灣",公視台語台
 http://106.107.237.222:5050/smart.php?id=ctv2_twn&token=885252
-#EXTINF:-1 tvg-id="三立台灣台" tvg-name="三立台灣台" tvg-logo="" group-title="GPT-台灣",三立台灣台
+#EXTINF:-1 tvg-id="三立台灣台" tvg-name="三立台灣台" tvg-logo="" group-title="台灣",三立台灣台
 http://106.107.237.222:5050/smart.php?id=sanlitaiwan&token=885252
-#EXTINF:-1 tvg-id="三立都會台" tvg-name="三立都會台" tvg-logo="" group-title="GPT-台灣",三立都會台
+#EXTINF:-1 tvg-id="三立都會台" tvg-name="三立都會台" tvg-logo="" group-title="台灣",三立都會台
 http://106.107.237.222:5050/smart.php?id=sanlidouhui_twn&token=885252
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="" group-title="GPT-台灣",三立綜合台
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="" group-title="台灣",三立綜合台
 http://106.107.237.222:5050/smart.php?id=sanlizhonghe&token=885252
-#EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="" group-title="GPT-台灣",三立戲劇台
+#EXTINF:-1 tvg-id="三立戲劇台" tvg-name="三立戲劇台" tvg-logo="" group-title="台灣",三立戲劇台
 http://106.107.237.222:5050/smart.php?id=sanlixiju_twn&token=885252
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="" group-title="GPT-台灣",東森新聞台
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="" group-title="台灣",東森新聞台
 http://106.107.237.222:5050/smart.php?id=ettvnews&token=885252
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="" group-title="GPT-台灣",東森財經新聞台
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="" group-title="台灣",東森財經新聞台
 http://106.107.237.222:5050/smart.php?id=ettvcaijing_twn&token=885252
-#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="" group-title="GPT-台灣",東森綜合台
+#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="" group-title="台灣",東森綜合台
 http://106.107.237.222:5050/smart.php?id=ettvzhonghe&token=885252
-#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="" group-title="GPT-台灣",東森戲劇台
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="" group-title="台灣",東森戲劇台
 http://106.107.237.222:5050/smart.php?id=ettvdrama&token=885252
-#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="" group-title="GPT-台灣",東森電影台
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="" group-title="台灣",東森電影台
 http://106.107.237.222:5050/smart.php?id=ettvmovie&token=885252
-#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="" group-title="GPT-台灣",東森洋片台
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="" group-title="台灣",東森洋片台
 http://106.107.237.222:5050/smart.php?id=ettvwestern&token=885252
-#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="" group-title="GPT-台灣",東森幼幼台
+#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="" group-title="台灣",東森幼幼台
 http://106.107.237.222:5050/smart.php?id=yoyo_twn&token=885252
-#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="" group-title="GPT-台灣",東森超視
+#EXTINF:-1 tvg-id="東森超視" tvg-name="東森超視" tvg-logo="" group-title="台灣",東森超視
 http://106.107.237.222:5050/smart.php?id=ettvsuper&token=885252
-#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="GPT-台灣",TVBS HD
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="台灣",TVBS HD
 http://106.107.237.222:5050/smart.php?id=tvbs&token=885252
-#EXTINF:-1 tvg-id="TVBS 新聞台" tvg-name="TVBS 新聞台" tvg-logo="" group-title="GPT-台灣",TVBS 新聞台
+#EXTINF:-1 tvg-id="TVBS 新聞台" tvg-name="TVBS 新聞台" tvg-logo="" group-title="台灣",TVBS 新聞台
 http://106.107.237.222:5050/smart.php?id=tvbs_n&token=885252
-#EXTINF:-1 tvg-id="TVBS 歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="" group-title="GPT-台灣",TVBS 歡樂台
+#EXTINF:-1 tvg-id="TVBS 歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="" group-title="台灣",TVBS 歡樂台
 http://106.107.237.222:5050/smart.php?id=tvbshuanle_twn&token=885252
-#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="" group-title="GPT-台灣",民視 HD
+#EXTINF:-1 tvg-id="民視 HD" tvg-name="民視 HD" tvg-logo="" group-title="台灣",民視 HD
 http://106.107.237.222:5050/smart.php?id=ftvhd_taiwan&token=885252
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="" group-title="GPT-台灣",民視新聞台
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="" group-title="台灣",民視新聞台
 http://106.107.237.222:5050/smart.php?id=ftvnew_taiwan&token=885252
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="" group-title="GPT-台灣",民視台灣台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="" group-title="台灣",民視台灣台
 http://106.107.237.222:5050/smart.php?id=ftvtaiwan_twn&token=885252
-#EXTINF:-1 tvg-id="中天綜合" tvg-name="中天綜合" tvg-logo="" group-title="GPT-台灣",中天綜合
+#EXTINF:-1 tvg-id="中天綜合" tvg-name="中天綜合" tvg-logo="" group-title="台灣",中天綜合
 http://106.107.237.222:5050/smart.php?id=ctizhonghe&token=885252
-#EXTINF:-1 tvg-id="中天娛樂" tvg-name="中天娛樂" tvg-logo="" group-title="GPT-台灣",中天娛樂
+#EXTINF:-1 tvg-id="中天娛樂" tvg-name="中天娛樂" tvg-logo="" group-title="台灣",中天娛樂
 http://106.107.237.222:5050/smart.php?id=ctient&token=885252
-#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="" group-title="GPT-台灣",中天亞洲
+#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲" tvg-logo="" group-title="台灣",中天亞洲
 http://106.107.237.222:5050/smart.php?id=ctiasia_twn&token=885252
-#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="" group-title="GPT-台灣",中天新聞
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="" group-title="台灣",中天新聞
 http://106.107.237.222:5050/smart.php?id=ctinews&token=885252
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="GPT-台灣",寰宇新聞台
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="" group-title="台灣",寰宇新聞台
 http://106.107.237.222:5050/smart.php?id=huanyuxinwen_twn&token=885252
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="" group-title="GPT-台灣",寰宇財經台
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="" group-title="台灣",寰宇財經台
 http://106.107.237.222:5050/smart.php?id=huanyutaiwan_twn&token=885252
-#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="" group-title="GPT-台灣",八大第一台
+#EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="" group-title="台灣",八大第一台
 http://106.107.237.222:5050/smart.php?id=badafirst&token=885252
-#EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="" group-title="GPT-台灣",八大綜合台
+#EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="" group-title="台灣",八大綜合台
 http://106.107.237.222:5050/smart.php?id=badazhonghe&token=885252
-#EXTINF:-1 tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="" group-title="GPT-台灣",八大戲劇台
+#EXTINF:-1 tvg-id="八大戲劇台" tvg-name="八大戲劇台" tvg-logo="" group-title="台灣",八大戲劇台
 http://106.107.237.222:5050/smart.php?id=badadrama&token=885252
-#EXTINF:-1 tvg-id="八大娛樂台" tvg-name="八大娛樂台" tvg-logo="" group-title="GPT-台灣",八大娛樂台
+#EXTINF:-1 tvg-id="八大娛樂台" tvg-name="八大娛樂台" tvg-logo="" group-title="台灣",八大娛樂台
 http://106.107.237.222:5050/smart.php?id=badaentertain&token=885252
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="" group-title="GPT-台灣",緯來體育
+#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="" group-title="台灣",緯來體育
 http://106.107.237.222:5050/smart.php?id=videolandsport&token=885252
-#EXTINF:-1 tvg-id="緯來精彩" tvg-name="緯來精彩" tvg-logo="" group-title="GPT-台灣",緯來精彩
+#EXTINF:-1 tvg-id="緯來精彩" tvg-name="緯來精彩" tvg-logo="" group-title="台灣",緯來精彩
 http://106.107.237.222:5050/smart.php?id=videolandspecial_twn&token=885252
-#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="" group-title="GPT-台灣",緯來日本
+#EXTINF:-1 tvg-id="緯來日本" tvg-name="緯來日本" tvg-logo="" group-title="台灣",緯來日本
 http://106.107.237.222:5050/smart.php?id=videolandjapan&token=885252
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="" group-title="GPT-台灣",緯來電影
+#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="" group-title="台灣",緯來電影
 http://106.107.237.222:5050/smart.php?id=videolandmovie&token=885252
-#EXTINF:-1 tvg-id="緯來綜合" tvg-name="緯來綜合" tvg-logo="" group-title="GPT-台灣",緯來綜合
+#EXTINF:-1 tvg-id="緯來綜合" tvg-name="緯來綜合" tvg-logo="" group-title="台灣",緯來綜合
 http://106.107.237.222:5050/smart.php?id=videolandzonghe&token=885252
-#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="" group-title="GPT-台灣",緯來育樂
+#EXTINF:-1 tvg-id="緯來育樂" tvg-name="緯來育樂" tvg-logo="" group-title="台灣",緯來育樂
 http://106.107.237.222:5050/smart.php?id=videolandyule&token=885252
-#EXTINF:-1 tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="" group-title="GPT-台灣",愛爾達綜合台
+#EXTINF:-1 tvg-id="愛爾達綜合台" tvg-name="愛爾達綜合台" tvg-logo="" group-title="台灣",愛爾達綜合台
 http://106.107.237.222:5050/smart.php?id=eltazonghe_twn&token=885252
-#EXTINF:-1 tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="" group-title="GPT-台灣",愛爾達影劇台
+#EXTINF:-1 tvg-id="愛爾達影劇台" tvg-name="愛爾達影劇台" tvg-logo="" group-title="台灣",愛爾達影劇台
 http://106.107.237.222:5050/smart.php?id=eltayingju_twn&token=885252
-#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="GPT-台灣",愛爾達體育1台
+#EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="" group-title="台灣",愛爾達體育1台
 http://106.107.237.222:5050/smart.php?id=eltasport1_twn&token=885252
-#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="GPT-台灣",愛爾達體育2台
+#EXTINF:-1 tvg-id="愛爾達體育2台" tvg-name="愛爾達體育2台" tvg-logo="" group-title="台灣",愛爾達體育2台
 http://106.107.237.222:5050/smart.php?id=eltasport2_twn&token=885252
-#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="GPT-台灣",愛爾達體育3台
+#EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="" group-title="台灣",愛爾達體育3台
 http://106.107.237.222:5050/smart.php?id=eltasport3_twn&token=885252
-#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="" group-title="GPT-台灣",非凡新聞
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="" group-title="台灣",非凡新聞
 http://106.107.237.222:5050/smart.php?id=feifannews_twn&token=885252
-#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="" group-title="GPT-台灣",年代新聞
+#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="" group-title="台灣",年代新聞
 http://106.107.237.222:5050/smart.php?id=niandainews_twn&token=885252
-#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="" group-title="GPT-台灣",龍華戲劇
+#EXTINF:-1 tvg-id="龍華戲劇" tvg-name="龍華戲劇" tvg-logo="" group-title="台灣",龍華戲劇
 http://106.107.237.222:5050/smart.php?id=lunghuaxiju_twn&token=885252
-#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="" group-title="GPT-台灣",龍華偶像
+#EXTINF:-1 tvg-id="龍華偶像" tvg-name="龍華偶像" tvg-logo="" group-title="台灣",龍華偶像
 http://106.107.237.222:5050/smart.php?id=lunghuaidol_twn&token=885252
-#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="GPT-台灣",龍華電影
+#EXTINF:-1 tvg-id="龍華電影" tvg-name="龍華電影" tvg-logo="" group-title="台灣",龍華電影
 http://106.107.237.222:5050/smart.php?id=xingwei_movie&token=885252
-#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="GPT-台灣",龍華洋片
+#EXTINF:-1 tvg-id="龍華洋片" tvg-name="龍華洋片" tvg-logo="" group-title="台灣",龍華洋片
 http://106.107.237.222:5050/smart.php?id=lunghuawestern_twn&token=885252
-#EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="" group-title="GPT-台灣",龍華經典
+#EXTINF:-1 tvg-id="龍華經典" tvg-name="龍華經典" tvg-logo="" group-title="台灣",龍華經典
 http://106.107.237.222:5050/smart.php?id=lunghuajingdian_twn&token=885252
-#EXTINF:-1 tvg-id="靖天國際" tvg-name="靖天國際" tvg-logo="" group-title="GPT-台灣",靖天國際
+#EXTINF:-1 tvg-id="靖天國際" tvg-name="靖天國際" tvg-logo="" group-title="台灣",靖天國際
 http://106.107.237.222:5050/smart.php?id=jingtianintl_twn&token=885252
-#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="GPT-台灣",靖天卡通
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="台灣",靖天卡通
 http://106.107.237.222:5050/smart.php?id=jingtiancartoon_twn&token=885252
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="" group-title="GPT-台灣",大愛電視
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="" group-title="台灣",大愛電視
 http://106.107.237.222:5050/smart.php?id=daai_twn&token=885252
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="" group-title="GPT-台灣",大愛二台
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="" group-title="台灣",大愛二台
 http://106.107.237.222:5050/smart.php?id=daai2_twn&token=885252
-#EXTINF:-1 tvg-id="EYE 旅遊台" tvg-name="EYE 旅遊台" tvg-logo="" group-title="GPT-台灣",EYE 旅遊台
+#EXTINF:-1 tvg-id="EYE 旅遊台" tvg-name="EYE 旅遊台" tvg-logo="" group-title="台灣",EYE 旅遊台
 http://106.107.237.222:5050/smart.php?id=eyetvtravel_twn&token=885252
-#EXTINF:-1 tvg-id="EYE 戲劇台" tvg-name="EYE 戲劇台" tvg-logo="" group-title="GPT-台灣",EYE 戲劇台
+#EXTINF:-1 tvg-id="EYE 戲劇台" tvg-name="EYE 戲劇台" tvg-logo="" group-title="台灣",EYE 戲劇台
 http://106.107.237.222:5050/smart.php?id=eyetvxiju_twn&token=885252
-#EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="GPT-台灣",亞洲美食
+#EXTINF:-1 tvg-id="亞洲美食" tvg-name="亞洲美食" tvg-logo="" group-title="台灣",亞洲美食
 http://106.107.237.222:5050/smart.php?id=afc_twn&token=885252
-#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="GPT-台灣",美食星球
+#EXTINF:-1 tvg-id="美食星球" tvg-name="美食星球" tvg-logo="" group-title="台灣",美食星球
 http://106.107.237.222:5050/smart.php?id=foodplanet_twn&token=885252
-#EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="" group-title="GPT-台灣",TLC旅遊生活
+#EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅遊生活" tvg-logo="" group-title="台灣",TLC旅遊生活
 http://106.107.237.222:5050/smart.php?id=tlc_twn&token=885252
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="GPT-台灣",亞洲旅遊台
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="" group-title="台灣",亞洲旅遊台
 http://106.107.237.222:5050/smart.php?id=asiatravel_twn&token=885252
-#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="" group-title="GPT-台灣",Arirang
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="" group-title="台灣",Arirang
 http://106.107.237.222:5050/smart.php?id=arirang_twn&token=885252
-#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="GPT-台灣",AXN Taiwan
+#EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN Taiwan" tvg-logo="" group-title="台灣",AXN Taiwan
 http://106.107.237.222:5050/smart.php?id=axn_twn&token=885252
-#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="GPT-台灣",MTV Live
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live" tvg-logo="" group-title="台灣",MTV Live
 http://106.107.237.222:5050/smart.php?id=mtvhd_twn&token=885252
-#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="GPT-台灣",HBO_HD
+#EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO_HD" tvg-logo="" group-title="台灣",HBO_HD
 http://106.107.237.222:5050/smart.php?id=hbohd_twn&token=885252
-#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="GPT-台灣",HBO_HITS
+#EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HBO_HITS" tvg-logo="" group-title="台灣",HBO_HITS
 http://106.107.237.222:5050/smart.php?id=hbohit_twn&token=885252
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="GPT-台灣",CINEMAX
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="" group-title="台灣",CINEMAX
 http://106.107.237.222:5050/smart.php?id=cinemax_twn&token=885252
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="GPT-台灣",好萊塢電影台
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="" group-title="台灣",好萊塢電影台
 http://106.107.237.222:5050/smart.php?id=hollywoodmovies_twn&token=885252
-#EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="GPT-台灣",衛視電影台
+#EXTINF:-1 tvg-id="衛視電影台" tvg-name="衛視電影台" tvg-logo="" group-title="台灣",衛視電影台
 http://106.107.237.222:5050/smart.php?id=weishimovie_twn&token=885252
-#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="" group-title="GPT-台灣",龍祥時代
+#EXTINF:-1 tvg-id="龍祥時代" tvg-name="龍祥時代" tvg-logo="" group-title="台灣",龍祥時代
 http://106.107.237.222:5050/smart.php?id=lungxiangtime_twn&token=885252
-#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="GPT-台灣",美亞電影
+#EXTINF:-1 tvg-id="美亞電影" tvg-name="美亞電影" tvg-logo="" group-title="台灣",美亞電影
 http://106.107.237.222:5050/smart.php?id=meiyamovie_twn&token=885252
-#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="GPT-台灣",華藝綜合
+#EXTINF:-1 tvg-id="華藝綜合" tvg-name="華藝綜合" tvg-logo="" group-title="台灣",華藝綜合
 http://106.107.237.222:5050/smart.php?id=weishichinese_twn&token=885252
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="" group-title="GPT-台灣",博斯運動一台
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="" group-title="台灣",博斯運動一台
 http://106.107.237.222:5050/smart.php?id=bosisport1_twn&token=885252
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="" group-title="GPT-台灣",博斯運動二台
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="" group-title="台灣",博斯運動二台
 http://106.107.237.222:5050/smart.php?id=bosisport2_twn&token=885252
-#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="" group-title="GPT-台灣",博斯高球一台
+#EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="" group-title="台灣",博斯高球一台
 http://106.107.237.222:5050/smart.php?id=bosigolf1_twn&token=885252
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="" group-title="GPT-台灣",博斯高球二台
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="" group-title="台灣",博斯高球二台
 http://106.107.237.222:5050/smart.php?id=bosigolf2_twn&token=885252
-#EXTINF:-1 tvg-id="博斯網球檯" tvg-name="博斯網球檯" tvg-logo="" group-title="GPT-台灣",博斯網球檯
+#EXTINF:-1 tvg-id="博斯網球檯" tvg-name="博斯網球檯" tvg-logo="" group-title="台灣",博斯網球檯
 http://106.107.237.222:5050/smart.php?id=bositennis_twn&token=885252
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="" group-title="GPT-台灣",博斯無限台
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="" group-title="台灣",博斯無限台
 http://106.107.237.222:5050/smart.php?id=bosiunlimited_twn&token=885252
-#EXTINF:-1 tvg-id="好訊息 2" tvg-name="好訊息 2" tvg-logo="" group-title="GPT-台灣",好訊息 2
+#EXTINF:-1 tvg-id="好訊息 2" tvg-name="好訊息 2" tvg-logo="" group-title="台灣",好訊息 2
 http://106.107.237.222:5050/smart.php?id=good2_twn&token=885252
 
 
 
 
 
-#EXTINF:-1 tvg-id="CCTV-1 綜合" tvg-name="CCTV-1 綜合" tvg-logo="" group-title="GPT-央視",CCTV-1 綜合
+#EXTINF:-1 tvg-id="CCTV-1 綜合" tvg-name="CCTV-1 綜合" tvg-logo="" group-title="央視",CCTV-1 綜合
 http://142.171.248.206:5050/smart.php?id=cctv1&token=885252
-#EXTINF:-1 tvg-id="CCTV-2 財經" tvg-name="CCTV-2 財經" tvg-logo="" group-title="GPT-央視",CCTV-2 財經
+#EXTINF:-1 tvg-id="CCTV-2 財經" tvg-name="CCTV-2 財經" tvg-logo="" group-title="央視",CCTV-2 財經
 http://142.171.248.206:5050/smart.php?id=cctv2&token=885252
-#EXTINF:-1 tvg-id="CCTV-3 綜藝" tvg-name="CCTV-3 綜藝" tvg-logo="" group-title="GPT-央視",CCTV-3 綜藝
+#EXTINF:-1 tvg-id="CCTV-3 綜藝" tvg-name="CCTV-3 綜藝" tvg-logo="" group-title="央視",CCTV-3 綜藝
 http://142.171.248.206:5050/smart.php?id=cctv3&token=885252
-#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="GPT-央視",CCTV-4 中文國際
+#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="央視",CCTV-4 中文國際
 http://142.171.248.206:5050/smart.php?id=Cctv4&token=885252
-#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="GPT-央視",CCTV-4 中文國際
+#EXTINF:-1 tvg-id="CCTV-4 中文國際" tvg-name="CCTV-4 中文國際" tvg-logo="" group-title="央視",CCTV-4 中文國際
 http://142.171.248.206:5050/smart.php?id=cctv4&token=885252
-#EXTINF:-1 tvg-id="CCTV-5 體育" tvg-name="CCTV-5 體育" tvg-logo="" group-title="GPT-央視",CCTV-5 體育
+#EXTINF:-1 tvg-id="CCTV-5 體育" tvg-name="CCTV-5 體育" tvg-logo="" group-title="央視",CCTV-5 體育
 http://142.171.248.206:5050/smart.php?id=cctv5&token=885252
-#EXTINF:-1 tvg-id="CCTV-6 電影" tvg-name="CCTV-6 電影" tvg-logo="" group-title="GPT-央視",CCTV-6 電影
+#EXTINF:-1 tvg-id="CCTV-6 電影" tvg-name="CCTV-6 電影" tvg-logo="" group-title="央視",CCTV-6 電影
 http://142.171.248.206:5050/smart.php?id=cctv6&token=885252
-#EXTINF:-1 tvg-id="CCTV-7 國防軍事" tvg-name="CCTV-7 國防軍事" tvg-logo="" group-title="GPT-央視",CCTV-7 國防軍事
+#EXTINF:-1 tvg-id="CCTV-7 國防軍事" tvg-name="CCTV-7 國防軍事" tvg-logo="" group-title="央視",CCTV-7 國防軍事
 http://142.171.248.206:5050/smart.php?id=cctv7&token=885252
-#EXTINF:-1 tvg-id="CCTV-8 電視劇" tvg-name="CCTV-8 電視劇" tvg-logo="" group-title="GPT-央視",CCTV-8 電視劇
+#EXTINF:-1 tvg-id="CCTV-8 電視劇" tvg-name="CCTV-8 電視劇" tvg-logo="" group-title="央視",CCTV-8 電視劇
 http://142.171.248.206:5050/smart.php?id=cctv8hd&token=885252
-#EXTINF:-1 tvg-id="CCTV-9 記錄" tvg-name="CCTV-9 記錄" tvg-logo="" group-title="GPT-央視",CCTV-9 記錄
+#EXTINF:-1 tvg-id="CCTV-9 記錄" tvg-name="CCTV-9 記錄" tvg-logo="" group-title="央視",CCTV-9 記錄
 http://142.171.248.206:5050/smart.php?id=cctv9hd&token=885252
-#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="" group-title="GPT-央視",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="" group-title="央視",CCTV-10 科教
 http://142.171.248.206:5050/smart.php?id=cctv10hd&token=885252
-#EXTINF:-1 tvg-id="CCTV-11 戲曲" tvg-name="CCTV-11 戲曲" tvg-logo="" group-title="GPT-央視",CCTV-11 戲曲
+#EXTINF:-1 tvg-id="CCTV-11 戲曲" tvg-name="CCTV-11 戲曲" tvg-logo="" group-title="央視",CCTV-11 戲曲
 http://142.171.248.206:5050/smart.php?id=cctv11&token=885252
-#EXTINF:-1 tvg-id="CCTV-12 社會與法" tvg-name="CCTV-12 社會與法" tvg-logo="" group-title="GPT-央視",CCTV-12 社會與法
+#EXTINF:-1 tvg-id="CCTV-12 社會與法" tvg-name="CCTV-12 社會與法" tvg-logo="" group-title="央視",CCTV-12 社會與法
 http://142.171.248.206:5050/smart.php?id=cctv12&token=885252
-#EXTINF:-1 tvg-id="CCTV-13 新聞" tvg-name="CCTV-13 新聞" tvg-logo="" group-title="GPT-央視",CCTV-13 新聞
+#EXTINF:-1 tvg-id="CCTV-13 新聞" tvg-name="CCTV-13 新聞" tvg-logo="" group-title="央視",CCTV-13 新聞
 http://142.171.248.206:5050/smart.php?id=cctv13&token=885252
-#EXTINF:-1 tvg-id="CCTV-14 少兒" tvg-name="CCTV-14 少兒" tvg-logo="" group-title="GPT-央視",CCTV-14 少兒
+#EXTINF:-1 tvg-id="CCTV-14 少兒" tvg-name="CCTV-14 少兒" tvg-logo="" group-title="央視",CCTV-14 少兒
 http://142.171.248.206:5050/smart.php?id=cctv14&token=885252
-#EXTINF:-1 tvg-id="CCTV-15 音樂" tvg-name="CCTV-15 音樂" tvg-logo="" group-title="GPT-央視",CCTV-15 音樂
+#EXTINF:-1 tvg-id="CCTV-15 音樂" tvg-name="CCTV-15 音樂" tvg-logo="" group-title="央視",CCTV-15 音樂
 http://142.171.248.206:5050/smart.php?id=cctv15&token=885252
-#EXTINF:-1 tvg-id="CCTV-16 奧林匹克" tvg-name="CCTV-16 奧林匹克" tvg-logo="" group-title="GPT-央視",CCTV-16 奧林匹克
+#EXTINF:-1 tvg-id="CCTV-16 奧林匹克" tvg-name="CCTV-16 奧林匹克" tvg-logo="" group-title="央視",CCTV-16 奧林匹克
 http://142.171.248.206:5050/smart.php?id=cctv16&token=885252
-#EXTINF:-1 tvg-id="CCTV-17 農業農村" tvg-name="CCTV-17 農業農村" tvg-logo="" group-title="GPT-央視",CCTV-17 農業農村
+#EXTINF:-1 tvg-id="CCTV-17 農業農村" tvg-name="CCTV-17 農業農村" tvg-logo="" group-title="央視",CCTV-17 農業農村
 http://142.171.248.206:5050/smart.php?id=cctv17&token=885252
-#EXTINF:-1 tvg-id="CCTV-5+ 體育賽事" tvg-name="CCTV-5+ 體育賽事" tvg-logo="" group-title="GPT-央視",CCTV-5+ 體育賽事
+#EXTINF:-1 tvg-id="CCTV-5+ 體育賽事" tvg-name="CCTV-5+ 體育賽事" tvg-logo="" group-title="央視",CCTV-5+ 體育賽事
 http://142.171.248.206:5050/smart.php?id=cctv5plus&token=885252
-#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="" group-title="GPT-央視",湖南衛視
+#EXTINF:-1 tvg-id="湖南衛視" tvg-name="湖南衛視" tvg-logo="" group-title="央視",湖南衛視
 http://142.171.248.206:5050/smart.php?id=hunan_twn&token=885252
-#EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="" group-title="GPT-央視",浙江衛視
+#EXTINF:-1 tvg-id="浙江衛視" tvg-name="浙江衛視" tvg-logo="" group-title="央視",浙江衛視
 http://142.171.248.206:5050/smart.php?id=zhejiang_twn&token=885252
-#EXTINF:-1 tvg-id="江蘇衛視" tvg-name="江蘇衛視" tvg-logo="" group-title="GPT-央視",江蘇衛視
+#EXTINF:-1 tvg-id="江蘇衛視" tvg-name="江蘇衛視" tvg-logo="" group-title="央視",江蘇衛視
 http://142.171.248.206:5050/smart.php?id=jiangsu_twn&token=885252
-#EXTINF:-1 tvg-id="東方衛視" tvg-name="東方衛視" tvg-logo="" group-title="GPT-央視",東方衛視
+#EXTINF:-1 tvg-id="東方衛視" tvg-name="東方衛視" tvg-logo="" group-title="央視",東方衛視
 http://142.171.248.206:5050/smart.php?id=dongfangweishi_twn&token=885252
-#EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="" group-title="GPT-央視",北京衛視
+#EXTINF:-1 tvg-id="北京衛視" tvg-name="北京衛視" tvg-logo="" group-title="央視",北京衛視
 http://142.171.248.206:5050/smart.php?id=beijing&token=885252
-#EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="" group-title="GPT-央視",深圳衛視
+#EXTINF:-1 tvg-id="深圳衛視" tvg-name="深圳衛視" tvg-logo="" group-title="央視",深圳衛視
 http://142.171.248.206:5050/smart.php?id=shenzhen&token=885252
-#EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="" group-title="GPT-央視",廣東衛視
+#EXTINF:-1 tvg-id="廣東衛視" tvg-name="廣東衛視" tvg-logo="" group-title="央視",廣東衛視
 http://142.171.248.206:5050/smart.php?id=guangdongweishi_twn&token=885252
-#EXTINF:-1 tvg-id="大灣區衛視" tvg-name="大灣區衛視" tvg-logo="" group-title="GPT-央視",大灣區衛視
+#EXTINF:-1 tvg-id="大灣區衛視" tvg-name="大灣區衛視" tvg-logo="" group-title="央視",大灣區衛視
 http://142.171.248.206:5050/smart.php?id=nanfang_twn&token=885252
-#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="" group-title="GPT-央視",珠江台
+#EXTINF:-1 tvg-id="珠江台" tvg-name="珠江台" tvg-logo="" group-title="央視",珠江台
 http://142.171.248.206:5050/smart.php?id=zhujiang&token=885252
-#EXTINF:-1 tvg-id="東南衛視" tvg-name="東南衛視" tvg-logo="" group-title="GPT-央視",東南衛視
+#EXTINF:-1 tvg-id="東南衛視" tvg-name="東南衛視" tvg-logo="" group-title="央視",東南衛視
 http://142.171.248.206:5050/smart.php?id=fujian&token=885252
-#EXTINF:-1 tvg-id="廣西衛視" tvg-name="廣西衛視" tvg-logo="" group-title="GPT-央視",廣西衛視
+#EXTINF:-1 tvg-id="廣西衛視" tvg-name="廣西衛視" tvg-logo="" group-title="央視",廣西衛視
 http://142.171.248.206:5050/smart.php?id=guangxi&token=885252
-#EXTINF:-1 tvg-id="湖北衛視" tvg-name="湖北衛視" tvg-logo="" group-title="GPT-央視",湖北衛視
+#EXTINF:-1 tvg-id="湖北衛視" tvg-name="湖北衛視" tvg-logo="" group-title="央視",湖北衛視
 http://142.171.248.206:5050/smart.php?id=hubei&token=885252
-#EXTINF:-1 tvg-id="四川衛視" tvg-name="四川衛視" tvg-logo="" group-title="GPT-央視",四川衛視
+#EXTINF:-1 tvg-id="四川衛視" tvg-name="四川衛視" tvg-logo="" group-title="央視",四川衛視
 http://142.171.248.206:5050/smart.php?id=sichuan_twn&token=885252
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="GPT-央視",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="央視",CGTN
 http://142.171.248.206:5050/smart.php?id=CGTN&token=885252
 
 
