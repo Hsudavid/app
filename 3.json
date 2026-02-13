@@ -218,20 +218,7 @@
       "lang": "hipy",
       "ext": ""
     },
-    {
-      "key": "drpyS_小苹果[优]",
-      "name": "小苹果[优](DS)",
-      "type": 4,
-      "api": "http://142.171.248.206:5757/api/小苹果[优]?pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "title": "小苹果[优]",
-      "author": "EylinSir",
-      "类型": "影视",
-      "lang": "ds",
-      "ext": ""
-    },
+   
     {
       "key": "drpyS_永乐视频[优]",
       "name": "永乐视频[优](DS)",
@@ -324,6 +311,7 @@
 
   ]
 }
+
 
 
 
