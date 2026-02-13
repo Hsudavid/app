@@ -53,8 +53,16 @@ http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 http://74.91.26.218:82/live/ctvjc.m3u8
 
 
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyg_eOOZtFuqPa4t0j_eSveWP9aYFGU9KyqHId0yBbQCNk_YYNPAQshbfPKqC9c38lNgUXvOX1CWo8KR7PlDyfDvX_iwDtRZKy5TXRRRgnnBLkL6BSjACZP-UTeaLQfhMZaNzw7_yLFCytFhoKEJdKnWR4s-z1aYsDToMQ8eJ8brenzAnvC6viw0jRoU0QZYpLA.m3u8?u=1756878715
+
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
 http://106.107.237.222:5050/smart.php?id=tvbs&token=885252
+
+
+#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="綜合其他",TVBS歡樂台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 
 
 #EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="綜合其他",TVBS精采台
@@ -216,15 +224,16 @@ http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 #EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ERA2.png" group-title="新聞財經",年代新聞
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
 
+#EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="新聞財經",三立新聞HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrstjQwK1Qvfz8BPfBQJN13fqLIyX3q6w-21eR56d6OFJ8YfJ5IsyEV_zykMQXXgbIpFD9JwVVae3gfG-gGSCWOFcDsjWFXW_cdGNZ811RKVB-u7cP6qC8X4-YMKEKjQ7vUscFg9GN9cGC8IGO7HAW6jNOHzCh0VC0UAP1Llafvd1tl8Csp9inhyfakk6C9x9g.m3u8?u=1756878715
+
 
 #EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="新聞財經",三立新聞HD
-
 http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 
-
 #EXTINF:-1 tvg-name="三立新聞HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="新聞財經",三立新聞HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrstjQwK1Qvfz8BPfBQJN13fqLIyX3q6w-21eR56d6OFJ8YfJ5IsyEV_zykMQXXgbIpFD9JwVVae3gfG-gGSCWOFcDsjWFXW_cdGNZ811RKVB-u7cP6qC8X4-YMKEKjQ7vUscFg9GN9cGC8IGO7HAW6jNOHzCh0VC0UAP1Llafvd1tl8Csp9inhyfakk6C9x9g.m3u8?u=1756878715
 
-http://211.23.114.106:8507/http/61.221.81.94:8088/hls/73/815/ch52.m3u8
 
 
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
@@ -282,6 +291,10 @@ http://106.107.237.222:50007/4gtv-4gtv009/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
 http://106.107.237.222:50007/4gtv-live409/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LymUZNT2bmlxSvQ4cHRLiJ2fe2MaJc9Z6qOVHYbAImRKurKFLRanLJEjwLLytJ5msriMu78zUItpIgJjRN_mEajAeMurzBNZ6hoCeXJs5WQzLW-nmSuRFnv4FyYXnpB2GHc0J8Pp4HFKFRkpYhUW4r4qIZGA-BhwepMx06F0exFTlBdJ4GjyCsLcmGsAfpOI7YQ.m3u8?u=1756878715
+
 
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
 http://iptv.4666888.xyz/iptv2A.php?id=43
@@ -359,6 +372,20 @@ https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=
 http://iptv.4666888.xyz/iptv2A.php?id=44
 
 
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
+http://iptv.fr.to/test/Fmtv.php?id=ffxw
+#EXTINF:-1 tvg-id="非凡商業" tvg-name="非凡商業" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique2.png" group-title="新聞財經", 非凡商業
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYPZz2oe8Te9gwNdMmKdpLv_XCCdQG3YLsqIwCUmrSv1BVF-mOX5zcL3JmxkHPKnnEMmho0vY8qfz3e-vf0WyAyQxCJNVg43qVtlN915ASo1i4cV68lXL5uN9MdhrSeAdBdKZZ6MLCTrPK7h67-bronqL841aA-WVmH206VY58WBRJaDVVJifPtcoT5McmLOJUQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="非凡商業" tvg-name="非凡商業" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique2.png" group-title="新聞財經", 非凡商業
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYPZz2oe8Te9gwNdMmKdpLv_XCCdQG3YLsqIwCUmrSv1BVF-mOX5zcL3JmxkHPKnnEMmho0vY8qfz3e-vf0WyAyQxCJNVg43qVtlN915ASo1i4cV68lXL5uN9MdhrSeAdBdKZZ6MLCTrPK7h67-bronqL841aA-WVmH206VY58WBRJaDVVJifPtcoT5McmLOJUQ.m3u8?u=1756878715
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.iill.top/logo/寰宇新聞台.png" group-title="新聞財經", 寰宇新聞
@@ -405,6 +432,56 @@ http://106.107.237.222:5050/smart.php?id=eltasport2_twn&token=885252
 
 #EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
 http://106.107.237.222:5050/smart.php?id=eltasport3_twn&token=885252
+
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakRKUEVTLBLou0zZzYzXV5AT2hPbd2vlxZwFUKeDAHYHW8L-dZa58kETdQgxBeElrDsHz7uqJyN5XBTeIMLyd5C9gNbZOSPnBJMwfD16_APHMusOTvcoMgy4s3SlNcY4Whc3y-JgME7_luQp-1rmZnQ0xcj0w344qITNWQiz4Ibz8dDGWjXFmrhJNxnCDIka5vH0US5R4QKdfIUbcSpOGhEk.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakRKUEVTLBLou0zZzYzXV5AT2hPbd2vlxZwFUKeDAHYHW8L-dZa58kETdQgxBeElrDsHz7uqJyN5XBTeIMLyd5C9gNbZOSPnBJMwfD16_APHMusOTvcoMgy4s3SlNcY4Whc3y-JgME7_luQp-1rmZnQ0xcj0w344qITNWQiz4Ibz8dDGWjXFmrhJNxnCDIka5vH0US5R4QKdfIUbcSpOGhEk.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育4台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakaSewWqWYI4WfG5BpsX248_1fl65aF_k4-EyuAqxfB8eUBcxDVAdcNWKqPOsumeGwfEkaPtirer7EqgKhxL-fMwlhPr4Ufgt3gsXHRWhnjiaKRRx8QffRwYH9Bhx1DFWuGDeSmakS_rHOE-jjPxp64R0IVZXUY0oqEpaIAoxhrYNsVrC7OKaKQxp6aeO657K03l2V3WKW8oFowyfCGCdHUE.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育4台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakaSewWqWYI4WfG5BpsX248_1fl65aF_k4-EyuAqxfB8eUBcxDVAdcNWKqPOsumeGwfEkaPtirer7EqgKhxL-fMwlhPr4Ufgt3gsXHRWhnjiaKRRx8QffRwYH9Bhx1DFWuGDeSmakS_rHOE-jjPxp64R0IVZXUY0oqEpaIAoxhrYNsVrC7OKaKQxp6aeO657K03l2V3WKW8oFowyfCGCdHUE.m3u8?u=1756878715
+
+#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png" group-title="運動休閒",博斯高球
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAKx6n2aH8F6OHhaq2X_wb9h_KHHlv3rDaySYuAfeRD6q3hWKDv2qgvvY5sAf9alAVQq5zxuN_I2uAP05WXOeh-gmVS3jZipRTbZSUMODEpusCKrXYV6YaLWcWBUN0Ow0jpPGi_oT1Ya8E7vXVUGerADGPGV_F6Wrr1mLd5KH_UZs_HILCZmvsY3GT41Q0uK8Jkg.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png" group-title="運動休閒",博斯高球
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAKx6n2aH8F6OHhaq2X_wb9h_KHHlv3rDaySYuAfeRD6q3hWKDv2qgvvY5sAf9alAVQq5zxuN_I2uAP05WXOeh-gmVS3jZipRTbZSUMODEpusCKrXYV6YaLWcWBUN0Ow0jpPGi_oT1Ya8E7vXVUGerADGPGV_F6Wrr1mLd5KH_UZs_HILCZmvsY3GT41Q0uK8Jkg.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png" group-title="運動休閒",博斯高球二台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at1qk5ReKQ4b2UPy2GnbDTk8G8udL8yZML7aLf_kdwx7H5EztzOhizLPw9ymrrMkZPTb5iSSQW4pBATmc0QFRtmo2oCFKr9lJ34W6GzSbJQj_39NDO9J9xE1W_o3my3OZOlWEhV3L1gq2o1RmucT_yQXDMVygGjFmzxBDeZt_kfF53JCj1SB2RvkSwsNph9CM9A.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png" group-title="運動休閒",博斯高球二台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at1qk5ReKQ4b2UPy2GnbDTk8G8udL8yZML7aLf_kdwx7H5EztzOhizLPw9ymrrMkZPTb5iSSQW4pBATmc0QFRtmo2oCFKr9lJ34W6GzSbJQj_39NDO9J9xE1W_o3my3OZOlWEhV3L1gq2o1RmucT_yQXDMVygGjFmzxBDeZt_kfF53JCj1SB2RvkSwsNph9CM9A.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png" group-title="運動休閒",博斯運動一台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK6QQTlk7iWm5Uajk1lQpN0AjxqQTT_Rm3q4jvRzwvvpIsADrXIdNyXvzQdIw7iv0ZhYFk0V2F6PBQxqfeJc97hBZDbLdYeWFEp8jlASlOUEKOTbt8G58UDsApgJSfgE_llY4kJ_TaTi69rMtazG5nl2S3PLnYFudbGUjKTd91LkBzNwEZnl1qv3mt4nsYbOSlQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png" group-title="運動休閒",博斯運動一台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK6QQTlk7iWm5Uajk1lQpN0AjxqQTT_Rm3q4jvRzwvvpIsADrXIdNyXvzQdIw7iv0ZhYFk0V2F6PBQxqfeJc97hBZDbLdYeWFEp8jlASlOUEKOTbt8G58UDsApgJSfgE_llY4kJ_TaTi69rMtazG5nl2S3PLnYFudbGUjKTd91LkBzNwEZnl1qv3mt4nsYbOSlQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png" group-title="運動休閒",博斯運動二台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at55McAKfqQYZ_bh0WHyvSLXgvua0UJSNbSpRSF_cwXxKsaG0TvWr2jw9UO5CsTLLc3I0x0LEqkmz5zXbLJGF1FlQV1qBvGgSkaK_bcVKjnJwVM40LuU-0SQ6zzLq7BILeX7l8-9u-H1E2qFrNopOjh-wvQY1QABGTFN6ZvXKxiDhjwkvHQt-kfnyjYICUQ7i8g.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png" group-title="運動休閒",博斯運動二台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at55McAKfqQYZ_bh0WHyvSLXgvua0UJSNbSpRSF_cwXxKsaG0TvWr2jw9UO5CsTLLc3I0x0LEqkmz5zXbLJGF1FlQV1qBvGgSkaK_bcVKjnJwVM40LuU-0SQ6zzLq7BILeX7l8-9u-H1E2qFrNopOjh-wvQY1QABGTFN6ZvXKxiDhjwkvHQt-kfnyjYICUQ7i8g.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png" group-title="運動休閒",博斯網球台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK_CuRgoEj1K1TQCMqs1SLUEOuiiEKsfSvTUzPtLpaB5Dxyz7izmSPPIEf-iJz2UJjqCdDC9suIOYevSSKTWICwgWlXd7Itgyc35cuh6sOGl4wmhLC2HrGTymdJa92_H_59ovaKredQFcG-uXpbAgf0gjKPN7bvIY4qeA6IQDedjad_esRLJbQfT0urxje8Nhsw.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png" group-title="運動休閒",博斯網球台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK_CuRgoEj1K1TQCMqs1SLUEOuiiEKsfSvTUzPtLpaB5Dxyz7izmSPPIEf-iJz2UJjqCdDC9suIOYevSSKTWICwgWlXd7Itgyc35cuh6sOGl4wmhLC2HrGTymdJa92_H_59ovaKredQFcG-uXpbAgf0gjKPN7bvIY4qeA6IQDedjad_esRLJbQfT0urxje8Nhsw.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png" group-title="運動休閒",博斯無限台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYF8tmiQU_gRtKyBQY9r4tfFzbyX8UCPTHS2WMEzHVq5s0FrrM7GNw2VyxuLv7eqXRihfFmPaWgNGtfh0lNUyjNyObDXY65X1k0fSnwS-VI8lGUvNUIw3rJbRrpzp5-_NWOLdyWdlAstOLzMfJgcbgIA7dYa--QDTp22AycQ6xOSPF-YFUbA7Q2inIJmltuBnhw.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png" group-title="運動休閒",博斯無限台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYF8tmiQU_gRtKyBQY9r4tfFzbyX8UCPTHS2WMEzHVq5s0FrrM7GNw2VyxuLv7eqXRihfFmPaWgNGtfh0lNUyjNyObDXY65X1k0fSnwS-VI8lGUvNUIw3rJbRrpzp5-_NWOLdyWdlAstOLzMfJgcbgIA7dYa--QDTp22AycQ6xOSPF-YFUbA7Q2inIJmltuBnhw.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯無限2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png" group-title="運動休閒",博斯無限2台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iULwTk1od2wAo0zQCYARIwskZYtSsQOnaaYUIlzd4HO7lDDLzlbztOx1LEwrYWtzo3hVJYxWMCYHCE46zQmPkBVIpAG5WOSgGDPcAmhVanQ2yyQ7zjPwodFwrK8FejDtX2RCReBJHgvnBwnS5wa2nbPuIRClime3TQTAsFKUN1gwgusYoGOcE6b5AaYkxH9Wd-5fg7sDUV0JJXsM0nH-eHLQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯無限2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png" group-title="運動休閒",博斯無限2台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iULwTk1od2wAo0zQCYARIwskZYtSsQOnaaYUIlzd4HO7lDDLzlbztOx1LEwrYWtzo3hVJYxWMCYHCE46zQmPkBVIpAG5WOSgGDPcAmhVanQ2yyQ7zjPwodFwrK8FejDtX2RCReBJHgvnBwnS5wa2nbPuIRClime3TQTAsFKUN1gwgusYoGOcE6b5AaYkxH9Wd-5fg7sDUV0JJXsM0nH-eHLQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png" group-title="運動休閒",博斯魅力
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at8iR1RR16NTFT0mvV1Tg8AWFDZH5fGfx3_F4S3vR7sROY4odfydHHNA3cW8ORur8l2UCb4r0jbcpezuXds-qoElRTu5YPI7Mar5idDn8bO9rnG-LPl1Q0rGv7TqI0__TqQqr-ocoiH6amzBmdhGNOwA0VuoTXELpibuEbL96Btrl-vMztDxsUGjkC8pzlwD9sQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png" group-title="運動休閒",博斯魅力
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at8iR1RR16NTFT0mvV1Tg8AWFDZH5fGfx3_F4S3vR7sROY4odfydHHNA3cW8ORur8l2UCb4r0jbcpezuXds-qoElRTu5YPI7Mar5idDn8bO9rnG-LPl1Q0rGv7TqI0__TqQqr-ocoiH6amzBmdhGNOwA0VuoTXELpibuEbL96Btrl-vMztDxsUGjkC8pzlwD9sQ.m3u8?u=1756878715
 
 
 
@@ -676,6 +753,11 @@ http://106.107.237.222:50007/4gtv-live026/index.m3u8?token=lOYsRlIERwyKT5CHd6bcs
 
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://epg.iill.top/logo/History-歷史頻道.png" group-title="紀實探索", History 歷史頻道
 http://37.27.111.214:8080/live/27/hls.m3u8
+
+
+
+
+
 
 
 
