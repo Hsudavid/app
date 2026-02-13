@@ -310,9 +310,21 @@
       "url": "http://iptv543.com/543.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+     {
+      "name": "備用線路一",
+      "url": "https://iptv543.com/smt1.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "日本頻道",
+      "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
     }
+
   ]
 }
+
 
 
 
