@@ -292,19 +292,27 @@
       "logo": "https://diyp.112114.xyz/logo/{name}.png",
       "ua": "okhttp/4.12.0"
     },
-
-
-   {
-      "name": "Gather",
-      "url": "https://tv.iill.top/m3u/Gather",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0"
-   
+     {
+      "name": "543",
+      "url": "http://iptv543.com/543.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "備用線路一",
+      "url": "https://iptv543.com/smt1.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "日本頻道",
+      "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
     }
+
 
   ]
 }
+
 
 
 
