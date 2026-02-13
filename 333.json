@@ -1,9 +1,7 @@
   {
     "urls": [
 
-  {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.json", "name": "肥小猫"
-    },  
+ 
  {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/98.json", "name": "自用"
     },        
@@ -14,9 +12,6 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json", "name": "彥2"
     },   
       
-        {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json", "name": "彥3"
-    },
       {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json", "name": "彥1"
     },   
@@ -45,6 +40,7 @@
  }
 
    
+
 
 
 
