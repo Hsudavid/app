@@ -6,7 +6,9 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/98.json", "name": "自用"
     },        
 
- 
+  {
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json", "name": "彥3"
+    },  
 
      {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json", "name": "彥2"
@@ -40,6 +42,7 @@
  }
 
    
+
 
 
 
