@@ -18,10 +18,10 @@ http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=zhDNxhmJTrT5nruKkhM8b
 http://106.107.242.201:50007/4gtv-4gtv040/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
 http://106.107.242.201:50007/4gtv-4gtv041/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="台灣",台視 TTV HD
+#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="綜合其他",台視 TTV HD
 http://106.107.242.201/live.php?id=ttv_taiwan
 
-#EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公視 CTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png"" group-title="台灣",公視 CTV
+#EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公視 CTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png"" group-title="綜合其他",公視 CTV
 http://106.107.242.201/live.php?id=ctv18_twn
 
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合台
@@ -684,6 +684,8 @@ http://106.107.242.201/live.php?id=dazn1_twn
 http://106.107.242.201/live.php?id=dazn2_twn
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索頻道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="台灣綜合",探索頻道
 http://106.107.242.201/live.php?id=discoverych_twn
+
+
 
 
 
