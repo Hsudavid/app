@@ -1,72 +1,47 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
-http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-live403/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
-http://106.107.242.201:50007/4gtv-4gtv003/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-4gtv003/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV2.png" group-title="綜合其他",民視第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
-http://106.107.242.201:50007/4gtv-live401/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-live401/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
-http://106.107.242.201:50007/4gtv-4gtv001/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-4gtv001/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png" group-title="綜合其他",民視台灣台
+http://74.91.26.218:82/live/ftvtw.m3u8
+
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視
-http://106.107.242.201:50007/4gtv-live215/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-live215/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視
-http://106.107.242.201:50007/4gtv-4gtv002/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="綜合其他",大愛電視
-http://106.107.242.201:50007/4gtv-live007/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/4gtv-4gtv002/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="民視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png" group-title="綜合其他",民視
+http://iptv.4666888.xyz/iptv2A.php?id=55
+
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="綜合其他",民視綜藝
+http://49.213.188.67:50007/4gtv-4gtv004/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV6.png" group-title="綜合其他",民視綜藝
+http://iptv.4666888.xyz/iptv2A.php?id=46
+
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://106.107.242.201:50007/4gtv-4gtv040/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://106.107.242.201:50007/4gtv-4gtv041/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="綜合其他",台視 TTV HD
-http://106.107.242.201/live.php?id=ttv_taiwan
+http://49.213.188.67:50007/of-4gtv-4gtv040/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
-#EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公視 CTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png"" group-title="綜合其他",公視 CTV
-http://106.107.242.201/live.php?id=ctv18_twn
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
+http://49.213.188.67:50007/4gtv-4gtv040/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合台
-http://106.107.242.201:50007/4gtv-live207/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
-http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
-http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
-http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
-http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
-http://106.107.242.201:50007/4gtv-4gtv046/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
-http://106.107.242.201:50007/4gtv-4gtv047/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="綜合其他",新唐人亞太台
-http://106.107.242.201:50007/4gtv-live050/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png" group-title="綜合其他",Arirang TV
-http://106.107.242.201:50007/4gtv-4gtv079/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="GLOBALTREKKER" tvg-name="GLOBALTREKKER" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="生活旅遊",Global Trekker
-http://106.107.242.201:50007/4gtv-live112/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="綜合其他",原住民族電視台
-http://106.107.242.201:50007/4gtv-live014/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="LIVEABC互動英語頻道" tvg-name="LIVEABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童卡通",LiveABC互動英語頻道
-http://106.107.242.201:50007/4gtv-live030/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西頻道
-http://106.107.242.201:50007/4gtv-4gtv018/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://106.107.242.201:50007/4gtv-live132/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="NICKJR.兒童頻道" tvg-name="NICKJR.兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通",Nick Jr.
-http://106.107.242.201:50007/4gtv-live032/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通",Nickelodeon
-http://106.107.242.201:50007/4gtv-live105/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童卡通",DreamWorks
-http://106.107.242.201:50007/4gtv-live017/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通
-http://106.107.242.201:50007/4gtv-4gtv044/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
-http://106.107.242.201:50007/4gtv-4gtv057/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童卡通",MOMO親子
-http://106.107.242.201:50007/4gtv-live107/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-
-#EXTINF:-1 tvg-name="中視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="綜合其他",中視
-https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
 
 #EXTINF:-1 tvg-name="中視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="綜合其他",中視
 https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
@@ -77,11 +52,37 @@ http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV3.png" group-title="綜合其他",中視菁采台
 http://74.91.26.218:82/live/ctvjc.m3u8
 
-#EXTINF:-1 tvg-name="民視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV.png" group-title="綜合其他",民視
-http://iptv.4666888.xyz/iptv2A.php?id=55
+
 
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyg_eOOZtFuqPa4t0j_eSveWP9aYFGU9KyqHId0yBbQCNk_YYNPAQshbfPKqC9c38lNgUXvOX1CWo8KR7PlDyfDvX_iwDtRZKy5TXRRRgnnBLkL6BSjACZP-UTeaLQfhMZaNzw7_yLFCytFhoKEJdKnWR4s-z1aYsDToMQ8eJ8brenzAnvC6viw0jRoU0QZYpLA.m3u8?u=1756878715
+
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
+http://106.107.237.222:5050/smart.php?id=tvbs&token=885252
+
+
+#EXTINF:-1 tvg-name="TVBS歡樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="綜合其他",TVBS歡樂台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
+
+
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="綜合其他",TVBS精采台
+http://iptv.4666888.xyz/iptv2A.php?id=47
+
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
+http://49.213.188.67:50007/4gtv-4gtv041/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-name="華視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" group-title="綜合其他",華視
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+
+
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
+http://49.213.188.67:50007/4gtv-4gtv043/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="綜合其他",原住民族電視台
+http://49.213.188.67:50007/4gtv-live014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
 
 
 #EXTINF:-1 tvg-name="公視台語台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS1.png" group-title="綜合其他",公視台語台
@@ -117,6 +118,143 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="綜合其他",東森超視
 http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 
+#EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="綜合其他",三立台灣HD
+http://106.107.237.222:5050/smart.php?id=sanlitaiwan&token=885252
+
+#EXTINF:-1 tvg-name="三立台灣HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET4.png" group-title="綜合其他",三立台灣HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyk_bgvynoks0SJDnLN4CmXc_Ph60csuAp6s8D-jOpyhneWu9PyXlnq4zmHkKe6SaaD8MDmus4XtV25_a4J5Nf689R2uM9deDWtKl-KdUahWIG340ihT8YFmCOF-c9T7S-OxX8f8zQx0rLt0lK2RW2C_W-DkxBnLt7n06iBCJ_3ayH_DHrGZxg1THdn9djYM7UQ.m3u8?u=1756878715
+
+#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png" group-title="綜合其他",三立都會台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyhe8D9-CeEZQOFp7zCqF24LuwRx6fPqGc9nVvRCSe8pURtD_rOyCY6te_lShE5e2UFnSlpJaPU9DnssY8P3sF0i-MGMgUUcjuPGzZVw7xPTPtxPe_0wca7LHPCUozbRcdFbsDj6-AD8DwPLxqTPhE-H3p6MpbpgmNwqIJjSMOxe7JembWOda5yJwdZG8QtJHRw.m3u8?u=1756878715
+
+
+#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png" group-title="綜合其他",三立都會台
+http://106.107.237.222:5050/smart.php?id=sanlidouhui_twn&token=885252
+
+
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合台
+http://49.213.188.67:50007/4gtv-live207/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="綜合其他",八大综合台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y2NcDLAMny_Xqf9mK2_Uh-WAYfLzOQp23oOkbBKRdhO9NiXckoXfk1G_wolfUyEIHoo3IAS4NjGYYo1s8Yw3TBp47aePy1RsKMhXEFyNRUZ7iKwb82DRsB5PucOXjgJBsbNupM2t7bKDqeg3YaOfbGONJiBH6Yz94ZGQoFKO0uj5yRgDDMNfx2G5ZIqLEsW00Q.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="綜合其他",八大综合台
+http://iptv.fr.to/test/Fmtv.php?id=bdzh
+
+
+#EXTINF:-1 tvg-name="八大娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV3.png" group-title="綜合其他",八大娛樂台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y7aDNpAfjzaMAqe_OTcTj_JEmkQ2hnIWzZTYOHOyNIgzFL9azndzyljm8AUG4pul_bDMDeQWJTXZ191drTc3T3MKWEg-9G-IXLsktixPMciYZfBr6KZ8j9fZTcAjOtIs6GipyQqjPWTyMqCFz9kS7BVQEdnb-6mx82_w7pbv3wblz9M4uDkSTjJUefdcoU3-hw.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="八大娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV3.png" group-title="綜合其他",八大娛樂台
+http://iptv.fr.to/test/Fmtv.php?id=bdyl
+
+
+
+
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="綜合其他",八大綜藝
+http://49.213.188.67:50007/4gtv-4gtv039/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI1.png" group-title="綜合其他",中天綜合台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LytrDmp92dzgtBDDsBPYq9d1PkF-ehb8KGSKG97NUV5imHRRH3orv1cjbdNh-lAVApY2BBe6FN8LsYAyxf3YIqdRgxErAu_aSZcv5F4kajjPN_thS4oQUSFIQYKEP0g5A_0r8gpL0WcWVEEsYp2Iyn3Drel3fo5thvkdMmpFujakt_Z02jpSESQQ9wb9697MAHg.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI1.png" group-title="綜合其他",中天綜合台
+http://iptv.fr.to/test/Fmtv.php?id=ztzh
+#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI3.png" group-title="綜合其他",中天娛樂台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyt7kLfOPzB5rVNzHzS77_p3n-oskL3M1LR9_vBtF8KsmwE2CC6r0yLyygr7v4-nKazNZFHSlVMGultBxNsFwBA-s6eyjEbZhcKHS11YRjLKHsjgALUzl21xL6HodWfaGhCMUKtVFX8BwjO6kQH1vSWHm0j8JiEm7HET4bqsMTIfqVK8ojiRwnLYjPA3R4fK9Xw.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI4.png" group-title="綜合其他",中天亞洲台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUX5IHWvb3zedf6expPkQooUiSNAtYY810Aw14IIVfQDk_l93y0Jw-Q_ImK3iBHZLkjVqP2FTqUR13YW5vCldIWHWxChU7x0grZzxS_b7Ta-K6E0nm85bxgn3lw7p0LdO2Q-wX3nuypLAkEiDKr5XadtekKtgSiXFXEEn9ukk1tDFfOlxxBpZIBTE0dM21Y_VCiGL37GMgUB839QQQCG6VFQ.m3u8?u=1756878715
+
+
+
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="綜合其他",TVBS歡樂台
+http://106.107.237.222:5050/smart.php?id=tvbshuanle_twn&token=885252
+
+
+
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="綜合其他",TVBS精采台
+http://49.213.188.67:50007/4gtv-4gtv067/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="國興衛視" tvg-name="國興衛視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GSTV.png" group-title="綜合其他",國興衛視
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUgZLPnRKJZDxkmSKa-lNFc5nDI-rnGhCcZaQBRry2ytxBGIzZJ27zPQ2FWlHUFxrG5ox6LcaDVpqTxGmlTu_bhQUeUJwhwHCCLODoEOCrbYsboKfgsWXNi3erjoylXryggSyjXl0qDJq2ZH6OVHQag3blCtPOLyEb_8Kf6J_Cn9kJ6JqeFVAgIfEYSyA4MhCA2F0Tu-nkdjzzG_hfgrcWRA.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="國興衛視" tvg-name="國興衛視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GSTV.png" group-title="綜合其他",國興衛視
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUgZLPnRKJZDxkmSKa-lNFc5nDI-rnGhCcZaQBRry2ytxBGIzZJ27zPQ2FWlHUFxrG5ox6LcaDVpqTxGmlTu_bhQUeUJwhwHCCLODoEOCrbYsboKfgsWXNi3erjoylXryggSyjXl0qDJq2ZH6OVHQag3blCtPOLyEb_8Kf6J_Cn9kJ6JqeFVAgIfEYSyA4MhCA2F0Tu-nkdjzzG_hfgrcWRA.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="JET綜合台" tvg-name="JET綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/JET.png" group-title="綜合其他",JET綜合台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAKxPrehHyovEjSATPmqVYmi_55P6_ClppJeyrbzjYf24my5E1aQFwy3TVlhBr5ZUdk6nMwZpsUqt80MqAp2JJeTAVwBkXNVGDV2DOPpDGzglj707bXwtdewSJcVI8rBkbPoZOIz-eP2EnO957G73l0lherkXi7uYhhbKR5hAi2BMJDtovWHEcaZm58US4U7735w.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="東風37" tvg-name="東風37" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfeng.png" group-title="綜合其他",東風37
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUQcKJgqGv1BzPFE67m_1RcT1PSJKP4I-UoyllK4Gqi4f88n9xlF-NFtX12j5BxMLisFFiQ7qj_9HQuId8ewu6N5iL5q6P20QNY-h-u-yQzp6xHs3jmwasNkpunTwMEh6LaPQ4XGcnA9nZ-IoH93NvZzdPwL_iGYHNTgKZnN-C8-_MkAn7zXEihIq3Scyj-4Vx1ig930UD7yLs13iqCLtz4A.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="霹靂臺灣" tvg-name="霹靂臺灣" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/pltwt.png" group-title="綜合其他",霹靂臺灣
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at9Wv8wNhpIxgbsVxz0HN103_VaLQE_XjJbdn6axtEnrRI3njbvyoqr0i6ULwXTAsirhZ9VNB_Vpte5UQ5pG1tqdOd3LL2dT5EbpvgK0lgNKXVM7lraYZqp-QFYPDqPsJUJhofA6Zs49DxHQApID1TRm2cmUO9GZ5g9ky-6BwirBCDi9m_WLBt6TgSyNL0OjwuA.m3u8?u=1756878715
+
+
+
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="綜合其他",ELTA娛樂
+http://49.213.188.67:50007/4gtv-4gtv070/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
+http://49.213.188.67:50007/4gtv-4gtv046/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
+http://49.213.188.67:50007/4gtv-4gtv047/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
+http://49.213.188.67:50007/4gtv-4gtv062/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="KLT靖天國際台" tvg-name="KLT靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",KLT-靖天國際台
+http://49.213.188.67:50007/4gtv-4gtv063/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="NICETV靖天歡樂台" tvg-name="NICETV靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
+http://49.213.188.67:50007/4gtv-4gtv054/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
+http://49.213.188.67:50007/4gtv-4gtv065/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
+http://49.213.188.67:50007/4gtv-4gtv016/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+
+
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="綜合其他",新唐人亞太台
+http://49.213.188.67:50007/4gtv-live050/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-id="大愛電視台" tvg-name="大愛電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="綜合其他",大愛電視台
+http://49.213.188.67:50007/4gtv-live007/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
+http://49.213.188.67:50007/4gtv-live106/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+
+#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BLTV.png" group-title="綜合其他",人間衛視
+http://49.213.188.67:50007/4gtv-live008/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ArirangTV.png" group-title="綜合其他",Arirang TV
+http://49.213.188.67:50007/4gtv-4gtv079/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jgbdx.png" group-title="綜合其他",金光布袋戲
+http://49.213.188.67:50007/4gtv-live144/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png" group-title="綜合其他",DayStar
+http://49.213.188.67:50007/daystar/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-name="東森購物1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物1台
+http://49.213.188.67:50007/4gtv-live047/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="東森購物2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物2台
+http://49.213.188.67:50007/4gtv-live046/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="東森購物3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物3台
+http://49.213.188.67:50007/4gtv-live048/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="東森購物4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC11.png" group-title="綜合其他",東森購物4台
+http://49.213.188.67:50007/4gtv-live049/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
 
@@ -125,7 +263,6 @@ http://211.23.114.106:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 
 #EXTINF:-1 tvg-name="壹電視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV2.png" group-title="新聞財經",壹電視新聞台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
-
 
 
 
@@ -147,15 +284,102 @@ http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrstjQwK1Qvfz8BPfBQJN13fqLIyX3q6w-21eR56d6OFJ8YfJ5IsyEV_zykMQXXgbIpFD9JwVVae3gfG-gGSCWOFcDsjWFXW_cdGNZ811RKVB-u7cP6qC8X4-YMKEKjQ7vUscFg9GN9cGC8IGO7HAW6jNOHzCh0VC0UAP1Llafvd1tl8Csp9inhyfakk6C9x9g.m3u8?u=1756878715
 
 
+
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
+http://49.213.188.67:50007/4gtv-4gtv075/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
+https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+
+
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞台
+http://49.213.188.67:50007/4gtv-4gtv152/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
+http://49.213.188.67:50007/4gtv-live452/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
+http://49.213.188.67:50007/4gtv-4gtv052/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="新聞財經",華視新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+
+#EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="新聞財經",華視新聞台
+http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+
+#EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="新聞財經",華視新聞台
+http://74.91.26.218:82/live/ctsnews.m3u8
+
+
+
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞台
+http://49.213.188.67:50007/4gtv-live413/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="新聞財經",民視新聞台
+http://74.91.26.218:82/live/ftvnews.m3u8
+
+
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞台
+http://49.213.188.67:50007/litv-ftv13/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
+http://49.213.188.67:50007/4gtv-live089/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
+http://49.213.188.67:50007/4gtv-4gtv153/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
+http://49.213.188.67:50007/4gtv-live474/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
+http://49.213.188.67:50007/4gtv-4gtv074/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+http://49.213.188.67:50007/4gtv-4gtv009/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+http://49.213.188.67:50007/4gtv-live409/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LymUZNT2bmlxSvQ4cHRLiJ2fe2MaJc9Z6qOVHYbAImRKurKFLRanLJEjwLLytJ5msriMu78zUItpIgJjRN_mEajAeMurzBNZ6hoCeXJs5WQzLW-nmSuRFnv4FyYXnpB2GHc0J8Pp4HFKFRkpYhUW4r4qIZGA-BhwepMx06F0exFTlBdJ4GjyCsLcmGsAfpOI7YQ.m3u8?u=1756878715
 
 
-
-
-
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
 http://iptv.4666888.xyz/iptv2A.php?id=43
+
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://49.213.188.67:50007/media-live072/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://49.213.188.67:50007/4gtv-4gtv072/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
+http://49.213.188.67:50007/4gtv-live059/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
+http://49.213.188.67:50007/4gtv-live408/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
+http://49.213.188.67:50007/litv-longturn14/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
+http://49.213.188.67:50007/4gtv-4gtv156/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
+http://49.213.188.67:50007/4gtv-live060/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="NHK新聞資訊台" tvg-name="NHK新聞資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="新聞財經", NHK 新聞資訊台
+http://49.213.188.67:50007/4gtv-live168/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="新聞財經",中視新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
+
+#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="新聞財經",中視新聞台
+http://74.91.26.218:82/live/ctvnews.m3u8
 
 
 #EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="新聞財經",台視新聞台
@@ -169,43 +393,36 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
 
 
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
-http://106.107.242.201:50007/4gtv-4gtv075/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
-http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
-http://106.107.242.201:50007/4gtv-live452/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
-http://106.107.242.201:50007/4gtv-4gtv052/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
-http://106.107.242.201:50007/litv-ftv13/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
-http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://106.107.242.201:50007/4gtv-live474/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://106.107.242.201:50007/4gtv-4gtv074/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://106.107.242.201:50007/4gtv-4gtv009/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://106.107.242.201:50007/4gtv-live409/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
-http://106.107.242.201:50007/4gtv-live059/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+
+
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新聞財經",中天新聞台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+
+
+
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="新聞財經",中天新聞台
+https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="新聞財經",三立iNEWS
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+
+#EXTINF:-1 tvg-name="三立新聞iNEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="新聞財經",三立iNEWS
+https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
 
 
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
 http://iptv.4666888.xyz/iptv2A.php?id=44
 
 
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQmXztaPqUaTu4Cwnl89i6cAR9Ns3UjqcoGz-7Ku7pzf8iRuAW58SqlW8Ghow8snuw6yfVoLvHJKXPQNA-W3LLPQLYBMRGmbNnAsWRe3wWdIC4EE16x_TBLIOmMb-W1cOjjtcA4GIBxfm2qECWwd6GZ4tuxkY-pmlspR_GyEilrC5x123WrqHPcYUKVnd9k5Lvw.m3u8?u=1756878715
 #EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://epg.iill.top/logo/非凡新聞台.png" group-title="新聞財經", 非凡新聞
@@ -219,470 +436,412 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 
 
 
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://106.107.242.201:50007/4gtv-live408/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://106.107.242.201:50007/litv-longturn14/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://106.107.242.201:50007/4gtv-4gtv156/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
-http://106.107.242.201:50007/4gtv-live060/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="NHK新聞資訊台" tvg-name="NHK新聞資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="新聞財經", NHK 新聞資訊台
-http://106.107.242.201:50007/4gtv-live168/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://106.107.242.201:50007/media-live073/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
-http://106.107.242.201:50007/4gtv-4gtv073/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
-http://106.107.242.201:50007/4gtv-4gtv004/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
-http://106.107.242.201:50007/4gtv-4gtv006/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
-http://106.107.242.201:50007/4gtv-4gtv062/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="KLT靖天國際台" tvg-name="KLT靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",KLT-靖天國際台
-http://106.107.242.201:50007/4gtv-4gtv063/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="NICETV靖天歡樂台" tvg-name="NICETV靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
-http://106.107.242.201:50007/4gtv-4gtv054/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
-http://106.107.242.201:50007/4gtv-4gtv065/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
-http://106.107.242.201:50007/4gtv-4gtv068/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="韓國娛樂台KMTV" tvg-name="韓國娛樂台KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
-http://106.107.242.201:50007/4gtv-4gtv016/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ROCKENTERTAINMENT" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="電影戲劇",ROCK Entertainment
-http://106.107.242.201:50007/4gtv-live080/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="LIFETIME娛樂頻道" tvg-name="LIFETIME娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="生活旅遊", Lifetime
-http://106.107.242.201:50007/4gtv-live029/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="電影原聲台CMUSIC" tvg-name="電影原聲台CMUSIC" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="音樂綜藝",電影原聲台 CMusic
-http://106.107.242.201:50007/4gtv-live031/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",TRACE Urban
-http://106.107.242.201:50007/4gtv-4gtv082/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",Mezzo Live HD
-http://106.107.242.201:50007/4gtv-4gtv083/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="CLASSICA古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA古典樂
-http://106.107.242.201:50007/4gtv-4gtv059/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="生活旅遊",INULTRA
-http://106.107.242.201:50007/4gtv-live096/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
-http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 
-#EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="體育競技",緯來體育台
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.iill.top/logo/寰宇新聞台.png" group-title="新聞財經", 寰宇新聞
+https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.iill.top/logo/寰宇新聞台.png" group-title="新聞財經", 寰宇新聞
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+
+
+#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+
+#EXTINF:-1 tvg-name="寰宇財經台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global4.png" group-title="新聞財經",寰宇財經台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+
+
+
+
+
+#EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="運動休閒",緯來體育台
 http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 
-#EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="體育競技",緯來體育台
+#EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="運動休閒",緯來體育台
 http://211.23.114.106:8528/http/60.251.39.91:8081/hls/210/10013/cstv13.m3u8 
 
-#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" group-title="體育競技",DAZN 1
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven1.png" group-title="運動休閒",DAZN 1
 http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 
 
-#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" group-title="體育競技",DAZN 2
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Eleven2.png" group-title="運動休閒",DAZN 2
 http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 
 
-#EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="體育競技",momo綜合台
+#EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="運動休閒",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 
-#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="體育競技",愛爾達體育1台
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
 http://106.107.237.222:5050/smart.php?id=eltasport1_twn&token=885252
 
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="體育競技",愛爾達體育2台
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
 http://106.107.237.222:5050/smart.php?id=eltasport2_twn&token=885252
 
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="體育競技",愛爾達體育3台
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
 http://106.107.237.222:5050/smart.php?id=eltasport3_twn&token=885252
 
-#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="體育競技",愛爾達體育1台
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakRKUEVTLBLou0zZzYzXV5AT2hPbd2vlxZwFUKeDAHYHW8L-dZa58kETdQgxBeElrDsHz7uqJyN5XBTeIMLyd5C9gNbZOSPnBJMwfD16_APHMusOTvcoMgy4s3SlNcY4Whc3y-JgME7_luQp-1rmZnQ0xcj0w344qITNWQiz4Ibz8dDGWjXFmrhJNxnCDIka5vH0US5R4QKdfIUbcSpOGhEk.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="體育競技",愛爾達體育1台
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="運動休閒",愛爾達體育1台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakRKUEVTLBLou0zZzYzXV5AT2hPbd2vlxZwFUKeDAHYHW8L-dZa58kETdQgxBeElrDsHz7uqJyN5XBTeIMLyd5C9gNbZOSPnBJMwfD16_APHMusOTvcoMgy4s3SlNcY4Whc3y-JgME7_luQp-1rmZnQ0xcj0w344qITNWQiz4Ibz8dDGWjXFmrhJNxnCDIka5vH0US5R4QKdfIUbcSpOGhEk.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="體育競技",愛爾達體育2台
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="體育競技",愛爾達體育2台
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="運動休閒",愛爾達體育2台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakeoYbDa6YZg-u47U6PhP5DZDJlUneMuOwRC3h5idOWdj_Ny25T7d4wMr5fziLsOD6XXT-oUNWhwoH4RG1NNB5fVfEtrENxQLrVzpdhIVXRVF8HKsB9oRlNdivgx1RwAjrpr62fIFBt1i1Czn7cEY6HMUqD6HCE0PS2FaKfJtY2Dlnntgigm1VGesLu8-5qxq9LNFJP_GDyjXOBG2VdISah4.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="體育競技",愛爾達體育3台
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="體育競技",愛爾達體育3台
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育3台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakdgDZYTd1TO17f1P5z1fhiat3_-0ZLkDmL_tm5VqfvlwYflnMRf6IMKUgWfzBvelfrb4GedBcHyXMidxDfbodbANXYhzG4eE296vdiGRXnbPAc1cTkGMtlGhA1KKcjE2KtNrUt4FDZ10KUAC-H7ZCUfiwTSNlI7MnP71NYfHszNjp1J1az5RpXgtkFrE1-HAXz_LN21JCg4GUNOTEkYx8xo.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="體育競技",愛爾達體育4台
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育4台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakaSewWqWYI4WfG5BpsX248_1fl65aF_k4-EyuAqxfB8eUBcxDVAdcNWKqPOsumeGwfEkaPtirer7EqgKhxL-fMwlhPr4Ufgt3gsXHRWhnjiaKRRx8QffRwYH9Bhx1DFWuGDeSmakS_rHOE-jjPxp64R0IVZXUY0oqEpaIAoxhrYNsVrC7OKaKQxp6aeO657K03l2V3WKW8oFowyfCGCdHUE.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="體育競技",愛爾達體育4台
+#EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="運動休閒",愛爾達體育4台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakaSewWqWYI4WfG5BpsX248_1fl65aF_k4-EyuAqxfB8eUBcxDVAdcNWKqPOsumeGwfEkaPtirer7EqgKhxL-fMwlhPr4Ufgt3gsXHRWhnjiaKRRx8QffRwYH9Bhx1DFWuGDeSmakS_rHOE-jjPxp64R0IVZXUY0oqEpaIAoxhrYNsVrC7OKaKQxp6aeO657K03l2V3WKW8oFowyfCGCdHUE.m3u8?u=1756878715
 
-#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png" group-title="體育競技",博斯高球
+#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png" group-title="運動休閒",博斯高球
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAKx6n2aH8F6OHhaq2X_wb9h_KHHlv3rDaySYuAfeRD6q3hWKDv2qgvvY5sAf9alAVQq5zxuN_I2uAP05WXOeh-gmVS3jZipRTbZSUMODEpusCKrXYV6YaLWcWBUN0Ow0jpPGi_oT1Ya8E7vXVUGerADGPGV_F6Wrr1mLd5KH_UZs_HILCZmvsY3GT41Q0uK8Jkg.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png" group-title="體育競技",博斯高球
+#EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png" group-title="運動休閒",博斯高球
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAKx6n2aH8F6OHhaq2X_wb9h_KHHlv3rDaySYuAfeRD6q3hWKDv2qgvvY5sAf9alAVQq5zxuN_I2uAP05WXOeh-gmVS3jZipRTbZSUMODEpusCKrXYV6YaLWcWBUN0Ow0jpPGi_oT1Ya8E7vXVUGerADGPGV_F6Wrr1mLd5KH_UZs_HILCZmvsY3GT41Q0uK8Jkg.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png" group-title="體育競技",博斯高球二台
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png" group-title="運動休閒",博斯高球二台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at1qk5ReKQ4b2UPy2GnbDTk8G8udL8yZML7aLf_kdwx7H5EztzOhizLPw9ymrrMkZPTb5iSSQW4pBATmc0QFRtmo2oCFKr9lJ34W6GzSbJQj_39NDO9J9xE1W_o3my3OZOlWEhV3L1gq2o1RmucT_yQXDMVygGjFmzxBDeZt_kfF53JCj1SB2RvkSwsNph9CM9A.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png" group-title="體育競技",博斯高球二台
+#EXTINF:-1 tvg-name="博斯高球二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast4.png" group-title="運動休閒",博斯高球二台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at1qk5ReKQ4b2UPy2GnbDTk8G8udL8yZML7aLf_kdwx7H5EztzOhizLPw9ymrrMkZPTb5iSSQW4pBATmc0QFRtmo2oCFKr9lJ34W6GzSbJQj_39NDO9J9xE1W_o3my3OZOlWEhV3L1gq2o1RmucT_yQXDMVygGjFmzxBDeZt_kfF53JCj1SB2RvkSwsNph9CM9A.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png" group-title="體育競技",博斯運動一台
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png" group-title="運動休閒",博斯運動一台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK6QQTlk7iWm5Uajk1lQpN0AjxqQTT_Rm3q4jvRzwvvpIsADrXIdNyXvzQdIw7iv0ZhYFk0V2F6PBQxqfeJc97hBZDbLdYeWFEp8jlASlOUEKOTbt8G58UDsApgJSfgE_llY4kJ_TaTi69rMtazG5nl2S3PLnYFudbGUjKTd91LkBzNwEZnl1qv3mt4nsYbOSlQ.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png" group-title="體育競技",博斯運動一台
+#EXTINF:-1 tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png" group-title="運動休閒",博斯運動一台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK6QQTlk7iWm5Uajk1lQpN0AjxqQTT_Rm3q4jvRzwvvpIsADrXIdNyXvzQdIw7iv0ZhYFk0V2F6PBQxqfeJc97hBZDbLdYeWFEp8jlASlOUEKOTbt8G58UDsApgJSfgE_llY4kJ_TaTi69rMtazG5nl2S3PLnYFudbGUjKTd91LkBzNwEZnl1qv3mt4nsYbOSlQ.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png" group-title="體育競技",博斯運動二台
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png" group-title="運動休閒",博斯運動二台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at55McAKfqQYZ_bh0WHyvSLXgvua0UJSNbSpRSF_cwXxKsaG0TvWr2jw9UO5CsTLLc3I0x0LEqkmz5zXbLJGF1FlQV1qBvGgSkaK_bcVKjnJwVM40LuU-0SQ6zzLq7BILeX7l8-9u-H1E2qFrNopOjh-wvQY1QABGTFN6ZvXKxiDhjwkvHQt-kfnyjYICUQ7i8g.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png" group-title="體育競技",博斯運動二台
+#EXTINF:-1 tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png" group-title="運動休閒",博斯運動二台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at55McAKfqQYZ_bh0WHyvSLXgvua0UJSNbSpRSF_cwXxKsaG0TvWr2jw9UO5CsTLLc3I0x0LEqkmz5zXbLJGF1FlQV1qBvGgSkaK_bcVKjnJwVM40LuU-0SQ6zzLq7BILeX7l8-9u-H1E2qFrNopOjh-wvQY1QABGTFN6ZvXKxiDhjwkvHQt-kfnyjYICUQ7i8g.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png" group-title="體育競技",博斯網球台
+#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png" group-title="運動休閒",博斯網球台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK_CuRgoEj1K1TQCMqs1SLUEOuiiEKsfSvTUzPtLpaB5Dxyz7izmSPPIEf-iJz2UJjqCdDC9suIOYevSSKTWICwgWlXd7Itgyc35cuh6sOGl4wmhLC2HrGTymdJa92_H_59ovaKredQFcG-uXpbAgf0gjKPN7bvIY4qeA6IQDedjad_esRLJbQfT0urxje8Nhsw.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png" group-title="體育競技",博斯網球台
+#EXTINF:-1 tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png" group-title="運動休閒",博斯網球台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAK_CuRgoEj1K1TQCMqs1SLUEOuiiEKsfSvTUzPtLpaB5Dxyz7izmSPPIEf-iJz2UJjqCdDC9suIOYevSSKTWICwgWlXd7Itgyc35cuh6sOGl4wmhLC2HrGTymdJa92_H_59ovaKredQFcG-uXpbAgf0gjKPN7bvIY4qeA6IQDedjad_esRLJbQfT0urxje8Nhsw.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png" group-title="體育競技",博斯無限台
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png" group-title="運動休閒",博斯無限台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYF8tmiQU_gRtKyBQY9r4tfFzbyX8UCPTHS2WMEzHVq5s0FrrM7GNw2VyxuLv7eqXRihfFmPaWgNGtfh0lNUyjNyObDXY65X1k0fSnwS-VI8lGUvNUIw3rJbRrpzp5-_NWOLdyWdlAstOLzMfJgcbgIA7dYa--QDTp22AycQ6xOSPF-YFUbA7Q2inIJmltuBnhw.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png" group-title="體育競技",博斯無限台
+#EXTINF:-1 tvg-name="博斯無限台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast7.png" group-title="運動休閒",博斯無限台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUmgrc6Cj9bnaXGBfHBsZOYF8tmiQU_gRtKyBQY9r4tfFzbyX8UCPTHS2WMEzHVq5s0FrrM7GNw2VyxuLv7eqXRihfFmPaWgNGtfh0lNUyjNyObDXY65X1k0fSnwS-VI8lGUvNUIw3rJbRrpzp5-_NWOLdyWdlAstOLzMfJgcbgIA7dYa--QDTp22AycQ6xOSPF-YFUbA7Q2inIJmltuBnhw.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯無限2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png" group-title="體育競技",博斯無限2台
+#EXTINF:-1 tvg-name="博斯無限2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png" group-title="運動休閒",博斯無限2台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iULwTk1od2wAo0zQCYARIwskZYtSsQOnaaYUIlzd4HO7lDDLzlbztOx1LEwrYWtzo3hVJYxWMCYHCE46zQmPkBVIpAG5WOSgGDPcAmhVanQ2yyQ7zjPwodFwrK8FejDtX2RCReBJHgvnBwnS5wa2nbPuIRClime3TQTAsFKUN1gwgusYoGOcE6b5AaYkxH9Wd-5fg7sDUV0JJXsM0nH-eHLQ.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯無限2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png" group-title="體育競技",博斯無限2台
+#EXTINF:-1 tvg-name="博斯無限2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png" group-title="運動休閒",博斯無限2台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iULwTk1od2wAo0zQCYARIwskZYtSsQOnaaYUIlzd4HO7lDDLzlbztOx1LEwrYWtzo3hVJYxWMCYHCE46zQmPkBVIpAG5WOSgGDPcAmhVanQ2yyQ7zjPwodFwrK8FejDtX2RCReBJHgvnBwnS5wa2nbPuIRClime3TQTAsFKUN1gwgusYoGOcE6b5AaYkxH9Wd-5fg7sDUV0JJXsM0nH-eHLQ.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png" group-title="體育競技",博斯魅力
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png" group-title="運動休閒",博斯魅力
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at8iR1RR16NTFT0mvV1Tg8AWFDZH5fGfx3_F4S3vR7sROY4odfydHHNA3cW8ORur8l2UCb4r0jbcpezuXds-qoElRTu5YPI7Mar5idDn8bO9rnG-LPl1Q0rGv7TqI0__TqQqr-ocoiH6amzBmdhGNOwA0VuoTXELpibuEbL96Btrl-vMztDxsUGjkC8pzlwD9sQ.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png" group-title="體育競技",博斯魅力
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png" group-title="運動休閒",博斯魅力
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at8iR1RR16NTFT0mvV1Tg8AWFDZH5fGfx3_F4S3vR7sROY4odfydHHNA3cW8ORur8l2UCb4r0jbcpezuXds-qoElRTu5YPI7Mar5idDn8bO9rnG-LPl1Q0rGv7TqI0__TqQqr-ocoiH6amzBmdhGNOwA0VuoTXELpibuEbL96Btrl-vMztDxsUGjkC8pzlwD9sQ.m3u8?u=1756878715
 
 
 
-
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
-http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
-http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
-http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育競技",車迷 TV
-http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png" group-title="體育競技", GINX Esports TV
-http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
-http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="滾動力ROLLOR" tvg-name="滾動力ROLLOR" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊",滾動力 Rollor
-http://106.107.242.201:50007/4gtv-live012/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://106.107.242.201:50007/4gtv-4gtv076/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
-http://106.107.242.201:50007/media-live072/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="FUN探索娛樂台4K" tvg-name="FUN探索娛樂台4K" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="生活旅遊",fun探索娛樂台
-http://106.107.242.201:50007/4gtv-live011/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="生活旅遊",幸福空間居家台
-http://106.107.242.201:50007/4gtv-live206/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="生活旅遊",LOVE NATURE
-http://106.107.242.201:50007/4gtv-live208/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="HISTORY歷史頻道" tvg-name="HISTORY歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="紀實探索",歷史頻道
-http://106.107.242.201:50007/4gtv-live026/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="生活旅遊",ELTA生活旅遊
-http://106.107.242.201:50007/4gtv-live120/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="LUXETVCHANNEL" tvg-name="LUXETVCHANNEL" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="生活旅遊",LUXE TV
-http://106.107.242.201:50007/4gtv-live121/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="TV5MONDESTYLEHD生活時尚" tvg-name="TV5MONDESTYLEHD生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="生活旅遊",TV5MONDE Style
-http://106.107.242.201:50007/4gtv-live122/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="MAGELLANTV頻道(麥哲倫頻道)" tvg-name="MAGELLANTV頻道(麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="生活旅遊",MagellanTV頻道
-http://106.107.242.201:50007/4gtv-live123/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
-http://106.107.242.201:50007/4gtv-4gtv042/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
-http://106.107.242.201:50007/litv-ftv09/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="電影戲劇",HITS頻道
-http://106.107.242.201:50007/4gtv-live620/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
-http://106.107.242.201:50007/4gtv-4gtv034/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
-http://106.107.242.201:50007/4gtv-4gtv058/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
-http://106.107.242.201:50007/4gtv-4gtv045/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="電影戲劇",ROCK Xstream搖滾極限頻道
-http://106.107.242.201:50007/4gtv-live124/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="FashionTV 時尚頻道" tvg-name="FashionTV 時尚頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FashionTV.png" group-title="生活旅遊",FashionTV 時尚頻道
-http://106.107.242.201:50007/4gtv-live085/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="CI罪案偵查頻道" tvg-name="CI罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="紀實探索",CI 罪案偵查頻道
-http://106.107.242.201:50007/4gtv-live027/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="CNEX紀實頻道" tvg-name="CNEX紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
-http://106.107.242.201:50007/4gtv-4gtv013/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
-http://106.107.242.201:50007/litv-ftv15/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="電影戲劇",金光布袋戲
-http://106.107.242.201:50007/4gtv-live144/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="電影戲劇",ROCK Action
-http://106.107.242.201:50007/4gtv-live138/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
-http://106.107.242.201:50007/4gtv-4gtv049/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
-http://106.107.242.201:50007/4gtv-4gtv055/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
-http://106.107.242.201:50007/4gtv-4gtv061/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
-http://106.107.242.201:50007/4gtv-4gtv011/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
-http://106.107.242.201:50007/4gtv-4gtv017/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="電影戲劇",Cinema World
-http://106.107.242.201:50007/4gtv-live069/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="MYCINEMAEUROPEHD我的歐洲電影" tvg-name="MYCINEMAEUROPEHD我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="電影戲劇",MCE我的歐洲電影
-http://106.107.242.201:50007/litv-ftv10/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="好訊息" tvg-name="好訊息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好訊息
-http://106.107.242.201:50007/litv-ftv16/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="好訊息2台" tvg-name="好訊息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好訊息2台
-http://106.107.242.201:50007/litv-ftv17/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
-http://106.107.242.201:50007/4gtv-live106/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="綜合其他",人間衛視
-http://106.107.242.201:50007/4gtv-live008/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="FRANCE24英文台" tvg-name="FRANCE24英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="新聞財經",FRANCE24 英文台
-http://106.107.242.201:50007/4gtv-live146/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
-http://106.107.242.201:50007/4gtv-live157/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="CNBCASIA財經台" tvg-name="CNBCASIA財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="新聞財經",CNBC Asia 財經台
-http://106.107.242.201:50007/4gtv-live130/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經",DW德國之聲
-http://106.107.242.201:50007/4gtv-live071/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1台
-http://106.107.242.201:50007/4gtv-4gtv084/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2台
-http://106.107.242.201:50007/4gtv-4gtv085/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="電影戲劇",經典電影台
-http://106.107.242.201:50007/4gtv-live021/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通",經典卡通台
-http://106.107.242.201:50007/4gtv-live022/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="兒童卡通",精選動漫台
-http://106.107.242.201:50007/4gtv-live024/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+#EXTINF:-1 tvg-name="緯來育樂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland6.png" group-title="運動休閒",緯來育樂
+http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 
 
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
-http://106.107.242.201:50007/of-4gtv-4gtv040/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
-http://106.107.242.201:50007/of-4gtv-4gtv074/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
-http://106.107.242.201:50007/of-4gtv-4gtv041/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
-http://106.107.242.201:50007/of-4gtv-4gtv052/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
-http://106.107.242.201:50007/of-4gtv-4gtv009/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
-http://106.107.242.201:50007/of-litv-longturn14/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
-http://106.107.242.201:50007/of-4gtv-4gtv156/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
-http://106.107.242.201:50007/of-4gtv-4gtv158/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
-http://106.107.242.201:50007/of-4gtv-4gtv076/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="好訊息" tvg-name="好訊息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好訊息
-http://106.107.242.201:50007/of-litv-ftv16/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="好訊息2台" tvg-name="好訊息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好訊息2台
-http://106.107.242.201:50007/of-litv-ftv17/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="國會頻道1台" tvg-name="國會頻道1台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1台
-http://106.107.242.201:50007/of-4gtv-4gtv084/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="國會頻道2台" tvg-name="國會頻道2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2台
-http://106.107.242.201:50007/of-4gtv-4gtv085/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
-http://106.107.242.201:50007/litv-xinchuang22/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="SMART知識台" tvg-name="SMART知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
-http://106.107.242.201:50007/litv-xinchuang19/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
-http://106.107.242.201:50007/4gtv-4gtv104/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="三立新聞INEWS" tvg-name="三立新聞INEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
-http://106.107.242.201:50007/iNEWS/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
-http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
-http://106.107.242.201:50007/litv-xinchuang02/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
-http://106.107.242.201:50007/litv-xinchuang01/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+
+#EXTINF:-1 tvg-name="亞洲旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img//Asiatravel.png" group-title="運動休閒",亞洲旅遊台
+https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+
+
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="運動休閒",智林體育
+http://49.213.188.67:50007/4gtv-4gtv101/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="運動休閒",時尚運動X
+http://49.213.188.67:50007/4gtv-live411/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="運動休閒",時尚運動X
+http://49.213.188.67:50007/4gtv-4gtv014/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="運動休閒",車迷 TV
+http://49.213.188.67:50007/4gtv-live201/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png" group-title="運動休閒", GINX Esports TV
+http://49.213.188.67:50007/4gtv-4gtv053/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="運動休閒",民視旅遊
+http://49.213.188.67:50007/litv-ftv07/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-id="SMART知識台" tvg-name="SMART知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="運動休閒",Smart知識台
+http://49.213.188.67:50007/litv-xinchuang19/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="國家地理頻道" tvg-name="國家地理頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NATGEO.png" group-title="運動休閒",國家地理頻道
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDCDP6sZCGf6BrSsjKDK6F13vOaMEhttG1FhkKjJ95x90K_JYNK6uwNWjfw-QnvGuWqEuctQzxdPh5n4hC2DgEfiyuRZnhCGkBJfIovhAGaRbXi8LHmBds4JcUxrnYSl3lrig8BGi8FdfRZCMQ5oT34697cBb5OiElOsu6iFvlQxF11zJbyNDof-3wZZ52pRGIGMNKykXnDza3eJPUrrKOM.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="國家地理頻道" tvg-name="國家地理頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NATGEO.png" group-title="運動休閒",國家地理頻道
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mDCDP6sZCGf6BrSsjKDK6F13vOaMEhttG1FhkKjJ95x90K_JYNK6uwNWjfw-QnvGuWqEuctQzxdPh5n4hC2DgEfiyuRZnhCGkBJfIovhAGaRbXi8LHmBds4JcUxrnYSl3lrig8BGi8FdfRZCMQ5oT34697cBb5OiElOsu6iFvlQxF11zJbyNDof-3wZZ52pRGIGMNKykXnDza3eJPUrrKOM.m3u8?u=1756878715
+
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="運動休閒",動物星球
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mNyIlzkzrirTA9w334RKhTIGYWEDaucdaZoXaetgS5tzonAUYnp8XHCqXfdmMaSdDNFY1KQFXU6NXCnCj_J7-X8kIYMqGp_RSwsHJxjFK_pxDw5-2os6P4AFqQpd3Zu8nyBgf56GuuUc32khQWI7_k7Aq77uBVlff4W53MTRk7trYaXqCSCprq0u-FaaYBQdLw.m3u8?u=1756878715
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/animalplanet.png" group-title="運動休閒",動物星球
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mNyIlzkzrirTA9w334RKhTIGYWEDaucdaZoXaetgS5tzonAUYnp8XHCqXfdmMaSdDNFY1KQFXU6NXCnCj_J7-X8kIYMqGp_RSwsHJxjFK_pxDw5-2os6P4AFqQpd3Zu8nyBgf56GuuUc32khQWI7_k7Aq77uBVlff4W53MTRk7trYaXqCSCprq0u-FaaYBQdLw.m3u8?u=1756878715
+
+
+
+
+
+#EXTINF:-1 tvg-id="GLOBALTREKKER" tvg-name="GLOBALTREKKER" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="運動休閒",Global Trekker 探索世界
+http://49.213.188.67:50007/4gtv-live112/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://epg.iill.top/logo/Lifetime-娛樂頻道.png" group-title="運動休閒", Lifetime 娛樂頻道
+http://49.213.188.67:50007/4gtv-live029/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+
+#EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gorgeous.png" group-title="運動休閒",幸福空間居家台
+http://49.213.188.67:50007/4gtv-live206/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="FashionTV 時尚頻道" tvg-name="FashionTV 時尚頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FashionTV.png" group-title="運動休閒",FashionTV 時尚頻道
+http://49.213.188.67:50007/4gtv-live085/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="LUXETVCHANNEL" tvg-name="LUXETVCHANNEL" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="運動休閒",LUXE TV
+http://49.213.188.67:50007/4gtv-live121/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="運動休閒",ELTA生活旅遊
+http://49.213.188.67:50007/4gtv-live120/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="運動休閒",LOVE NATURE
+http://49.213.188.67:50007/4gtv-live208/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="FUN探索娛樂台4K" tvg-name="FUN探索娛樂台4K" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="運動休閒",fun探索娛樂台
+http://49.213.188.67:50007/4gtv-live011/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="運動休閒",INULTRA
+http://49.213.188.67:50007/4gtv-live096/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="運動休閒",TRACE Sport Stars
+http://49.213.188.67:50007/4gtv-4gtv077/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-id="TV5MONDESTYLEHD生活時尚" tvg-name="TV5MONDESTYLEHD生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="運動休閒",TV5MONDE Style
+http://49.213.188.67:50007/4gtv-live122/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="MAGELLANTV頻道(麥哲倫頻道)" tvg-name="MAGELLANTV頻道(麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="運動休閒",MagellanTV頻道
+http://49.213.188.67:50007/4gtv-live123/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-name="KALOPY性感" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TV5Monde.png" group-title="運動休閒",KALOPY性感
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+
+#EXTINF:-1 tvg-name="Discovery亞洲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Discovery1.png" group-title="運動休閒",Discovery亞洲
+http://125.227.210.55:8154/VideoInput/play.ts
+
+
+#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="運動休閒",TRACE Urban
+http://49.213.188.67:50007/4gtv-4gtv082/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="MEZZOLIVEHD" tvg-name="MEZZOLIVEHD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="運動休閒",Mezzo Live HD
+http://49.213.188.67:50007/4gtv-4gtv083/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="CLASSICA古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="運動休閒",CLASSICA古典樂
+http://49.213.188.67:50007/4gtv-4gtv059/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="電影戲劇",八大第一台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1YxjlrX-92DUe6YShxvRgIQtTHLv2QOcB5MR4jLfQYlLZwxrhTeOZGW_xVaqD6i8vi0oWzoVsnpshPw24xHISVu9Moe-E-35zRGT7cyj9FZH7wzuRrhwaOWYDHS0kxeguP_ItzcyaPbz9CS18ln9WQY5TXMmoQ95Kwrrfnh7fE5zbCadz4qrglUleUw8C2mCmdQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="電影戲劇",八大第一台
+http://iptv.fr.to/test/Fmtv.php?id=bddy
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="電影戲劇",八大第一台
+http://st1.my.to/api/curl.php?id=40
+
+
+#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="電影戲劇",東森戲劇
+http://211.23.114.106:8552/http/116.50.42.19:8081/hls/62/804/ch06.m3u8
+
+#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC5.png" group-title="電影戲劇",東森戲劇
+http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+
+#EXTINF:-1 tvg-name="東森電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC3.png" group-title="電影戲劇",東森電影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland3.png" group-title="電影戲劇",緯來戲劇
+http://211.23.114.106:9332/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+
+
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CinemaWorld.png" group-title="電影戲劇",CinemaWorld
+http://49.213.188.67:50007/4gtv-live069/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HITS.png" group-title="電影戲劇",HITS
+http://49.213.188.67:50007/4gtv-live620/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+#EXTINF:-1 tvg-name="好萊塢電影HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hollywood.png" group-title="電影戲劇",好萊塢電影HD
+http://211.23.114.106:9353/http/61.219.99.20：8081/hls/74/816/ch55.m3u8
+
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
-http://106.107.242.201:50007/litv-xinchuang03/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/litv-xinchuang03/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
-http://106.107.242.201:50007/litv-xinchuang11/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/litv-xinchuang11/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
-http://106.107.242.201:50007/litv-xinchuang12/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/litv-xinchuang12/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
-http://106.107.242.201:50007/litv-xinchuang18/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/litv-xinchuang18/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
 #EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
-http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍播新聞
-http://106.107.242.201:50007/nnews-zh/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png" group-title="綜合其他",DayStar
-http://106.107.242.201:50007/daystar/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-
-
-#EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-#EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://106.107.242.201:50007/of-4gtv-4gtv103/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-
-#EXTINF:-1 tvg-id="東森購物1台" tvg-name="東森購物1台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
-http://106.107.242.201:50007/4gtv-live047/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-
-#EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
-http://106.107.242.201:50007/4gtv-live046/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-
-#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物三台
-http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
-
-
-#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物四台
-http://106.107.242.201:50007/4gtv-live049/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
+http://49.213.188.67:50007/litv-xinchuang21/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
 
 
 
-#EXTINF:-1 tvg-id="tvbshuanle_twn" tvg-name="TVBS 歡樂台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" group-title="台灣綜合",TVBS 歡樂台
-http://106.107.242.201/live.php?id=tvbshuanle_twn
-#EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" group-title="台灣綜合",TVBS HD
-http://106.107.242.201/live.php?id=tvbs
-#EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂 CTI Entertaiment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="台灣綜合",中天娛樂 CTI Entertaiment
-http://106.107.242.201/live.php?id=ctient
-#EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天綜合 CTI Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" group-title="台灣綜合",中天綜合 CTI Metro
-http://106.107.242.201/live.php?id=ctizhonghe
-#EXTINF:-1 tvg-id="ctiasia_twn" tvg-name="中天亞洲台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef34b78abae9_lcUh.png" group-title="台灣綜合",中天亞洲台
-http://106.107.242.201/live.php?id=ctiasia_twn
-#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f49783758_lqgU.png" group-title="台灣綜合",台視 TTV HD
-http://106.107.242.201/live.php?id=ttv_taiwan
-#EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台視綜合台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ae0be7ecef_8Xkk.png" group-title="台灣綜合",台視綜合台
-http://106.107.242.201/live.php?id=ttvzhonghe
-#EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中視 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png" group-title="台灣綜合",中視 HD
-http://106.107.242.201/live.php?id=zhongshihd_twn
-#EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民視 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png" group-title="台灣綜合",民視 HD
-http://106.107.242.201/live.php?id=ftvhd_taiwan
-#EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民視台灣台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4863347815_LS6r.png" group-title="台灣綜合",民視台灣台
-http://106.107.242.201/live.php?id=ftvtaiwan_twn
-#EXTINF:-1 tvg-id="ctshd_twn" tvg-name="華視 CTS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png" group-title="台灣綜合",華視 CTS HD
-http://106.107.242.201/live.php?id=ctshd_twn
-#EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公視 CTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a90142345_bUxd.jpg" group-title="台灣綜合",公視 CTV
-http://106.107.242.201/live.php?id=ctv18_twn
-#EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 GTV First" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f6ca5a321_y77x.png" group-title="台灣綜合",八大第一 GTV First
-http://106.107.242.201/live.php?id=badafirst
-#EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜合 GTV Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f74f4f446_3vV7.png" group-title="台灣綜合",八大綜合 GTV Metro
-http://106.107.242.201/live.php?id=badazhonghe
-#EXTINF:-1 tvg-id="badadrama" tvg-name="八大戲劇 GTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f714e7982_tpnp.png" group-title="台灣綜合",八大戲劇 GTV Drama
-http://106.107.242.201/live.php?id=badadrama
-#EXTINF:-1 tvg-id="badaentertain" tvg-name="八大娛樂 GTV Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971fac8acd85_1fyo.png" group-title="台灣綜合",八大娛樂 GTV Entertainment
-http://106.107.242.201/live.php?id=badaentertain
-#EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="台灣綜合",HBO_HD
-http://106.107.242.201/live.php?id=hbohd_twn
-#EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="台灣綜合",HBO_HITS
-http://106.107.242.201/live.php?id=hbohits_twn
-#EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="台灣綜合",HBO Signature Taiwan
-http://106.107.242.201/live.php?id=hbosignature_twn
-#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="台灣綜合",Hollywood Movies
-http://106.107.242.201/live.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台灣 Sanli Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa484fdb8_ZP60.png" group-title="台灣綜合",三立台灣 Sanli Taiwan
-http://106.107.242.201/live.php?id=sanlitaiwan
-#EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="三立戲劇台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3dd3d83ead_l7lR.jpg" group-title="台灣綜合",三立戲劇台
-http://106.107.242.201/live.php?id=sanlixiju_twn
-#EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合 Sanli Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f8d13edd1_SZPZ.png" group-title="台灣綜合",三立綜合 Sanli Metro
-http://106.107.242.201/live.php?id=sanlizhonghe
-#EXTINF:-1 tvg-id="sanlidouhui_twn" tvg-name="三立都會台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef478076b65f_ZOy7.png" group-title="台灣綜合",三立都會台
-http://106.107.242.201/live.php?id=sanlidouhui_twn
-#EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森綜合 ETTV Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597214f33c2f3_Iir8.jpg" group-title="台灣綜合",東森綜合 ETTV Metro
-http://106.107.242.201/live.php?id=ettvzhonghe
-#EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇 ETTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa9f60889_OvMr.png" group-title="台灣綜合",東森戲劇 ETTV Drama
-http://106.107.242.201/live.php?id=ettvdrama
-#EXTINF:-1 tvg-id="ctv2_twn" tvg-name="公視2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66e2bf9c477d9_w9D1.jpg" group-title="台灣綜合",公視2
-http://106.107.242.201/live.php?id=ctv2_twn
-#EXTINF:-1 tvg-id="daai_twn" tvg-name="大愛1台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07ab5e806e7_7gGt.png" group-title="台灣綜合",大愛1台
-http://106.107.242.201/live.php?id=daai_twn
-#EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇 Lunghua Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2104d7173d8_laLA.png" group-title="台灣綜合",龍華戲劇 Lunghua Drama
-http://106.107.242.201/live.php?id=lunghuaxiju_twn
-#EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華經典台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f006937ee_hbZ8.jpg" group-title="台灣綜合",龍華經典台
-http://106.107.242.201/live.php?id=lunghuajingdian_twn
-#EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龍華偶像" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21052c811cb_AFAb.jpg" group-title="台灣綜合",龍華偶像
-http://106.107.242.201/live.php?id=lunghuaidol_twn
-#EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="台灣綜合",AXN Taiwan
-http://106.107.242.201/live.php?id=axn_twn
-#EXTINF:-1 tvg-id="jingtianintl_twn" tvg-name="靖天國際台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ee5e27819ade_882I.jpg" group-title="台灣綜合",靖天國際台
-http://106.107.242.201/live.php?id=jingtianintl_twn
-#EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="台灣綜合",CINEMAX
-http://106.107.242.201/live.php?id=cinemax_twn
-#EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新聞" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png" group-title="台灣綜合",年代新聞
-http://106.107.242.201/live.php?id=niandainews_twn
-#EXTINF:-1 tvg-id="videolandjapan" tvg-name="緯來日本台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d1e7bf942_NJa3.jpg" group-title="台灣綜合",緯來日本台
-http://106.107.242.201/live.php?id=videolandjapan
-#EXTINF:-1 tvg-id="videolandmovie" tvg-name="緯來電影台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg" group-title="台灣綜合",緯來電影台
-http://106.107.242.201/live.php?id=videolandmovie
-#EXTINF:-1 tvg-id="videolandsport" tvg-name="緯來體育台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png" group-title="台灣綜合",緯來體育台
-http://106.107.242.201/live.php?id=videolandsport
-#EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2b942bef_ZYqs.jpg" group-title="台灣綜合",緯來綜合台
-http://106.107.242.201/live.php?id=videolandzonghe
-#EXTINF:-1 tvg-id="videolandmax" tvg-name="緯來育樂" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ac6efe44e3_XA3K.png" group-title="台灣綜合",緯來育樂
-http://106.107.242.201/live.php?id=videolandmax
-#EXTINF:-1 tvg-id="videolandtv" tvg-name="緯來精彩" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ad8a8d99f4_J33A.png" group-title="台灣綜合",緯來精彩
-http://106.107.242.201/live.php?id=videolandtv
-#EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" group-title="台灣綜合",DW (Deutsch)
-http://106.107.242.201/live.php?id=dw_twn
-#EXTINF:-1 tvg-id="good2_twn" tvg-name="好訊息 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef472ef7cd46_vnVW.png" group-title="台灣綜合",好訊息 2
-http://106.107.242.201/live.php?id=good2_twn
-#EXTINF:-1 tvg-id="daai2_twn" tvg-name="大愛2台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" group-title="台灣綜合",大愛2台
-http://106.107.242.201/live.php?id=daai2_twn
-#EXTINF:-1 tvg-id="afc_twn" tvg-name="亞洲美食" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" group-title="台灣綜合",亞洲美食
-http://106.107.242.201/live.php?id=afc_twn
-#EXTINF:-1 tvg-id="tlc_twn" tvg-name="亞洲旅遊 TLC Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" group-title="台灣綜合",亞洲旅遊 TLC Asia
-http://106.107.242.201/live.php?id=tlc_twn
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="東森電影 ETTV Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="台灣綜合",東森電影 ETTV Movie
-http://106.107.242.201/live.php?id=ettvmovie
-#EXTINF:-1 tvg-id="arirang_twn" tvg-name="阿里郎 Arirang" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f06e3f614_wOfo.png" group-title="台灣綜合",阿里郎 Arirang
-http://106.107.242.201/live.php?id=arirang_twn
-#EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f28101ccd_21Yl.png" group-title="台灣綜合",博斯運動 1
-http://106.107.242.201/live.php?id=bosisport1_twn
-#EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯運動 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f2d170aaf_zKOw.png" group-title="台灣綜合",博斯運動 2
-http://106.107.242.201/live.php?id=bosisport2_twn
-#EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" group-title="台灣綜合",博斯高球2 HD
-http://106.107.242.201/live.php?id=bosigolf2_twn
-#EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯網球 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" group-title="台灣綜合",博斯網球 HD
-http://106.107.242.201/live.php?id=bositennis_twn
-#EXTINF:-1 tvg-id="ettvwestern" tvg-name="東森洋片 ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="台灣綜合",東森洋片 ETTV Western
-http://106.107.242.201/live.php?id=ettvwestern
-#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片 Lunghua Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" group-title="台灣綜合",龍華洋片 Lunghua Western
-http://106.107.242.201/live.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f3c25dba2_Xkc0.png" group-title="台灣綜合",博斯無限
-http://106.107.242.201/live.php?id=bosiunlimited_twn
-#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="台灣綜合",MTV Live
-http://106.107.242.201/live.php?id=mtvhd_twn
-#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龍詳時代" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="台灣綜合",龍詳時代
-http://106.107.242.201/live.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="eyetvtravel_twn" tvg-name="EYETV 旅遊" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edfc5cb545_07F2.jpg" group-title="台灣綜合",EYETV 旅遊
-http://106.107.242.201/live.php?id=eyetvtravel_twn
-#EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3a24b319689_3vD8.png" group-title="台灣綜合",靖天卡通台
-http://106.107.242.201/live.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-id="eyetvxiju_twn" tvg-name="EYETV 戲劇" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2ee0166877e_21kv.jpg" group-title="台灣綜合",EYETV 戲劇
-http://106.107.242.201/live.php?id=eyetvxiju_twn
-#EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="衛視中文台 Star Movies Chinese" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" group-title="台灣綜合",衛視中文台 Star Movies Chinese
-http://106.107.242.201/live.php?id=weishichinese_twn
-#EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a215c530b17b_qqz4.png" group-title="台灣綜合",東森幼幼 Yoyo TV
-http://106.107.242.201/live.php?id=yoyo_twn
-#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亞電影" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" group-title="台灣綜合",美亞電影
-http://106.107.242.201/live.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="eltadrama_twn" tvg-name="愛爾達戲劇台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b47f2c36f_f7lG.jpeg" group-title="台灣綜合",愛爾達戲劇台
-http://106.107.242.201/live.php?id=eltadrama_twn
-#EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News 新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" group-title="台灣綜合",TVBS News 新聞台
-http://106.107.242.201/live.php?id=tvbs_n
-#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="台灣綜合",Asia Food Network
-http://106.107.242.201/live.php?id=Afc
-#EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞 ETTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg" group-title="台灣綜合",東森新聞 ETTV News
-http://106.107.242.201/live.php?id=ettvnews
-#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞 ETTV Business" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png" group-title="台灣綜合",東森財經新聞 ETTV Business
-http://106.107.242.201/live.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" group-title="台灣綜合",中天新聞 CTI News
-http://106.107.242.201/live.php?id=ctinews
-#EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png" group-title="台灣綜合",非凡新聞台
-http://106.107.242.201/live.php?id=feifannews_twn
-#EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" group-title="台灣綜合",台視新聞台 TTV News
-http://106.107.242.201/live.php?id=ttvnews_twn
-#EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta體育1台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937c66da8e5_u3ny.png" group-title="台灣綜合",Elta體育1台
-http://106.107.242.201/live.php?id=eltasport1_twn
-#EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png" group-title="台灣綜合",Elta體育2台
-http://106.107.242.201/live.php?id=eltasport2_twn
-#EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/628f3a3f9692d_U55i.png" group-title="台灣綜合",Elta體育3台
-http://106.107.242.201/live.php?id=eltasport3_twn
-#EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台 FTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" group-title="台灣綜合",民視新聞台 FTV News
-http://106.107.242.201/live.php?id=ftvnew_taiwan
-#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png" group-title="台灣綜合",寰宇新聞台
-http://106.107.242.201/live.php?id=huanyuxinwen_twn
-#EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" group-title="台灣綜合",中視新聞台
-http://106.107.242.201/live.php?id=zhongshinews_twn
-#EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" group-title="台灣綜合",DAZN 1
-http://106.107.242.201/live.php?id=dazn1_twn
-#EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" group-title="台灣綜合",DAZN 2
-http://106.107.242.201/live.php?id=dazn2_twn
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索頻道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="台灣綜合",探索頻道
-http://106.107.242.201/live.php?id=discoverych_twn
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="電影戲劇",龍華電影
+http://cdn8.163189.xyz/163189/lhdy
+
+
+#EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="電影戲劇",龍華經典
+http://cdn8.163189.xyz/163189/lhjd
+
+
+
+
+
+#EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="電影戲劇",龍華日韓
+http://cdn8.163189.xyz/163189/lhrh
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
+http://cdn8.163189.xyz/163189/lhxj
+
+
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="電影戲劇",豬哥亮歌廳秀
+http://49.213.188.67:50007/4gtv-4gtv006/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
+http://49.213.188.67:50007/4gtv-4gtv049/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
+http://49.213.188.67:50007/4gtv-4gtv055/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
+http://49.213.188.67:50007/4gtv-4gtv061/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
+http://49.213.188.67:50007/4gtv-4gtv011/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="電影戲劇",HBO_HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mGrZcwK1dZ7bGeU0qVprgcfpFuGaCu4nsb3PunUObDR-S7mGOcXUVHBDR7doGwqccs-usV859TpPCuLShw0kUvybURZKyhNh5bdefpCo3xPo39BWk9wg28fZOWIn2w25nNWa6DmdwmzA7mnHTBVSKd6iLFxcC5ipMP_nXWWPX3eT4GJCy8cSq6Z6c295ATfCjA.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="電影戲劇",HBO_HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mGrZcwK1dZ7bGeU0qVprgcfpFuGaCu4nsb3PunUObDR-S7mGOcXUVHBDR7doGwqccs-usV859TpPCuLShw0kUvybURZKyhNh5bdefpCo3xPo39BWk9wg28fZOWIn2w25nNWa6DmdwmzA7mnHTBVSKd6iLFxcC5ipMP_nXWWPX3eT4GJCy8cSq6Z6c295ATfCjA.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO_HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO.png" group-title="電影戲劇",HBO_HD
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mGrZcwK1dZ7bGeU0qVprgcfpFuGaCu4nsb3PunUObDR-S7mGOcXUVHBDR7doGwqccs-usV859TpPCuLShw0kUvybURZKyhNh5bdefpCo3xPo39BWk9wg28fZOWIn2w25nNWa6DmdwmzA7mnHTBVSKd6iLFxcC5ipMP_nXWWPX3eT4GJCy8cSq6Z6c295ATfCjA.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO強檔巨獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="電影戲劇",HBO強檔巨獻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mH-lJO5H-TS86dsjS2haSAO91llltbDaByLxDvFBV4zO1cBv6A7EdZhfV7z-mSYPU7bULZ8IeqQtTB5zSQqzZvlu2dRLY79XnkJxpILYk29IoKVlYdfxGTLC78gft6MsiM3wikODDpNjOi4atjqdJ13T5ErPpYg34kIkoiro2BpYQ-eMmy2xgdaC860IcJQm37PKKcSXX90rVJUI5bJdcZQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO強檔巨獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="電影戲劇",HBO強檔巨獻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mH-lJO5H-TS86dsjS2haSAO91llltbDaByLxDvFBV4zO1cBv6A7EdZhfV7z-mSYPU7bULZ8IeqQtTB5zSQqzZvlu2dRLY79XnkJxpILYk29IoKVlYdfxGTLC78gft6MsiM3wikODDpNjOi4atjqdJ13T5ErPpYg34kIkoiro2BpYQ-eMmy2xgdaC860IcJQm37PKKcSXX90rVJUI5bJdcZQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO強檔巨獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO2.png" group-title="電影戲劇",HBO強檔巨獻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mH-lJO5H-TS86dsjS2haSAO91llltbDaByLxDvFBV4zO1cBv6A7EdZhfV7z-mSYPU7bULZ8IeqQtTB5zSQqzZvlu2dRLY79XnkJxpILYk29IoKVlYdfxGTLC78gft6MsiM3wikODDpNjOi4atjqdJ13T5ErPpYg34kIkoiro2BpYQ-eMmy2xgdaC860IcJQm37PKKcSXX90rVJUI5bJdcZQ.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO溫馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="電影戲劇",HBO溫馨家庭
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mJPp0JaaWt0UHnPdZ2oXPXt8AD-2wmgj1uSMZmlbnVxV9-jLgZGzM1jBGKeAZ87oRrO9E_Xvob7XVEm6y4Qr2jgdjYQH_9d-EKyI8DgsgaJyX-YdylzYa8MNkrKE-WqwQb_JXp1kHNpOLlV9s3QODVFXsySRRKetl-cazstKWOUZLtnLtVW4LGZCpPx_VNyww7L5fjvFJBQDmDsgfJsx2aY.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO溫馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="電影戲劇",HBO溫馨家庭
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mJPp0JaaWt0UHnPdZ2oXPXt8AD-2wmgj1uSMZmlbnVxV9-jLgZGzM1jBGKeAZ87oRrO9E_Xvob7XVEm6y4Qr2jgdjYQH_9d-EKyI8DgsgaJyX-YdylzYa8MNkrKE-WqwQb_JXp1kHNpOLlV9s3QODVFXsySRRKetl-cazstKWOUZLtnLtVW4LGZCpPx_VNyww7L5fjvFJBQDmDsgfJsx2aY.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO溫馨家庭" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO1.png" group-title="電影戲劇",HBO溫馨家庭
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mJPp0JaaWt0UHnPdZ2oXPXt8AD-2wmgj1uSMZmlbnVxV9-jLgZGzM1jBGKeAZ87oRrO9E_Xvob7XVEm6y4Qr2jgdjYQH_9d-EKyI8DgsgaJyX-YdylzYa8MNkrKE-WqwQb_JXp1kHNpOLlV9s3QODVFXsySRRKetl-cazstKWOUZLtnLtVW4LGZCpPx_VNyww7L5fjvFJBQDmDsgfJsx2aY.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO原創巨獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="電影戲劇",HBO原創巨獻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mIlPcj33E5ItL3EDi4BeNolUKPqHtm6DWc5BInH7PcsroteAzmC9xolwo2VWH4K4h4cB74VgTQAEnu8WG6uzCxaS8dlrXEiv_nV1_KSk3gkSPFpgimURoA-uFV3uepwiMhuernJ3Zwm0bcA2GPbRizPUDzKzXo9mVZpfCUsbicLhpmiZJtpLupYEMoFd5AUO94vNwB-WWxTZPoSRpB8qZFE.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO原創巨獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="電影戲劇",HBO原創巨獻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mIlPcj33E5ItL3EDi4BeNolUKPqHtm6DWc5BInH7PcsroteAzmC9xolwo2VWH4K4h4cB74VgTQAEnu8WG6uzCxaS8dlrXEiv_nV1_KSk3gkSPFpgimURoA-uFV3uepwiMhuernJ3Zwm0bcA2GPbRizPUDzKzXo9mVZpfCUsbicLhpmiZJtpLupYEMoFd5AUO94vNwB-WWxTZPoSRpB8qZFE.m3u8?u=1756878715
+#EXTINF:-1 tvg-name="HBO原創巨獻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HBO3.png" group-title="電影戲劇",HBO原創巨獻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mIlPcj33E5ItL3EDi4BeNolUKPqHtm6DWc5BInH7PcsroteAzmC9xolwo2VWH4K4h4cB74VgTQAEnu8WG6uzCxaS8dlrXEiv_nV1_KSk3gkSPFpgimURoA-uFV3uepwiMhuernJ3Zwm0bcA2GPbRizPUDzKzXo9mVZpfCUsbicLhpmiZJtpLupYEMoFd5AUO94vNwB-WWxTZPoSRpB8qZFE.m3u8?u=1756878715
+
+
+
+
+#EXTINF:-1 tvg-id="ROCKENTERTAINMENT" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="電影戲劇",ROCK Entertainment
+http://49.213.188.67:50007/4gtv-live080/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="電影戲劇",ROCK Action
+http://49.213.188.67:50007/4gtv-live138/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="MYCINEMAEUROPEHD我的歐洲電影" tvg-name="MYCINEMAEUROPEHD我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="電影戲劇",MCE我的歐洲電影
+http://49.213.188.67:50007/litv-ftv10/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
+http://49.213.188.67:50007/4gtv-4gtv017/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-name="電影原聲台 CMusic" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cmusic.png" group-title="電影戲劇",電影原聲台 CMusic
+http://49.213.188.67:50007/4gtv-live031/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Animax.png" group-title="兒童頻道",ANIMAX
+http://211.23.114.106:8502/http/61.221.81.94:8088/hls/71/813/ch46.m3u8
+
+#EXTINF:-1 tvg-name="東森幼幼" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC10.png" group-title="兒童頻道",東森幼幼
+http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
+
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童頻道",達文西頻道
+http://49.213.188.67:50007/4gtv-4gtv018/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+
+#EXTINF:-1 tvg-id="龍華動畫HD" tvg-name="龍華動畫HD" tvg-logo="https://epg.iill.top/logo/龍華卡通台.png" group-title="兒童頻道", 龍華卡通
+http://cdn8.163189.xyz/163189/lhkt
+
+#EXTINF:-1 tvg-name="Pet Club TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PetClubTV.png" group-title="兒童頻道",Pet Club TV
+http://211.23.114.106:9360/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+
+#EXTINF:-1 tvg-id="LIVEABC互動英語頻道" tvg-name="LIVEABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童頻道",LiveABC互動英語頻道
+http://49.213.188.67:50007/4gtv-live030/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童頻道",ELTV生活英語台
+http://49.213.188.67:50007/4gtv-live132/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="NICKJR.兒童頻道" tvg-name="NICKJR.兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童頻道",Nick Jr.
+http://49.213.188.67:50007/4gtv-live032/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童頻道",Nickelodeon
+http://49.213.188.67:50007/4gtv-live105/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="DREAMWORKS頻道" tvg-name="DREAMWORKS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童頻道",DreamWorks
+http://49.213.188.67:50007/4gtv-live017/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童頻道",靖天卡通
+http://49.213.188.67:50007/4gtv-4gtv044/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童頻道",靖洋卡通
+http://49.213.188.67:50007/4gtv-4gtv057/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童頻道",MOMO親子
+http://49.213.188.67:50007/4gtv-live107/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="CI罪案偵查頻道" tvg-name="CI罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="紀實探索",CI 罪案偵查頻道
+http://49.213.188.67:50007/4gtv-live027/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="CNEX紀實頻道" tvg-name="CNEX紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
+http://49.213.188.67:50007/4gtv-4gtv013/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
+http://49.213.188.67:50007/litv-ftv15/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+#EXTINF:-1 tvg-id="HISTORY歷史頻道" tvg-name="HISTORY歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="紀實探索",歷史頻道
+http://49.213.188.67:50007/4gtv-live026/index.m3u8?token=lOYsRlIERwyKT5CHd6bcsvsyaoMaS3w61Xmxn9F0cS8TWp0Kx1mtVcrziQcaX5iY
+
+
+
+
+
+
+
 
 
 
