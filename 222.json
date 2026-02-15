@@ -1,40 +1,27 @@
  {
     "urls": [
 
-  {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.json", "name": "肥小猫"
-    },         
+     
    
  {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json", "name": "彥1"
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json", "name": "盒子之家"
     },   
       {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json", "name": "彥2"
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json", "name": "牛二"
     },   
       
         {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json", "name": "彥3"
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/3.json", "name": "裤佬"
     },  
       {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/裤佬.json", "name": "裤佬"
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/小米.JSON", "name": "小米"
     },
-
+   {
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/巧技.JSON", "name": "巧技"
+   },
+   {
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.JSON", "name": "肥小猫"
    
-    {
-      "url": "https://catbox.n13.club/jk/jsm.json", "name": "jsm"
-
-
-    },
-    {
-      "url": "http://肥猫.com", "name": "肥猫"
-    },  
-   { 
-      "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技"
-    },
-  
-       
-    { 
-      "url": "http://ok321.top/ok", "name": "OK佬" 
     }
 
  
@@ -42,6 +29,7 @@
    ]
 
  }
+
 
 
 
