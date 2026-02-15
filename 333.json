@@ -1,9 +1,6 @@
 {
     "urls": [
 
-   {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/1.json", "name": "盒子之家"
-    },   
       {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/2.json", "name": "牛二"
     },   
@@ -40,6 +37,7 @@
  }
 
    
+
 
 
 
