@@ -1,4 +1,4 @@
- {
+{
     "urls": [
 
      
@@ -22,17 +22,9 @@
    {
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.json", "name": "肥小猫"
    
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/潇洒不內置.JSON", "name": "潇洒"
-   
-    },
-        
-
-    { 
-      "url": "http://www.饭太硬.com/tv", "name": "饭太硬" 
-      
     }
+
+ 
 
    ]
 
