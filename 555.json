@@ -16,7 +16,7 @@
       "url": "https://raw.githubusercontent.com/Hsudavid/app/main/巧技.JSON", "name": "巧技"
    },
    {
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.JSON", "name": "肥小猫"
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/肥猫.json", "name": "肥小猫"
    
  
     }
@@ -24,6 +24,7 @@
    ]
 
  }
+
 
 
 
