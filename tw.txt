@@ -105,7 +105,7 @@ ELTV生活英語台,http://106.107.242.201:50007/of-litv-xinchuang20/index.m3u8?
 新聞財經,#genre#
 壹電視新聞台,http://211.23.114.106:8548/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 壹電視新聞台,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3at6KxercJcKp5FzOodsLjAhZrDBWIDK8NNvC4BgglNqWKEjLnzLU4RSIUO3o3jvVbs9cmoZ_SNo3oZ9iHIOCBCzS-bxtPu-iQqNaa-3mZwVW7Qo3_1XzatE0yXUR7vGanORE791NoW_7RNtLnvtkx78XGyUIrGuVwu0iSk9vQfZAZKIK86x7qxdjAcepj6-nDSA.m3u8?u=1756878715
-壹電視新聞台,http://211.23.114.106:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
+
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/90/80/momo4max.m3u8
 三立新聞HD,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrstjQwK1Qvfz8BPfBQJN13fqLIyX3q6w-21eR56d6OFJ8YfJ5IsyEV_zykMQXXgbIpFD9JwVVae3gfG-gGSCWOFcDsjWFXW_cdGNZ811RKVB-u7cP6qC8X4-YMKEKjQ7vUscFg9GN9cGC8IGO7HAW6jNOHzCh0VC0UAP1Llafvd1tl8Csp9inhyfakk6C9x9g.m3u8?u=1756878715
@@ -302,6 +302,7 @@ Elta體育3台,http://106.107.242.201/live.php?id=eltasport3_twn
 DAZN 1,http://106.107.242.201/live.php?id=dazn1_twn
 DAZN 2,http://106.107.242.201/live.php?id=dazn2_twn
 探索頻道,http://106.107.242.201/live.php?id=discoverych_twn
+
 
 
 
