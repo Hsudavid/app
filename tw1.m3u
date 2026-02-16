@@ -19,10 +19,10 @@ http://49.213.188.67:50007/4gtv-4gtv040/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU
 #EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
 http://49.213.188.67:50007/4gtv-4gtv041/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="綜合其他",台視 TTV HD
-http://106.107.242.201/live.php?id=ttv_taiwan
+http://49.213.188.67:5052/smart.php?id=ttv_taiwan&token=885252
 
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公視 CTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS.png"" group-title="綜合其他",公視 CTV
-http://106.107.242.201/live.php?id=ctv18_twn
+http://49.213.188.67:5052/smart.php?id=ctv_taiwan&token=885252
 
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合台
 http://49.213.188.67:50007/4gtv-live207/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
@@ -128,8 +128,6 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 
 
 
-#EXTINF:-1 tvg-name="壹電視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NextTV2.png" group-title="新聞財經",壹電視新聞台
-http://211.23.114.106:8516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8 
 
 #EXTINF:-1 tvg-name="年代新聞" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ERA2.png" group-title="新聞財經",年代新聞
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -284,14 +282,6 @@ http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-name="momo綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/momo2.png" group-title="體育競技",momo綜合台
 http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
 
-#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="體育競技",愛爾達體育1台
-http://106.107.237.222:5050/smart.php?id=eltasport1_twn&token=885252
-
-#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="體育競技",愛爾達體育2台
-http://106.107.237.222:5050/smart.php?id=eltasport2_twn&token=885252
-
-#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="體育競技",愛爾達體育3台
-http://106.107.237.222:5050/smart.php?id=eltasport3_twn&token=885252
 
 #EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="體育競技",愛爾達體育1台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakRKUEVTLBLou0zZzYzXV5AT2hPbd2vlxZwFUKeDAHYHW8L-dZa58kETdQgxBeElrDsHz7uqJyN5XBTeIMLyd5C9gNbZOSPnBJMwfD16_APHMusOTvcoMgy4s3SlNcY4Whc3y-JgME7_luQp-1rmZnQ0xcj0w344qITNWQiz4Ibz8dDGWjXFmrhJNxnCDIka5vH0US5R4QKdfIUbcSpOGhEk.m3u8?u=1756878715
@@ -309,6 +299,18 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakaSewWqWYI4WfG5BpsX248_1fl65aF_k4-EyuAqxfB8eUBcxDVAdcNWKqPOsumeGwfEkaPtirer7EqgKhxL-fMwlhPr4Ufgt3gsXHRWhnjiaKRRx8QffRwYH9Bhx1DFWuGDeSmakS_rHOE-jjPxp64R0IVZXUY0oqEpaIAoxhrYNsVrC7OKaKQxp6aeO657K03l2V3WKW8oFowyfCGCdHUE.m3u8?u=1756878715
 #EXTINF:-1 tvg-name="愛爾達體育4台" tvg-logo="https://logo.catvod.com/愛爾達體育4台.png" group-title="體育競技",愛爾達體育4台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU1qBEChmkVSZV2aaPRHlakaSewWqWYI4WfG5BpsX248_1fl65aF_k4-EyuAqxfB8eUBcxDVAdcNWKqPOsumeGwfEkaPtirer7EqgKhxL-fMwlhPr4Ufgt3gsXHRWhnjiaKRRx8QffRwYH9Bhx1DFWuGDeSmakS_rHOE-jjPxp64R0IVZXUY0oqEpaIAoxhrYNsVrC7OKaKQxp6aeO657K03l2V3WKW8oFowyfCGCdHUE.m3u8?u=1756878715
+
+#EXTINF:-1 tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="體育競技",愛爾達體育1台
+http://142.171.248.206:5050/smart.php?id=eltasport1_twn&token=885252
+
+#EXTINF:-1 tvg-name="愛爾達體育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="體育競技",愛爾達體育2台
+http://49.213.188.67:5052/smart.php?id=eltasport2_twn&token=885252
+
+#EXTINF:-1 tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="體育競技",愛爾達體育3台
+http://49.213.188.67:5052/smart.php?id=eltasport3_twn&token=885252
+
+
+
 
 #EXTINF:-1 tvg-name="博斯高球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast3.png" group-title="體育競技",博斯高球
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUTrMyCqMXKCgK30HhBPyAKx6n2aH8F6OHhaq2X_wb9h_KHHlv3rDaySYuAfeRD6q3hWKDv2qgvvY5sAf9alAVQq5zxuN_I2uAP05WXOeh-gmVS3jZipRTbZSUMODEpusCKrXYV6YaLWcWBUN0Ow0jpPGi_oT1Ya8E7vXVUGerADGPGV_F6Wrr1mLd5KH_UZs_HILCZmvsY3GT41Q0uK8Jkg.m3u8?u=1756878715
@@ -524,166 +526,8 @@ http://49.213.188.67:50007/4gtv-live049/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU
 
 
 
-#EXTINF:-1 tvg-id="tvbshuanle_twn" tvg-name="TVBS 歡樂台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" group-title="台灣綜合",TVBS 歡樂台
-http://106.107.242.201/live.php?id=tvbshuanle_twn
-#EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" group-title="台灣綜合",TVBS HD
-http://106.107.242.201/live.php?id=tvbs
-#EXTINF:-1 tvg-id="ctient" tvg-name="中天娛樂 CTI Entertaiment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="台灣綜合",中天娛樂 CTI Entertaiment
-http://106.107.242.201/live.php?id=ctient
-#EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天綜合 CTI Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" group-title="台灣綜合",中天綜合 CTI Metro
-http://106.107.242.201/live.php?id=ctizhonghe
-#EXTINF:-1 tvg-id="ctiasia_twn" tvg-name="中天亞洲台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef34b78abae9_lcUh.png" group-title="台灣綜合",中天亞洲台
-http://106.107.242.201/live.php?id=ctiasia_twn
-#EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f49783758_lqgU.png" group-title="台灣綜合",台視 TTV HD
-http://106.107.242.201/live.php?id=ttv_taiwan
-#EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台視綜合台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ae0be7ecef_8Xkk.png" group-title="台灣綜合",台視綜合台
-http://106.107.242.201/live.php?id=ttvzhonghe
-#EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中視 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png" group-title="台灣綜合",中視 HD
-http://106.107.242.201/live.php?id=zhongshihd_twn
-#EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民視 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png" group-title="台灣綜合",民視 HD
-http://106.107.242.201/live.php?id=ftvhd_taiwan
-#EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民視台灣台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4863347815_LS6r.png" group-title="台灣綜合",民視台灣台
-http://106.107.242.201/live.php?id=ftvtaiwan_twn
-#EXTINF:-1 tvg-id="ctshd_twn" tvg-name="華視 CTS HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png" group-title="台灣綜合",華視 CTS HD
-http://106.107.242.201/live.php?id=ctshd_twn
-#EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公視 CTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a90142345_bUxd.jpg" group-title="台灣綜合",公視 CTV
-http://106.107.242.201/live.php?id=ctv18_twn
-#EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 GTV First" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f6ca5a321_y77x.png" group-title="台灣綜合",八大第一 GTV First
-http://106.107.242.201/live.php?id=badafirst
-#EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大綜合 GTV Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f74f4f446_3vV7.png" group-title="台灣綜合",八大綜合 GTV Metro
-http://106.107.242.201/live.php?id=badazhonghe
-#EXTINF:-1 tvg-id="badadrama" tvg-name="八大戲劇 GTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f714e7982_tpnp.png" group-title="台灣綜合",八大戲劇 GTV Drama
-http://106.107.242.201/live.php?id=badadrama
-#EXTINF:-1 tvg-id="badaentertain" tvg-name="八大娛樂 GTV Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971fac8acd85_1fyo.png" group-title="台灣綜合",八大娛樂 GTV Entertainment
-http://106.107.242.201/live.php?id=badaentertain
-#EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="台灣綜合",HBO_HD
-http://106.107.242.201/live.php?id=hbohd_twn
-#EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="台灣綜合",HBO_HITS
-http://106.107.242.201/live.php?id=hbohits_twn
-#EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="台灣綜合",HBO Signature Taiwan
-http://106.107.242.201/live.php?id=hbosignature_twn
-#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="台灣綜合",Hollywood Movies
-http://106.107.242.201/live.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台灣 Sanli Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa484fdb8_ZP60.png" group-title="台灣綜合",三立台灣 Sanli Taiwan
-http://106.107.242.201/live.php?id=sanlitaiwan
-#EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="三立戲劇台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3dd3d83ead_l7lR.jpg" group-title="台灣綜合",三立戲劇台
-http://106.107.242.201/live.php?id=sanlixiju_twn
-#EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立綜合 Sanli Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f8d13edd1_SZPZ.png" group-title="台灣綜合",三立綜合 Sanli Metro
-http://106.107.242.201/live.php?id=sanlizhonghe
-#EXTINF:-1 tvg-id="sanlidouhui_twn" tvg-name="三立都會台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef478076b65f_ZOy7.png" group-title="台灣綜合",三立都會台
-http://106.107.242.201/live.php?id=sanlidouhui_twn
-#EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="東森綜合 ETTV Metro" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597214f33c2f3_Iir8.jpg" group-title="台灣綜合",東森綜合 ETTV Metro
-http://106.107.242.201/live.php?id=ettvzhonghe
-#EXTINF:-1 tvg-id="ettvdrama" tvg-name="東森戲劇 ETTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa9f60889_OvMr.png" group-title="台灣綜合",東森戲劇 ETTV Drama
-http://106.107.242.201/live.php?id=ettvdrama
-#EXTINF:-1 tvg-id="ctv2_twn" tvg-name="公視2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66e2bf9c477d9_w9D1.jpg" group-title="台灣綜合",公視2
-http://106.107.242.201/live.php?id=ctv2_twn
-#EXTINF:-1 tvg-id="daai_twn" tvg-name="大愛1台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07ab5e806e7_7gGt.png" group-title="台灣綜合",大愛1台
-http://106.107.242.201/live.php?id=daai_twn
-#EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龍華戲劇 Lunghua Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2104d7173d8_laLA.png" group-title="台灣綜合",龍華戲劇 Lunghua Drama
-http://106.107.242.201/live.php?id=lunghuaxiju_twn
-#EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龍華經典台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f006937ee_hbZ8.jpg" group-title="台灣綜合",龍華經典台
-http://106.107.242.201/live.php?id=lunghuajingdian_twn
-#EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龍華偶像" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21052c811cb_AFAb.jpg" group-title="台灣綜合",龍華偶像
-http://106.107.242.201/live.php?id=lunghuaidol_twn
-#EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="台灣綜合",AXN Taiwan
-http://106.107.242.201/live.php?id=axn_twn
-#EXTINF:-1 tvg-id="jingtianintl_twn" tvg-name="靖天國際台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ee5e27819ade_882I.jpg" group-title="台灣綜合",靖天國際台
-http://106.107.242.201/live.php?id=jingtianintl_twn
-#EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="台灣綜合",CINEMAX
-http://106.107.242.201/live.php?id=cinemax_twn
-#EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新聞" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png" group-title="台灣綜合",年代新聞
-http://106.107.242.201/live.php?id=niandainews_twn
-#EXTINF:-1 tvg-id="videolandjapan" tvg-name="緯來日本台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d1e7bf942_NJa3.jpg" group-title="台灣綜合",緯來日本台
-http://106.107.242.201/live.php?id=videolandjapan
-#EXTINF:-1 tvg-id="videolandmovie" tvg-name="緯來電影台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg" group-title="台灣綜合",緯來電影台
-http://106.107.242.201/live.php?id=videolandmovie
-#EXTINF:-1 tvg-id="videolandsport" tvg-name="緯來體育台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png" group-title="台灣綜合",緯來體育台
-http://106.107.242.201/live.php?id=videolandsport
-#EXTINF:-1 tvg-id="videolandzonghe" tvg-name="緯來綜合台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2b942bef_ZYqs.jpg" group-title="台灣綜合",緯來綜合台
-http://106.107.242.201/live.php?id=videolandzonghe
-#EXTINF:-1 tvg-id="videolandmax" tvg-name="緯來育樂" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ac6efe44e3_XA3K.png" group-title="台灣綜合",緯來育樂
-http://106.107.242.201/live.php?id=videolandmax
-#EXTINF:-1 tvg-id="videolandtv" tvg-name="緯來精彩" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ad8a8d99f4_J33A.png" group-title="台灣綜合",緯來精彩
-http://106.107.242.201/live.php?id=videolandtv
-#EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" group-title="台灣綜合",DW (Deutsch)
-http://106.107.242.201/live.php?id=dw_twn
-#EXTINF:-1 tvg-id="good2_twn" tvg-name="好訊息 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef472ef7cd46_vnVW.png" group-title="台灣綜合",好訊息 2
-http://106.107.242.201/live.php?id=good2_twn
-#EXTINF:-1 tvg-id="daai2_twn" tvg-name="大愛2台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" group-title="台灣綜合",大愛2台
-http://106.107.242.201/live.php?id=daai2_twn
-#EXTINF:-1 tvg-id="afc_twn" tvg-name="亞洲美食" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" group-title="台灣綜合",亞洲美食
-http://106.107.242.201/live.php?id=afc_twn
-#EXTINF:-1 tvg-id="tlc_twn" tvg-name="亞洲旅遊 TLC Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" group-title="台灣綜合",亞洲旅遊 TLC Asia
-http://106.107.242.201/live.php?id=tlc_twn
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="東森電影 ETTV Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="台灣綜合",東森電影 ETTV Movie
-http://106.107.242.201/live.php?id=ettvmovie
-#EXTINF:-1 tvg-id="arirang_twn" tvg-name="阿里郎 Arirang" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f06e3f614_wOfo.png" group-title="台灣綜合",阿里郎 Arirang
-http://106.107.242.201/live.php?id=arirang_twn
-#EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯運動 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f28101ccd_21Yl.png" group-title="台灣綜合",博斯運動 1
-http://106.107.242.201/live.php?id=bosisport1_twn
-#EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯運動 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f2d170aaf_zKOw.png" group-title="台灣綜合",博斯運動 2
-http://106.107.242.201/live.php?id=bosisport2_twn
-#EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" group-title="台灣綜合",博斯高球2 HD
-http://106.107.242.201/live.php?id=bosigolf2_twn
-#EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯網球 HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" group-title="台灣綜合",博斯網球 HD
-http://106.107.242.201/live.php?id=bositennis_twn
-#EXTINF:-1 tvg-id="ettvwestern" tvg-name="東森洋片 ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="台灣綜合",東森洋片 ETTV Western
-http://106.107.242.201/live.php?id=ettvwestern
-#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龍華洋片 Lunghua Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" group-title="台灣綜合",龍華洋片 Lunghua Western
-http://106.107.242.201/live.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯無限" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f3c25dba2_Xkc0.png" group-title="台灣綜合",博斯無限
-http://106.107.242.201/live.php?id=bosiunlimited_twn
-#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="台灣綜合",MTV Live
-http://106.107.242.201/live.php?id=mtvhd_twn
-#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龍詳時代" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="台灣綜合",龍詳時代
-http://106.107.242.201/live.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="eyetvtravel_twn" tvg-name="EYETV 旅遊" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edfc5cb545_07F2.jpg" group-title="台灣綜合",EYETV 旅遊
-http://106.107.242.201/live.php?id=eyetvtravel_twn
-#EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3a24b319689_3vD8.png" group-title="台灣綜合",靖天卡通台
-http://106.107.242.201/live.php?id=jingtiancartoon_twn
-#EXTINF:-1 tvg-id="eyetvxiju_twn" tvg-name="EYETV 戲劇" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2ee0166877e_21kv.jpg" group-title="台灣綜合",EYETV 戲劇
-http://106.107.242.201/live.php?id=eyetvxiju_twn
-#EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="衛視中文台 Star Movies Chinese" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" group-title="台灣綜合",衛視中文台 Star Movies Chinese
-http://106.107.242.201/live.php?id=weishichinese_twn
-#EXTINF:-1 tvg-id="yoyo_twn" tvg-name="東森幼幼 Yoyo TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a215c530b17b_qqz4.png" group-title="台灣綜合",東森幼幼 Yoyo TV
-http://106.107.242.201/live.php?id=yoyo_twn
-#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亞電影" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" group-title="台灣綜合",美亞電影
-http://106.107.242.201/live.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="eltadrama_twn" tvg-name="愛爾達戲劇台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b47f2c36f_f7lG.jpeg" group-title="台灣綜合",愛爾達戲劇台
-http://106.107.242.201/live.php?id=eltadrama_twn
-#EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News 新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" group-title="台灣綜合",TVBS News 新聞台
-http://106.107.242.201/live.php?id=tvbs_n
-#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="台灣綜合",Asia Food Network
-http://106.107.242.201/live.php?id=Afc
-#EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞 ETTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg" group-title="台灣綜合",東森新聞 ETTV News
-http://106.107.242.201/live.php?id=ettvnews
-#EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞 ETTV Business" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png" group-title="台灣綜合",東森財經新聞 ETTV Business
-http://106.107.242.201/live.php?id=ettvcaijing_twn
-#EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" group-title="台灣綜合",中天新聞 CTI News
-http://106.107.242.201/live.php?id=ctinews
-#EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png" group-title="台灣綜合",非凡新聞台
-http://106.107.242.201/live.php?id=feifannews_twn
-#EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" group-title="台灣綜合",台視新聞台 TTV News
-http://106.107.242.201/live.php?id=ttvnews_twn
-#EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta體育1台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937c66da8e5_u3ny.png" group-title="台灣綜合",Elta體育1台
-http://106.107.242.201/live.php?id=eltasport1_twn
-#EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png" group-title="台灣綜合",Elta體育2台
-http://106.107.242.201/live.php?id=eltasport2_twn
-#EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/628f3a3f9692d_U55i.png" group-title="台灣綜合",Elta體育3台
-http://106.107.242.201/live.php?id=eltasport3_twn
-#EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台 FTV News" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" group-title="台灣綜合",民視新聞台 FTV News
-http://106.107.242.201/live.php?id=ftvnew_taiwan
-#EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png" group-title="台灣綜合",寰宇新聞台
-http://106.107.242.201/live.php?id=huanyuxinwen_twn
-#EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" group-title="台灣綜合",中視新聞台
-http://106.107.242.201/live.php?id=zhongshinews_twn
-#EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" group-title="台灣綜合",DAZN 1
-http://106.107.242.201/live.php?id=dazn1_twn
-#EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" group-title="台灣綜合",DAZN 2
-http://106.107.242.201/live.php?id=dazn2_twn
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索頻道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="台灣綜合",探索頻道
-http://106.107.242.201/live.php?id=discoverych_twn
+
+
 
 
 
