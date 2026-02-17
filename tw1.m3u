@@ -53,6 +53,9 @@ http://106.107.234.186:50007/4gtv-live014/index.m3u8?token=C2sImhXY5hzM65REQX4KP
 
 #EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合台
 http://106.107.234.186:50007/4gtv-live207/index.m3u8?token=C2sImhXY5hzM65REQX4KPA9ijLJAEfjxKvmWwtAup88UUO8zn73YYMc5pOIdXaCX
+#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png" group-title="綜合其他",三立都會台
+http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+
 #EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="綜合其他",八大第一台
 http://208.87.242.79/livehttpplay?channel_id=20073
 #EXTINF:-1 tvg-id="八大綜合台" tvg-name="八大綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV1.png" group-title="綜合其他",八大綜合台
@@ -86,8 +89,6 @@ http://211.23.114.106:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
 http://211.23.114.106:8523/http/59.120.8.187:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 tvg-name="東森超視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC2.png" group-title="綜合其他",東森超視
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lylo8KUJQTw1XM1IsXqjJnCxGXLXhrak82yhR8-9Wjyp9Jv3dZZvl6rvdTktEA2MYUd10pSrYSPnc8hHXs4J-aTh66eb712HSAUMkxcK0pUyO3bxG7rVxjU34m9a8Hm_FIYUYPNK8SbDa6K25k5-H2esS87XxkHjgfg9u2-1NH6z-rAXzr38rHUrVSVVJaT81Cg.m3u8?u=1756878715
-#EXTINF:-1 tvg-name="三立都會台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET5.png" group-title="綜合其他",三立都會台
-http://211.23.114.106:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
 #EXTINF:-1 tvg-name="愛爾達綜合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA1.png" group-title="綜合其他",愛爾達綜合
 http://208.87.242.79/livehttpplay?channel_id=16076
 #EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
