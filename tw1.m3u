@@ -27,12 +27,18 @@ http://49.213.188.67:50007/4gtv-4gtv041/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU
 http://49.213.188.67:50007/of-4gtv-4gtv041/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="綜合其他",台視 TTV HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WJd0uWRdrp2N2DMPeSpCNtsfaOKAYsVLg2MX4cO_KFyUmwCu7jcrlp8j7SAWptJpeSp5ag2I_uetA3xPkrTQ-lVnv963fLCLHyduyl45zj6j6NNzQMR_BNewbwKtyIroZT50tPZhnLa3Rt33bFBrjPhEBy-eZx7UYTRqivz_0mhbJld-nAyJVwnomnexnUw5MQ.m3u8?u=1756878715
+
 #EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="綜合其他",台視 TTV HD
 http://49.213.188.67:5052/smart.php?id=ttv_taiwan&token=885252
 #EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台視 TTV HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="綜合其他",台視 TTV HD
+http://49.213.188.67:5052/smart.php?id=ttv_taiwan&token=885252
+
+#EXTINF:-1 tvg-name="台視綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV1.png" group-title="綜合其他",台視綜合台
 http://iptv.4666888.xyz/iptv2A.php?id=51
+
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyg_eOOZtFuqPa4t0j_eSveWP9aYFGU9KyqHId0yBbQCNk_YYNPAQshbfPKqC9c38lNgUXvOX1CWo8KR7PlDyfDvX_iwDtRZKy5TXRRRgnnBLkL6BSjACZP-UTeaLQfhMZaNzw7_yLFCytFhoKEJdKnWR4s-z1aYsDToMQ8eJ8brenzAnvC6viw0jRoU0QZYpLA.m3u8?u=1756878715
+
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
 http://49.213.188.67:50007/media-live073/index.m3u8?token=zhDNxhmJTrT5nruKkhM8bpU9OKCoRUXOZfqoRXGMj0tBFBO8bwQ0H4DPgqhtBoPS
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
