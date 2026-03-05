@@ -1,6 +1,19 @@
 {
   "sites": [
     {
+      "key": "drpyS_55影视",
+      "name": "55影视(DS)",
+      "type": 4,
+      "api": "http://142.171.248.206:5757/api/55影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "55影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
       "key": "drpyS_永乐视频[优]",
       "name": "永乐视频[优](DS)",
       "type": 4,
@@ -14,14 +27,14 @@
       "ext": ""
     },
     {
-      "key": "drpyS_55影视",
-      "name": "55影视(DS)",
+      "key": "drpyS_荐片[优]",
+      "name": "荐片[优](DS)",
       "type": 4,
-      "api": "http://142.171.248.206:5757/api/55影视?pwd=dzyyds",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 1,
-      "title": "55影视",
+      "api": "http://142.171.248.206:5757/api/荐片[优]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "荐片[优]",
       "类型": "影视",
       "lang": "ds",
       "ext": ""
@@ -217,32 +230,6 @@
       "lang": "hipy",
       "ext": ""
     },
-       {
-      "key": "drpyS_永乐视频[优]",
-      "name": "永乐视频[优](DS)",
-      "type": 4,
-      "api": "http://142.171.248.206:5757/api/永乐视频[优]?pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "永乐视频[优]",
-      "类型": "影视",
-      "lang": "ds",
-      "ext": ""
-    },
-    {
-      "key": "drpyS_荐片[优]",
-      "name": "荐片[优](DS)",
-      "type": 4,
-      "api": "http://142.171.248.206:5757/api/荐片[优]?pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "title": "荐片[优]",
-      "类型": "影视",
-      "lang": "ds",
-      "ext": ""
-    },
     {
       "key": "hipy_py_爱瓜APP",
       "name": "爱瓜APP(hipy)",
@@ -281,24 +268,32 @@
       "ext": ""
     }
   ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ],
   "lives": [
     {
       "name": "543",
-      "url": "http://iptv543.com/543.m3u",
+      "url": "http://66.103.204.107/list.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-  {
-      "name": "台灣酒店",
-      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw1.m3u",
-     "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
-      "logo": "https://diyp.112114.xyz/logo/{name}.png",
-      "ua": "okhttp/4.12.0"
-    },
-
     {
-      "name": "備用線路一",
-      "url": "https://iptv543.com/smt1.m3u",
+      "name": "備用線路",
+      "url": "http://49.213.188.67:5050/smart.m3u?token=885252",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "臨時2線",
+      "url": "http://tv543.cc/8.txt",
+      "User-Agent": "PharosTVPlayer",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "4GTV",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -308,6 +303,7 @@
     }
   ]
 }
+
 
 
 
