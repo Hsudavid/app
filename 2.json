@@ -355,12 +355,20 @@
 	"static-mozai.4gtv.tv"
   ],
   "lives": [
- {
+  {
       "name": "543",
       "url": "http://66.103.204.107/list.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+ {
+      "name": "台灣酒店",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/tw1.m3u",
+     "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei",
+      "logo": "https://diyp.112114.xyz/logo/{name}.png",
+      "ua": "okhttp/4.12.0"
+    },
+
     {
       "name": "備用線路",
       "url": "http://49.213.188.67:5050/smart.m3u?token=885252",
@@ -395,6 +403,7 @@
     }
   ]
 }
+
 
 
 
