@@ -1,0 +1,107 @@
+酷9歡樂看,#genre#
+parse=1
+台視新聞台,http://www.faintv.com/channel/19366			
+寰宇新聞台灣台,http://www.faintv.com/channel/137			
+寰宇新聞台,http://www.faintv.com/channel/136			
+東森購物2台,http://www.faintv.com/channel/14909			
+寰宇財經台,http://www.faintv.com/channel/141			
+軍武大觀,http://www.faintv.com/channel/18271			
+歡樂看新聞,http://www.faintv.com/channel/19670			
+CNEX紀實頻道,http://www.faintv.com/channel/18295			
+鳳凰衛視香港台,http://www.faintv.com/channel/18965			
+新唐人電視,http://www.faintv.com/channel/8976			
+台灣啟示錄,http://www.faintv.com/channel/18254			
+政治狠狠問,http://www.faintv.com/channel/21235			
+LINE TODAY看世界,http://www.faintv.com/channel/18948			
+論政天下之鬥而不破,http://www.faintv.com/channel/16174			
+謝龍介直播,http://www.faintv.com/channel/23092			
+小宇宙大爆發(健康),http://www.faintv.com/channel/18475			
+台視,http://www.faintv.com/channel/19371			
+中天亞洲台,http://www.faintv.com/channel/121			
+Smart知識台,http://www.faintv.com/channel/68			
+東森購物3台,http://www.faintv.com/channel/14908			
+ETtoday綜合台,http://www.faintv.com/channel/146			
+大愛一台,http://www.faintv.com/channel/1869			
+大愛二台,http://www.faintv.com/channel/11877			
+好消息綜合台,http://www.faintv.com/channel/101			
+好消息真理台,http://www.faintv.com/channel/103			
+雲端創作音樂台,http://www.faintv.com/channel/17617			
+雲端電音音樂台,http://www.faintv.com/channel/16488			
+吉馬欣代音樂,http://www.faintv.com/channel/18636			
+楊桃美食台,http://www.faintv.com/channel/16650			
+東森購物5台,http://www.faintv.com/channel/16556			
+全民星攻略,http://www.faintv.com/channel/18310			
+行動電源出發吧,http://www.faintv.com/channel/20308			
+請問今晚住誰家,http://www.faintv.com/channel/20309			
+花甲少年趣旅行,http://www.faintv.com/channel/20559			
+對不起標籤你2,http://www.faintv.com/channel/22632			
+點相II 破局,http://www.faintv.com/channel/22633			
+寂寞是幫兇,http://www.faintv.com/channel/22634			
+龍華電影台,http://www.faintv.com/channel/132			
+龍華經典台,http://www.faintv.com/channel/234			
+龍華洋片台,http://www.faintv.com/channel/228			
+東森購物4台,http://www.faintv.com/channel/16555			
+龍華日韓台,http://www.faintv.com/channel/116			
+龍華戲劇台,http://www.faintv.com/channel/95			
+龍華偶像台,http://www.faintv.com/channel/122			
+龍華卡通台,http://www.faintv.com/channel/89			
+歡樂兒童台,http://www.faintv.com/channel/22768			
+森林特攻隊大腳丫家族,http://www.faintv.com/channel/15300			
+北海小英雄,http://www.faintv.com/channel/19468			
+紅鞋公主與七矮人,http://www.faintv.com/channel/21516			
+新幹線變形機器人,http://www.faintv.com/channel/21553			
+露西亞的聖誕願望,http://www.faintv.com/channel/20362			
+小狼童阿飛,http://www.faintv.com/channel/21557			
+迷雁返家路,http://www.faintv.com/channel/22103			
+MOMO運動綜合台,http://www.faintv.com/channel/14009			
+博斯高球一台,http://www.faintv.com/channel/108			
+博斯高球二台,http://www.faintv.com/channel/125			
+博斯無限台,http://www.faintv.com/channel/129			
+博斯無限二台,http://www.faintv.com/channel/418			
+博斯網球台,http://www.faintv.com/channel/53			
+博斯魅力台,http://www.faintv.com/channel/135			
+博斯運動一台,http://www.faintv.com/channel/102			
+博斯運動二台,http://www.faintv.com/channel/124			
+Pace Sport,http://www.faintv.com/channel/5353			
+統一獅經典回看,http://www.faintv.com/channel/16732			
+EuroNews,http://www.faintv.com/channel/17576			
+CNA News,http://www.faintv.com/channel/23099			
+FRANCE 24,http://www.faintv.com/channel/16271			
+ARIRANG NEWS,http://www.faintv.com/channel/16272			
+無上師電視台,http://www.faintv.com/channel/495			
+生命電視台,http://www.faintv.com/channel/974			
+君九齡(推薦),http://www.faintv.com/channel/20441			
+雍正王朝(推薦),http://www.faintv.com/channel/17309			
+善德女王(推薦),http://www.faintv.com/channel/15359			
+雙軌(推薦),http://www.faintv.com/channel/20370			
+家宴(推薦),http://www.faintv.com/channel/6945			
+鳯囚凰(推薦),http://www.faintv.com/channel/17313			
+愛上ㄆㄤˋ滋味(推薦),http://www.faintv.com/channel/21568			
+路邊董事長(推薦),http://www.faintv.com/channel/18199			
+人生算什麼(推薦),http://www.faintv.com/channel/18197			
+天下第一招(推薦),http://www.faintv.com/channel/21869			
+玩命賽道 (輔12),http://www.faintv.com/channel/21028			
+入侵者 (輔12),http://www.faintv.com/channel/20363			
+史前魔種 (輔12),http://www.faintv.com/channel/21641			
+不丹是教室(普),http://www.faintv.com/channel/21646			
+死屍日(限),http://www.faintv.com/channel/17686			
+無間行者之生死潛行(輔12),http://www.faintv.com/channel/16501			
+寒戰2 (輔12),http://www.faintv.com/channel/16473			
+三國殺幻 (護),http://www.faintv.com/channel/21642			
+變種人幽靈戰姬 (護),http://www.faintv.com/channel/21648			
+臥底巨星 (護),http://www.faintv.com/channel/22095			
+西遊記：女兒國 (護),http://www.faintv.com/channel/17920			
+古劍奇譚之流月昭明 (護),http://www.faintv.com/channel/21031			
+雲端爵士樂,http://www.faintv.com/channel/21549			
+雲端鋼琴音樂,http://www.faintv.com/channel/22124			
+雲端水晶音樂,http://www.faintv.com/channel/22125			
+雲端巴薩諾瓦音樂,http://www.faintv.com/channel/22126			
+雲端舒眠音樂,http://www.faintv.com/channel/23025			
+交換旅遊日記,http://www.faintv.com/channel/18978			
+富士山朝聖之旅,http://www.faintv.com/channel/19407			
+煮吧換咗我阿媽,http://www.faintv.com/channel/19194			
+餸情,http://www.faintv.com/channel/19459			
+如常,http://www.faintv.com/channel/17895			
+姊姊向前衝 (預覽),http://www.faintv.com/channel/19121			
+黃金大天團 (預覽),http://www.faintv.com/channel/19409	
+
