@@ -1,6 +1,6 @@
 {
   "spider": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xyq.jar",
-  "logo": "./lib/base.jpg",
+  "logo": "./base.jpg",
   "wallpaper": "https://picsum.photos/1080/",
   "sites": [
     {
@@ -8,11 +8,11 @@
       "name": "🏰 豆瓣┃首页",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "./lib/pg.jar",
+      "jar": "./pg.jar",
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json"
+      "ext": "./douban.json"
     },
     {
       "key": "✨水果派✨",
@@ -20,11 +20,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/水果派.json"
+      "ext": "./水果派.json"
     },
     {
       "key": "推特APP",
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv323推特APP.py",
+      "api": "./apiv323推特APP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -43,11 +43,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/精工厂.json"
+      "ext": "./精工厂.json"
     },
     {
       "key": "文件夹",
@@ -55,11 +55,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/文件夹.json"
+      "ext": "./文件夹.json"
     },
     {
       "key": "一区",
@@ -67,11 +67,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/一区.json"
+      "ext": "./一区.json"
     },
     {
       "key": "自排偷拍",
@@ -79,11 +79,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/自排偷拍.json"
+      "ext": "./自排偷拍.json"
     },
     {
       "key": "一个纯粹的x站",
@@ -91,22 +91,22 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/一个纯粹的x站.json"
+      "ext": "./一个纯粹的x站.json"
     },
     {
       "key": "lf_js_lf_live",
       "name": "💋娱乐｜直播",
       "type": 3,
-      "api": "./lib/apiv583lf_live_min.js",
+      "api": "./apiv583lf_live_min.js",
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/live.txt"
+      "ext": "./live.txt"
     },
     {
       "key": "玫瑰TV",
@@ -114,11 +114,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/玫瑰TV.json"
+      "ext": "./玫瑰TV.json"
     },
     {
       "key": "SOAV",
@@ -126,11 +126,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/SOAV.json"
+      "ext": "./SOAV.json"
     },
     {
       "key": "51短剧",
@@ -138,11 +138,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/51短剧.json"
+      "ext": "./51短剧.json"
     },
     {
       "key": "旺仔小乔",
@@ -150,11 +150,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/旺仔小乔.json"
+      "ext": "./旺仔小乔.json"
     },
     {
       "key": "高端外泄",
@@ -162,11 +162,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/高端外泄.json"
+      "ext": "./高端外泄.json"
     },
     {
       "key": "初の体验",
@@ -174,11 +174,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/初の体验.json"
+      "ext": "./初の体验.json"
     },
     {
       "key": "溏心次元",
@@ -186,11 +186,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/溏心次元.json"
+      "ext": "./溏心次元.json"
     },
     {
       "key": "醉奶吧",
@@ -198,11 +198,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/醉奶吧.json"
+      "ext": "./醉奶吧.json"
     },
     {
       "key": "麻豆视频",
@@ -210,11 +210,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/麻豆视频.json"
+      "ext": "./麻豆视频.json"
     },
     {
       "key": "偷拍自拍",
@@ -222,11 +222,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/偷拍自拍.json"
+      "ext": "./偷拍自拍.json"
     },
     {
       "key": "美人吹箫",
@@ -234,11 +234,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/美人吹箫.json"
+      "ext": "./美人吹箫.json"
     },
     {
       "key": "55视频",
@@ -246,11 +246,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/55视频.json"
+      "ext": "./55视频.json"
     },
     {
       "key": "18XXX",
@@ -258,11 +258,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/18XXX.json"
+      "ext": "./18XXX.json"
     },
     {
       "key": "窜天猴",
@@ -270,11 +270,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/窜天猴.json"
+      "ext": "./窜天猴.json"
     },
     {
       "key": "GDD视频",
@@ -282,11 +282,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/GDD视频.json"
+      "ext": "./GDD视频.json"
     },
     {
       "key": "桃花浪",
@@ -294,11 +294,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/桃花浪.json"
+      "ext": "./桃花浪.json"
     },
     {
       "key": "3Q",
@@ -306,11 +306,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/3Q.json"
+      "ext": "./3Q.json"
     },
     {
       "key": "好色™ Tv",
@@ -319,7 +319,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1125好色™ Tv.py",
+      "api": "./apiv1125好色™ Tv.py",
       "order_num": 5,
       "ext": ""
     },
@@ -329,11 +329,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/百灵鸟在线.json"
+      "ext": "./百灵鸟在线.json"
     },
     {
       "key": "樱樱女子",
@@ -341,11 +341,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/樱樱女子.json"
+      "ext": "./樱樱女子.json"
     },
     {
       "key": "激动网",
@@ -353,11 +353,11 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/激动网.json"
+      "ext": "./激动网.json"
     },
     {
       "key": "成鸡思汉",
@@ -365,18 +365,18 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/成鸡思汉.json"
+      "ext": "./成鸡思汉.json"
     },
     {
       "key": "直播转点播1",
       "name": "💃┃佳丽┃直播",
       "type": 3,
-      "api": "./lib/apiv1265直播转点播.js",
-      "ext": "./lib/直播.txt"
+      "api": "./apiv1265直播转点播.js",
+      "ext": "./直播.txt"
     },
     {
       "key": "视频采集3",
@@ -468,7 +468,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "style": {
         "ratio": 1.7
       },
@@ -488,7 +488,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/ggjav.json",
+      "ext": "./ggjav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -501,7 +501,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1535lavAPP.py",
+      "api": "./apiv1535lavAPP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -512,7 +512,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1561Phb.py",
+      "api": "./apiv1561Phb.py",
       "order_num": 5,
       "ext": ""
     },
@@ -523,7 +523,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1587DSYS.py",
+      "api": "./apiv1587DSYS.py",
       "order_num": 5,
       "ext": ""
     },
@@ -534,7 +534,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv161351吸瓜动态版.py",
+      "api": "./apiv161351吸瓜动态版.py",
       "order_num": 5,
       "ext": ""
     },
@@ -545,7 +545,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1561Phb.py",
+      "api": "./apiv1561Phb.py",
       "order_num": 5,
       "ext": ""
     },
@@ -556,7 +556,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1665Xvideos.py",
+      "api": "./apiv1665Xvideos.py",
       "order_num": 5,
       "ext": ""
     },
@@ -567,7 +567,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1691Xhamster.py",
+      "api": "./apiv1691Xhamster.py",
       "order_num": 5,
       "ext": ""
     },
@@ -578,7 +578,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv17174k.py",
+      "api": "./apiv17174k.py",
       "order_num": 5,
       "ext": ""
     },
@@ -589,7 +589,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1743黑料.py",
+      "api": "./apiv1743黑料.py",
       "order_num": 5,
       "ext": ""
     },
@@ -600,7 +600,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1769九个区.py",
+      "api": "./apiv1769九个区.py",
       "order_num": 5,
       "ext": ""
     },
@@ -611,7 +611,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1795香蕉.py",
+      "api": "./apiv1795香蕉.py",
       "order_num": 5,
       "ext": ""
     },
@@ -622,7 +622,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1821小红薯APP.py",
+      "api": "./apiv1821小红薯APP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -633,7 +633,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/apiv1847推特APP.py",
+      "api": "./apiv1847推特APP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -680,7 +680,7 @@
       "name": "🔞18AV(翻）",
       "playUrl": "json:http://127.0.0.1:7891/parse/?thread=0&proxy=&url=",
       "type": 3,
-      "jar": "./lib/pg.jar",
+      "jar": "./pg.jar",
       "api": "csp_Eighteen",
       "searchable": 0
     },
@@ -703,7 +703,7 @@
       "name": "🔞Jable（翻）",
       "playUrl": "json:http://127.0.0.1:7891/parse/?thread=0&proxy=&url=",
       "type": 3,
-      "jar": "./lib/pg.jar",
+      "jar": "./pg.jar",
       "api": "csp_Jable",
       "searchable": 0,
       "recordable": 0
@@ -746,7 +746,7 @@
       "key": "pornpinoy",
       "name": "pornpinoy",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
@@ -776,7 +776,7 @@
       "key": "测试9",
       "name": "测试",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://996624.xyz/{cateId}/page/{catePg}/;;z",
@@ -792,7 +792,7 @@
       "filterable": 1,
       "changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "ext": {
         "作者": "",
         "站名": "",
@@ -845,7 +845,7 @@
       "name": "溏心女优二",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "ext": {
         "分类url": "https://txcy-7oo1.txcy-pu.buzz/index.php/actordetail/{cateId}",
         "直接播放": 1,
@@ -861,7 +861,7 @@
       "name": "小姨子",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -892,7 +892,7 @@
     {
       "key": "领头羊",
       "name": "领头羊",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -907,7 +907,7 @@
       "name": "快递🔞",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -930,7 +930,7 @@
       "key": "夜魅",
       "name": "夜魅",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -947,7 +947,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/bad.json",
+      "ext": "./bad.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -961,7 +961,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/bad搜索1.json",
+      "ext": "./bad搜索1.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -975,7 +975,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/52av2.json",
+      "ext": "./52av2.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -989,7 +989,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/javday.json",
+      "ext": "./javday.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1003,7 +1003,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/18jtv.json",
+      "ext": "./18jtv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1017,7 +1017,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xnxx.json",
+      "ext": "./xnxx.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1031,7 +1031,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/njavtv.json",
+      "ext": "./njavtv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1045,7 +1045,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/爱妻艺.json",
+      "ext": "./爱妻艺.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1059,7 +1059,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/missav.app.json",
+      "ext": "./missav.app.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1073,7 +1073,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/nowavtv.json",
+      "ext": "./nowavtv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1084,8 +1084,8 @@
       "name": "🔞爱豆传媒",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "spider": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
+      "spider": "./XBPQ.jar",
       "ext": {
         "主页url": "https://rourou.co/",
         "直接播放": "1",
@@ -1106,7 +1106,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/91porn_asia.json",
+      "ext": "./91porn_asia.json",
       "style": {
         "type": "rect",
         "ratio": 1.75
@@ -1120,7 +1120,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/jable.json",
+      "ext": "./jable.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -1131,8 +1131,8 @@
       "name": "🔞JAVDAY",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "spider": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
+      "spider": "./XBPQ.jar",
       "ext": {
         "主页url": "https://javday.tv/",
         "直接播放": "1",
@@ -1150,7 +1150,7 @@
       "key": "911爆料网",
       "name": "911爆料网",
       "type": 3,
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "作者": "✨集✨",
@@ -1187,7 +1187,7 @@
       "api": "csp_XMVideo",
       "searchable": 1,
       "filterable": 1,
-      "jar": "./lib/182.jar"
+      "jar": "./182.jar"
     },
     {
       "key": "幸福加油站",
@@ -1198,7 +1198,7 @@
       "filterable": 1,
       "changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/6.jar",
+      "jar": "./6.jar",
       "ext": {
         "发布地址": "557888.XYZ",
         "请求头": "User-Agent$MOBILE_UA",
@@ -1225,7 +1225,7 @@
       "name": "🔞影片库🪜",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "ext": {
         "站名": "影片库lugiao.top",
         "主页url": "https://you.lugiao12.top/",
@@ -1243,13 +1243,13 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "jar": "./lib/moyu.jar"
+      "jar": "./moyu.jar"
     },
     {
       "key": "黑炮视频",
       "name": "黑炮视频",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1263,7 +1263,7 @@
       "name": "爱 AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1288,7 +1288,7 @@
       "key": "色播",
       "name": "🔞色播直播",
       "type": 3,
-      "api": "./lib/apiv3756apiv2134色播.js",
+      "api": "./apiv3756apiv2134色播.js",
       "searchable": 1,
       "changeable": 0
     },
@@ -1297,287 +1297,287 @@
       "name": "㊙️PornLuLu",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/PornLuLu.json"
+      "ext": "./PornLuLu.json"
     },
     {
       "key": "941",
       "name": "㊙️┃941c",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/941c.json"
+      "ext": "./941c.json"
     },
     {
       "key": "18",
       "name": "㊙️18j",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/18j.json"
+      "ext": "./18j.json"
     },
     {
       "key": "83视频",
       "name": "㊙️83视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/83视频.json"
+      "ext": "./83视频.json"
     },
     {
       "key": "免费影院",
       "name": "㊙️免费影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/免费影院.json"
+      "ext": "./免费影院.json"
     },
     {
       "key": "魔法少女",
       "name": "㊙️魔法少女",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/魔法少女.json"
+      "ext": "./魔法少女.json"
     },
     {
       "key": "奶妃",
       "name": "㊙️奶妃",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/奶妃.json"
+      "ext": "./奶妃.json"
     },
     {
       "key": "七色谷",
       "name": "㊙️七色谷",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/七色谷.json"
+      "ext": "./七色谷.json"
     },
     {
       "key": "桃花",
       "name": "㊙️桃花",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/桃花.json"
+      "ext": "./桃花.json"
     },
     {
       "key": "淘精岁月",
       "name": "㊙️淘精岁月",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/淘精岁月.json"
+      "ext": "./淘精岁月.json"
     },
     {
       "key": "醉奶吧",
       "name": "㊙️醉奶吧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/醉奶吧4112.json"
+      "ext": "./醉奶吧4112.json"
     },
     {
       "key": "超级精品",
       "name": "㊙️超级精品",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/超级精品.json"
+      "ext": "./超级精品.json"
     },
     {
       "key": "公子别走",
       "name": "㊙️公子别走",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/公子别走.json"
+      "ext": "./公子别走.json"
     },
     {
       "key": "撸铁汉",
       "name": "㊙️金陵撸铁汉",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/金陵撸铁汉.json"
+      "ext": "./金陵撸铁汉.json"
     },
     {
       "key": "路漫漫",
       "name": "㊙️路漫漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/路漫漫动漫.json"
+      "ext": "./路漫漫动漫.json"
     },
     {
       "key": "麦田",
       "name": "㊙️麦田",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/麦田.json"
+      "ext": "./麦田.json"
     },
     {
       "key": "咪咪女孩",
       "name": "㊙️咪咪女孩",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/咪咪女孩.json"
+      "ext": "./咪咪女孩.json"
     },
     {
       "key": "PandaAV",
       "name": "㊙️PandaAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/PandaAV.json"
+      "ext": "./PandaAV.json"
     },
     {
       "key": "91速播",
       "name": "㊙️91速播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/91速播.json"
+      "ext": "./91速播.json"
     },
     {
       "key": "69超级影院",
       "name": "㊙️69超级影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/69超级影院.json"
+      "ext": "./69超级影院.json"
     },
     {
       "key": "🈲🔞淫岛专场",
       "name": "🈲🔞淫岛专场",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1608,63 +1608,63 @@
       "name": "㊙️404xsvc",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/404xav.json"
+      "ext": "./404xav.json"
     },
     {
       "key": "Aress",
       "name": "㊙️Aress",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/Aress.json"
+      "ext": "./Aress.json"
     },
     {
       "key": "淫妻录",
       "name": "㊙️淫妻录",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/淫妻录.json"
+      "ext": "./淫妻录.json"
     },
     {
       "key": "Aries",
       "name": "㊙️Aries",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/Aries.json"
+      "ext": "./Aries.json"
     },
     {
       "key": "魔法少女",
       "name": "魔法少女",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1689,7 +1689,7 @@
       "name": "魔法少女1",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1714,7 +1714,7 @@
       "name": "魔法少女2",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1739,7 +1739,7 @@
       "key": "花都影视",
       "name": "花都影视🔞",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
@@ -1753,20 +1753,20 @@
       "name": "㊙️色岛",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/色岛.json"
+      "ext": "./色岛.json"
     },
     {
       "key": "游击队",
       "name": "游击队",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
@@ -1778,62 +1778,62 @@
       "name": "㊙️四虎新网",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/四虎新网.json"
+      "ext": "./四虎新网.json"
     },
     {
       "key": "农夫与少妇",
       "name": "㊙️┃农夫┃少妇",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/农夫与少妇.json"
+      "ext": "./农夫与少妇.json"
     },
     {
       "key": "线上看女优",
       "name": "㊙️线上看女优",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/线上看女优.json"
+      "ext": "./线上看女优.json"
     },
     {
       "key": "AV帝国",
       "name": "㊙️AV帝国",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/AV帝国.json"
+      "ext": "./AV帝国.json"
     },
     {
       "key": "午夜y院",
       "name": "午夜y院",
       "type": 3,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1858,133 +1858,133 @@
       "name": "㊙️|Free",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/Free.json"
+      "ext": "./Free.json"
     },
     {
       "key": "jav",
       "name": "㊙️jav",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/jav5266.json"
+      "ext": "./jav5266.json"
     },
     {
       "key": "JAVSB",
       "name": "JAVSB",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/JAVSB.json"
+      "ext": "./JAVSB.json"
     },
     {
       "key": "比卡",
       "name": "比卡",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/比卡.json"
+      "ext": "./比卡.json"
     },
     {
       "key": "一根逼毛",
       "name": "一根逼毛",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/一根逼毛.json"
+      "ext": "./一根逼毛.json"
     },
     {
       "key": "NOWAV",
       "name": "NOWAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/NOWAV.json"
+      "ext": "./NOWAV.json"
     },
     {
       "key": "肉视频",
       "name": "肉视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/肉视频.json"
+      "ext": "./肉视频.json"
     },
     {
       "key": "insta直播",
       "name": "insta直播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/insta直播.json"
+      "ext": "./insta直播.json"
     },
     {
       "key": "KISSAV",
       "name": "KISSAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/KISSAV.json"
+      "ext": "./KISSAV.json"
     },
     {
       "key": "222cou",
       "name": "222cou",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "ext": {
         "主页url": "http://224cuo.com/",
         "直接播放": "1",
@@ -2000,7 +2000,7 @@
     {
       "key": "榨汁",
       "name": "榨汁姐",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -2025,7 +2025,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2048,7 +2048,7 @@
       "key": "小黄书",
       "name": "小黄书",
       "type": 3,
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -2074,7 +2074,7 @@
       "key": "辣味视频",
       "name": "🍁辣味视频🍁",
       "type": 3,
-      "jar": "./lib/X_XBPQ.jar",
+      "jar": "./X_XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": {
         "分类url": "https://xsese.com/;;!",
@@ -2091,7 +2091,7 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "null$$$null$$$1",
-      "jar": "./lib/moyu.jar"
+      "jar": "./moyu.jar"
     },
     {
       "key": "Xojav",
@@ -2108,13 +2108,13 @@
         "type": "rect",
         "ratio": 1.5
       },
-      "jar": "./lib/moyu.jar"
+      "jar": "./moyu.jar"
     },
     {
       "key": "野鸡🐔TV",
       "name": "野鸡🐔TV",
       "type": 3,
-      "jar": "./lib/xyqxbpq.jar",
+      "jar": "./xyqxbpq.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -2143,8 +2143,8 @@
       "name": "🔞SOAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "spider": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
+      "spider": "./XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -2169,7 +2169,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/av6k.json",
+      "ext": "./av6k.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2183,7 +2183,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/javffm.json",
+      "ext": "./javffm.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2197,7 +2197,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/javtsunami.json",
+      "ext": "./javtsunami.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2209,8 +2209,8 @@
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
-      "ext": "./lib/色花堂1.json",
-      "jar": "./lib/XBPQ.jar"
+      "ext": "./色花堂1.json",
+      "jar": "./XBPQ.jar"
     },
     {
       "key": "csp_XYQHiker_苹果av",
@@ -2220,7 +2220,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/苹果av.json",
+      "ext": "./苹果av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2231,7 +2231,7 @@
       "name": "🔞13AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -2254,8 +2254,8 @@
       "name": "🔞18j.tv",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "spider": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
+      "spider": "./XBPQ.jar",
       "ext": {
         "主页url": "https://18j.tv/",
         "直接播放": "1",
@@ -2275,7 +2275,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/18av.json",
+      "ext": "./18av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2289,7 +2289,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/170av.json",
+      "ext": "./170av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2300,9 +2300,9 @@
       "name": "🔞300分类",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./lib/Aoki.jar",
+      "jar": "./Aoki.jar",
       "filterable": 1,
-      "ext": "./lib/300分类.json"
+      "ext": "./300分类.json"
     },
     {
       "key": "csp_XYQHiker_444咖啡",
@@ -2312,7 +2312,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/444咖啡.json",
+      "ext": "./444咖啡.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2326,7 +2326,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/airav.json",
+      "ext": "./airav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2340,7 +2340,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/hohoj.json",
+      "ext": "./hohoj.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2354,7 +2354,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/kanav.json",
+      "ext": "./kanav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2368,7 +2368,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/motv.json",
+      "ext": "./motv.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2382,7 +2382,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/owoav.json",
+      "ext": "./owoav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2393,7 +2393,7 @@
       "name": "🔞ppp",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2411,7 +2411,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "recordable": 0,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "ext": {
         "直接播放": "1",
         "嗅探词": ".m3u8#.mp4",
@@ -2427,7 +2427,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/porn87.json",
+      "ext": "./porn87.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2441,7 +2441,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/pornhub.json",
+      "ext": "./pornhub.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2455,7 +2455,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/pornlulu.json",
+      "ext": "./pornlulu.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2469,7 +2469,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/qinav.json",
+      "ext": "./qinav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2495,7 +2495,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xHamster.json",
+      "ext": "./xHamster.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2509,7 +2509,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/xvideos.json",
+      "ext": "./xvideos.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2523,7 +2523,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/18jav.json",
+      "ext": "./18jav.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2537,7 +2537,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/hohoj.json",
+      "ext": "./hohoj.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2548,7 +2548,7 @@
       "name": "🔞伊人",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "filterable": 1,
       "ext": {
         "分类url": "https://yiren96.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
@@ -2562,7 +2562,7 @@
       "name": "🔞癢癢",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "filterable": 1,
       "ext": {
         "分类url": "https://guochan.yangyangtv13.top/index.php/vod/show/id/{cateId}/page/{catePg}.html",
@@ -2589,7 +2589,7 @@
       "type": 3,
       "api": "csp_HiPianZhiBo",
       "filterable": 1,
-      "jar": "./lib/1827140.jar"
+      "jar": "./1827140.jar"
     },
     {
       "key": "kanav",
@@ -2597,7 +2597,7 @@
       "type": 3,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
       "ext": {
         "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}.html",
         "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#动漫番剧$20"
@@ -2609,19 +2609,19 @@
       "type": 3,
       "api": "csp_XMVideo",
       "filterable": 1,
-      "jar": "./lib/1827140.jar"
+      "jar": "./1827140.jar"
     },
     {
       "key": "女优色库",
       "name": "🔞女优色库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "spider": "./lib/XBPQ.jar",
+      "jar": "./XBPQ.jar",
+      "spider": "./XBPQ.jar",
       "style": {
         "ratio": 1.7
       },
-      "ext": "./lib/女优7220.json"
+      "ext": "./女优7220.json"
     },
     {
       "key": "csp_XYQHiker_日日撸",
@@ -2631,7 +2631,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/日日撸.json",
+      "ext": "./日日撸.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2645,7 +2645,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/台湾kiss.json",
+      "ext": "./台湾kiss.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2659,7 +2659,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/正妹av.json",
+      "ext": "./正妹av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2673,7 +2673,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/亚色影库.json",
+      "ext": "./亚色影库.json",
       "style": {
         "type": "rect",
         "ratio": 1.8
@@ -2687,7 +2687,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/朱古力.json",
+      "ext": "./朱古力.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2701,7 +2701,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/杏吧视频.json",
+      "ext": "./杏吧视频.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2715,7 +2715,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/丽丽av.json",
+      "ext": "./丽丽av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2729,7 +2729,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/黄色仓库123.json",
+      "ext": "./黄色仓库123.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2743,7 +2743,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/黄色仓库啦.json",
+      "ext": "./黄色仓库啦.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2757,7 +2757,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/紫色成人.json",
+      "ext": "./紫色成人.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2771,7 +2771,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/酷爱成人网.json",
+      "ext": "./酷爱成人网.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -2785,7 +2785,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/鲨鱼av.json",
+      "ext": "./鲨鱼av.json",
       "style": {
         "type": "rect",
         "ratio": 1.6
