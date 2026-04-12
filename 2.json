@@ -355,41 +355,27 @@
 	"static-mozai.4gtv.tv"
   ],
   "lives": [
- {
-      "name": "543",
-      "url": "http://66.103.204.107/list.php",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
- 
-    {
-      "name": "備用線路",
-      "url": "https://live.catvod.com/?tk=8793a03f4c97c40b720dee7f99843ff1",
+{
+      "name": "四季影視",
+      "url": "https://bt.iptv543.com/list.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "臨時1線",
-      "url": "https://live.catvod.com/?tk=8793a03f4c97c40b720dee7f99843ff1",
+      "name": "司馬特",
+      "url": "http://66.103.204.107:19890/trams.m3u?token=abc123",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "臨時2線",
-      "url": "http://tv543.cc/8.txt",
-      "User-Agent": "PharosTVPlayer",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "臨時3線",
+      "name": "推薦july",
       "url": "https://gptapi.passwdword.xyz/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
       "User-Agent": "PharosTVPlayer",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "4GTV",
+      "name": "四季影視網頁版",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -398,6 +384,7 @@
       "name": "日本頻道",
       "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
     }
+
 
   ],
   "headers": [
