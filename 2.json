@@ -933,19 +933,36 @@
     "static-mozai.4gtv.tv"
   ],
   "lives": [
-    {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
+     {
+      "name": "四季影視",
+      "url": "https://bt.iptv543.com/list.php",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "综合直播",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://ds65.tv1288.xyz",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
+      "name": "司馬特",
+      "url": "http://66.103.204.107:19890/trams.m3u?token=abc123",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "推薦july",
+      "url": "https://gptapi.passwdword.xyz/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
+      "User-Agent": "PharosTVPlayer",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "四季影視網頁版",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "日本頻道",
+      "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
     }
+
   ],
   "headers": [
     {
