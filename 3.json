@@ -3,15 +3,9 @@
   "logo": "https://789.st/GlhcG1r",
   "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "lives": [
-    {
+     {
       "name": "四季影視",
-      "url": "https://bt.iptv543.com/list.php",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "司馬特",
-      "url": "http://66.103.204.107:19890/trams.m3u?token=abc123",
+      "url": "https://iptv543.com/list.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
