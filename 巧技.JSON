@@ -2,15 +2,9 @@
   "spider": "http://cdn.qiaoji8.com/fix260410.jar;md5;1069df603996411da45b18bc718959ca",
   "wallpaper": "https://bing.img.run/uhd.php",
   "lives": [
-    {
+     {
       "name": "四季影視",
-      "url": "https://bt.iptv543.com/list.php",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "司馬特",
-      "url": "http://66.103.204.107:19890/trams.m3u?token=abc123",
+      "url": "https://iptv543.com/list.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -31,6 +25,7 @@
       "name": "日本頻道",
       "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
     }
+
 
   ],
   "sites": [
