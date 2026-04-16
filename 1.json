@@ -273,15 +273,15 @@
   ],
   "lives": [
     {
-      "name": "四季影視",
-      "url": "https://iptv543.com/list.php",
+      "name": "推薦july",
+      "url": "https://gptapi.passwdword.xyz/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
+      "User-Agent": "PharosTVPlayer",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "推薦july",
-      "url": "https://gptapi.passwdword.xyz/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
-      "User-Agent": "PharosTVPlayer",
+      "name": "四季影視",
+      "url": "https://iptv543.com/list.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -297,7 +297,6 @@
     }
   ]
 }
-
 
 
 
