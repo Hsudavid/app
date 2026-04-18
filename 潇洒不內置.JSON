@@ -1534,15 +1534,9 @@
     }
   ],
   "lives": [
-     {
-      "name": "四季影視",
-      "url": "https://bt.iptv543.com/list.php",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
-      "name": "司馬特",
-      "url": "http://66.103.204.107:19890/trams.m3u?token=abc123",
+      "name": "四季影視",
+      "url": "https://iptv543.com/aaa.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1550,6 +1544,18 @@
       "name": "推薦july",
       "url": "https://gptapi.passwdword.xyz/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
       "User-Agent": "PharosTVPlayer",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "備用",
+      "url": "http://66.103.204.107:19890/trams.m3u?token=abc123",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "CATVOD",
+      "url": "https://live.catvod.com/?tk=ac68ec5b7bdeefdee0f91e18876938a6",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1563,6 +1569,7 @@
       "name": "日本頻道",
       "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
     }
+
 
   ],
   "parses": [
