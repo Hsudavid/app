@@ -1,45 +1,48 @@
 {
     "urls": [
 
-    {
-      "url": "http://tv543.cc/99.json", "name": "盒子之家"
-    },   
+    { "url": "http://tv543.cc/99.json", "name": "盒子之家" },   
       
-    {
-      "url": "http://hello.肥猫.net", "name": "肥猫"
+    { "url": "http://hello.肥猫.net", "name": "肥猫"}, 
    
-    },    
-    { 
-      "url": "http://fty.xxooo.cf/tv", "name": "饭太硬" 
-    },
+    { "url": "http://fty.xxooo.cf/tv", "name": "饭太硬" },
 
-    { 
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json", "name": "OS" 
-    },
+    { "url": "http://www.饭太硬.net/tv", "name": "饭太硬备" },
 
-    { 
-      "url": "https://www.cttv.vip/ys/json/ctys.json", "name": "刺桐" 
-    },
+    { "url": "http://www.饭太硬.cc/tv", "name": "饭太硬备1" },
 
-    { 
-      "url": "https://6800.kstore.vip/fish.json", "name": "凯速" 
-    },
+    { "url": "http://fmys.top/fmys.json", "name": "驸马" },
 
-    { 
-      "url": "https://700sjro44343.vicp.fun/eggp/0415/tv.php", "name": "数码" 
-    },
-    { 
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂的" 
-    },
+    { "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟" },
 
-    { 
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json", "name": "星辰" 
-    },
+    { "url": "https://proxy.v2gh.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟备" },
+    
+    { "url": "https://proxy.api.030101.xyz/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/api.json", "name": "小伟2" },
+    
+    { "url": "https://9877.kstore.space/ONE/one.json", "name": "潇洒" },
 
-    { 
-      "url": "https://9280.kstore.vip/newwex.json", "name": "王二小" 
-      
-    }   
+    { "url": "https://ghfast.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
+
+    { "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米备" },
+
+    { "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json", "name": "OS" },
+
+    { "url": "https://www.cttv.vip/ys/json/ctys.json", "name": "刺桐" },
+
+    { "url": "https://6800.kstore.vip/fish.json", "name": "凯速" },
+
+    { "url": "https://700sjro44343.vicp.fun/eggp/0415/tv.php", "name": "数码" },
+
+    { "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/20260103.json", "name": "你懂的" },
+
+    { "url": "https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json", "name": "星辰" },
+
+    { "url": "https://9280.kstore.vip/newwex.json", "name": "王二小" },
+
+    { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top", "name": "王二小备" },
+   
+    { "url": "http://tv543.cc/sex.json", "name": "18++" }  
+
    ]
 
  }
