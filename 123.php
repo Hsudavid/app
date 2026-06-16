@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="stream-14760d6c-b244-42de-8ae4-88233185ada2" tvg-name="愛爾達體育1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001744" group-title="體育 (export)",愛爾達體育1台
+#EXTINF:-1 tvg-id="stream-14760d6c-b244-42de-8ae4-88233185ada2" tvg-name="愛爾達體育1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001744" group-title="愛爾達體育",愛爾達體育1台
 http://106.107.177.247:5678/live/stream-14760d6c-b244-42de-8ae4-88233185ada2/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 
-#EXTINF:-1 tvg-id="stream-14760d6c-b244-42de-8ae4-88233185ada2" tvg-name="愛爾達體育1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001744" group-title="體育 (export)",愛爾達體育1台
+#EXTINF:-1 tvg-id="stream-14760d6c-b244-42de-8ae4-88233185ada2" tvg-name="愛爾達體育1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001744" group-title="愛爾達體育",愛爾達體育1台
 http://61.61.67.208:19890/trams/2871/playlist.m3u8?token=885252
 
-#EXTINF:-1 tvg-id="stream-14760d6c-b244-42de-8ae4-88233185ada2" tvg-name="愛爾達體育1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001744" group-title="體育 (export)",愛爾達體育1台
+#EXTINF:-1 tvg-id="stream-14760d6c-b244-42de-8ae4-88233185ada2" tvg-name="愛爾達體育1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001744" group-title="愛爾達體育",愛爾達體育1台
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 
 
-#EXTINF:-1 tvg-id="stream-75ae3a1c-49a7-4972-932b-73ae6b796569" tvg-name="愛爾達體育2台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001743" group-title="體育 (export)",愛爾達體育2台
+#EXTINF:-1 tvg-id="stream-75ae3a1c-49a7-4972-932b-73ae6b796569" tvg-name="愛爾達體育2台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001743" group-title="愛爾達體育",愛爾達體育2台
 http://106.107.177.247:5678/live/stream-75ae3a1c-49a7-4972-932b-73ae6b796569/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 
-#EXTINF:-1 tvg-id="stream-75ae3a1c-49a7-4972-932b-73ae6b796569" tvg-name="愛爾達體育2台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001743" group-title="體育 (export)",愛爾達體育2台
+#EXTINF:-1 tvg-id="stream-75ae3a1c-49a7-4972-932b-73ae6b796569" tvg-name="愛爾達體育2台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001743" group-title="愛爾達體育",愛爾達體育2台
 http://61.61.67.208:19890/trams/1541/playlist.m3u8?token=885252
 
-#EXTINF:-1 tvg-id="stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff" tvg-name="愛爾達體育3台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001745" group-title="體育 (export)",愛爾達體育3台
+#EXTINF:-1 tvg-id="stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff" tvg-name="愛爾達體育3台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001745" group-title="愛爾達體育",愛爾達體育3台
 http://106.107.177.247:5678/live/stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 
-#EXTINF:-1 tvg-id="stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff" tvg-name="愛爾達體育3台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001745" group-title="體育 (export)",愛爾達體育3台
+#EXTINF:-1 tvg-id="stream-0ec229ac-84d8-4ce8-a04b-d12c0c5343ff" tvg-name="愛爾達體育3台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001745" group-title="愛爾達體育",愛爾達體育3台
 http://61.61.67.208:19890/trams/2578/playlist.m3u8?token=885252
 
-#EXTINF:-1 tvg-id="stream-c30ec14d-a518-413e-98bc-0bd1ee5f419b" tvg-name="愛爾達體育4台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000002055" group-title="體育 (export)",愛爾達體育4台
+#EXTINF:-1 tvg-id="stream-c30ec14d-a518-413e-98bc-0bd1ee5f419b" tvg-name="愛爾達體育4台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000002055" group-title="愛爾達體育",愛爾達體育4台
 http://106.107.177.247:5678/live/stream-c30ec14d-a518-413e-98bc-0bd1ee5f419b/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 
-#EXTINF:-1 tvg-id="stream-c30ec14d-a518-413e-98bc-0bd1ee5f419b" tvg-name="愛爾達體育4台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000002055" group-title="體育 (export)",愛爾達體育4台
+#EXTINF:-1 tvg-id="stream-c30ec14d-a518-413e-98bc-0bd1ee5f419b" tvg-name="愛爾達體育4台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000002055" group-title="愛爾達體育",愛爾達體育4台
 http://61.61.67.208:19890/trams/2922/playlist.m3u8?token=885252
 
-#EXTINF:-1 tvg-id="stream-fcaec691-9888-45ec-b7d8-024be3dfcff7" tvg-name="愛爾達體育MAX1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001853" group-title="體育 (export)",愛爾達體育MAX1台
+#EXTINF:-1 tvg-id="stream-fcaec691-9888-45ec-b7d8-024be3dfcff7" tvg-name="愛爾達體育MAX1台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001853" group-title="愛爾達體育",愛爾達體育MAX1台
 http://106.107.177.247:5678/live/stream-fcaec691-9888-45ec-b7d8-024be3dfcff7/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
-#EXTINF:-1 tvg-id="stream-2dc8ac37-fcf1-4ba5-9056-5c4c7c785191" tvg-name="愛爾達體育MAX2台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001854" group-title="體育 (export)",愛爾達體育MAX2台
+#EXTINF:-1 tvg-id="stream-2dc8ac37-fcf1-4ba5-9056-5c4c7c785191" tvg-name="愛爾達體育MAX2台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001854" group-title="愛爾達體育",愛爾達體育MAX2台
 http://106.107.177.247:5678/live/stream-2dc8ac37-fcf1-4ba5-9056-5c4c7c785191/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
-#EXTINF:-1 tvg-id="stream-2ffac696-50eb-4702-99a2-58b4987b0516" tvg-name="愛爾達體育MAX3台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001855" group-title="體育 (export)",愛爾達體育MAX3台
+#EXTINF:-1 tvg-id="stream-2ffac696-50eb-4702-99a2-58b4987b0516" tvg-name="愛爾達體育MAX3台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001855" group-title="愛爾達體育",愛爾達體育MAX3台
 http://106.107.177.247:5678/live/stream-2ffac696-50eb-4702-99a2-58b4987b0516/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
-#EXTINF:-1 tvg-id="stream-bddd5f15-c4d3-4f7d-9277-42461df738c1" tvg-name="愛爾達體育MAX4台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001856" group-title="體育 (export)",愛爾達體育MAX4台
+#EXTINF:-1 tvg-id="stream-bddd5f15-c4d3-4f7d-9277-42461df738c1" tvg-name="愛爾達體育MAX4台" tvg-logo="http://106.107.177.247:8006/hami/logo/OTT_LIVE_0000001856" group-title="愛爾達體育",愛爾達體育MAX4台
 http://106.107.177.247:5678/live/stream-bddd5f15-c4d3-4f7d-9277-42461df738c1/index.m3u8?u=admin&p=d9a1eafbc7b8ea9b863320e4416d79b2a038db0b0c580a8d093a3c4d565ddec5
 
 
