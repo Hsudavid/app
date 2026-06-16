@@ -1,0 +1,54 @@
+{ 
+ "lives": [
+    {
+      "name": "四季影視",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "url": "https://iptv543.com/bbb.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+     {
+      "name": "台灣影視",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/123.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+
+    {
+      "name": "推薦july",
+      "url": "https://iptv.8plus.eu.org/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
+      "User-Agent": "PharosTVPlayer",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "cloudtv盒子版",
+      "url": "http://tv543.cc/cloudtv.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "綜合",
+      "url": "https://tv123.cc.cd/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "4gtv",
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/4gtv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "日本頻道",
+      "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
+    },
+    {
+      "name": "18++",
+      "url": "http://tv543.cc/18+.m3u"
+    }
+
+ ]
+
+}
