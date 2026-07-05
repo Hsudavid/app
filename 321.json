@@ -1,0 +1,541 @@
+{
+  "sites": [
+    
+        {
+            "key": "Nostr",
+            "name": "Nostr推荐",
+            "type": 3,
+            "api": "csp_Nostr",
+            "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/test.min.html"
+        },
+
+    {
+      "key": "drpyS_55影视",
+      "name": "55影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "55影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+     {
+      "key": "drpyS_永乐视频[优]",
+      "name": "永乐视频[优](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/永乐视频[优]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "永乐视频[优]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_荐片[优]",
+      "name": "荐片[优](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "荐片[优]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_可视影院",
+      "name": "可视影院(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/可视影院?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "可视影院",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_枫林影视",
+      "name": "枫林影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "枫林影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_泥视频",
+      "name": "泥视频(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "泥视频",
+      "author": "eylinsir",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_非凡采集[采]",
+      "name": "非凡采集[采](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/非凡采集[采]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "非凡采集[采]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "catvod_月光影视",
+      "name": "月光影视(cat)",
+      "type": 3,
+      "api": "http://192.129.140.23:5757/cat/月光影视.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "月光影视",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "catvod_荐片",
+      "name": "荐片(cat)",
+      "type": 3,
+      "api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "荐片",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_一起看[Ayq]",
+      "name": "一起看[Ayq](hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
+        "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
+        "appkey": "70af67d2b6cf47679b397ea4c1886877",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.flotimingo.ts",
+        "source": "1001_default",
+        "version": "1.3.10",
+        "versionCode": 1104
+      }
+    },
+    {
+      "key": "hipy_py_橘子TV[Ayq]",
+      "name": "橘子TV[Ayq](hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0725.5p8jcjc.com/config.json,https://gapi0725.olrv5gz.com/config.json,https://gapi0725.mvljeat.com/config.json,https://jzapp-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://juzi-config-1360051343.cos.ap-shanghai.myqcloud.com/config.json",
+        "appId": "fea23e11fc1241409682880e15fb2851",
+        "appkey": "f384b87cc9ef41e4842dda977bae2c7f",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.voraguzzee.ts",
+        "source": "1003_default",
+        "version": "1.0.1",
+        "versionCode": 1000
+      }
+    },
+    {
+      "key": "hipy_py_新浪资源",
+      "name": "新浪资源(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "新浪资源",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_新韩剧网",
+      "name": "新韩剧网(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "新韩剧网",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_爱瓜APP",
+      "name": "爱瓜APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "爱瓜APP",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_独播库",
+      "name": "独播库(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "独播库",
+      "lang": "hipy",
+      "ext": ""
+    },
+        {
+      "key": "hipy_py_瓜子",
+      "name": "瓜子(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "瓜子",
+      "lang": "hipy",
+      "ext": ""
+    },
+{
+      "key": "厂长弹幕",
+      "name": "厂长影视┃刺桐",
+      "type": 3,
+      "api": "csp_Czzy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://d.kstore.dev/download/4071/api/spider.zip;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "ext": {
+        "danmu": true
+      }
+    },
+
+
+
+    {
+      "key" : "文采",
+      "name" : "文采影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_JpysGuard",
+      "timeout" : 10,
+      "searchable" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "changeable" : 1,
+      "quickSearch" : 1
+    },
+
+      {
+      "key" : "热播",
+      "name" : "热播影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_AppTTGuard",
+      "timeout" : 10,
+      "searchable" : 1,
+      "changeable" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "quickSearch" : 1,
+      "ext" : "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key" : "剧圈",
+      "name" : "剧圈影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_AppSxGuard",
+      "timeout" : 10,
+      "searchable" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "changeable" : 1,
+      "quickSearch" : 1,
+      "ext" : "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+    },
+
+    {
+      "key" : "播客",
+      "name" : "播客影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_AppSxGuard",
+      "timeout" : 10,
+      "searchable" : 1,
+      "changeable" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "quickSearch" : 1,
+      "ext" : "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
+    },
+ {
+       "key": "csp_XYQHiker_看影网",
+       "name":"看影影视┃刺桐",
+       "type":3,
+       "api":"csp_XYQHiker",
+       "searchable":1,
+       "quickSearch":1,
+        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main//custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+       "filterable":1,
+       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/看影网.json"
+   },
+
+    {
+        "key": "csp_XYQHiker_好影快看",
+        "name":"好影快看┃刺桐",
+        "type":3,
+        "api":"csp_XYQHiker",
+        "searchable":1,
+        "quickSearch":1,
+        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main//custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+        "filterable":1,
+        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/好影快看.json"
+        
+    },
+
+    {
+      "key" : "糯米",
+      "name" : "糯米影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_NmyswvGuard",
+      "timeout" : 15,
+      "searchable" : 1,
+      "changeable" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "quickSearch" : 1
+    },
+ {
+      "key" : "猫猫",
+      "name" : "猫猫影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_AppSxGuard",
+      "timeout" : 10,
+      "searchable" : 1,
+      "changeable" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "quickSearch" : 1,
+      "ext" : "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+    },
+    {
+      "key" : "奥特",
+      "name" : "奥特影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_AueteGuard",
+      "timeout" : 10,
+      "searchable" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "changeable" : 1,
+      "quickSearch" : 1
+    },
+        {
+      "key" : "奶酪",
+      "name" : "奶酪影视┃刺桐",
+      "type" : 3,
+      "api" : "csp_T4Guard",
+      "searchable" : 1,
+      "changeable" : 1,
+      "quickSearch" : 1,
+      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
+      "ext" : "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+    },
+{
+    "key": "优质资源",
+    "name": "优质资源┃刺桐",
+    "type": 1, 
+    "api": "https://api.yyzy-tv.vip/inc/api_mac10_all.php",
+    "searchable": 1,
+    "quickSearch": 1,
+    "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
+},
+{
+    "key":"360资源",
+    "name":"360资源┃刺桐",
+    "type":1,
+    "api":"https://360zy.com/api.php/provide/vod/",
+    "url":"https://jkk.zyzqcb.cc/jkk.php?url=",
+    "searchable":1,
+    "quickSearch":1,
+"categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
+},
+
+{
+    "key":"天涯资源",
+    "name":"天涯资源┃刺桐",
+    "type":1,
+    "api":"https://tyyszyapi.com/api.php/provide/vod/",
+    "url":"https://jkk.zyzqcb.cc/jkk.php?url=",
+    "searchable":1,
+    "quickSearch":1
+},
+
+
+    {
+      "key": "hipy_py_爱瓜APP",
+      "name": "爱瓜APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "爱瓜APP",
+      "lang": "hipy",
+      "ext": ""
+    },
+
+    {
+      "key": "drpyS_星芽短剧",
+      "name": "星芽短剧(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/星芽短剧?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "星芽短剧",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_七猫短剧",
+      "name": "七猫短剧(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "七猫短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    }
+  ],
+   "ads": [
+        "static-mozai.4gtv.tv"
+    ],
+  "lives": [
+     {
+      "name": "四季影視",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "url": "https://iptv543.com/bbb.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+     },
+     
+     {
+      "name": "推薦july",
+      "url": "https://iptv.8plus.eu.org/get.php?username=tg_0ypy6s61&password=trwm33jyjsnc&type=m3u_plus",
+      "User-Agent": "PharosTVPlayer",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "cloudtv盒子版",
+      "url": "http://tv543.cc/cloudtv.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+
+    },
+       
+    {
+      "name": "綜合",
+      "url": "https://tv123.cc.cd/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "日本頻道",
+      "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
+    }
+  ]
+}
