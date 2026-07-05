@@ -464,46 +464,7 @@
         "海外动漫"
       ]
     },
-{
-      "key": "爱奇艺",
-      "name": "爱奇艺",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/aqy.js"
-    },
-    {
-      "key": "优酷",
-      "name": "优酷",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/yk.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/tx.js"
-    },
-    {
-      "key": "搜狗",
-      "name": "搜狗",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/sg.js"
-    },
-    {
-      "key": "MGTV",
-      "name": "芒果",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/mgtv.js"
-    },
+
 
 
     
