@@ -1,14 +1,7 @@
 {
   "sites": [
     
-        {
-            "key": "Nostr",
-            "name": "Nostr推荐",
-            "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://cnb.cool/fish2018/lib/-/git/raw/main/test.min.html"
-        },
-
+       
     {
       "key": "drpyS_55影视",
       "name": "55影视(DS)",
@@ -227,141 +220,296 @@
       "lang": "hipy",
       "ext": ""
     },
-{
-      "key": "厂长弹幕",
-      "name": "厂长影视┃刺桐",
-      "type": 3,
-      "api": "csp_Czzy",
+
+
+
+            {
+      "key": "魔都资源",
+      "name": "魔都影院",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://d.kstore.dev/download/4071/api/spider.zip;md5;00ade2b74c302f33afbeb7f96f861be4",
-      "ext": {
-        "danmu": true
-      }
-    },
-
-
-
-    {
-      "key" : "文采",
-      "name" : "文采影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_JpysGuard",
-      "timeout" : 10,
-      "searchable" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "changeable" : 1,
-      "quickSearch" : 1
-    },
-
-      {
-      "key" : "热播",
-      "name" : "热播影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_AppTTGuard",
-      "timeout" : 10,
-      "searchable" : 1,
-      "changeable" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "quickSearch" : 1,
-      "ext" : "uqGL1bNENExT7/hGxpSE5qU="
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "动作",
+        "喜剧",
+        "网络电影",
+        "恐怖",
+        "惊悚",
+        "爱情",
+        "剧情",
+        "战争",
+        "冒险",
+        "韩国剧",
+        "台湾剧剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
     },
     {
-      "key" : "剧圈",
-      "name" : "剧圈影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_AppSxGuard",
-      "timeout" : 10,
-      "searchable" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "changeable" : 1,
-      "quickSearch" : 1,
-      "ext" : "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+      "key": "电影天堂",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "韩国剧",
+        "动作片",
+        "喜剧片",
+        "动画片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "天涯资源",
+      "name": "天涯影院",
+      "type": 1,
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "动作",
+        "喜剧",
+        "网络电影",
+        "恐怖",
+        "惊悚",
+        "爱情",
+        "剧情",
+        "战争",
+        "冒险",
+        "欧美剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "其他剧",
+        "日本动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "非凡资源",
+      "name": "非凡影院",
+      "type": 1,
+      "api": "http://ffzy.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "韩国剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "1080资源",
+      "name": "1080影院",
+      "type": 1,
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧大全",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "韩国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺"
+      ]
+    },
+    {
+      "key": "360资源",
+      "name": "360影院",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "爽文短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "韩国剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺"
+      ]
+    },
+    {
+      "key": "极速资源",
+      "name": "极速影院",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧",
+        "内地剧",
+        "大陆综艺",
+        "中国动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "动画片",
+        "记录片",
+        "台湾剧",
+        "日剧",
+        "韩剧",
+        "马泰剧",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+{
+      "key": "爱奇艺",
+      "name": "爱奇艺",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/aqy.js"
+    },
+    {
+      "key": "优酷",
+      "name": "优酷",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/yk.js"
+    },
+    {
+      "key": "腾讯",
+      "name": "腾讯",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/tx.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "搜狗",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/sg.js"
+    },
+    {
+      "key": "MGTV",
+      "name": "芒果",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/mgtv.js"
     },
 
-    {
-      "key" : "播客",
-      "name" : "播客影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_AppSxGuard",
-      "timeout" : 10,
-      "searchable" : 1,
-      "changeable" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "quickSearch" : 1,
-      "ext" : "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-    },
- {
-       "key": "csp_XYQHiker_看影网",
-       "name":"看影影视┃刺桐",
-       "type":3,
-       "api":"csp_XYQHiker",
-       "searchable":1,
-       "quickSearch":1,
-        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main//custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
-       "filterable":1,
-       "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/看影网.json"
-   },
 
-    {
-        "key": "csp_XYQHiker_好影快看",
-        "name":"好影快看┃刺桐",
-        "type":3,
-        "api":"csp_XYQHiker",
-        "searchable":1,
-        "quickSearch":1,
-        "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main//custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
-        "filterable":1,
-        "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQHiker/好影快看.json"
-        
-    },
+    
 
-    {
-      "key" : "糯米",
-      "name" : "糯米影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_NmyswvGuard",
-      "timeout" : 15,
-      "searchable" : 1,
-      "changeable" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "quickSearch" : 1
-    },
- {
-      "key" : "猫猫",
-      "name" : "猫猫影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_AppSxGuard",
-      "timeout" : 10,
-      "searchable" : 1,
-      "changeable" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "quickSearch" : 1,
-      "ext" : "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
-    },
-    {
-      "key" : "奥特",
-      "name" : "奥特影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_AueteGuard",
-      "timeout" : 10,
-      "searchable" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "changeable" : 1,
-      "quickSearch" : 1
-    },
-        {
-      "key" : "奶酪",
-      "name" : "奶酪影视┃刺桐",
-      "type" : 3,
-      "api" : "csp_T4Guard",
-      "searchable" : 1,
-      "changeable" : 1,
-      "quickSearch" : 1,
-      "jar": "https://tv.菜妮丝.top/jar/fty0528.jar;md5;4905535609a9c0ce9cc2f652d6d90bda",
-      "ext" : "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
-    },
+     
+   
 {
     "key": "优质资源",
     "name": "优质资源┃刺桐",
