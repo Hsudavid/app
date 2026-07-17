@@ -1,7 +1,7 @@
 {
     "urls": [
  { 
-      "url": "file://WebHome/333.json", "name": "影视" },
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/333.json", "name": "影视" },
 
 
     { "url": "http://tv543.cc/99.json", "name": "盒子之家" },   
