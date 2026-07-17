@@ -1,0 +1,783 @@
+{
+  "sites": [
+ 
+   
+     {
+      "key": "drpyS_永乐视频[优]",
+      "name": "🍎永乐视频[优](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/永乐视频[优]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "永乐视频[优]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "py_文才",
+      "name": "🥇文才｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+    {
+      "key": "drpyS_55影视",
+      "name": "55影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "55影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_荐片[优]",
+      "name": "荐片[优](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/荐片[优]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "荐片[优]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_可视影院",
+      "name": "可视影院(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/可视影院?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "可视影院",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_枫林影视",
+      "name": "枫林影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "title": "枫林影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_泥视频",
+      "name": "泥视频(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "泥视频",
+      "author": "eylinsir",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_非凡采集[采]",
+      "name": "非凡采集[采](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/非凡采集[采]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "非凡采集[采]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+        {
+      "key": "catvod_荐片",
+      "name": "荐片(cat)",
+      "type": 3,
+      "api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "荐片",
+      "lang": "cat",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_一起看[Ayq]",
+      "name": "一起看[Ayq](hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
+        "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
+        "appkey": "70af67d2b6cf47679b397ea4c1886877",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.flotimingo.ts",
+        "source": "1001_default",
+        "version": "1.3.10",
+        "versionCode": 1104
+      }
+    },
+    {
+      "key": "hipy_py_橘子TV[Ayq]",
+      "name": "橘子TV[Ayq](hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0725.5p8jcjc.com/config.json,https://gapi0725.olrv5gz.com/config.json,https://gapi0725.mvljeat.com/config.json,https://jzapp-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://juzi-config-1360051343.cos.ap-shanghai.myqcloud.com/config.json",
+        "appId": "fea23e11fc1241409682880e15fb2851",
+        "appkey": "f384b87cc9ef41e4842dda977bae2c7f",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.voraguzzee.ts",
+        "source": "1003_default",
+        "version": "1.0.1",
+        "versionCode": 1000
+      }
+    },
+    {
+      "key": "hipy_py_新浪资源",
+      "name": "新浪资源(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "新浪资源",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_新韩剧网",
+      "name": "新韩剧网(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "新韩剧网",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_爱瓜APP",
+      "name": "爱瓜APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "爱瓜APP",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_独播库",
+      "name": "独播库(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/独播库?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "独播库",
+      "lang": "hipy",
+      "ext": ""
+    },
+        
+
+
+    {
+      "key": "hipy_py_爱瓜APP",
+      "name": "爱瓜APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "爱瓜APP",
+      "lang": "hipy",
+      "ext": ""
+    },
+
+     {
+      "key": "毒舌影视",
+      "name": "🥇毒舌｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"
+    },
+    {
+      "key": "荐片123",
+      "name": "🥇荐片｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片.js"
+    },
+        {
+      "key": "永1乐",
+      "name": "🥇永乐｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"
+    },
+    {
+      "key": "金牌123",
+      "name": "🥇金牌｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"
+    },
+    {
+      "key": "鬼片",
+      "name": "🥇鬼片｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/鬼片之家.js"
+    },
+    {
+      "key": "星辰影院",
+      "name": "🥇星辰┃影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/星辰影院.js"
+    },
+    {
+      "key": "独播库",
+      "name": "🥇播库┃影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
+    },
+     {
+      "key": "猎手",
+      "name": "🥇猎手丨影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py"
+    },
+     {
+      "key": "哔哩直播",
+      "name": "🥇哔哩丨直播",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/哔哩直播.py"
+    },
+   
+    {
+      "key": "py_6v",
+      "name": "🥇六微｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/6v.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+     {
+      "key": "cat_123TV",
+      "name": "🥇壹影｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/cat_123TV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "changeable": 1
+    },
+   
+    {
+      "key": "drpyS_七猫短剧",
+      "name": "七猫短剧(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "七猫短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+{
+      "key": "裤佬葫芦影视",
+      "name": "👖裤佬丨葫芦丨影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "裤佬雄鹰影视",
+      "name": "👖裤佬丨雄鹰丨影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+      "ext": {
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/xly.txt",
+        "key": "ca94b06ca359d80e",
+        "init": "V120",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "动漫",
+        "电视剧",
+        "电影",
+        "综艺",
+        "短剧",
+        "少儿",
+        "纪录片"
+      ]
+    },
+    
+    {
+      "key": "裤佬人人影视",
+      "name": "👖裤佬丨人人丨影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享双人.js"
+    },
+     {
+      "key": "裤佬泥巴影视",
+      "name": "👖裤佬丨泥巴丨影视",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/泥泥视频.js"
+    },
+    {
+      "key": "裤佬MG影视",
+      "name": "👖裤佬丨MG丨影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/mgtv.js"
+    },
+       {
+      "key": "裤佬爬虫影视",
+      "name": "👖裤佬丨爬虫丨影视",
+      "type": 1,
+      "api": "https://dy.7772888.xyz/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "裤佬独播JS",
+      "name": "👖裤佬丨独播丨JS",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/fbe5493683cbef26437721513d495d7d.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "裤佬酷六JS",
+      "name": "👖裤佬丨酷六丨JS",
+      "type": 3,
+      "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/酷6网.js"
+    },
+        {
+      "key": "裤佬荐片JS",
+      "name": "👖裤佬丨荐片丨JS",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/16ba56f7ddd38134bb0725ad63f1f72b.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+{
+      "key": "裤佬毒舌JS",
+      "name": "👖裤佬丨毒舌丨JS",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/毒舌影视.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+{
+      "key": "裤佬八戒PY",
+      "name": "👖裤佬丨八戒丨PY",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+         {
+      "key": "裤佬热播PY",
+      "name": "👖裤佬丨热播丨PY",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "裤佬哔哩PY",
+      "name": "👖裤佬丨哔哩丨PY",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/py/哔哩视频.py",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+ {
+      "key": "裤佬哇哇PY",
+      "name": "👖裤佬丨哇哇丨PY",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/wawa.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "裤佬MiFunPPY",
+      "name": "👖裤佬丨MiFunP丨PY",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/MiFunP动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+  {
+      "key": "裤佬猎手PY",
+      "name": "👖裤佬丨猎手丨PY",
+      "api": "https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "裤佬芒果PY",
+      "name": "👖裤佬丨芒果丨PY",
+      "api": "https://mpimg.cn/down.php/643d3f9a0b601f25d3e372eeb66e82a5.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "裤佬兄弟PY",
+      "name": "👖裤佬丨兄弟丨PY",
+      "api": "https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+       {
+      "key": "裤佬栏目PY",
+      "name": "👖裤佬丨栏目丨PY",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/83d7645e7fa012dba942c467774e7b2b.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+ {
+      "key": "裤佬聚合采集",
+      "name": "👖裤佬丨聚合丨采集",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
+      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
+    },
+    {
+      "key": "wsycj",
+      "name": "👖裤佬丨4K丨采集",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧",
+        "邵氏电影",
+        "演唱会",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "动画片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "有声动漫",
+        "女频恋爱",
+        "反转爽剧",
+        "古装仙侠",
+        "年代穿越",
+        "脑洞悬疑",
+        "现代都市",
+        "擦边短剧",
+        "漫剧"
+      ]
+    },
+    {
+      "key": "ryzycj",
+      "name": "👖裤佬丨如意丨采集",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "恐怖片",
+        "预告片",
+        "剧情片",
+        "记录片",
+        "动画电影",
+        "电影解说",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "短剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    {
+      "key": "dyttcj",
+      "name": "👖裤佬丨天堂丨采集",
+      "type": 1,
+      "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "爱情片",
+        "战争片",
+        "动画片",
+        "喜剧片",
+        "恐怖片",
+        "剧情片",
+        "纪录片",
+        "伦理片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "海外剧",
+        "短剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "国产动漫",
+        "欧美动漫",
+        "海外动漫",
+        "日韩动漫",
+        "港台动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "bfzycj",
+      "name": "👖裤佬丨暴风丨采集",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "理论片",
+        "纪录片",
+        "战争片",
+        "剧情片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "喜剧片",
+        "动作片",
+        "动画片",
+        "预告片",
+        "重生民国",
+        "穿越年代",
+        "现代言情",
+        "反转爽文",
+        "女恋总裁",
+        "闪婚离婚",
+        "都市脑洞",
+        "古装仙侠",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "电影解说",
+        "欧美综艺",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "国产动漫",
+        "海外剧",
+        "泰国剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "国产剧"
+      ]
+    },
+    {
+      "key": "jszycj",
+      "name": "👖裤佬丨极速丨采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "日剧",
+        "马泰剧",
+        "内地剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "恐怖片",
+        "动画片",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "纪录片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "短剧",
+        "伦理片",
+        "体育赛事",
+        "预告片"
+      ]
+    }
+
+  ],
+   "ads": [
+        "static-mozai.4gtv.tv"
+    ],
+  "lives": [
+     {
+      "name": "四季影視",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "url": "https://iptv543.com/bbb.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+     },
+     
+      {
+      "name": "綜合",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+     },
+
+       {
+      "name": "綜合1",
+      "url": "https://tv123.cc.cd/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "日本頻道",
+      "url": "https://gitflic.ru/project/utako/utako/blob/raw?file=jp.m3u"
+    }
+  ]
+}
