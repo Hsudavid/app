@@ -2,7 +2,7 @@
     "urls": [
 
     { 
-      "url": "file://WebHome/321.json", "name": "影视" },
+      "url": "https://raw.githubusercontent.com/Hsudavid/app/main/321.json", "name": "影视" },
     {
       "url": "https://www.252035.xyz/xs/tvbox/api.json", "name": "api"
     },   
