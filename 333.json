@@ -675,9 +675,10 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "smt",
-      "url": "http://192.129.226.68:19890/trams.m3u?token=885252"
+      "name": "新線路",
+      "url": "https://iptv.852851.xyz/sub/1ZHX2oLQXJSw/playlist.m3u"
     }
+
 
   ]
 }
