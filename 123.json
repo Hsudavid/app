@@ -9,7 +9,7 @@
 
 
 
-    { "url": "http://hello.肥猫.net", "name": "肥猫"}, 
+    { "url": "http://肥猫.net/tv", "name": "肥猫"}, 
    
     
 
@@ -21,8 +21,7 @@
     { "url": "https://ghfast.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
 
 
-    { "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json", "name": "OS" },
-
+    
     { "url": "https://www.cttv.vip/ys/json/ctys.json", "name": "刺桐" },
 
     { "url": "https://6800.kstore.vip/fish.json", "name": "凯速" },
