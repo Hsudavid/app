@@ -47,6 +47,556 @@
       "lang": "ds",
       "ext": ""
     },
+    {
+      "key": "drpyS_泥视频",
+      "name": "泥视频(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "泥视频",
+      "author": "eylinsir",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "drpyS_非凡采集[采]",
+      "name": "非凡采集[采](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/非凡采集[采]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "非凡采集[采]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+        {
+      "key": "catvod_荐片",
+      "name": "荐片(cat)",
+      "type": 3,
+      "api": "http://192.129.140.23:5757/cat/荐片.js?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "荐片",
+      "lang": "cat",
+      "ext": ""
+    },
+   
+       {
+      "key": "荐片123",
+      "name": "🥇荐片｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片.js"
+    },
+        {
+      "key": "永1乐",
+      "name": "🥇永乐｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/永乐视频.js"
+    },
+       {
+      "key": "鬼片",
+      "name": "🥇鬼片｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/鬼片之家.js"
+    },
+        {
+      "key": "独播库",
+      "name": "🥇播库┃影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
+    },
+         {
+      "key": "哔哩直播",
+      "name": "🥇哔哩丨直播",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/哔哩直播.py"
+    },
+   
+    {
+      "key": "py_6v",
+      "name": "🥇六微｜影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/6v.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+        
+    {
+      "key": "drpyS_七猫短剧",
+      "name": "七猫短剧(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "七猫短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    {
+      "key": "裤佬酷六JS",
+      "name": "👖裤佬丨酷六丨JS",
+      "type": 3,
+      "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/酷6网.js"
+    },
+     {
+      "key": "裤佬聚合采集",
+      "name": "👖裤佬丨聚合丨采集",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
+      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
+    },
+    {
+      "key": "wsycj",
+      "name": "👖裤佬丨4K丨采集",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧",
+        "邵氏电影",
+        "演唱会",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "动画片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "有声动漫",
+        "女频恋爱",
+        "反转爽剧",
+        "古装仙侠",
+        "年代穿越",
+        "脑洞悬疑",
+        "现代都市",
+        "擦边短剧",
+        "漫剧"
+      ]
+    },
+       
+   {
+      "key": "裤佬葫芦影视",
+      "name": "👖丨葫芦丨影视",
+      "type": 3,
+      "api": "https://dogpan.com/f/8qY6fY/葫芦影视.js",
+      "ext": {
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "裤佬人人影视",
+      "name": "👖丨人人丨影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享双人.js"
+    },
+        {
+      "key": "裤佬文才影视",
+      "name": "👖丨文才丨影视",
+      "type": 3,
+      "api": "https://dogpan.com/f/0g38tm/文才影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
+    },
+    {
+      "key": "裤佬热播影视",
+      "name": "👖丨热播丨影视",
+      "type": 3,
+      "api": "https://dogpan.com/f/g5XntG/热播影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "裤佬哔哩影视",
+      "name": "👖丨哔哩丨影视",
+      "type": 3,
+      "api": "https://dogpan.com/f/j2J8SR/哔哩影视.py",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "裤佬太乙影视",
+      "name": "👖丨太乙丨影视",
+      "type": 3,
+      "api": "https://dogpan.com/f/MjmESz/太乙影视.py"
+    },
+    {
+      "key": "裤佬多瑙影视",
+      "name": "👖丨多瑙丨影视",
+      "type": 3,
+      "api": "https://dogpan.com/f/Nxn7Ij/多瑙影视.py"
+    },
+    {
+      "key": "裤佬泥巴影视",
+      "name": "👖丨泥巴丨影视",
+      "type": 3,
+      "api": "https://dogpan.com/f/P1prh3/泥巴影视.py"
+    },
+     {
+      "key": "裤佬网易影视",
+      "name": "👖丨网易丨影视",
+      "type": 3,
+      "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/网易公版影像.js"
+    },
+    {
+      "key": "裤佬独播JS",
+      "name": "👖丨独播丨JS",
+      "type": 3,
+      "api": "https://dogpan.com/f/mwX7uW/独播影视.js"
+    },
+    {
+      "key": "裤佬EmbyJS",
+      "name": "👖丨Emby丨JS",
+      "type": 3,
+      "api": "https://dogpan.com/f/nZJNfm/emby影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "裤佬荐片JS",
+      "name": "👖丨荐片丨JS",
+      "type": 3,
+      "api": "https://dogpan.com/f/oYJ7tv/荐片影视.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "裤佬永乐JS",
+      "name": "👖丨永乐丨JS",
+      "type": 3,
+      "api": "https://dogpan.com/f/qj8LIX/永乐影视.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "裤佬芒果PY",
+      "name": "👖丨芒果丨PY",
+      "api": "https://dogpan.com/f/BgEjF8/芒果影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+    {
+      "key": "裤佬兄弟PY",
+      "name": "👖丨兄弟丨PY",
+      "api": "https://dogpan.com/f/DREoi3/兄弟影视.py",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    },
+       {
+      "key": "裤佬七星短剧",
+      "name": "👖丨七星丨短剧",
+      "type": 3,
+      "api": "https://dogpan.com/f/JZXnhK/七星短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "裤佬百度短剧",
+      "name": "👖丨百度丨短剧",
+      "type": 3,
+      "api": "https://dogpan.com/f/2RJ6C8/百度短剧.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    
+    {
+      "key": "裤佬聚合采集",
+      "name": "👖丨聚合丨采集",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
+      "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
+    },
+    {
+      "key": "ryzycj",
+      "name": "👖丨如意丨采集",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "恐怖片",
+        "预告片",
+        "剧情片",
+        "记录片",
+        "动画电影",
+        "电影解说",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "短剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    {
+      "key": "bfzycj",
+      "name": "👖丨暴风丨采集",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "理论片",
+        "纪录片",
+        "战争片",
+        "剧情片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "喜剧片",
+        "动作片",
+        "动画片",
+        "预告片",
+        "重生民国",
+        "穿越年代",
+        "现代言情",
+        "反转爽文",
+        "女恋总裁",
+        "闪婚离婚",
+        "都市脑洞",
+        "古装仙侠",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "电影解说",
+        "欧美综艺",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "国产动漫",
+        "海外剧",
+        "泰国剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "国产剧"
+      ]
+    },
+ {
+      "key": "dyttcj",
+      "name": "👖裤佬丨天堂丨采集",
+      "type": 1,
+      "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "科幻片",
+        "爱情片",
+        "战争片",
+        "动画片",
+        "喜剧片",
+        "恐怖片",
+        "剧情片",
+        "纪录片",
+        "伦理片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "海外剧",
+        "短剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "国产动漫",
+        "欧美动漫",
+        "海外动漫",
+        "日韩动漫",
+        "港台动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "jszycj",
+      "name": "👖丨极速丨采集",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "日剧",
+        "马泰剧",
+        "内地剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "恐怖片",
+        "动画片",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "纪录片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "短剧",
+        "伦理片",
+        "体育赛事",
+        "预告片"
+      ]
+    },
+    
+    
+    
+           }
+
+  ],
+   "ads": [
+        "static-mozai.4gtv.tv"
+    ],
+  "lives": [
+   {
+      "name": "四季影視",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "url": "https://iptv543.com/bbb.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+     },
+     
+       
+    {
+      "name": "綜合",
+      "url": "https://tv123.cc.cd/tv.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "MOD",
+      "url": "https://drive.google.com/uc?export=download&id=150wA03HWAIvHsegJK8Mv_QMEWDD7nZJC",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}    {
+      "key": "drpyS_55影视",
+      "name": "55影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "55影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
         {
       "key": "drpyS_可视影院",
       "name": "可视影院(DS)",
