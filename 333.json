@@ -80,7 +80,48 @@
       "lang": "ds",
       "ext": ""
     },
-          
+
+      {
+      "key": "快龙影视",
+      "name": "快龙影视",
+      "type": 0,
+      "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "艾旦影视",
+      "name": "艾旦影视",
+      "type": 1,
+      "api": "https://www.lovedan.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+   {
+      "key": "豆瓣资源",
+      "name": "豆瓣资源",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+      "key": "暴风采集",
+      "name": "暴风采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+ {
+      "key": "茅台资源",
+      "name": "茅台资源",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
     {
       "key": "py_6v",
       "name": "🥇六微｜影视",
